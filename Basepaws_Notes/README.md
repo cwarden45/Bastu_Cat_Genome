@@ -21,9 +21,9 @@ You can see the trait difference between Bastu and Stormy (the other cat), since
 
 In other words, Bastu is **C/C** and Stormy is **cS/cS**.  As defined on that other UC-Davis page:
 
-"**C/C**: Full color, cat does not carry Burmese (sepia) or Siamese alleles" --> makes sense for Bastu, who is a Tortoiseshell
+"***C/C**: Full color, cat does not carry Burmese (sepia) or Siamese alleles*" --> makes sense for Bastu, who is a Tortoiseshell
 
-"**cS/cS**: Siamese" --> makes sense for Stormy, who is most obviously a Scottish Fold (but also has some Siamese mixed in there)
+"***cS/cS**: Siamese*" --> makes sense for Stormy, who is most obviously a Scottish Fold (but also has some Siamese mixed in there)
 
 I am bringing this up these UC-Davis VGL results on the Basepaws discussion group because there are multiple people who have cats with Siamese traits, but **there are no high ranking Siamese results in their basepaws report** (based upon *genome-wide* distance to some set of reference cats).  If certain features are affected by a limited number of genes, I think this is one explanation (in addition to not being able to identify both alleles for traits, with the low coverage ~0.5x sequencing that is being provided.)
 
