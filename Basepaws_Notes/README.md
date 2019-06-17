@@ -42,6 +42,10 @@ In other words, I am trying to bring this up for the "ancestry" versus "trait" p
 
 So, if you randomly select a bar from the Scottish Fold or British Shorthair sections, they look similar (even though the traits to define those breeds are quite different, and not even mutually exclusive: you can be both a British Shorthair and a Scottish Fold).  However, I would say that really means those cats have relatively similar ancestry.  I would be skeptical about some of the small percentages (there is almost always some amount of other color bars for each cat), the "Eastern" and "Western" assignments from the UC-Davis VGL report would come from running that program with **K=2**.
 
+Also, when I was trying to find a Figure that would successfully appear on GitHub, I noticed that there was also an earlier [Lipinski et al. 2008 paper](https://www.ncbi.nlm.nih.gov/pubmed/18060738) , with the following ADMIXTURE plot:
+
+![second cat ADMIXTURE plot](https://ars.els-cdn.com/content/image/1-s2.0-S0888754307002510-gr1.jpg)
+
 In terms of some general things that I think may cause confusion:
 
 **1)** I think this has been changed in some places (such as the Facebook discussion group), but I think the CatKit box still says "[The World's First At-Home Cat Genetics Test](https://twitter.com/basepaws?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)".  This is not true (and I have commented about that [here](https://twitter.com/cwarden45/status/1109316444305526784)).  Hopefully, that is just a matter of them needing to wait until they use up their current set of boxes.  As you can see above, Stormy clearly has a UC-Davis VGL result from 2013 (for example).
