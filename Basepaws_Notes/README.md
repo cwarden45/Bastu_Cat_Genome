@@ -81,7 +81,6 @@ and I extracted that sequence using [7zip](https://www.7-zip.org/)
 I wrote and ran the `reformat_UCSC_ref.pl` script to convert the chromosome names as follows:
 
 chrA1 --> 1
-
 chrA2 --> 2
 
 chrA3 --> 3
