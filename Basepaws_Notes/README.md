@@ -7,11 +7,9 @@ While I don't have a basepaws report for Bastu yet, you can see [this report](ht
 
 I have been commenting in a variety of mediums, so I thought I could collect those here (as well as add in some possibly relevant pictures from links).
 
-First, I should mention that basepaws customers are invited to a Facebook discussion group called "[Basepawssadors Cat DNA Club](https://www.facebook.com/groups/BasepawssadorsCatDNAClub/)"
+For example, I should mention that basepaws customers are invited to a Facebook discussion group called "[Basepawssadors Cat DNA Club](https://www.facebook.com/groups/BasepawssadorsCatDNAClub/)"  I like that this creates a community of cat lovers, which includes a variety of comments (which could be people posting their results, or just cute cat videos).
 
-I like that this creates a community of cat lovers, which includes a variety of comments (which could be people posting their results, or just cute cat videos).
-
-While I may eventually convert some of this content into a blog post (and I am defintely going to update these pages), there is one thing that I can illustrate a little better:
+While I may eventually convert some of this content into a blog post (and I am defintely going to update these pages), there is one thing that I can illustrate a little better than separate comments in the Facebook discussion group:
 
 Namely, I think there is a difference between "ancestry" and "traits" that may need to be made more clear.
 
