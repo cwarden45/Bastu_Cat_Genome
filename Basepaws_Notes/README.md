@@ -142,7 +142,7 @@ Again, this currently may not be very useful for many people (and the code is si
 
 -Use the UCSC reference above, without reformatting
 
-2) You can then proceed like step #2 above.  For example, this is genome-wide coverage with the BWA-MEM re-alignment:
+**2)** You can then proceed like step #2 above.  For example, this is genome-wide coverage with the BWA-MEM re-alignment:
 
 ![BWA-MEM re-aligned coverage](IGV_BWA-MEM_Realign_Coverage.PNG "BWA-MEM re-aligned coverage")
 
@@ -152,11 +152,11 @@ You can also download annotation tracks (with formatting matching the UCSC refer
 
 The RefSeq gene track (the second track in both of the above screenshots), can be downloaded as follows:
 
-a) Go to the [UCSC Genome Browser](https://genome.ucsc.edu/cgi-bin/hgGateway), and look for the cat felCat9 genome build.  You may need to enter "cat" where it says "Enter species or common name"
+*a)* Go to the [UCSC Genome Browser](https://genome.ucsc.edu/cgi-bin/hgGateway), and look for the cat felCat9 genome build.  You may need to enter "cat" where it says "Enter species or common name"
 
-b) If you want to find coordinates of a gene (like GAPDH), you can do that through the main interface.
+*b)* If you want to find coordinates of a gene (like GAPDH), you can do that through the main interface.
 
-c) To download a .bed file (which can be loaded into IGV, just like a .bam file), go to "**Tools** --> **Table Browser**"
+*c)* To download a .bed file (which can be loaded into IGV, just like a .bam file), go to "**Tools** --> **Table Browser**"
 
 Select "Cat" genome (for assembly "Nov. 2017 (Felis_catus_9.0/felCat9")")
 
