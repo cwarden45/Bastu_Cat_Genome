@@ -51,7 +51,7 @@ This 2nd plot may make things more confusing, but I think this analysis strategy
 
 Finally, before getting to the code for re-analysis part, here are some assorted general notes on things that I think may cause confusion:
 
-**1)** I think this has been changed in some places (such as the Facebook discussion group), but I think the CatKit box still says "*The World's First At-Home Cat Genetics Test*".  This is not true (and I have commented about that [here](https://twitter.com/cwarden45/status/1109316444305526784)).  Hopefully, that is just a matter of them needing to wait until they use up their current set of boxes.  As you can see above, Stormy clearly has a UC-Davis VGL result from 2013 (for example).
+**1)** I think this has been changed in some places (such as the Facebook discussion group), but I think the CatKit box still says "*The World's First At-Home Cat Genetics Test*".  This is not true (and I have commented about that [here](https://twitter.com/cwarden45/status/1109316444305526784), among other places).  Hopefully, that is just a matter of them needing to wait until they use up their current set of boxes.  As you can see above, Stormy clearly has a UC-Davis VGL result from 2013 (for example).
 
 My main concern is not the comment itself (for example, I have a blog post about [speculative thoughts on providing generics through non-profits](http://cdwscience.blogspot.com/2019/05/speculative-opinion-possible-advantages.html), in which case the idea of "first" may not matter so much), but it is important to be as accurate as possible (and this is also something that I am working on, particularly in everyday discussions).
 
