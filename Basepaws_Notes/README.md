@@ -42,7 +42,7 @@ In other words, I am trying to bring this up for the "ancestry" versus "trait" p
 
 So, if you randomly select a bar from the Scottish Fold or British Shorthair sections, they look similar (even though the traits to define those breeds are quite different, and not even mutually exclusive: you can be both a British Shorthair and a Scottish Fold).  However, I would say that really means those cats have relatively similar ancestry.  I would be skeptical about some of the small percentages (there is almost always some amount of other color bars for each cat), the "Eastern" and "Western" assignments from the UC-Davis VGL report would come from running that program with **K=2**.
 
-Also, when I was trying to find a Figure that would successfully appear on GitHub, I noticed that there was also an earlier [Lipinski et al. 2008 paper](https://www.ncbi.nlm.nih.gov/pubmed/18060738) , with the following ADMIXTURE plot:
+Also, when I was trying to find a version of the [Kurushima et al. 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3594446/) Figure that would successfully appear on GitHub, I noticed that there was also an earlier [Lipinski et al. 2008 paper](https://www.ncbi.nlm.nih.gov/pubmed/18060738) , with the following ADMIXTURE plot:
 
 ![second cat ADMIXTURE plot](https://ars.els-cdn.com/content/image/1-s2.0-S0888754307002510-gr1.jpg)
 
