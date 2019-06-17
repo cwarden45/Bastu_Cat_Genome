@@ -18,7 +18,7 @@ Purchased Test on 11/16/2018
 
 Sample Recieved on 11/27/2018
 
-Recieved Report on 2/25/2018 (~so, a little more than 3 months turn-around time*)
+Recieved Report on 2/25/2018 (*~so, a little more than 3 months turn-around time*)
 
 **basepaws (hair sample, $95, ~0.5x sequencing, possibly other types later?)**:
 
