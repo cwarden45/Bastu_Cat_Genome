@@ -80,44 +80,28 @@ and I extracted that sequence using [7zip](https://www.7-zip.org/)
 
 I wrote and ran the `reformat_UCSC_ref.pl` script to convert the chromosome names as follows:
 
- chrA1 --> 1
- chrA2 --> 2
-
+```
+chrA1 --> 1
+chrA2 --> 2
 chrA3 --> 3
-
 chrB1 --> 4
-
 chrB2 --> 5
-
 chrB3 --> 6
-
 chrB4 --> 7
-
 chrC1 --> 8
-
 chrC2 --> 9
-
 chrD1 --> 10
-
 chrD2 --> 11
-
 chrD3 --> 12
-
 chrD4 --> 13
-
 chrE1 --> 14
-
 chrE2 --> 15
-
 chrE3 --> 16
-
 chrF1 --> 17
-
 chrF2 --> 18
-
 chrM --> 20
-
 chrX --> 19
+```
 
 This created a new file called ***felCat9_basepawsNum.fa***.
 
