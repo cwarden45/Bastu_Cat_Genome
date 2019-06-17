@@ -76,7 +76,7 @@ I think the "3" in my sample ID means that I am the 3rd person to have ~15x cove
 
 So, first I downloaded the **felCat9.fa.gz** reference sequence from https://hgdownload-test.gi.ucsc.edu/goldenPath/felCat9/bigZips/
 
-and I extracted that sequence using [7zip](https://www.7-zip.org/)
+and I extracted that sequence using [7zip](https://www.7-zip.org/).
 
 I wrote and ran the `reformat_UCSC_ref.pl` script to convert the chromosome names as follows:
 
