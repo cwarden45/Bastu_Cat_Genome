@@ -10,6 +10,6 @@ and here for the reverse (R2) read:
 
 ![R2 adapter content](FastQC_adapter_content_R1.png "R2 adapter content")
 
-Namely, the Nextera adapter can be found in quite a number of reads.  So, I think the fragment size is less than 150 bp for a non-trivial number of reads (the forward and reverse reads are 150 bp each).
+Namely, the Nextera adapter can be found in quite a number of reads.  So, I think the fragment size is less than 150 bp for ~30% of the reads (the forward and reverse reads are 150 bp each).
 
 I haven't had a chance to look into this more, but I will add code and results if I think there is something valueable in the flanking sequence that doesn't actually come from the cat genome.
