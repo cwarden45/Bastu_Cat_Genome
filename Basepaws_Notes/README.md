@@ -23,8 +23,8 @@ You can see the trait difference between Bastu and Stormy (the other cat), since
 
 In other words, Bastu is **C/C** and Stormy is **cS/cS**.  As defined on that other UC-Davis page
 
-"C/C: Full color, cat does not carry Burmese (sepia) or Siamese alleles" --> makes sense for Bastu, who is a Tortoiseshell
-"cS/cS: Siamese" --> makes sense for Stormy, who is most obviously a Scottish Fold (but also has some Siamese mixed in there)
+"**C/C**: Full color, cat does not carry Burmese (sepia) or Siamese alleles" --> makes sense for Bastu, who is a Tortoiseshell
+"**cS/cS**: Siamese" --> makes sense for Stormy, who is most obviously a Scottish Fold (but also has some Siamese mixed in there)
 
 I am bringing this up on the Basepaws discussion group because there are several people who have cats with Siamese traits, but **there are no high ranking Siamese results in their basepaws report** (based upon *genome-wide* distance to some set of reference cats).  If certain features are affected by a limited number of genes, I think this is one explanation (in addition to not being able to identify both alleles for traits, with the low coverage ~0.5x sequencing that is being provided.)
 
@@ -34,7 +34,7 @@ As another example, the group that created that cat ancestry test also has this 
 
 I think some people in the basepaws discussion group found the following ADMIXTURE plot to be confusing:
 
-![cat ADMIXTURE plot](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3594446/bin/nihms415350f1.jpg)
+![cat ADMIXTURE plot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6nmMoIwleVP8i66-JpIMqqKFbp_XMkXLbNWu2cjbhcuArME3M)
 
 However, each column is essentially like the Western-Eastern-Hybrid-Polycat pie chart that you have in basepaws, but for some cat that is supposed to be a specific breed.
 
