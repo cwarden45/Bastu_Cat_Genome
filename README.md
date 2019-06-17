@@ -34,7 +34,7 @@ Purchased Test on 3/7/2019
 
 Activated Kit / Collected Sample on 3/14/2019
 
-Learned data was available on 5/24/2019
+Learned data was available on 5/24/2019 (assuming this was in fact for the 2nd sample)
 
 Data available from AWS S3 bucket on 6/13/2019
 
