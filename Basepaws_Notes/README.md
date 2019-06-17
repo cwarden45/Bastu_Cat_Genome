@@ -47,6 +47,8 @@ Also, when I was trying to find a version of the [Kurushima et al. 2013](https:/
 
 ![second cat ADMIXTURE plot](https://ars.els-cdn.com/content/image/1-s2.0-S0888754307002510-gr1.jpg)
 
+This 2nd plot may make things more confusing, but I think this analysis strategy is a good example of "[hypothesis generation](http://cdwscience.blogspot.com/2019/05/emphasizing-hypothesis-generation-in.html)" in genomics.  While using lower numbers of K may be more robust, it may still be worth emphasizing that I always try to explain that several rounds of analysis and discussion are required in a research setting (where my use of scripts is semi-automated at best).  In other words, as a Bioinformatics Specialist, I usually emphasize that "initial" results should not be thought of as final results that are immediately appropriate for publication.  In other words, some trail and error should be expected (this is why I think having access to raw data is crucial, and part of why you see your reports change over time).
+
 Finally, before getting to the code for re-analysis part, here are some assorted general notes on things that I think may cause confusion:
 
 **1)** I think this has been changed in some places (such as the Facebook discussion group), but I think the CatKit box still says "*The World's First At-Home Cat Genetics Test*".  This is not true (and I have commented about that [here](https://twitter.com/cwarden45/status/1109316444305526784)).  Hopefully, that is just a matter of them needing to wait until they use up their current set of boxes.  As you can see above, Stormy clearly has a UC-Davis VGL result from 2013 (for example).
