@@ -46,7 +46,7 @@ Also, when I was trying to find a Figure that would successfully appear on GitHu
 
 ![second cat ADMIXTURE plot](https://ars.els-cdn.com/content/image/1-s2.0-S0888754307002510-gr1.jpg)
 
-In terms of some general things that I think may cause confusion:
+Finally, before getting to the code for re-analysis part, here are some assorted general notes on things that I think may cause confusion:
 
 **1)** I think this has been changed in some places (such as the Facebook discussion group), but I think the CatKit box still says "[The World's First At-Home Cat Genetics Test](https://twitter.com/basepaws?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)".  This is not true (and I have commented about that [here](https://twitter.com/cwarden45/status/1109316444305526784)).  Hopefully, that is just a matter of them needing to wait until they use up their current set of boxes.  As you can see above, Stormy clearly has a UC-Davis VGL result from 2013 (for example).
 
