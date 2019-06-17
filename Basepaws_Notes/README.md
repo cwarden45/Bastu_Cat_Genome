@@ -74,24 +74,43 @@ and I extracted that sequence using [7zip](https://www.7-zip.org/)
 I wrote and ran the `reformat_UCSC_ref.pl` script to convert the chromosome names as follows:
 
 chrA1 --> 1
+
 chrA2 --> 2
+
 chrA3 --> 3
+
 chrB1 --> 4
+
 chrB2 --> 5
+
 chrB3 --> 6
+
 chrB4 --> 7
+
 chrC1 --> 8
+
 chrC2 --> 9
+
 chrD1 --> 10
+
 chrD2 --> 11
+
 chrD3 --> 12
+
 chrD4 --> 13
+
 chrE1 --> 14
+
 chrE2 --> 15
+
 chrE3 --> 16
+
 chrF1 --> 17
+
 chrF2 --> 18
+
 chrM --> 20
+
 chrX --> 19
 
 This created a new file called ***felCat9_basepawsNum.fa***.
@@ -119,7 +138,7 @@ Re-analysis of Raw FASTQ Data
 
 Again, this currently may not be very useful for many people (and the code is similar to what I have done for [my own human data](https://github.com/cwarden45/DTC_Scripts)), but I have performed the following re-analysis of Bastu's raw data:
 
-1) `align_BWA_MEM.py` - align reads using [BWA-MEM](http://bio-bwa.sourceforge.net/), remove duplicates + sort + index with [Picard](https://broadinstitute.github.io/picard/)
+**1)** `align_BWA_MEM.py` - align reads using [BWA-MEM](http://bio-bwa.sourceforge.net/), remove duplicates + sort + index with [Picard](https://broadinstitute.github.io/picard/)
 
 -Use the UCSC reference above, without reformatting
 
