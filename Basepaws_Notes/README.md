@@ -72,7 +72,7 @@ Re-formatting Reference for .bam Alignment
 
 I think the "3" in my sample ID means that I am the 3rd person to have ~15x coverage WGS data from basepaws.  So, this section probably has limited appeal.  However, the formatting of my .bam file was a little different than you might expect:
 
-1) I needed to convert the chromosome names on a FASTA reference sequence
+**1)** I needed to convert the chromosome names on a FASTA reference sequence
 
 So, first I downloaded the **felCat9.fa.gz** reference sequence from https://hgdownload-test.gi.ucsc.edu/goldenPath/felCat9/bigZips/
 
@@ -124,7 +124,7 @@ This created a new file called ***felCat9_basepawsNum.fa***.
 
 You can then import this reference into [IGV](https://software.broadinstitute.org/software/igv/) using "**Genomes** --> **Load genome from file...**"
 
-2) Create .tdf coverage track using [IGV](https://software.broadinstitute.org/software/igv/), with  "**Tools** --> **Run igvtools...**" to select .bam file (and the *Count* command to create the .tdf file with name that is automatically generated as the Output File).
+**2)** Create .tdf coverage track using [IGV](https://software.broadinstitute.org/software/igv/), with  "**Tools** --> **Run igvtools...**" to select .bam file (and the *Count* command to create the .tdf file with name that is automatically generated as the Output File).
 
 The alignment can be imported using "**File** --> **Load from file...**":
 
