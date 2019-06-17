@@ -23,7 +23,7 @@ In other words, Bastu is **C/C** and Stormy is **cS/cS**.  As defined on that ot
 
 "***C/C**: Full color, cat does not carry Burmese (sepia) or Siamese alleles*" --> makes sense for Bastu, who is a Tortoiseshell
 
-"***cS/cS**: Siamese*" --> makes sense for Stormy, who is most obviously a Scottish Fold (but also has the phenotype for the Lynx/Siamese point trait)
+"***c^s^/c^s^**: Siamese*" --> makes sense for Stormy, who is most obviously a Scottish Fold (but also has the phenotype for the Lynx/Siamese point trait)
 
 I am bringing this up these UC-Davis VGL results on the Basepaws discussion group because there are multiple people who have cats with Siamese traits that didn't have high ranking Siamese results in their basepaws report (based upon genome-wide distance to some set of reference cats).  If certain features are affected by a relatively small fraction of the genome (and sometimes even a limited number of genes), I think this is could be one factor (in addition to not being able to identify both alleles for traits with the low coverage ~0.5x sequencing that is currently being provided, and perhaps some details of how those percentiles are calculated)
 
