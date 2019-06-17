@@ -17,7 +17,7 @@ Namely, I think there is a difference between "ancestry" and "traits" that may n
 
 For example, if you see [Bastu's UC-Davis VGL report](https://drive.google.com/file/d/1FgYkv2x9Nri_mkmHsq1iWxNkwTuPhUlM/view?usp=sharing), or a [an earlier blog post for the UC-Davis VGL report for another cat](http://cdwscience.blogspot.com/2013/01/stormys-feline-dna-test.html), the flag indicates the "ancestry" (Western for both Bastu and Stormy) but there are "Phenotypic Markers" (or Traits) on the right side.  Notice the markers look like a regular genotype, and they represent specific loci.  For example, Bastu is not a Scottish Fold (but Stormy is a Scottish Fold).
 
-As described in the separate UC-Davis [https://www.vgl.ucdavis.edu/services/coatcolorcat.php](Feline Coat Color Tests), there is a marker for ***Colorpoint Restriction***.
+As described in the separate UC-Davis [Feline Coat Color Tests](https://www.vgl.ucdavis.edu/services/coatcolorcat.php), there is a marker for ***Colorpoint Restriction***.
 
 You can see the trait difference between Bastu and Stormy (the other cat), since Stormy has colorpoint marking on his ears and tails (this is also called "Lynx point" and "Siamese point," and this makes sense because Stormy has Siamese features).
 
