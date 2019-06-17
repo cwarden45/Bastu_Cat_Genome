@@ -4,11 +4,11 @@ I also ran [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) 
 
 One thing that I thought may be interesting was the adapter distribution, which you can see here for the forward (R1) read:
 
-![R1 adapter content](FastQC_adapter_content_R1.PNG "R1 adapter content")
+![R1 adapter content](FastQC_adapter_content_R1.png "R1 adapter content")
 
 and here for the reverse (R2) read:
 
-![R2 adapter content](FastQC_adapter_content_R1.PNG "R2 adapter content")
+![R2 adapter content](FastQC_adapter_content_R1.png "R2 adapter content")
 
 Namely, the Nextera adapter can be found in quite a number of reads.  So, I think the fragment size is less than 150 bp for a non-trivial number of reads (the forward and reverse reads are 150 bp each).
 
