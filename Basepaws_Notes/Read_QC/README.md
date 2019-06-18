@@ -12,4 +12,10 @@ and here for the reverse (R2) read:
 
 Namely, the Nextera adapter can be found in quite a number of reads.  So, I think the fragment size is less than 150 bp for ~30% of the reads (the forward and reverse reads are 150 bp each).
 
-I haven't had a chance to look into this more, but I will add code and results if I think there is something valueable in the flanking sequence that doesn't actually come from the cat genome.
+The insert size calculation comes from the BAM alignment (rather than the FASTQ reads), but I thought it would be better to add here (because it probably is of less interest to most basepaws customers):
+
+![Insert Size Distribution](Provided_BAM_Insert_Size.png "Insert Size Distribution")
+
+The insert distribution for the provided .bam file is shown above, but it looks practically the same as the re-aligned .bam file (for example, the mean insert size was 199 bp in the provided .bam and 202 bp in the re-aligned .bam file.
+
+I will add code and results if I think there is something else valueable in the flanking sequence that doesn't actually come from the cat genome.
