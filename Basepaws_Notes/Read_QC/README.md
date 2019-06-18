@@ -14,7 +14,7 @@ Namely, the Nextera adapter can be found in quite a number of reads.  So, I thin
 
 The insert size calculation comes from the BAM alignment (rather than the FASTQ reads), but I thought it would be better to add here (because it probably is of less interest to most basepaws customers):
 
-![Insert Size Distribution](Provided_BAM_Insert_Size.png "Insert Size Distribution")
+![Insert Size Distribution](Provided_BAM_Insert_Size.PNG "Insert Size Distribution")
 
 The insert distribution for the provided .bam file is shown above, but it looks practically the same as the re-aligned .bam file (for example, the mean insert size was 199 bp in the provided .bam and 202 bp in the re-aligned .bam file.
 
