@@ -22,4 +22,10 @@ If there is overlap between the forward and reverse reads (for fragments less th
 
 ![PEAR Merged Read Length Distribution](PEAR_sequence_length_distribution.png "PEAR Merged Read Length Distribution")
 
+If you are curious what a FASTQ file looks like, here is a screenshot for some of my reads:
+
+![FASTQ example](FASTQ_R1_screenshot.PNG "FASTQ example")
+
+For example, you can tell that this is a dual-barcode libary (where the barcodes for my sample should be AAGGCGA on one end of the fragment, and TAGAGAG at the other end of the fragment).  If you sequence 7 bp for an index, but you only use 6 bp, then that is why there are N's.  You can also see more about the [FASTQ file format](https://en.wikipedia.org/wiki/FASTQ_format) on Wikipedia, and I have a diagram about the [barcoding design](https://www.biostars.org/p/376585/#376623) (based upon what somebody else drew for me) in the Biostars discussion about de-multiplexing.
+
 I will add code and results if I think there is something else valueable in the flanking sequence that doesn't actually come from the cat genome.
