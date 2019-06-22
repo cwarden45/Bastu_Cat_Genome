@@ -18,4 +18,8 @@ The insert size calculation comes from the BAM alignment (rather than the FASTQ 
 
 The insert distribution for the provided .bam file is shown above, but it looks practically the same as the re-aligned .bam file (for example, the mean insert size was 199 bp in the provided .bam and 202 bp in the re-aligned .bam file.
 
+If there is overlap between the forward and reverse reads (for fragments less than 300 bp), you can also make a similar plot without the alignment.  For example, I used [PEAR](https://www.h-its.org/downloads/pear-academic/) to test merging reads (79.717% of reads could be assembled with PEAR), and FastQC to create a plot for the sequence length distribution:
+
+![PEAR Merged Read Length Distribution](PEAR_sequence_length_distribution.png "PEAR Merged Read Length Distribution")
+
 I will add code and results if I think there is something else valueable in the flanking sequence that doesn't actually come from the cat genome.
