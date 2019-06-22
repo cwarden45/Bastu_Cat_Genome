@@ -26,7 +26,7 @@ Purchased Test on 2/24/2019
 
 Activated Kit / Collected Sample on 3/1/2019
 
-**Update (6/22)**: I think there was confusion, but it was decided just to provide ~20x sequencing for my swab sample, so I should only be recieving one report).
+*Update (6/22)*: I think there was confusion, but it was decided just to provide ~20x sequencing for my swab sample, so I should only be recieving one report).
 
 **basepaws (mouth swab, $1000, ~15x sequencing, with raw data as FASTQ+BAM+gVCF)**:
 
