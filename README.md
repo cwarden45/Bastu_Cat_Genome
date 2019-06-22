@@ -26,7 +26,7 @@ Purchased Test on 2/24/2019
 
 Activated Kit / Collected Sample on 3/1/2019
 
-*Waiting to recieve Report*
+**Update (6/22)**: I think there was confusion, but it was decided just to provide ~20x sequencing for my swab sample, so I should only be recieving one report).
 
 **basepaws (mouth swab, $1000, ~15x sequencing, with raw data as FASTQ+BAM+gVCF)**:
 
@@ -38,7 +38,7 @@ Learned data was available on 5/24/2019 (assuming this was in fact for the 2nd s
 
 Data available from AWS S3 bucket on 6/13/2019
 
-*Waiting to recieve Report? (I'm not sure if the same report is provided for the higher coverage sequencing data)*
+*Waiting to recieve Report*
 
 I'm not sure if basepaws will implement automatic deposit into the SRA (with owner's permission).  However, I have re-uploaded my raw FASTQ files here:
 
