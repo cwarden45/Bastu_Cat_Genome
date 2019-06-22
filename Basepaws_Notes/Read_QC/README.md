@@ -28,4 +28,6 @@ If you are curious what a FASTQ file looks like, here is a screenshot for some o
 
 For example, you can tell that this is a dual-barcode libary (where the barcodes for my sample should be AAGGCGA on one end of the fragment, and TAGAGAG at the other end of the fragment).  If you sequence 7 bp for an index, but you only use 6 bp, then that is why there are N's.  You can also see more about the [FASTQ file format](https://en.wikipedia.org/wiki/FASTQ_format) on Wikipedia, and I have a diagram about the [barcoding design](https://www.biostars.org/p/376585/#376623) (based upon what somebody else drew for me) in the Biostars discussion about de-multiplexing.
 
+Within the read, the "N" nucleotides probably are the result of missing .bcl files.  For some applications, you may want to either filter those reads, or trim certain positions in the read.
+
 I will add code and results if I think there is something else valueable in the flanking sequence that doesn't actually come from the cat genome.
