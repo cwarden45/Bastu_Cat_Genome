@@ -30,4 +30,4 @@ For example, you can tell that this is a dual-barcode libary (where the barcodes
 
 Within the read, the "N" nucleotides probably are the result of missing .bcl files.  For some applications, you may want to either filter those reads, or trim certain positions in the read.
 
-If I find anything else that is interesting/informative, I will update this README.
+![Barcode Check](revcom_adapter_with_barcode.PNG "Barcode Check")
