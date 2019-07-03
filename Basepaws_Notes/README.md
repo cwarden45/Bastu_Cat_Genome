@@ -1,4 +1,4 @@
-Personal Thoughts (and General Comments on Cat Genetics)
+Personal Thoughts (and General Notes on Cat Genetics)
 -----------------
 
 As mentioned in the main section, I purchased two basepaws kits for Bastu: the typical ~0.5x sequencing (for $95) and ~15x sequencing (for $1000).  I only have the raw data for the higher coverage sequencing (and no PDF reports to provide), but I will add those PDF file to the main section (as soon as possible).
