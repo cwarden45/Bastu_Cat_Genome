@@ -10,6 +10,8 @@ I've also done some testing of down-sampling markers for the broadest level of h
 
 I noticed an earlier [basepaws blog post](https://www.basepaws.com/blog/new-basepaws-reports-announcement-136) which looked relatively good (in that the cat was >50% polycat).  However, that is often not what I see in the [Facebook discussion group](https://www.facebook.com/groups/BasepawssadorsCatDNAClub), and I would expect that most cats should be polycats.  Nevertheless, that is the sort of thing that I am trying to look into.
 
+It's a separate project, but there are also pictures of some of the "[trios](http://felinegenetics.missouri.edu/99lives/successfully-sequenced-cats)" from the 99 Lives project, to get an idea about the difference in physical appearance among highly-related but admixed cats.  In other words, I think "appearance" versus "relatedness/kinship" is kind of like "traits" versus "ancestry."
+
 -----------------
 
 **Code Notes**
