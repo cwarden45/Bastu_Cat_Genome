@@ -3,16 +3,16 @@ use strict;
 use diagnostics;
 use Bio::SeqIO;
 
-#download from 
+#download from ftp://ftp.ncbi.nlm.nih.gov/genomes/Felis_catus/ARCHIVE/ANNOTATION_RELEASE.100/Assembled_chromosomes/seq/
 
 my @cat_chr = ("chrMT",
-				"chrA1","chrA2","chrA3",
-				"chrB1","chrB2","chrB3","chrB4",
-				"chrC1","chrC2",
-				"chrD1","chrD2","chrD3","chrD4",
-				"chrE1","chrE2","chrE3",
-				"chrF1","chrF2",
-				"chrX");
+		"chrA1","chrA2","chrA3",
+		"chrB1","chrB2","chrB3","chrB4",
+		"chrC1","chrC2",
+		"chrD1","chrD2","chrD3","chrD4",
+		"chrE1","chrE2","chrE3",
+		"chrF1","chrF2",
+		"chrX");
 				
 my $outFa="felCat6.fa";
 
