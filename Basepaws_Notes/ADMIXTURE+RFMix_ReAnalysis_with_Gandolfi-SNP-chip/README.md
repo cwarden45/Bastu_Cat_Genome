@@ -4,7 +4,7 @@ I don't think the ancestry information is available there, but I will follow-up 
 
 In the meantime, the information in the paper is sufficent for some unsupervised ADMIXTURE analysis.
 
-There are two different positions provided in Supplementary Table 5 (I believe for felCat6 and felCat8), but I am seeing if there is something available for felCat9.  I noticed the felCat9 lift-over .chain files were only for [felCat5 and felCat8](http://hgdownload.soe.ucsc.edu/goldenPath/felCat9/liftOver/), but I believe there is [archived felCat6 data](ftp://ftp.ncbi.nlm.nih.gov/genomes/Felis_catus/ARCHIVE/ANNOTATION_RELEASE.100/Assembled_chromosomes/seq/) available from NCBI.
+There are two different positions provided in Supplementary Table 5 (I believe for felCat6 and felCat8), but I am seeing if there is something available for felCat9.  I noticed the felCat9 lift-over .chain files were only for [felCat5 and felCat8](http://hgdownload.soe.ucsc.edu/goldenPath/felCat9/liftOver/), but I believe there is archived felCat6 data available from NCBI FTP.
 
 I've also done some testing of down-sampling markers for the broadest level of human ancestry (which is kind of like the "Eastern" and "Western" cat ancestry), which you can see [here](https://github.com/cwarden45/DTC_Scripts/blob/master/Genes_for_Good/RFMix_ReAnalysis/Downsample_Test/README.md).
 
