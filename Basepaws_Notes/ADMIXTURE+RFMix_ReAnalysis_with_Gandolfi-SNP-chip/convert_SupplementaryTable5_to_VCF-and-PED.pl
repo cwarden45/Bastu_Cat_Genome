@@ -3,20 +3,19 @@ use strict;
 use diagnostics;
 use Bio::SeqIO;
 
-my $outputVCF = "Gandolfi_felCat9.vcf";
-my $outputPED = "Gandolfi_felCat9.ped";
+my $outputVCF = "Gandolfi_felCat8.vcf";
+my $outputPED = "Gandolfi_felCat8.ped";
 
-my $felCat9_map =  "Gandolfi_felCat9.map";#created by create_felCat9_map_from_probe_BLAST.R
-my $refFa = "felCat9.fa";
-
+my $probe_seq_table =  "41598_2018_25438_MOESM4_ESM_Full-Mapping-Table4.txt";
+my $refFa = "felCat8.fa";
 my $providedPed = "Supplemetary_data_file_5_CatArrayData.ped"; #62,272 markers
 my $providedMap = "Supplementary_data_file_2_CatArrayMap.map";
 
-print "Create hash for felCat9 mapping and strand mapping...\n";
+print "Create hash for felCat8 strand and probe seqs...\n";
 
-my %felCat9_map_hash;
+my %felCat8_seq_hash;
 
-open(STRAND, $felCat9_map) || die("Could not open $felCat9_map!");
+open(STRAND, $probe_seq_table) || die("Could not open $probe_seq_table!");
 
 while (<STRAND>){
 	my $line = $_;
@@ -24,15 +23,33 @@ while (<STRAND>){
 	$line =~ s/\r//g;
 	my @line_info = split("\t",$line);
 	my $snpID = $line_info[0];
-	my $felCat9_chr = $line_info[1];
+	my $ref_hit = $line_info[2];
+	my $genoIDs = $line_info[7];
+	my $refNuc = $line_info[8];
+	
+	if(($ref_hit ne "*")&($refNuc ne "*")&($ref_hit ne "0")&($ref_hit ne "#VALUE!")){
+		
+		$genoIDs =~ s/\[//;
+		$genoIDs =~ s/\///;
+		$genoIDs =~ s/\]//;
 
-	shift @line_info;
-
-	if($felCat9_chr eq "chrX"){
-		$felCat9_map_hash{$snpID}= join("\t",@line_info);
-	}elsif($felCat9_chr =~ /chr\w\d$/){
-		$felCat9_map_hash{$snpID}= join("\t",@line_info);
-	}
+		$refNuc =~ s/\[//;
+		$refNuc =~ s/\]//;
+	
+		#I'm losing some posiitions due to Excel formatting (prior to export), but I think that's OK if it's only a few
+		if ($ref_hit =~ /^\+/){
+			$genoIDs =~ s/$refNuc//;
+			$felCat8_seq_hash{$snpID}="$refNuc\t$genoIDs\t+";
+		}elsif($ref_hit =~ /^-/){
+			$refNuc =~ tr/ATGCatgc/TACGtacg/;
+			$genoIDs =~ s/$refNuc//;
+			$felCat8_seq_hash{$snpID}="$refNuc\t$genoIDs\t-";
+		}else{
+			print "Error parsing hit strand information: $snpID --> $ref_hit in $line\n";
+			exit;
+		}
+		
+	}#end if($ref_hit ne "*")
 }#end while (<STRAND>)
 
 close(STRAND);
@@ -124,23 +141,7 @@ print VCFOUT "\n";
 
 print "Create reference sequence hash...\n";
 
-my %ref_hash;
 
-my $inseq = Bio::SeqIO->new(-file   => $refFa,
-                            -format => "fasta");
-
-while (my $seq = $inseq->next_seq) {
-	my $chr_name = $seq->id;
-	if(($chr_name eq "chrX") | ($chr_name =~ /chr\w\d$/)){
-		my $chr_seq = $seq->seq;
-		$ref_hash{$chr_name}=$chr_seq;
-		print "$chr_name: ".length($chr_seq)." nucleotides\n";
-	}#end if(exists($chr_map_hash{$chr_name}))
-}#end while (my $seq = $inseq->next_seq) 
-
-print "Create separate .vcf file..\n";
-
-#still use this for plink
 my %chr_map_hash;
 $chr_map_hash{"chrA1"}=1;
 $chr_map_hash{"chrA2"}=2;
@@ -162,6 +163,23 @@ $chr_map_hash{"chrF1"}=17;
 $chr_map_hash{"chrF2"}=18;
 $chr_map_hash{"chrX"}=19;
 
+my %ref_hash;
+
+my $inseq = Bio::SeqIO->new(-file   => $refFa,
+                            -format => "fasta");
+
+while (my $seq = $inseq->next_seq) {
+	my $chr_name = $seq->id;
+	if(exists($chr_map_hash{$chr_name})){
+		my $chr_alt = $chr_map_hash{$chr_name};
+		my $chr_seq = $seq->seq;
+		$ref_hash{$chr_alt}=$chr_seq;
+		print "$chr_name --> $chr_alt: ".length($chr_seq)." nucleotides\n";
+	}#end if(exists($chr_map_hash{$chr_name}))
+}#end while (my $seq = $inseq->next_seq) 
+
+print "Create separate .vcf file..\n";
+
 open(MAPIN, $providedMap) || die("Could not open $providedMap!");
 
 my $line_count = 0;
@@ -175,43 +193,28 @@ while (<MAPIN>){
 	my @line_info = split("\t",$line);
 	my $felCat8_chr = $line_info[0];
 	my $snpID = $line_info[1];
-	my $felCat8_pos1 = $line_info[3];
+	my $felCat8_pos = $line_info[3];
 		
-	if(exists($felCat9_map_hash{$snpID})){
-		my $var_text = $felCat9_map_hash{$snpID};
+	if(($felCat8_chr <= 19) & (exists($felCat8_seq_hash{$snpID}))){
+		my $var_text = $felCat8_seq_hash{$snpID};
 		my @var_info = split("\t", $var_text);
-		my $felCat9_chr = $var_info[0];
-		my $felCat9_pos = $var_info[1];
-		my $felCat9_ref = $var_info[2];
-		my $felCat9_var = $var_info[3];
-		my $felCat9_strand = $var_info[4];
+		my $felCat8_ref = $var_info[0];
+		my $felCat8_var = $var_info[1];
+		my $felCat8_strand = $var_info[2];
 		
-		if(!exists($ref_hash{$felCat9_chr})){
-			print "Problem mapping $felCat9_chr!\n";
-			print "|$felCat9_chr|$felCat9_pos|$felCat9_ref|$felCat9_var|$felCat9_strand|\n";
-			print "$line\n";
-			exit;
-		}
-		my $chr_seq = $ref_hash{$felCat9_chr};
-		my $ref_nuc = uc(substr($chr_seq, $felCat9_pos+1, 1));
+		my $chr_seq = $ref_hash{$felCat8_chr};
+		my $ref_nuc = uc(substr($chr_seq, $felCat8_pos+1, 1));
 		
 		my $geno_text = $geno_hash{$line_count};
 		#print "|$felCat9_strand|\n";
 		
-		if($felCat9_strand eq "-"){
+		if($felCat8_strand eq "-"){
 			#use reverse complement, but you don't actually have to reverse sequence (in fact, that would mess up the results if you did)
 			#otherwise, copied from https://gist.github.com/dnatag4snippet/4624375
 			$geno_text =~ tr/ATGCatgc/TACGtacg/;
-			$felCat9_ref =~ tr/ATGCatgc/TACGtacg/;
-			$felCat9_var =~ tr/ATGCatgc/TACGtacg/;
+			$felCat8_ref =~ tr/ATGCatgc/TACGtacg/;
+			$felCat8_var =~ tr/ATGCatgc/TACGtacg/;
 		}#end if($strand_hash{$snpID} eq "-")
-
-		#if($ref_nuc ne $felCat9_ref){
-		#	print "Error in reference sequence for $ref_nuc versus $felCat9_ref?\n";
-		#	print "|$felCat9_chr|$felCat9_pos|$felCat9_ref|$felCat9_var|$felCat9_strand|\n";
-		#	print "$line\n";
-		#	exit;
-		#}
 
 		$geno_text =~ s/ //g;
 		my @geno_arr = split("\t",$geno_text);
@@ -232,27 +235,21 @@ while (<MAPIN>){
 		}
 		
 		my $ref_bool = 0;
-		if(($ref_nuc eq $felCat9_ref) and ($ALT eq $felCat9_var)){
+		if(($ref_nuc eq $felCat8_ref) and ($ALT eq $felCat8_var)){
 			$ref_bool = 1;
 		}
 		my $alt_bool = 0;
-		if(($ALT eq $felCat9_ref) and ($ref_nuc eq $felCat9_var)){
+		if(($ALT eq $felCat8_ref) and ($ref_nuc eq $felCat8_var)){
 			$alt_bool = 1;
 		}
 		
 		if(($ref_bool == 1) | ($alt_bool == 1)){
 			$matching_genotype_counts++;
-			if($felCat9_strand eq "-"){
+			if($felCat8_strand eq "-"){
 				$matching_genotype_counts_minus++;
 			}#end if($strand_hash{$snpID} eq "-")
-			
-			my $num_chr =$chr_map_hash{$felCat9_chr};
-			if(!exists($chr_map_hash{$felCat9_chr})){
-				print "Problem mapping number for $felCat9_chr\n";
-				exit;
-			}
-			
-			print VCFOUT "$num_chr\t$felCat9_pos\t$snpID\t$ref_nuc\t$ALT\t.\tPASS\t.\tGT";
+				
+			print VCFOUT "$felCat8_chr\t$felCat8_pos\t$snpID\t$ref_nuc\t$ALT\t.\tPASS\t.\tGT";
 					
 			for (my $j=0; $j < scalar(@geno_arr); $j++){
 				
@@ -275,8 +272,8 @@ while (<MAPIN>){
 			}#end for (my $j=0; $i < scalar(); $j++)
 					
 			print VCFOUT "\n";			
-		}#end if($ALT eq $felCat9_var)
-	}#end if(exists($felCat9_map_hash{$snpID}))
+		}#end 
+	}#end if(exists($felCat8_map_hash{$snpID}))
 	
 	$line_count++;
 }#end while (<MAPIN>)
