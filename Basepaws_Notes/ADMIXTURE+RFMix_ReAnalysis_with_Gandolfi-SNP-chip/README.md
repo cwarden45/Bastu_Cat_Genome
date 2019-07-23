@@ -15,3 +15,7 @@ It's a separate project, but there are also pictures of some of the "[trios](htt
 -----------------
 
 **Code Notes**
+
+**0)** Prepare reference (if needed)
+
+**1)** Prepare gVCF.  
