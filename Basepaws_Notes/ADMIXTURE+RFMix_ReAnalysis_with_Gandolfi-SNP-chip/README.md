@@ -18,4 +18,4 @@ It's a separate project, but there are also pictures of some of the "[trios](htt
 
 **0)** Prepare reference (if needed)
 
-**1)** Prepare gVCF.  
+**1)** Prepare gVCF.  I ordered the ~15x sequencing for $1000, so I was provided a gVCF.  However, I believe it was repeat regions were filtered.  So, this caused some issues with matching positions covered by the cat array, and I used `create_GATK_gVCF.sh` (from a [different repository](https://github.com/cwarden45/DTC_Scripts/blob/master/Helix_Mayo_GeneGuide/IBD_Genetic_Distance/create_GATK_gVCF.sh)) to create a gVCF.
