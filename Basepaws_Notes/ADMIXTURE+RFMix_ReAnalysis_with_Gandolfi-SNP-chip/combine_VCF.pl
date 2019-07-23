@@ -19,24 +19,20 @@ my $large_flag = 1;
 
 open(OUTPUTFILE, ">$updated_ped") || die("Could not open $updated_ped!");
 
-my $line_count=0;
 open(INPUTFILE, $prev_ped) || die("Could not open $prev_ped!");
 while (<INPUTFILE>){
 	$line_count++;
 	my $line = $_;
 	chomp $line;
-	if($line_count > 1){
-		my @line_info = split("\t",$line);
-		my $familyID = $line_info[0];
-		my $sampleID = $line_info[1];
-		my $patID = $line_info[2];
-		my $matID = $line_info[3];
-		my $gender = $line_info[4];
-		my $phenotype = -9;
+	my @line_info = split("\t",$line);
+	my $familyID = $line_info[0];
+	my $sampleID = $line_info[1];
+	my $patID = $line_info[2];
+	my $matID = $line_info[3];
+	my $gender = $line_info[4];
+	my $phenotype = -9;
 
-		print OUTPUTFILE "$familyID\t$sampleID\t$patID\t$matID\t$gender\t$phenotype\n";
-
-	}#end if($line_count > 1)
+	print OUTPUTFILE "$familyID\t$sampleID\t$patID\t$matID\t$gender\t$phenotype\n";
 }#end while (<INPUTFILE>)
 			
 close(INPUTFILE);
