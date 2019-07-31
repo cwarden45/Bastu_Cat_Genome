@@ -16,6 +16,8 @@ I noticed an earlier [basepaws blog post](https://www.basepaws.com/blog/new-base
 
 It's a separate project, but there are also pictures of some of the "[trios](http://felinegenetics.missouri.edu/99lives/successfully-sequenced-cats)" from the 99 Lives project, to get an idea about the difference in physical appearance among closely-related but admixed cats.
 
+Given that [Cinnamon](https://www.nature.com/news/2007/071031/full/news.2007.208.html) has both SNP chip and [WGS](https://www.ebi.ac.uk/ena/data/view/SRX2376197) data, I think I can use that to better verify the genotypes that I re-processed (comparing the genotypes to Bastu's variants) as well as expand the number of sites used.
+
 -----------------
 
 **Code Notes**
@@ -44,7 +46,7 @@ Even though they both use Ubuntu, I ended up actually running [plink2](http://ww
 
 There is also some genetic mapping information in the supplemental information from [Li et al. 2019](https://www.g3journal.org/content/6/6/1607.supplemental).
 
-WARNING: I think there are still some details that I need to look into (based upon a comparison of supplmental files for [Li et al. 2019](https://www.g3journal.org/content/6/6/1607.supplemental) and [Gandolfi et al. 2018](https://www.nature.com/articles/s41598-018-25438-0)).  However, I wanted to put together some code and get a rough idea of what those results look like (even though they probably need some additional refinement).
+**WARNING**: I think there are still some details that I need to look into (based upon a comparison of supplmental files for [Li et al. 2019](https://www.g3journal.org/content/6/6/1607.supplemental) and [Gandolfi et al. 2018](https://www.nature.com/articles/s41598-018-25438-0)).  However, I wanted to put together some code and get a rough idea of what those results look like (even though they probably need some additional refinement).
 
 In other words, I could create files that technically ran without errors by running `reformat_Li_et_al_2016-TableS1.pl` followed by `run_SHAPEIT.pl`.  However, this may change in the future.
 
