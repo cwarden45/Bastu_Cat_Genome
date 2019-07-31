@@ -16,7 +16,7 @@ I noticed an earlier [basepaws blog post](https://www.basepaws.com/blog/new-base
 
 It's a separate project, but there are also pictures of some of the "[trios](http://felinegenetics.missouri.edu/99lives/successfully-sequenced-cats)" from the 99 Lives project, to get an idea about the difference in physical appearance among closely-related but admixed cats.
 
-Given that [Cinnamon](https://www.nature.com/news/2007/071031/full/news.2007.208.html) has both SNP chip and [WGS](https://www.ebi.ac.uk/ena/data/view/SRX2376197) data, I think I can use that to better verify the genotypes that I re-processed (comparing the genotypes to Bastu's variants) as well as expand the number of sites used.
+Given that [Cinnamon](https://www.nature.com/news/2007/071031/full/news.2007.208.html) has both SNP chip and [WGS](https://www.ebi.ac.uk/ena/data/view/SRX2376197) data, I think I can use that to better verify the genotypes that I re-processed (comparing the genotypes to Bastu's variants) as well as expand the number of sites used.  Cinnamon was originally selected based upon inbreeding (and a blind phenotype, I believe), but most of the variants currently in the reformatted .vcf are heterozygous (and even if a site was homozygous, my current limitation is my confidence that I am selecting the right SNP chip genotype as the reference allele).
 
 -----------------
 
