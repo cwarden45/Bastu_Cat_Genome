@@ -62,4 +62,8 @@ For unsupervised ADMIXTURE analysis, I defined a reference set of samples with a
 
 As noted in the code for the [human RFMix analysis](https://github.com/cwarden45/DTC_Scripts/blob/master/Genes_for_Good/RFMix_ReAnalysis/README.md), certain dependencies come from [Alicia Martin's Ancestry Pipeline](https://github.com/armartin/ancestry_pipeline).  It would probably be best if I revised the plotting function in the future.
 
-The script to currently run that step is `run_RFMix_v1.5.4_basepaws.pl`.  **However, I haven't uploaded a screenshot because I believe I still have some bugs to sort out** (I was esentially getting one color for each chromosome - which is very different than either the human results or what I have seen in other people's reports).
+The script to currently run that step is `run_RFMix_v1.5.4_basepaws.pl`.  **I might still have some bugs to work out** (I was esentially getting one color for each chromosome - which is very different than either the human results or what I have seen in other people's reports).  However, this is also not a random result.
+
+So, I am plotting it down here, instead of above:
+
+![Bastu unsupervised RFMIX](Bastu_unsupervised_RFMIX-K2.PNG)
