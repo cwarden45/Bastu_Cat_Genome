@@ -56,6 +56,10 @@ In other words, I could create files that technically ran without errors by runn
 
 The code from this step on is similar to re-analysis of [my own human samples](https://github.com/cwarden45/DTC_Scripts/tree/master/Genes_for_Good/RFMix_ReAnalysis).
 
-**6)** Define ancestry segments using [RFMix](https://sites.google.com/site/rfmixlocalancestryinference/).
+**6)** Create .classes file, filter phased files (if necessary), and define ancestry segments using [RFMix](https://sites.google.com/site/rfmixlocalancestryinference/).
 
-**7)** Create chromosome painting figure.
+For unsupervised ADMIXTURE analysis, I defined a reference set of samples with a proportion of ancestry greater than 90% when K=2 (and the test sample) with the code `create_filtered_vcf-sample-haps_UNSUPERVISED.pl`.
+
+As noted in the code for the [human RFMix analysis](https://github.com/cwarden45/DTC_Scripts/blob/master/Genes_for_Good/RFMix_ReAnalysis/README.md), certain dependencies come from [Alicia Martin's Ancestry Pipeline](https://github.com/armartin/ancestry_pipeline).  It would probably be best if I revised the plotting function in the future.
+
+The script to currently run that step is `run_RFMix_v1.5.4_basepaws.pl`.
