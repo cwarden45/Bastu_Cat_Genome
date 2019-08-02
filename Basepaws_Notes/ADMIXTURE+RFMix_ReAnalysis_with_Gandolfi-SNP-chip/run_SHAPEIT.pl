@@ -2,8 +2,6 @@ use warnings;
 use strict;
 use diagnostics;
 
-#2,012,348 probes (number of lines, minus one)
-
 my $threads = 4;
 my $sample_name = "basepaws";
 my $SHAPEIT_chr_folder = "SHAPEIT";
