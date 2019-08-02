@@ -66,4 +66,4 @@ The script to currently run that step is `run_RFMix_v1.5.4_basepaws.pl`.  **I mi
 
 So, I am plotting it down here, instead of above:
 
-![Bastu unsupervised RFMIX](Bastu_unsupervised_RFMIX-K2.PNG)
+![Bastu unsupervised RFMIX](Bastu_unsupervised_RFMIX-K2.png)
