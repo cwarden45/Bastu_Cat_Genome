@@ -50,7 +50,7 @@ Even though they both use Ubuntu, I ended up actually running [plink2](http://ww
 
 There is also some genetic mapping information in the supplemental information from [Li et al. 2019](https://www.g3journal.org/content/6/6/1607.supplemental).
 
-**WARNING**: I think there are still some details that I need to look into (based upon a comparison of supplmental files for [Li et al. 2019](https://www.g3journal.org/content/6/6/1607.supplemental) and [Gandolfi et al. 2018](https://www.nature.com/articles/s41598-018-25438-0)).  However, I wanted to put together some code and get a rough idea of what those results look like (even though they probably need some additional refinement).
+**WARNING**: I think there are still some details that I need to look into (based upon a comparison of supplmental files for [Li et al. 2016](https://www.g3journal.org/content/6/6/1607.supplemental) and [Gandolfi et al. 2018](https://www.nature.com/articles/s41598-018-25438-0)).  However, I wanted to put together some code and get a rough idea of what those results look like (even though they probably need some additional refinement).
 
 In other words, I could create files that technically ran without errors by running `reformat_Li_et_al_2016-TableS1.pl` followed by `run_SHAPEIT.pl`.  However, this may change in the future.
 
