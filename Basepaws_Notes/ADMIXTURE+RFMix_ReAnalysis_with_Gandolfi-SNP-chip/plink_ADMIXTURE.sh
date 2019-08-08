@@ -8,3 +8,4 @@ PREFIX=Gandolfi_felCat9
 /opt/admixture_linux-1.3.0/admixture $PREFIX.bed 2
 /opt/admixture_linux-1.3.0/admixture $PREFIX.bed 3
 /opt/admixture_linux-1.3.0/admixture $PREFIX.bed 4
+#/opt/admixture_linux-1.3.0/admixture $PREFIX.bed 2 --supervised
