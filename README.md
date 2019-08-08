@@ -46,5 +46,3 @@ basepaws 15x WGS Read1: https://storage.googleapis.com/bastu-cat-genome/HCWGS000
 basepaws 15x WGS Read2: https://storage.googleapis.com/bastu-cat-genome/HCWGS0003.23.HCWGS0003_2.fastq.gz
 
 I still have money left from my $300 Google Cloud credit, but I don't know how much the charge is for people to download from a public link.  However, that should be available in the immediate future.  I was also guessing that the S3 data was duplicated (and may be deleted).  However, while available, I could also post those links (if I encounter a problem with Google Cloud bucket).
-
-If I understand what they processed for the higher coverage sequencing, some people might be concerned the later sample was processed first.  However, I would actually prefer to the samples processed in different runs (just in case I am able to detect batch effects, influenced by the other samples in the run).
