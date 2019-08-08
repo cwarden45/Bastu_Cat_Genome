@@ -40,7 +40,7 @@ Data available from AWS S3 bucket on 6/13/2019
 
 *Waiting to recieve Report*
 
-I'm not sure if basepaws will implement automatic deposit into the SRA (with owner's permission).  However, I have re-uploaded my raw FASTQ files here:
+I'm not sure if basepaws will implement automatic deposit into the [SRA](https://www.ncbi.nlm.nih.gov/sra) (with owner's permission).  However, I have re-uploaded my raw FASTQ files here:
 
 basepaws 15x WGS Read1: https://storage.googleapis.com/bastu-cat-genome/HCWGS0003.23.HCWGS0003_1.fastq.gz
 basepaws 15x WGS Read2: https://storage.googleapis.com/bastu-cat-genome/HCWGS0003.23.HCWGS0003_2.fastq.gz
