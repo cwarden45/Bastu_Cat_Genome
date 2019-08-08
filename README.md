@@ -1,4 +1,4 @@
-I have uploaded a report from the [UC-Davis VGL](https://www.vgl.ucdavis.edu/services/cat/), and I will update [basepaws](https://www.basepaws.com/) reports when they are available (and you can see more notes about basepaws in the [Basepaws_Notes subfolder](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes).
+I have uploaded a report from the [UC-Davis VGL](https://www.vgl.ucdavis.edu/services/cat/), and I will update [basepaws](https://www.basepaws.com/) reports when they are available (and you can see more notes about basepaws in the [Basepaws_Notes subfolder](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes)).
 
 I don't have any raw data for the UC-Davis VGL sample, but I do have an [earlier blog post for the report for another cat](http://cdwscience.blogspot.com/2013/01/stormys-feline-dna-test.html) (and I hope some of my re-analysis of the basepaws raw data will hopefully be able to make use of data from the lab that developed that test).
 
