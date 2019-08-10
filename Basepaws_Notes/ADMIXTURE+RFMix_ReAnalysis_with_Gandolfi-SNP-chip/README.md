@@ -54,6 +54,8 @@ There is also some genetic mapping information in the supplemental information f
 
 **WARNING**: I think there are still some details that I need to look into (based upon a comparison of supplmental files for [Li et al. 2016](https://www.g3journal.org/content/6/6/1607.supplemental) and [Gandolfi et al. 2018](https://www.nature.com/articles/s41598-018-25438-0)).  However, I wanted to put together some code and get a rough idea of what those results look like (even though they probably need some additional refinement).
 
+I used the supplemental materials from Li et al. 2016 to add cM distances.  However, I was confused about the build (the probes are described with respect to felCat2, not felCat8 or felCat9).  Luckily, the authors provided that information to me, and it is also pubicly avaiable at [this link](https://github.com/ligang1978/Cat-SNP-array-marker-v2-6.2-and-8.0/).
+
 In other words, I could create files that technically ran without errors by running `reformat_Li_et_al_2016-TableS1.pl` followed by `run_SHAPEIT.pl`.  However, this may change in the future.
 
 The code from this step on is similar to re-analysis of [my own human samples](https://github.com/cwarden45/DTC_Scripts/tree/master/Genes_for_Good/RFMix_ReAnalysis).
