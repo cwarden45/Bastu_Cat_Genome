@@ -58,50 +58,6 @@ while (<PEDIN>){
 	my $gender = shift(@line_info);
 	my $pheno = shift(@line_info);
 	
-	if($sampleID eq "Cinnamon"){
-		$pheno="Abyssinian";
-	}elsif($sampleID =~ /^FSI/){
-		$pheno="Wildcat";
-	}elsif($sampleID =~ /^SFold/){
-		$pheno="ScottishFold";
-	}elsif($sampleID =~ /^CR/){
-		#Cornish Rex (CREX)?
-		$pheno="CR";
-	}elsif($sampleID =~ /^CT/){
-		#Chartreux (CHR)?
-		$pheno="CT";
-	}elsif($sampleID eq "Zeelie"){
-		$pheno="Zeelie";
-	}elsif($sampleID eq "Speedy"){
-		$pheno="Speedy";
-	}elsif(($sampleID =~ /^SRX/)|($sampleID =~ /^srx/)){
-		$pheno="SRX";
-	}elsif($sampleID =~ /^Pbe/){
-		$pheno="PBE";
-	}elsif($sampleID =~ /^CNPR/){
-		$pheno="CNPR";
-	}elsif($sampleID =~ /^CNPN/){
-		$pheno="CNPN";
-	}elsif($sampleID =~ /^HK/){
-		$pheno="HK";
-	}elsif($sampleID =~ /^LYM/){
-		$pheno="LYM";
-	}elsif($sampleID =~ /^Phir-/){
-		$pheno="Phir";
-	}elsif($sampleID =~ /^WGA/){
-		$pheno="WGA";
-	}elsif($sampleID =~ /^RVP/){
-		$pheno="RVP";
-	}elsif($sampleID =~ /^meurs/){
-		$pheno="MEURS";
-	}elsif(($sampleID =~ /^Fcat-/)|($sampleID =~ /^FCA/)|($sampleID =~ /^Fca/)|($sampleID =~ /^\d+/)){
-		#intentionially allow call things like 6233T and 4346II as "Unknown"
-		$pheno="Unknown";
-	}else{
-		print "Add code to parse $sampleID\n";
-		exit;
-	}#else else
-	
 	print PEDOUT "$famID\t$sampleID\t$matID\t$patID\t$gender\t$pheno\n";
 	print VCFOUT "\t$sampleID";
 	for (my $i=0; $i < scalar(@line_info); $i++){
