@@ -12,6 +12,8 @@ I originally thought that samples starting with CR were Cornish Rex, but that do
 
 ![Bastu supervised ADMIXTURE, K=2](Bastu_supervised_K2.PNG)
 
+![Bastu unsupervised ADMIXTURE, K=4](Bastu_unsupervised_K4.PNG)
+
 While I expect there can be some random variations (meaning I'm not sure how different supervised versus unsupervised really is, but I've summarized the above plots in the table below).
 
 <table>
