@@ -8,7 +8,9 @@ In the meantime, the information in the paper is sufficent for some unsupervised
 
 I originally thought that samples starting with CR were Cornish Rex, but that doesn't appear to be correct.  I am going to work on figuring out the best way to share information, but the FID in the supplemental files corresponds to the breed.  I think they are in alphabetical order by domestic cat(so that those CR samples have FID 6 and are actually BIR Birman samples, although Eastern is the correct grouping for BIR cats) followed by wild cat, but I will follow-up with information about the more precise mapping.
 
-![Bastu unsupervised ADMIXTURE](Bastu_unsupervised_K2.PNG)
+![Bastu unsupervised ADMIXTURE, K=2](Bastu_unsupervised_K2.PNG)
+
+![Bastu supervised ADMIXTURE, K=2](Bastu_supervised_K2.PNG)
 
 While I expect there can be some random variations (meaning I'm not sure how different supervised versus unsupervised really is, but I've summarized the above plots in the table below).
 
