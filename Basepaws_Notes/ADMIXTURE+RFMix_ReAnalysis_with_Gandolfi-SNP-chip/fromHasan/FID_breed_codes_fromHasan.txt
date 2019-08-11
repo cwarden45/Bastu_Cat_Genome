@@ -1,0 +1,49 @@
+FID	Breed Name	Abbreviation	Ancestry1	Ancestry2
+1	Abyssinian	ABY	Intermediate	Intermediate
+2	American Curl	ACURL	Intermediate	Intermediate
+3	American Shorthair	ASH	Unknown	Unknown
+4	Asian	Asian	Eastern	Eastern
+5	Bengal	BEN	Intermediate	Intermediate
+6	Birman	BIR	Eastern	Eastern
+7	Bombay	BOM	Eastern	Eastern
+8	British Shorthair	BSH	Western	Persian
+9	Burmese	BUR	Eastern	Eastern
+10	Chartreaux	CHR	Western	Western
+11	Colony	Colony	Unknown	Unknown
+12	Cornish Rex	CREX	Intermediate	Intermediate
+13	Devon Rex	DREX	Intermediate	Intermediate
+14	Domestic	DOM	Unknown	Unknown
+15	Egyptian Mau	EGY	Intermediate	Intermediate
+16	Havana Brown	HAV	Unknown	Unknown
+17	Hydrocephalus (oriental/toygers)	HYD	Hybrid	Hybrid
+18	Japanese Bobtail	JBOB	Intermediate	Intermediate
+19	Khoa Manee	MANEE	Eastern	Eastern
+20	Korat	KOR	Eastern	Eastern
+21	Kurillian Bobtail	KBOB	Unknown	Unknown
+22	La Perm	PERM	Intermediate	Intermediate
+23	Lykoi	LYK	Western	Western
+24	Maine Coon	MCOON	Western	Western
+25	Manx	MANX	Western	Western
+26	Munchkin	MUNCH	Western	Western
+27	Norweigian Forest Cat 	NFC	Western	Western
+28	Ocicat	OCI	Intermediate	Intermediate
+29	Oriental	ORI	Eastern	Eastern
+30	Perisan	PER	Western	Perisan
+31	Peterbald	PBALD	Eastern	Eastern
+32	Ragdoll	RAG	Intermediate	Intermediate
+33	Russian Blue	RBLUE	Intermediate	Intermediate
+34	Scottish Fold	SFOLD	Western	Perisan
+35	Selkirk Rex	SREX	Western	Perisan
+36	Siamese	SIA	Eastern	Eastern
+37	Siberian	SIR	Western	Western
+38	Singapura	SIN	Unknown	Unknown
+39	Somali	SOM	Intermediate	Intermediate
+40	Sphynx	SPH	Intermediate	Intermediate
+41	Tennesse REX	TREX	Unknown	Unknown
+42	Turkish Angora	ANG	Unknown	Unknown
+43	Turkish Van	VAN	Intermediate	Intermediate
+45	Asian Leopard Cats	ALC	Wild	Wild
+46	American Wirehair	WIR	Western	Western
+47	Big Wild Cat	BIGW	Wild	Wild
+48	Backcross Ped	XPED	Unknown	Unknown
+49	European wild cat	FSI	Wild	Wild
