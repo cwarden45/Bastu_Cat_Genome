@@ -80,11 +80,13 @@ The code above assumes the felCat8 reference has chromosomes as characters (like
 
 Even though they both use Ubuntu, I ended up actually running [plink2](http://www.cog-genomics.org/plink/2.0/) within Windows10 (Bash on Ubuntu) and I ran [ADMIXTURE](http://software.genetics.ucla.edu/admixture/download.html) from a Docker image.
 
+**5)** Convert genotypes to counts and create PCA plots using `vcf_to_PCA.R`.
+
 ```diff
 - WARNING: I think there may not be sufficient probes for chromosome painting analysis (although this is also limited by my current mapping strategy).  So, the value of analysis after this point may be questionable.
 ```
 
-**5)** Create genetic map files and phase variants using [SHAPEIT](https://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html).
+**6)** Create genetic map files and phase variants using [SHAPEIT](https://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html).
 
 There is also some genetic mapping information in the supplemental information from [Li et al. 2019](https://www.g3journal.org/content/6/6/1607.supplemental).
 
@@ -96,7 +98,7 @@ In other words, I could create files that technically ran without errors by runn
 
 The code from this step on is similar to re-analysis of [my own human samples](https://github.com/cwarden45/DTC_Scripts/tree/master/Genes_for_Good/RFMix_ReAnalysis).
 
-**6)** Create .classes file, filter phased files (if necessary), and define ancestry segments using [RFMix](https://sites.google.com/site/rfmixlocalancestryinference/).
+**7)** Create .classes file, filter phased files (if necessary), and define ancestry segments using [RFMix](https://sites.google.com/site/rfmixlocalancestryinference/).
 
 For unsupervised ADMIXTURE analysis, I defined a reference set of samples with a proportion of ancestry greater than 90% when K=2 (and the test sample) with the code `create_filtered_vcf-sample-haps_UNSUPERVISED.pl`.
 
