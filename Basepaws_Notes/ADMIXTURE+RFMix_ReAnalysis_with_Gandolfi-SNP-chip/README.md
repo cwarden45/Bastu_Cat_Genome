@@ -18,8 +18,6 @@ I noticed an earlier [basepaws blog post](https://www.basepaws.com/blog/new-base
 
 It's a separate project, but there are also pictures of some of the "[trios](http://felinegenetics.missouri.edu/99lives/successfully-sequenced-cats)" from the 99 Lives project, to get an idea about the difference in physical appearance among closely-related but admixed cats.
 
-Given that [Cinnamon](https://www.nature.com/news/2007/071031/full/news.2007.208.html) has both SNP chip and [WGS](https://www.ebi.ac.uk/ena/data/view/SRX2376197) data, I think I can use that to better verify the genotypes that I re-processed (comparing the genotypes to Bastu's variants) as well as expand the number of sites used.  Cinnamon was originally selected based upon inbreeding (and a blind phenotype, I believe), but most of the variants currently in the reformatted .vcf are heterozygous (and even if a site was homozygous, my current limitation is my confidence that I am selecting the right SNP chip genotype as the reference allele).
-
 -----------------
 
 **Code Notes**
@@ -34,7 +32,9 @@ Given that [Cinnamon](https://www.nature.com/news/2007/071031/full/news.2007.208
 
 **2)** For felCat8, reformat the supplemental materials to create a .vcf (with a subset of variants).
 
-I think this may be easier if there was raw data and the genotypes were exported in a different way.  However, I think I can improve upon my initial mapping by taking Cinnamon's WGS data into consideration.  For that, I first created a similar gVCF for Cinnamon, and I extracted the variant calls at the same position on felCat8 using `extract_Cinnamon_felCat8_genotypes.pl`.  I then added the data (slightly reformatted) from the SNP chip data for *Cinnamon* and *WGA12682* using `add_Gandolfi_PED_alleles.pl`.
+I think this may be easier if there was raw data and the genotypes were exported in a different way.  However, I think I can improve upon my initial mapping by taking Cinnamon's WGS data into consideration.  Namely, Given that [Cinnamon](https://www.nature.com/news/2007/071031/full/news.2007.208.html) has both SNP chip and [WGS](https://www.ebi.ac.uk/ena/data/view/SRX2376197) data, I think I can use that to better verify the genotypes that I re-processed (comparing the genotypes to Bastu's variants) as well as expand the number of sites used.
+
+For that, I first created a similar gVCF for Cinnamon, and I extracted the variant calls at the same position on felCat8 using `extract_Cinnamon_felCat8_genotypes.pl`.  I then added the data (slightly reformatted) from the SNP chip data for *Cinnamon* and *WGA12682* using `add_Gandolfi_PED_alleles.pl`.
 
 ```diff
 - Please that I will be revising my code from this step forward.  So, I apologize in advance for the confusion.
