@@ -10,6 +10,34 @@ I originally thought that samples starting with CR were Cornish Rex, but that do
 
 ![Bastu unsupervised ADMIXTURE](Bastu_unsupervised_K2.PNG)
 
+While I expect there can be some random variations (meaning I'm not sure how different supervised versus unsupervised really is, but I've summarized the above plots in the table below).
+
+<table>
+  <tbody>
+    <tr>
+      <th align="center">ADMIXTURE Settings</th>
+      <th align="center">Eastern</th>
+      <th align="center">Western</th>
+    </tr>
+    <tr>
+      <td align="center">Unsupervised, K=2</td>
+      <td align="left">0.24</td>
+      <td align="left">0.75</td>
+     </tr>
+    <tr>
+      <td align="center">Supervised, K=2</td>
+      <td align="left">0.17</td>
+      <td align="left">0.83</td>
+     </tr>
+    <tr>
+      <td align="center">Unsupervised, K=4</td>
+      <td align="left">0.11</td>
+      <td align="left">0.65</td>
+     </tr>
+
+</tbody>
+</table>
+
 I still don't have my basepaws report.  However, when I do, I would expect a higher Western fraction (although an even higher "Polycat" fraction would also be fair).
 
 I've also done some testing of down-sampling markers for the broadest level of human ancestry (which is kind of like the "Eastern" and "Western" cat ancestry), which you can see [here](https://github.com/cwarden45/DTC_Scripts/blob/master/Genes_for_Good/RFMix_ReAnalysis/Downsample_Test/README.md).
