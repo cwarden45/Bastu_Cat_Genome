@@ -30,19 +30,15 @@ It's a separate project, but there are also pictures of some of the "[trios](htt
 
 **1)** Prepare gVCF.  I ordered the ~15x sequencing for $1000, so I was provided a gVCF.  However, I believe it was repeat regions were filtered.  So, this caused some issues with matching positions covered by the cat array, and I used `create_GATK_gVCF.sh` (from a [different repository](https://github.com/cwarden45/DTC_Scripts/blob/master/Helix_Mayo_GeneGuide/IBD_Genetic_Distance/create_GATK_gVCF.sh)) to create a gVCF.
 
-**2)** For felCat8, reformat the supplemental materials to create a .vcf (with a subset of variants).
+**2)** For felCat8, reformat the supplemental materials to create a .vcf (with a subset of variants) using `convert_SupplementaryTable5_to_VCF-and-PED.pl`
 
-I think this may be easier if there was raw data and the genotypes were exported in a different way.  However, I think I can improve upon my initial mapping by taking Cinnamon's WGS data into consideration.  Namely, Given that [Cinnamon](https://www.nature.com/news/2007/071031/full/news.2007.208.html) has both SNP chip and [WGS](https://www.ebi.ac.uk/ena/data/view/SRX2376197) data, I think I can use that to better verify the genotypes that I re-processed (comparing the genotypes to Bastu's variants) as well as expand the number of sites used.
-
-For that, I first created a similar gVCF for Cinnamon, and I extracted the variant calls at the same position on felCat8 using `extract_Cinnamon_felCat8_genotypes.pl`.  I then added the data (slightly reformatted) from the SNP chip data for *Cinnamon* and *WGA12682* using `add_Gandolfi_PED_alleles.pl`.
-
-```diff
-- Please that I will be revising my code from this step forward.  So, I apologize in advance for the confusion.
-```
+I think this may be easier if there was raw data and the genotypes were exported in a different way.
 
 My strategy ended up filtering a lot of probes (requiring two genotypes that exactly match the reference and alternative expected from the probe design).  While most (~57k) probes had a BLAST hit to felCat9, I only used ~20k probes.  However, perhaps I can improve this in the future.  For example, I believe there are alternative sets of genotypes to export from GenomeStudio that may make the gVCF comparison easier.
 
 You can also do this for felCat9 using `convert_SupplementaryTable5_to_VCF-and-PED_felCat9.pl`, but you will first need to run `convert_probe_table_to_FASTA.pl` and `create_felCat9_map_from_probe_BLAST.R`.  Currently, the number of probes meeting my requirement to combine with a GATK gVCF is within 1000 probes for either felCat8 or felCat9 (the initially lower number of ~20 probes).
+
+**NOTE**: I thought I might be able to improve upon my initial mapping by taking Cinnamon's WGS data into consideration.  Namely, Given that [Cinnamon](https://www.nature.com/news/2007/071031/full/news.2007.208.html) has both SNP chip and [WGS](https://www.ebi.ac.uk/ena/data/view/SRX2376197) data, I think I can use that to better verify the genotypes that I re-processed (comparing the genotypes to Bastu's variants) as well as expand the number of sites used.  For that, I first created a similar gVCF for Cinnamon, and I extracted the variant calls at the same position on felCat8 using `extract_Cinnamon_felCat8_genotypes.pl`.  I then added the data (slightly reformatted) from the SNP chip data for *Cinnamon* and *WGA12682* using `add_Gandolfi_PED_alleles.pl`.  However, unless I do something beyond using the observed sequence (or the reference complement), the benefits seemed limited.  So, while this may still help, I've decided to stick with the original results (***and essentially say that I am not confident that I can perform chromosome painting with this number of sites**).
 
 FYI, there are two different positions provided in Supplementary Table 5 (I believe for "V2" and felCat8), but I am seeing if there is something available for felCat9 (as well as having a script that maps some extra probes to felCat9).  I noticed the felCat9 lift-over .chain files were only for [felCat5 and felCat8](http://hgdownload.soe.ucsc.edu/goldenPath/felCat9/liftOver/), but I believe there is archived felCat6 data available from NCBI FTP (which I am mentioning because I thought felCat6 and felCat8 positions were provided, at one point).
 
