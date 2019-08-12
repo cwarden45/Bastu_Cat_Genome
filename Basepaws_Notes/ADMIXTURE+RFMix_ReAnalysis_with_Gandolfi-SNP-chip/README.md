@@ -50,9 +50,9 @@ It's a separate project, but there are also pictures of some of the "[trios](htt
 
 In terms of getting an idea about the robustness of the ancestry groups and breeds, I found a PCA plot to be helpful:
 
-![2-group PCA](PCA_ancestry_2groups.PNG)
-![3-group PCA](PCA_ancestry_3groups.PNG)
-![Breeds with 20+ cats](PCA_ancestry_breed_20cats.PNG)
+![2-group PCA](PCA_ancestry_2groups.png)
+![3-group PCA](PCA_ancestry_3groups.png)
+![Breeds with 20+ cats](PCA_ancestry_breed_20cats.png)
 
 For example, I wasn't initially sure what to think about the "Persian" group, but there seems to be some separate clustering.  However, by this metric, I think Abyssinian should be more of a separate group than Persian.
 
