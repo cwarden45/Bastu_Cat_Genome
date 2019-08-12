@@ -28,12 +28,12 @@ FID	Breed Name	Abbreviation	Ancestry1	Ancestry2
 27	Norweigian Forest Cat 	NFC	Western	Western
 28	Ocicat	OCI	Intermediate	Intermediate
 29	Oriental	ORI	Eastern	Eastern
-30	Perisan	PER	Western	Perisan
+30	Persian	PER	Western	Persian
 31	Peterbald	PBALD	Eastern	Eastern
 32	Ragdoll	RAG	Intermediate	Intermediate
 33	Russian Blue	RBLUE	Intermediate	Intermediate
-34	Scottish Fold	SFOLD	Western	Perisan
-35	Selkirk Rex	SREX	Western	Perisan
+34	Scottish Fold	SFOLD	Western	Persian
+35	Selkirk Rex	SREX	Western	Persian
 36	Siamese	SIA	Eastern	Eastern
 37	Siberian	SIR	Western	Western
 38	Singapura	SIN	Unknown	Unknown
