@@ -8,7 +8,7 @@ I submitted two different samples for Bastu for basepaws.  The first was a hair 
 
 I was sent the swab when I requested higher coverage sequencing data (or, more precisely, I asked about raw data, and I then learned more about the protocol and the option for raw data for higher coverage sequencing).
 
-While I know that extra experiments are required for health / traits (as mentioned [this comment](https://www.instagram.com/p/Bu1uXAsAI6J/?fbclid=IwAR3TgmQ-wVweKm9bmzZFVgP-6vJAjfq8jeEMALVuwQa_XvO4cxtmgJos9Uw) for basepaws, and [this blog post](http://cdwscience.blogspot.com/2019/08/low-coverage-sequencing-is-not.html) for human lcWGS analysis), the **$95** basepaws kit is meant to cover 0.5x sequencing.  So, I paid an additional **$1000** for 15x sequencing (as I understand it, for the 2nd sample).
+While I know that extra experiments are required for health / traits (as mentioned [this comment](https://www.instagram.com/p/Bu1uXAsAI6J/?fbclid=IwAR3TgmQ-wVweKm9bmzZFVgP-6vJAjfq8jeEMALVuwQa_XvO4cxtmgJos9Uw) for basepaws, and [this blog post](http://cdwscience.blogspot.com/2019/08/low-coverage-sequencing-is-not.html) for human lcWGS analysis), the **$95** basepaws kit is meant to cover 0.5x sequencing.  Likewise, I have this [blog post](http://cdwscience.blogspot.com/2019/08/low-coverage-sequencing-is-not.html) describing limitations to low coverage sequencing in humans.  So, I paid an additional **$1000** for 15x sequencing (as I understand it, for the 2nd sample).
 
 I believe this is the time-line for sample collection / processing:
 
