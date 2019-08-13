@@ -47,7 +47,7 @@ for (my $i=0; $i < scalar(@chr_long); $i++){
 	##previous RFMix version file conversion
 	print "-->Convert SHAPEIT to RFMix format...\n";
 	my $sample_file = "$SHAPEIT_folder/chr$chr_short[$i]\_phased.sample";
-	$command = "python $Alicia_folder/shapeit2rfmix.py --shapeit_hap_ref $hapsGZ --shapeit_hap_admixed $hapsGZ --shapeit_sample_ref $sample_file --shapeit_sample_admixed $sample_file --ref_keep $sample_map_ref --admixed_keep $sample_map_test --chr $chr_short[$i] --genetic_map $genetic_map_folder/genetic_map_$chr_long[$i]\_felCat8-from-felCat6.txt --out $output_folder/RFMIX_in";
+	$command = "python $Alicia_folder/shapeit2rfmix.py --shapeit_hap_ref $hapsGZ --shapeit_hap_admixed $hapsGZ --shapeit_sample_ref $sample_file --shapeit_sample_admixed $sample_file --ref_keep $sample_map_ref --admixed_keep $sample_map_test --chr $chr_short[$i] --genetic_map $genetic_map_folder/genetic_map_$chr_long[$i]\_felCat8-probe-mapped.txt --out $output_folder/RFMIX_in";
 	system($command);
 	
 	#create alternative alleles file
