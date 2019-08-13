@@ -2,11 +2,11 @@ use warnings;
 use strict;
 #use diagnostics;
 
-my $random_seed = 190801;#date - earlier version doesn't explicity consider seed as parameter
+my $random_seed = 190812;#date - earlier version doesn't explicity consider seed as parameter
 
 my $threads = 16;#I think they are expecting you to run multiple threads per core: I tested this with 8 core / 16 GB RAM without crashing instance (and could have been run locally, if I wasn't waiting for SHAPEIT phasing)
 my $SHAPEIT_folder = "../Bastu_basepaws_felCat8_20k/SHAPEIT-FILTERED";
-my $genetic_map_folder = "../cat_genetic_map_files/uncertain";
+my $genetic_map_folder = "../cat_genetic_map_files/felCat8";
 my $test_sample_ID = "basepaws";
 my $classes_file = "../Bastu_basepaws_felCat8_20k/Gandolfi_felCat8_plus_Bastu-FILTERED.classes";
 my $sample_map_ref = "../Bastu_basepaws_felCat8_20k/Gandolfi_felCat8_plus_Bastu-FILTERED.names";
