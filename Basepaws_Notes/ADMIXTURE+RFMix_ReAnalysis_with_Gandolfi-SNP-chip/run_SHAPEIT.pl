@@ -13,7 +13,7 @@ my @chr_short = ("1","2","3","4","5","6","7","8","9","10","11","12","13","14","1
 my $SHAPEIT_binary = "/opt/SHAPEIT/shapeit.v2.904.3.10.0-693.11.6.el7.x86_64/bin/shapeit";
 my $plink_binary = "/opt/plink/plink2";
 
-my $map_folder = "../cat_genetic_map_files/uncertain";
+my $map_folder = "../cat_genetic_map_files/felCat8";
 
 my $command = "mkdir $SHAPEIT_chr_folder";
 system($command);
