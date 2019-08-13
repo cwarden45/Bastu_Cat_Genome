@@ -2,6 +2,8 @@ use warnings;
 use strict;
 use diagnostics;
 
+#2,012,348 probes (number of lines, minus one)
+
 my $threads = 4;
 my $sample_name = "basepaws";
 my $SHAPEIT_chr_folder = "SHAPEIT";
@@ -48,11 +50,10 @@ while (<INPUTFILE>){
 			
 close(INPUTFILE);
 
-
 ###run similar code for autosomal chromosomes
 for (my $i=0; $i < 18; $i++){
 	my $VCF_IN = "$SHAPEIT_chr_folder/chr".$chr_short[$i]."_input.vcf";
-	my $MAP = "$map_folder/genetic_map_".$chr_long[$i]."_felCat8-from-felCat6.txt";
+	my $MAP = "$map_folder/genetic_map_".$chr_long[$i]."_felCat8-probe-mapped.txt";
 	
 	my $IN_Prefix = "$SHAPEIT_chr_folder/chr".$chr_short[$i]."_input";
 	my $command = "$plink_binary --vcf $VCF_IN --make-bed --out $IN_Prefix";
