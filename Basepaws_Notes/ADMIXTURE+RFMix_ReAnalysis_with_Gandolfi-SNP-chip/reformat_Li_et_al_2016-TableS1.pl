@@ -2,6 +2,8 @@ use warnings;
 use strict;
 use Text::CSV;
 
+#NOTE: Please be aware that this will only work for felCat6
+
 my $Gandolfi_supplemental_table = "Supplementary_data_file_2_CatArrayMap.map";
 my $output_folder = "uncertain";
 
@@ -31,7 +33,7 @@ my %output_hash;
 
 foreach my $output_chr (keys %chr_map_hash){
 	#my $map_chr = $chr_map_hash{$output_chr};
-	my $chr_out = "$output_folder/genetic_map_$output_chr\_felCat8-from-felCat6.txt";
+	my $chr_out = "$output_folder/genetic_map_$output_chr\_felCat6.txt";
 	open($output_hash{$output_chr},"> $chr_out") || die("Could not open $chr_out!");
 	print {$output_hash{$output_chr}} "position COMBINED_rate(cM/Mb) Genetic_Map(cM)\n";
 }#end foreach my $VCF_chr (@chr_short)
