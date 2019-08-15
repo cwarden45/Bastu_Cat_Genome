@@ -132,7 +132,7 @@ I'm skipping some of the breed-specific diseases, although I would guess those m
 
 However, I am also learning more about the cat health results.  For example, I also see a **PRA / PK Deficiency Package** that indicates the PK and PRA results listed above are actually probably much more likely to be found in "*Abyssinian, Somali and domestic shorthair cat breeds*".  So, I'm not sure if I should really consider this like the breed-enriched/breed-specific disease markers.
 
-Likewise, the specific information for **Mucopolysaccharidosis VI (MPSVI)** indicates higher risk for *Birman, Ragdoll, Siamese and related breeds, Domestic Shorthair* breeds.
+Likewise, the specific information for **Mucopolysaccharidosis VI (MPSVI)** indicates higher risk for "*Birman, Ragdoll, Siamese and related breeds, Domestic Shorthair*" breeds.
 
 basepaws Health Results
 -----------------
