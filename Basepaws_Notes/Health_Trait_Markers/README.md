@@ -5,7 +5,7 @@ UC-Davis VGL "Ancestry Test" Traits
   <tbody>
     <tr>
       <th align="center">Trait</th>
-      <th align="center">Publication</th>
+      <th align="center">Publication(s)</th>
       <th align="center">Bastu's Result</th>
 	  <th align="center">felCat9 Variant</th>
 	  <th align="center">basepaws WGS Confirmation</th>
@@ -97,7 +97,7 @@ UC-Davis VGL "Ancestry Test" Traits
   <tbody>
     <tr>
 	<th align="center">Trait</th>
-	<th align="center">Publication</th>
+	<th align="center">Publication(s)</th>
 	<th align="center">felCat9 Variant</th>
 	<th align="center">Bastu basepaws WGS</th>
     </tr>
