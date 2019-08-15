@@ -18,7 +18,7 @@ UC-Davis VGL "Ancestry Test" Traits
 	  <td align="left"></td>
     </tr>
     <tr>
-	    <td align="center"><b>Brown</b<br/>><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
+	    <td align="center"><b>Brown</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
       <td align="left"></td>
       <td align="left">B/B</td>
 	  <td align="left"></td>
