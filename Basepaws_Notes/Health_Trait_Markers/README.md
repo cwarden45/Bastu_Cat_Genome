@@ -53,7 +53,7 @@ UC-Davis VGL "Ancestry Test" Traits
 	  <td align="left"></td>
     </tr>
     <tr>
-	    <td align="center"><b>Cornish</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/cat/CornishRex.php">Cornish Rex Coat</a></i></td>
+	    <td align="center"><b>Cornish</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/cat/CornishRex.php">Cornish Rex Coat Test</a></i></td>
       <td align="left"></td>
       <td align="left">N/N</td>
 	  <td align="left"></td>
@@ -74,7 +74,7 @@ UC-Davis VGL "Ancestry Test" Traits
 	  <td align="left"></td>
     </tr>
     <tr>
-	    <td align="center"><b>Selkirk Rex</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/cat/SelkirkRex.php">Selkirk Rex Coat</a></i></td>
+	    <td align="center"><b>Selkirk Rex</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/cat/SelkirkRex.php">Selkirk Rex Coat Test</a></i></td>
       <td align="left"></td>
       <td align="left">N/N</td>
 	  <td align="left"></td>
@@ -90,8 +90,47 @@ UC-Davis VGL "Ancestry Test" Traits
 </tbody>
 </table>
 
-Other UC-Davis VGL Traits / Health Results
+(Selected) Other UC-Davis VGL Traits / Health Results
 -----------------
+
+<table>
+  <tbody>
+    <tr>
+	<th align="center">Trait</th>
+	<th align="center">Publication</th>
+	<th align="center">felCat9 Variant</th>
+	<th align="center">Bastu basepaws WGS</th>
+    </tr>
+    <tr>
+	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/abblood.php">AB Blood Group</a></th>
+	<th align="left"></th>
+	<th align="left"></th>
+	<th align="left"></th>
+    </tr>
+    <tr>
+	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/cat/MPSVI.php">Mucopolysaccharidosis VI (MPSVI s/m)</a></th>
+	<th align="left"></th>
+	<th align="left"></th>
+	<th align="left"></th>
+    </tr>
+    <tr>
+	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/pkd1.php">Polycystic Kidney Disease (PKD1)</a></th>
+	<th align="left"></th>
+	<th align="left"></th>
+	<th align="left"></th>
+    </tr>
+	<tr>
+	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/cat/pra.php">Progressive Retinal Atrophy (PRA)</a></th>
+	<th align="left"></th>
+	<th align="left"></th>
+	<th align="left"></th>
+    </tr>
+</tbody>
+</table>
+
+I'm skipping some of the breed-specific diseases, although I would guess those might be covered by the targeted sequencing for basepaws (and I hope I will eventually have a report for my normal WGS data, as opposted to lcWGS and amplicon sequencing).
+
+However, I am also learning more about the cat health results.  For example, I also see a **PRA / PK Deficiency Package** that indicates the PK and PRA results listed above are actually probably much more likely to be found in "*Abyssinian, Somali and domestic shorthair cat breeds*".  So, I'm not sure if I should really consider this like the breed-enriched/breed-specific disease markers.
 
 basepaws Health Results
 -----------------
