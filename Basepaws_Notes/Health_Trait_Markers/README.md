@@ -12,42 +12,42 @@ UC-Davis VGL "Ancestry Test" Traits
     </tr>
     <tr>
 	    <td align="center"><b>Agouti</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
-      <td align="left"></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/25143047">Gershony et al. 2014</a></td>
       <td align="left">a/a</td>
 	  <td align="left"></td>
 	  <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Brown</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
-      <td align="left"></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16104383">Lyons et al. 2005</a></br><a href="https://www.ncbi.nlm.nih.gov/pubmed/15858157">Schmidt-Küntzel et al. 2005</a></td>
       <td align="left">B/B</td>
 	  <td align="left"></td>
 	  <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Colorpoint</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
-      <td align="left"></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15771720">Lyons et al. 2005</a></td>
       <td align="left">C/C</td>
-	  <td align="left"></td>
-	  <td align="left"></td>
+      <td align="left"></td>
+      <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Dilute</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
-      <td align="left"></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16860533">Ishida et al. 2006</a></td>
       <td align="left">D/d</td>
 	  <td align="left"></td>
 	  <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>MC1R</b><br/><i>Also "Amber" in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
-      <td align="left"></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/19422360">Peterschmitt et al. 2009</a></td>
       <td align="left">E/E</td>
 	  <td align="left"></td>
 	  <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Long Hair</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/cat/CatLongHair.php">Long Hair Test</a></i></td>
-      <td align="left"></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/17433015">Drogemuller et al. 2007</a></br><a href="https://www.ncbi.nlm.nih.gov/pubmed/17767004">Kehler et al. 2007</a></td>
       <td align="left">N/M3</td>
 	  <td align="left"></td>
 	  <td align="left"></td>
@@ -68,7 +68,7 @@ UC-Davis VGL "Ancestry Test" Traits
     </tr>
     <tr>
 	    <td align="center"><b>Sphynx</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/cat/SphynxDevonRexCoat.php">Sphynx/Devon Rex Test</a></i></td>
-      <td align="left"></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/20953787">Gandolfi et al. 2010</a></td>
       <td align="left">N/N</td>
 	  <td align="left"></td>
 	  <td align="left"></td>
@@ -102,6 +102,12 @@ UC-Davis VGL "Ancestry Test" Traits
 	<th align="center">Bastu basepaws WGS</th>
     </tr>
     <tr>
+	    <th align="center"><b>White Gloves</b></br><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></th>
+	<th align="left"></th>
+	<th align="left"></th>
+	<th align="left"></th>
+    </tr>
+    <tr>
 	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/abblood.php">AB Blood Group</a></th>
 	<th align="left"><a href="https://bmcgenet.biomedcentral.com/articles/10.1186/1471-2156-8-27">Bighignoli et al. 2007</a></th>
 	<th align="left"></th>
@@ -115,18 +121,20 @@ UC-Davis VGL "Ancestry Test" Traits
     </tr>
     <tr>
 	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/pkd1.php">Polycystic Kidney Disease (PKD1)</a></th>
-	<th align="left"></th>
+	<th align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15466259">Lyons et al. 2004</a></th>
 	<th align="left"></th>
 	<th align="left"></th>
     </tr>
 	<tr>
 	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/cat/pra.php">Progressive Retinal Atrophy (PRA)</a></th>
-	<th align="left"></th>
+	<th align="left"><a href="https://bmcvetres.biomedcentral.com/articles/10.1186/1746-6148-8-207">Grahn et al. 2012</a></th>
 	<th align="left"></th>
 	<th align="left"></th>
     </tr>
 </tbody>
 </table>
+
+I found a [Lyons 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/) review that seems to cover a lot of what I described above (even if it doesn't have a more direct publication).
 
 I'm skipping some of the breed-specific diseases, although I would guess those might be covered by the targeted sequencing for basepaws (and I hope I will eventually have a report for my normal WGS data, as opposted to lcWGS and amplicon sequencing).
 
