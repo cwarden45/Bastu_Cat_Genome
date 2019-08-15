@@ -109,7 +109,7 @@ UC-Davis VGL "Ancestry Test" Traits
     </tr>
     <tr>
 	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/cat/MPSVI.php">Mucopolysaccharidosis VI (MPSVI s/m)</a></th>
-	<th align="left"></th>
+	    <th align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/8910299">Yogalingam et al. 1996</a></br><a href="https://www.ncbi.nlm.nih.gov/pubmed/9593674">Yogalingam et al. 1998</a></br><a href="https://www.ncbi.nlm.nih.gov/pubmed/9421472">Crawley et al. 1998</a></th>
 	<th align="left"></th>
 	<th align="left"></th>
     </tr>
