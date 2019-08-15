@@ -11,7 +11,7 @@ UC-Davis VGL "Ancestry Test" Traits
 	  <th align="center">basepaws WGS Confirmation</th>
     </tr>
     <tr>
-      <td align="center">Agouti<br/>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a><br/></td>
+      <td align="center">Agouti<br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
       <td align="left"></td>
       <td align="left">a/a</td>
 	  <td align="left"></td>
