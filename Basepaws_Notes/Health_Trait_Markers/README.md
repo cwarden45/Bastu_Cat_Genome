@@ -103,7 +103,7 @@ UC-Davis VGL "Ancestry Test" Traits
     </tr>
     <tr>
 	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/abblood.php">AB Blood Group</a></th>
-	<th align="left"></th>
+	<th align="left"><a href="https://bmcgenet.biomedcentral.com/articles/10.1186/1471-2156-8-27">Bighignoli et al. 2007</a></th>
 	<th align="left"></th>
 	<th align="left"></th>
     </tr>
