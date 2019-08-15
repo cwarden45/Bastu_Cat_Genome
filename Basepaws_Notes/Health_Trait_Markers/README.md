@@ -109,7 +109,7 @@ UC-Davis VGL "Ancestry Test" Traits
     </tr>
     <tr>
 	 <th align="center"><a href="https://www.vgl.ucdavis.edu/services/cat/DominantWhite.php">Dominant White & White Spotting</a></th>
-	<th align="left"></th>
+	<th align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/25085922">David et al. 2014</a></th>
 	<th align="left"></th>
 	<th align="left"></th>
     </tr>
