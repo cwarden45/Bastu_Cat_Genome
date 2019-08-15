@@ -82,7 +82,7 @@ UC-Davis VGL "Ancestry Test" Traits
     </tr>
     <tr>
 	    <td align="center"><b>Scottish Fold</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/ScottishFold.php">Scottish Fold Test</a></i></td>
-      <td align="left"></td>
+      <td align="left"><a href="https://en.wikipedia.org/wiki/Scottish_Fold">Wikipedia</a></td>
       <td align="left">N/N</td>
 	  <td align="left"></td>
 	  <td align="left"></td>
