@@ -61,7 +61,7 @@ UC-Davis VGL "Ancestry Test" Traits
     </tr>
     <tr>
 	    <td align="center"><b>Devon</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/cat/SphynxDevonRexCoat.php">Sphynx/Devon Rex Test</a></i></td>
-      <td align="left"></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/20953787">Gandolfi et al. 2010</a></td>
       <td align="left">N/N</td>
 	  <td align="left"></td>
 	  <td align="left"></td>
