@@ -75,7 +75,7 @@ UC-Davis VGL "Ancestry Test" Traits
     </tr>
     <tr>
 	    <td align="center"><b>Selkirk Rex</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/cat/SelkirkRex.php">Selkirk Rex Coat Test</a></i></td>
-      <td align="left"></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3695623/">Filler et al. 2012?</a></td>
       <td align="left">N/N</td>
 	  <td align="left"></td>
 	  <td align="left"></td>
