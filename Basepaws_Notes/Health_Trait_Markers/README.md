@@ -14,35 +14,35 @@ UC-Davis VGL "Ancestry Test" Traits
 	    <td align="center"><b>Agouti</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/25143047">Gershony et al. 2014</a></td>
       <td align="left">a/a</td>
-	  <td align="left"></td>
+	  <td align="left"><i>ASIP</i></br><i>: </i>(c.122_123delCA)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Brown</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16104383">Lyons et al. 2005</a></br><a href="https://www.ncbi.nlm.nih.gov/pubmed/15858157">Schmidt-Küntzel et al. 2005</a></td>
       <td align="left">B/B</td>
-	  <td align="left"></td>
+	  <td align="left"><i>TYRP1</i></br><i>: </i>(c.8C > G)</br><i>: </i>(c.298C > T)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Colorpoint</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15771720">Lyons et al. 2005</a></td>
       <td align="left">C/C</td>
-      <td align="left"></td>
+	<td align="left"><i>TYR</i></br><i>: </i>(<b>C<sup>b</sup></b>,c.715G>T)</br><i>: </i>()</br><i>: </i>()</td>
       <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Dilute</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16860533">Ishida et al. 2006</a></td>
       <td align="left">D/d</td>
-	  <td align="left"></td>
+	  <td align="left"><i></i></br><i>: </i>()</td>
 	  <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>MC1R</b><br/><i>Also "Amber" in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/19422360">Peterschmitt et al. 2009</a></td>
       <td align="left">E/E</td>
-	  <td align="left"></td>
+	  <td align="left"><i></i></br><i>: </i>()</td>
 	  <td align="left"></td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@ UC-Davis VGL "Ancestry Test" Traits
 	    <td align="center"><b>Sphynx</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/cat/SphynxDevonRexCoat.php">Sphynx/Devon Rex Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/20953787">Gandolfi et al. 2010</a></td>
       <td align="left">N/N</td>
-	  <td align="left"></td>
+	  <td align="left"><i></i></br><i>: </i>()</td>
 	  <td align="left"></td>
     </tr>
     <tr>
