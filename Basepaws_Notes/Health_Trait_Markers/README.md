@@ -172,34 +172,12 @@ GTGTCTTACCGTCTCCCTGAACTTGCAGTCAACG
 	<th align="left">CMAH</th>
 	<th align="left"></th>
     </tr>
-    <tr>
-	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/cat/MPSVI.php">Mucopolysaccharidosis VI (MPSVI s/m)</a></th>
-	    <th align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/8910299">Yogalingam et al. 1996</a><br><a href="https://www.ncbi.nlm.nih.gov/pubmed/9593674">Yogalingam et al. 1998</a><br><a href="https://www.ncbi.nlm.nih.gov/pubmed/9421472">Crawley et al. 1998</a></th>
-	<th align="left">ARSB</th>
-	<th align="left"></th>
-    </tr>
-    <tr>
-	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/pkd1.php">Polycystic Kidney Disease (PKD1)</a></th>
-	<th align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15466259">Lyons et al. 2004</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></th>
-	<th align="left">PKD1</th>
-	<th align="left"></th>
-    </tr>
-	<tr>
-	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/cat/pra.php">Progressive Retinal Atrophy (PRA)</a></th>
-	<th align="left"><a href="https://bmcvetres.biomedcentral.com/articles/10.1186/1746-6148-8-207">Grahn et al. 2012</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></th>
-	<th align="left">CEP290 or CRX</th>
-	<th align="left"></th>
-    </tr>
 </tbody>
 </table>
 
 I found a [Lyons 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/) review that seems to cover a lot of what I described above (even if it doesn't have a more direct publication).
 
 I'm skipping some of the breed-specific diseases, although I would guess those might be covered by the targeted sequencing for basepaws (and I hope I will eventually have a report for my normal WGS data, as opposted to lcWGS and amplicon sequencing).
-
-However, I am also learning more about the cat health results.  For example, I also see a **PRA / PK Deficiency Package** that indicates the PK and PRA results listed above are actually probably much more likely to be found in "*Abyssinian, Somali and domestic shorthair cat breeds*".  So, I'm not sure if I should really consider this like the breed-enrichedbreed-specific disease markers.
-
-Likewise, the specific information for **Mucopolysaccharidosis VI (MPSVI)** indicates higher risk for "*Birman, Ragdoll, Siamese and related breeds, Domestic Shorthair*" breeds.
 
 basepaws Health Results
 -----------------
