@@ -49,7 +49,7 @@ UC-Davis VGL "Ancestry Test" Traits
 	    <td align="center"><b>Long Hair</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/cat/CatLongHair.php">Long Hair Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/17433015">Drogemuller et al. 2007</a></br><a href="https://www.ncbi.nlm.nih.gov/pubmed/17767004">Kehler et al. 2007</a></br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">N/M3</td>
-	  <td align="left"><i>FGF5</i></br><i>B1: </i>(<b>M1</b>, c.356insT)</br><i>B1: </i>(<b>M2</b>, c.406C>T)</br><i>B1: </i>(<b>M3</b>, c.474delT)</br><i>B1: </i>(<b>M4</b>, c.475A>C)</td>
+	  <td align="left"><i>FGF5 (chrB1:142,165,360-142,186,050)</i></br><i>B1: </i>(<b>M1</b>, c.356insT)</br><i>B1: </i>(<b>M2</b>, c.406C>T)</br><i>B1: </i>(<b>M3</b>, c.474delT)</br><i>B1: </i>(<b>M4</b>, c.475A>C)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
