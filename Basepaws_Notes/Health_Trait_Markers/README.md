@@ -155,7 +155,7 @@ GTGTCTTACCGTCTCCCTGAACTTGCAGTCAACG
 	<th align="center">Bastu basepaws WGS</th>
     </tr>
     <tr>
-	<th align="center">White Gloves<br><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></th>
+	<th align="center">White Gloves<br>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></th>
 	<th align="left"></th>
 	<th align="left"><i>KIT</i></th>
 	<th align="left"></th>
