@@ -157,7 +157,7 @@ GTGTCTTACCGTCTCCCTGAACTTGCAGTCAACG
     <tr>
 	<th align="center">White Gloves<br>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></th>
 	<th align="left"></th>
-	<th align="left"><i>KIT</i></th>
+	<th align="left">KIT</th>
 	<th align="left"></th>
     </tr>
     <tr>
