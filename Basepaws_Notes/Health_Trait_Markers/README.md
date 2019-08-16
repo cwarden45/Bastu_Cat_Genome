@@ -12,65 +12,65 @@ UC-Davis VGL "Ancestry Test" Traits
     </tr>
     <tr>
 	    <td align="center"><b>Agouti</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
-      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/25143047">Gershony et al. 2014</a></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/25143047">Gershony et al. 2014</a></br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">a/a</td>
 	  <td align="left"><i>ASIP</i></br><i>: </i>(c.122_123delCA)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Brown</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
-      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16104383">Lyons et al. 2005</a></br><a href="https://www.ncbi.nlm.nih.gov/pubmed/15858157">Schmidt-Küntzel et al. 2005</a></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16104383">Lyons et al. 2005</a></br><a href="https://www.ncbi.nlm.nih.gov/pubmed/15858157">Schmidt-Küntzel et al. 2005</a></br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">B/B</td>
 	  <td align="left"><i>TYRP1</i></br><i>: </i>(c.8C > G)</br><i>: </i>(c.298C > T)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Colorpoint</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
-      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15771720">Lyons et al. 2005</a></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15771720">Lyons et al. 2005</a></br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">C/C</td>
 	<td align="left"><i>TYR</i></br><i>: </i>(<b>C<sup>b</sup></b>,c.715G>T)</br><i>: </i>(<b>C<sup>S</sup></b>,c.940G>A)</br><i>: </i>(<b>c</b>, c.975delC)</td>
       <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Dilute</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
-      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16860533">Ishida et al. 2006</a></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16860533">Ishida et al. 2006</a></br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">D/d</td>
-	  <td align="left"><i></i></br><i>: </i>()</td>
+	  <td align="left"><i>MLPH</i></br><i>: </i>(c.83delT)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>MC1R</b><br/><i>Also "Amber" in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
-      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/19422360">Peterschmitt et al. 2009</a></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/19422360">Peterschmitt et al. 2009</a></br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">E/E</td>
-	  <td align="left"><i></i></br><i>: </i>()</td>
+	  <td align="left"><i>MC1R</i></br><i>: </i>(c.250G>A)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Long Hair</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/cat/CatLongHair.php">Long Hair Test</a></i></td>
-      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/17433015">Drogemuller et al. 2007</a></br><a href="https://www.ncbi.nlm.nih.gov/pubmed/17767004">Kehler et al. 2007</a></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/17433015">Drogemuller et al. 2007</a></br><a href="https://www.ncbi.nlm.nih.gov/pubmed/17767004">Kehler et al. 2007</a></br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">N/M3</td>
 	  <td align="left"><i>FGF5</i></br><i>B1: </i>(<b>M1</b>, c.356insT)</br><i>B1: </i>(<b>M2</b>, c.406C>T)</br><i>B1: </i>(<b>M3</b>, c.474delT)</br><i>B1: </i>(<b>M4</b>, c.475A>C)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Cornish</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/cat/CornishRex.php">Cornish Rex Coat Test</a></i></td>
-      <td align="left"></td>
+      <td align="left"></br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">N/N</td>
-	  <td align="left"></td>
-	  <td align="left"></td>
+      <td align="left"><i>KRT71</i></td>
+      <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Devon</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/cat/SphynxDevonRexCoat.php">Sphynx/Devon Rex Test</a></i></td>
-      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/20953787">Gandolfi et al. 2010</a></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/20953787">Gandolfi et al. 2010</a></br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">N/N</td>
-	  <td align="left"></td>
+	  <td align="left"><i>KRT71</i></br><i>: </i>(c.1108-4_1184del)</br><i>: </i>(c.1184_1185ins AGTTGGAG)</br><i>: </i>(c.1196insT)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Sphynx</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/cat/SphynxDevonRexCoat.php">Sphynx/Devon Rex Test</a></i></td>
-      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/20953787">Gandolfi et al. 2010</a></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/20953787">Gandolfi et al. 2010</a></br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">N/N</td>
-	  <td align="left"><i></i></br><i>: </i>()</td>
+	  <td align="left"><i>KRT71</i></br><i>: </i>()</td>
 	  <td align="left"></td>
     </tr>
     <tr>
@@ -104,7 +104,7 @@ UC-Davis VGL "Ancestry Test" Traits
     <tr>
 	 <th align="center"><b>White Gloves</b></br><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></th>
 	<th align="left"></th>
-	<th align="left"></th>
+	<th align="left"><i>KIT</i></th>
 	<th align="left"></th>
     </tr>
     <tr>
@@ -115,26 +115,26 @@ UC-Davis VGL "Ancestry Test" Traits
     </tr>
     <tr>
 	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/abblood.php">AB Blood Group</a></th>
-	<th align="left"><a href="https://bmcgenet.biomedcentral.com/articles/10.1186/1471-2156-8-27">Bighignoli et al. 2007</a></th>
-	<th align="left"></th>
+	<th align="left"><a href="https://bmcgenet.biomedcentral.com/articles/10.1186/1471-2156-8-27">Bighignoli et al. 2007</a></br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></th>
+	<th align="left"><i>CMAH</i></th>
 	<th align="left"></th>
     </tr>
     <tr>
 	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/cat/MPSVI.php">Mucopolysaccharidosis VI (MPSVI s/m)</a></th>
 	    <th align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/8910299">Yogalingam et al. 1996</a></br><a href="https://www.ncbi.nlm.nih.gov/pubmed/9593674">Yogalingam et al. 1998</a></br><a href="https://www.ncbi.nlm.nih.gov/pubmed/9421472">Crawley et al. 1998</a></th>
-	<th align="left"></th>
+	<th align="left"><i>ARSB</i></th>
 	<th align="left"></th>
     </tr>
     <tr>
 	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/pkd1.php">Polycystic Kidney Disease (PKD1)</a></th>
-	<th align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15466259">Lyons et al. 2004</a></th>
-	<th align="left"></th>
+	<th align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15466259">Lyons et al. 2004</a></br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></th>
+	<th align="left"><i>PKD1</i></th>
 	<th align="left"></th>
     </tr>
 	<tr>
 	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/cat/pra.php">Progressive Retinal Atrophy (PRA)</a></th>
-	<th align="left"><a href="https://bmcvetres.biomedcentral.com/articles/10.1186/1746-6148-8-207">Grahn et al. 2012</a></th>
-	<th align="left"></th>
+	<th align="left"><a href="https://bmcvetres.biomedcentral.com/articles/10.1186/1746-6148-8-207">Grahn et al. 2012</a></br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></th>
+	<th align="left"><i>CEP290</i> or <i>CRX</i></th>
 	<th align="left"></th>
     </tr>
 </tbody>
