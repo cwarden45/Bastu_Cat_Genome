@@ -90,6 +90,14 @@ UC-Davis VGL "Ancestry Test" Traits
 </tbody>
 </table>
 
+I think validating these markers in my WGS data may be more difficult than I was expecting.  For example, there were relatively few mutations in the [cat GAPDH gene](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/IGV_BWA-MEM_Realign_Coverage_GAPDH.PNG), but the handful of genes that I visualized in IGV seem to be noticably more divergent:
+
+![BWA-MEM re-aligned FGF5 coverage](FGF5_LongHair.PNG "coverage in cat FGF5 gene")
+
+![BWA-MEM re-aligned TYR coverage](TYR_Colorpoint.PNG "coverage in cat TYR gene")
+
+![BWA-MEM re-aligned MLPH coverage](FGF5_LongHair.PNG "coverage in cat MLPH gene")
+
 (Selected) Other UC-Davis VGL Traits / Health Results
 -----------------
 
