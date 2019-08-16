@@ -19,23 +19,23 @@ UC-Davis VGL "Ancestry Test" Traits
     </tr>
     <tr>
 	    <td align="center"><b>Brown</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
-      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16104383">Lyons et al. 2005</a></br><a href="https://www.ncbi.nlm.nih.gov/pubmed/15858157">Schmidt-Küntzel et al. 2005</a></br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16104383">Lyons et al. 2005</a><br/><a href="https://www.ncbi.nlm.nih.gov/pubmed/15858157">Schmidt-Küntzel et al. 2005</a><br/><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">B/B</td>
-	  <td align="left"><i>TYRP1</i></br><i>: </i>(c.8C > G)</br><i>: </i>(c.298C > T)</td>
+	  <td align="left"><i>TYRP1</i></br><i>: </i>(c.8C > G)<br/><i>: </i>(c.298C > T)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Colorpoint</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
-      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15771720">Lyons et al. 2005</a></br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15771720">Lyons et al. 2005</a><br/><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">C/C</td>
 	<td align="left"><i>TYR</i></br><i>: </i>(<b>C<sup>b</sup></b>,c.715G>T)</br><i>: </i>(<b>C<sup>S</sup></b>,c.940G>A)</br><i>: </i>(<b>c</b>, c.975delC)</td>
       <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Dilute</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
-      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16860533">Ishida et al. 2006</a></br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16860533">Ishida et al. 2006</a><br/><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">D/d</td>
-	  <td align="left"><i>MLPH</i></br><i>: </i>(c.83delT)</td>
+	  <td align="left"><i>MLPH</i><br/><i>: </i>(c.83delT)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
@@ -61,7 +61,7 @@ UC-Davis VGL "Ancestry Test" Traits
     </tr>
     <tr>
 	    <td align="center"><b>Devon</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/cat/SphynxDevonRexCoat.php">Sphynx/Devon Rex Test</a></i></td>
-      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/20953787">Gandolfi et al. 2010</a></br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
+      <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/20953787">Gandolfi et al. 2010</a><br/><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">N/N</td>
 	  <td align="left"><i>KRT71</i></br><i>: </i>(c.1108-4_1184del)</br><i>: </i>(c.1184_1185ins AGTTGGAG)</br><i>: </i>(c.1196insT)</td>
 	  <td align="left"></td>
