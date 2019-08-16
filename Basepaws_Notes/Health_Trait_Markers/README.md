@@ -92,10 +92,15 @@ UC-Davis VGL "Ancestry Test" Traits
 
 I think validating these markers in my WGS data may be more difficult than I was expecting.  For example, there were relatively few mutations in the [cat GAPDH gene](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/IGV_BWA-MEM_Realign_Coverage_GAPDH.PNG), but the handful of genes that I visualized in IGV seem to be noticably more divergent:
 
+**FGF5 (Long Hair)**:
 ![BWA-MEM re-aligned FGF5 coverage](FGF5_LongHair.png "coverage in cat FGF5 gene")
 
+[Figure 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3756544/figure/F1/) in the [Kehler et al. 2007](https://www.ncbi.nlm.nih.gov/pubmed/17767004) paper makes it look like the stop codon is disrupted in M3 (causing a longer sequence to be translated.  However, I am having a hard time finding that deletion in my IGV view (although I should probably be using some code to parse the gene annotation file).
+
+**TYR (Lynx/Siamese Point, Colorpoint Restriction)**:
 ![BWA-MEM re-aligned TYR coverage](TYR_Colorpoint.png "coverage in cat TYR gene")
 
+**MLPH (Dilute)**:
 ![BWA-MEM re-aligned MLPH coverage](FGF5_LongHair.png "coverage in cat MLPH gene")
 
 (Selected) Other UC-Davis VGL Traits / Health Results
