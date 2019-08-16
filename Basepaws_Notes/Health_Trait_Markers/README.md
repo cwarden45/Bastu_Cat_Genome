@@ -169,25 +169,25 @@ GTGTCTTACCGTCTCCCTGAACTTGCAGTCAACG
     <tr>
 	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/abblood.php">AB Blood Group</a></th>
 	<th align="left"><a href="https://bmcgenet.biomedcentral.com/articles/10.1186/1471-2156-8-27">Bighignoli et al. 2007</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></th>
-	<th align="left"><i>CMAH</i></th>
+	<th align="left">CMAH</th>
 	<th align="left"></th>
     </tr>
     <tr>
 	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/cat/MPSVI.php">Mucopolysaccharidosis VI (MPSVI s/m)</a></th>
 	    <th align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/8910299">Yogalingam et al. 1996</a><br><a href="https://www.ncbi.nlm.nih.gov/pubmed/9593674">Yogalingam et al. 1998</a><br><a href="https://www.ncbi.nlm.nih.gov/pubmed/9421472">Crawley et al. 1998</a></th>
-	<th align="left"><i>ARSB</i></th>
+	<th align="left">ARSB</th>
 	<th align="left"></th>
     </tr>
     <tr>
 	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/pkd1.php">Polycystic Kidney Disease (PKD1)</a></th>
 	<th align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15466259">Lyons et al. 2004</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></th>
-	<th align="left"><i>PKD1</i></th>
+	<th align="left">PKD1</th>
 	<th align="left"></th>
     </tr>
 	<tr>
 	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/cat/pra.php">Progressive Retinal Atrophy (PRA)</a></th>
 	<th align="left"><a href="https://bmcvetres.biomedcentral.com/articles/10.1186/1746-6148-8-207">Grahn et al. 2012</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></th>
-	<th align="left"><i>CEP290</i> or <i>CRX</i></th>
+	<th align="left">CEP290 or CRX</th>
 	<th align="left"></th>
     </tr>
 </tbody>
