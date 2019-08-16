@@ -28,14 +28,14 @@ UC-Davis VGL "Ancestry Test" Traits
 	    <td align="center"><b>Colorpoint</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15771720">Lyons et al. 2005</a><br/><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">C/C</td>
-	<td align="left"><i>TYR</i></br><i>: </i>(<b>C<sup>b</sup></b>,c.715G>T)</br><i>: </i>(<b>C<sup>S</sup></b>,c.940G>A)</br><i>: </i>(<b>c</b>, c.975delC)</td>
+	<td align="left"><i>TYR (chrD4:40,068,827-40,087,673)</i></br><i>: </i>(<b>C<sup>b</sup></b>,c.715G>T)</br><i>: </i>(<b>C<sup>S</sup></b>,c.940G>A)</br><i>: </i>(<b>c</b>, c.975delC)</td>
       <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Dilute</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16860533">Ishida et al. 2006</a><br/><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">D/d</td>
-	  <td align="left"><i>MLPH</i><br/><i>: </i>(c.83delT)</td>
+	  <td align="left"><i>MLPH (chrC1:219,396,738-219,434,022)</i><br/><i>: </i>(c.83delT)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
