@@ -179,5 +179,7 @@ I found a [Lyons 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/) re
 
 I'm skipping some of the breed-specific diseases, although I would guess those might be covered by the targeted sequencing for basepaws (and I hope I will eventually have a report for my normal WGS data, as opposted to lcWGS and amplicon sequencing).
 
+For human, I think I can use information in the BOOGIE paper ([Giollo et al. 2014](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0124579)) to determine my own blood type?
+
 basepaws Health Results
 -----------------
