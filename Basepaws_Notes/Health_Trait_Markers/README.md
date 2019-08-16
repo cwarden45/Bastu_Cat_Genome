@@ -102,7 +102,7 @@ UC-Davis VGL "Ancestry Test" Traits
 	<th align="center">Bastu basepaws WGS</th>
     </tr>
     <tr>
-	 <th align="center"><b>White Gloves</b></br><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></th>
+	 <th align="center"><b>White Gloves</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></th>
 	<th align="left"></th>
 	<th align="left"><i>KIT</i></th>
 	<th align="left"></th>
