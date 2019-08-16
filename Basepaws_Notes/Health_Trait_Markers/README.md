@@ -28,7 +28,7 @@ UC-Davis VGL "Ancestry Test" Traits
 	    <td align="center"><b>Colorpoint</b><br/><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15771720">Lyons et al. 2005</a></td>
       <td align="left">C/C</td>
-	<td align="left"><i>TYR</i></br><i>: </i>(<b>C<sup>b</sup></b>,c.715G>T)</br><i>: </i>()</br><i>: </i>()</td>
+	<td align="left"><i>TYR</i></br><i>: </i>(<b>C<sup>b</sup></b>,c.715G>T)</br><i>: </i>(<b>C<sup>S</sup></b>,c.940G>A)</br><i>: </i>(<b>c</b>, c.975delC)</td>
       <td align="left"></td>
     </tr>
     <tr>
