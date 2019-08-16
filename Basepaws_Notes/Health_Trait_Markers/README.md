@@ -97,6 +97,46 @@ I think validating these markers in my WGS data may be more difficult than I was
 
 [Figure 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3756544/figure/F1/) in the [Kehler et al. 2007](https://www.ncbi.nlm.nih.gov/pubmed/17767004) paper makes it look like the stop codon is disrupted in M3 (causing a longer sequence to be translated.  However, I am having a hard time finding that deletion in my IGV view (although I should probably be using some code to parse the gene annotation file).
 
+So, I think I may need to look into what exactly gets amplified with the primers from the [Kehler et al. 2007](https://www.ncbi.nlm.nih.gov/pubmed/17767004) primers in the supplemental materials:
+
+*Exon Primers (Table A1)*:
+
+```
+>Exon1_F
+CGCCGAGATCCATTCGAG
+>Exon1_R
+TAGATGCACCTTCACCCAAC
+>Exon2_F
+AGAGGAGTCTGTGTTTTATTTTGGG
+>Exon2_R
+GTAAAATCTCYRTAACACCTTTAAC
+>Exon3_F
+GACCTCATTTTATTAGATGCT
+>Exon3_R
+AAGGCATGGTTTCTCACCAG
+```
+
+*M1/M2 Primers (Table A2a)*:
+```
+>M1_F
+TGTAAAACGACGGCCAGTTCTACTGCAGAGTGGGCATC
+>M1_R
+GTGTCTTGCTTAGGACGCGCTTTGC
+>M1_F
+GTGTCTTGTACCTCAGGGGATTGTAGGAGTA
+>M1_R
+TGTAAAACGACGGCCAGTTCTCCTGTAACACCTTTAACAAACA
+```
+
+*M3/M4 Primers (Table A2b)*:
+
+```
+>M3_M4_F
+TGTAAAACGACGGCCAGTGACCTCATTTTATTAGATGCT
+>M3_M4_R
+GTGTCTTACCGTCTCCCTGAACTTGCAGTCAACG
+```
+
 **TYR (Lynx/Siamese Point, Colorpoint Restriction)**:
 ![BWA-MEM re-aligned TYR coverage](TYR_Colorpoint.png "coverage in cat TYR gene")
 
