@@ -137,6 +137,8 @@ TGTAAAACGACGGCCAGTGACCTCATTTTATTAGATGCT
 GTGTCTTACCGTCTCCCTGAACTTGCAGTCAACG
 ```
 
+![Separate FGF5 Exon Alignment](Exon3_2alignments.png "Separate FGF5 Exon Alignment")
+
 **TYR (Lynx/Siamese Point, Colorpoint Restriction)**:
 ![BWA-MEM re-aligned TYR coverage](TYR_Colorpoint.png "coverage in cat TYR gene")
 
