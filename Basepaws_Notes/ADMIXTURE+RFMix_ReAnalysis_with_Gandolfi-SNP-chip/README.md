@@ -58,6 +58,7 @@ In terms of getting an idea about the robustness of the ancestry groups and bree
 ![2-group PCA](PCA_ancestry_2groups.png)
 ![3-group PCA](PCA_ancestry_3groups.png)
 ![Breeds with 20+ cats](PCA_ancestry_breed_20cats.png)
+![3-group PCA, with Maine Coon](PCA_ancestry_3groups-plus-Maine-Coon.png)
 
 For example, I wasn't initially sure what to think about the "Persian" group, but there seems to be some separate clustering.  However, by this metric, I think Abyssinian should be more of a separate group than Persian.
 
