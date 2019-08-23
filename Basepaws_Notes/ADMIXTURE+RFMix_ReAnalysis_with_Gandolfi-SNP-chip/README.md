@@ -40,7 +40,16 @@ While I expect there can be some random variations (meaning I'm not sure how dif
       <td align="left">0.11</td>
       <td align="left">0.65</td>
      </tr>
-
+    <tr>
+      <td align="center">Unsupervised, K=6</td>
+      <td align="left">0.10</td>
+      <td align="left">0.59</td>
+     </tr>
+    <tr>
+      <td align="center">Unsupervised, K=12</td>
+      <td align="left">0.11</td>
+      <td align="left">0.47</br>(0.21 Maine Coon?)</td>
+     </tr>
 </tbody>
 </table>
 
