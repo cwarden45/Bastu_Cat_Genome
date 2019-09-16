@@ -185,3 +185,5 @@ For human, I think I can use information in the BOOGIE paper ([Giollo et al. 201
 
 basepaws Health Results
 -----------------
+
+For those who got the more typical sequencing (lcWGS ancestry + Amplicon-Seq health), there are these white papers to [learn more about the results](https://www.basepaws.com/wp-content/uploads/2019/09/Feline-Health-Markers.pdf).
