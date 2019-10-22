@@ -145,6 +145,8 @@ GTGTCTTACCGTCTCCCTGAACTTGCAGTCAACG
 **MLPH (Dilute)**:
 ![BWA-MEM re-aligned MLPH coverage](FGF5_LongHair.png "coverage in cat MLPH gene")
 
+In order for me to help keep track of these things, basepaws had a [blog post](https://www.basepaws.com/blog/cat-coat-genetics/) about traits (but I don't believe they have targeted sequencing of those regions, to include in the report).
+
 (Selected) Other UC-Davis VGL Traits / Health Results
 -----------------
 
@@ -182,8 +184,6 @@ I found a [Lyons 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/) re
 I'm skipping some of the breed-specific diseases, although I would guess those might be covered by the targeted sequencing for basepaws (and I hope I will eventually have a report for my normal WGS data, as opposted to lcWGS and amplicon sequencing).
 
 For human, I think I can use information in the BOOGIE paper ([Giollo et al. 2014](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0124579)) and/or [bloodTyper](https://bitbucket.org/lucare/bloodtyper/src/master/) ([Lane et al. 2018](https://www.ncbi.nlm.nih.gov/pubmed/29780001)) to determine my own blood type?
-
-In order for me to help keep track of these things, basepaws had a [blog post](https://www.basepaws.com/blog/cat-coat-genetics/) about traits (but I don't believe they have targeted sequencing of those regions, to include in the report).
 
 basepaws Health Results
 -----------------
