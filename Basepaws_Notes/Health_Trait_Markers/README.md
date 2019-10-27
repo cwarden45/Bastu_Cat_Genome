@@ -50,7 +50,7 @@ UC-Davis VGL "Ancestry Test" Traits
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/17433015">Drogemuller et al. 2007</a><br><a href="https://www.ncbi.nlm.nih.gov/pubmed/17767004">Kehler et al. 2007</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">N/M3</td>
 	  <td align="left"><i>FGF5</i><br><i><b>M1</b>: </i>(c.356insT)<br><i><b>M2</b>: </i>(c.406C>T)<br><i><b>M3</b>: </i>(c.474delT)<br><i><b>M4</b>: </i>(c.475A>C)</td>
-	    <td align="left"><b>M1</b>:<br><b>M2</b>:<br><b>M3</b>: chrB1:142,165,953 (<b>validated</b>)<br><b>M4</b>:</td>
+	    <td align="left"><b>M1</b>:<br><b>M2</b>:<br><b>M3</b>: chrB1:142,165,953 (<b>Validated Het</b>)<br><b>M4</b>:</td>
     </tr>
     <tr>
 	    <td align="center"><b>Cornish</b><br><i>Also in <a href="https://www.vgl.ucdavis.edu/services/cat/CornishRex.php">Cornish Rex Coat Test</a></i></td>
