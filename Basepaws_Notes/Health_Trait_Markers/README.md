@@ -21,7 +21,7 @@ UC-Davis VGL "Ancestry Test" Traits
 	    <td align="center"><b>Brown</b><br><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16104383">Lyons et al. 2005</a><br><a href="https://www.ncbi.nlm.nih.gov/pubmed/15858157">Schmidt-Küntzel et al. 2005</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">B/B</td>
-	  <td align="left"><i>TYRP1 </i><br><i><b>b</b>: </i>(c.8C > G)<br><i>: </i>(c.298C > T)</td>
+	  <td align="left"><i>TYRP1 </i><br><i>: </i>(c.8C > G)<br><i>: </i>(c.298C > T)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
