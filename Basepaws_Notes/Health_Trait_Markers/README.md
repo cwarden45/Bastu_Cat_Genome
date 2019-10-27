@@ -95,53 +95,15 @@ I think validating these markers in my WGS data may be more difficult than I was
 **FGF5 (Long Hair)**:
 ![BWA-MEM re-aligned FGF5 coverage](FGF5_LongHair.png "coverage in cat FGF5 gene")
 
-[Figure 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3756544/figure/F1/) in the [Kehler et al. 2007](https://www.ncbi.nlm.nih.gov/pubmed/17767004) paper makes it look like the stop codon is disrupted in M3 (causing a longer sequence to be translated.  However, I am having a hard time finding that deletion in my IGV view (although I should probably be using some code to parse the gene annotation file).
-
-So, I think I may need to look into what exactly gets amplified with the primers from the [Kehler et al. 2007](https://www.ncbi.nlm.nih.gov/pubmed/17767004) primers in the supplemental materials:
-
-*Exon Primers (Table A1)*:
-
-```
->Exon1_F
-CGCCGAGATCCATTCGAG
->Exon1_R
-TAGATGCACCTTCACCCAAC
->Exon2_F
-AGAGGAGTCTGTGTTTTATTTTGGG
->Exon2_R
-GTAAAATCTCYRTAACACCTTTAAC
->Exon3_F
-GACCTCATTTTATTAGATGCT
->Exon3_R
-AAGGCATGGTTTCTCACCAG
-```
-
-*M1/M2 Primers (Table A2a)*:
-```
->M1_F
-TGTAAAACGACGGCCAGTTCTACTGCAGAGTGGGCATC
->M1_R
-GTGTCTTGCTTAGGACGCGCTTTGC
->M1_F
-GTGTCTTGTACCTCAGGGGATTGTAGGAGTA
->M1_R
-TGTAAAACGACGGCCAGTTCTCCTGTAACACCTTTAACAAACA
-```
-
-*M3/M4 Primers (Table A2b)*:
-
-```
->M3_M4_F
-TGTAAAACGACGGCCAGTGACCTCATTTTATTAGATGCT
->M3_M4_R
-GTGTCTTACCGTCTCCCTGAACTTGCAGTCAACG
-```
-
-![Separate FGF5 Exon Alignment](Exon3_2alignments.png "Separate FGF5 Exon Alignment")
+It took me a little while to sort through the details, but [Figure 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3756544/figure/F1/) in the [Kehler et al. 2007](https://www.ncbi.nlm.nih.gov/pubmed/17767004) paper shows the del474T mutation causing a frameshift towards the beginning of the 3rd exon in FGF5.
 
 In particular, I have found that I need to use the CDS sequences from each of the separate 3 exons (Supplemental Figure A1-a to A1-c), to match the RefSeq protein sequence that I can download from UCSC:
 
 ![FGF5 Peptide Sequence Alignment](FGF5_ClustalOmega.PNG "FGF5 Peptide Sequence Alignment")
+
+You can also download GTF gene annotations, and I can **successfully validate Bastu's M3 mutation from her UC-Davis report in her basepaws WGS data**:
+
+![FGF5 M3 Validation](Bastu_M3_Validation.PNG "FGF5 M3 Validation")
 
 **TYR (Lynx/Siamese Point, Colorpoint Restriction)**:
 ![BWA-MEM re-aligned TYR coverage](TYR_Colorpoint.png "coverage in cat TYR gene")
