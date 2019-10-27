@@ -36,7 +36,7 @@ UC-Davis VGL "Ancestry Test" Traits
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16860533">Ishida et al. 2006</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">D/d</td>
 	  <td align="left"><i>MLPH </i><br><i><b>d</b>: </i>(c.83delT)</td>
-	    <td align="left"><b>d</b>:chrC1:219,396,820 (<i>Present in <b>1</b> Read</i>)</td>
+	    <td align="left"><b>d</b>: chrC1:219,396,820 (<i>Present in <b>1</b> Read</i>)</td>
     </tr>
     <tr>
 	    <td align="center"><b>MC1R</b><br><i>Also "Amber" in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
