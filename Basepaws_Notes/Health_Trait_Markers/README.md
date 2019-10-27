@@ -14,14 +14,14 @@ UC-Davis VGL "Ancestry Test" Traits
 	    <td align="center"><b>Agouti</b><br><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/25143047">Gershony et al. 2014</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">a/a</td>
-	  <td align="left"><i>ASIP</i><br><i>: </i>(c.122_123delCA)</td>
+	  <td align="left"><i>ASIP (chrA3:25,082,293-25,086,689)</i><br><i>: </i>(c.122_123delCA)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Brown</b><br><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16104383">Lyons et al. 2005</a><br><a href="https://www.ncbi.nlm.nih.gov/pubmed/15858157">Schmidt-Küntzel et al. 2005</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">B/B</td>
-	  <td align="left"><i>TYRP1</i><br><i>: </i>(c.8C > G)<br><i>: </i>(c.298C > T)</td>
+	  <td align="left"><i>TYRP1 (chrD4:40,068,827-40,087,672)</i><br><i>: </i>(c.8C > G)<br><i>: </i>(c.298C > T)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
@@ -42,7 +42,7 @@ UC-Davis VGL "Ancestry Test" Traits
 	    <td align="center"><b>MC1R</b><br><i>Also "Amber" in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/19422360">Peterschmitt et al. 2009</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">E/E</td>
-	  <td align="left"><i>MC1R</i><br><i>: </i>(c.250G>A)</td>
+	  <td align="left"><i>MC1R (chrE2:63,829,685-63,830,638)</i><br><i>: </i>(c.250G>A)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
@@ -63,14 +63,14 @@ UC-Davis VGL "Ancestry Test" Traits
 	    <td align="center"><b>Devon</b><br><i>Also in <a href="https://www.vgl.ucdavis.edu/services/cat/SphynxDevonRexCoat.php">Sphynx/Devon Rex Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/20953787">Gandolfi et al. 2010</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">N/N</td>
-	  <td align="left"><i>KRT71</i><br><i>: </i>(c.1108-4_1184del)<br><i>: </i>(c.1184_1185ins AGTTGGAG)<br><i>: </i>(c.1196insT)</td>
+	  <td align="left"><i>KRT71 (chrB4:81,043,895-81,053,411)</i><br><i>: </i>(c.1108-4_1184del)<br><i>: </i>(c.1184_1185ins AGTTGGAG)<br><i>: </i>(c.1196insT)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Sphynx</b><br><i>Also in <a href="https://www.vgl.ucdavis.edu/services/cat/SphynxDevonRexCoat.php">Sphynx/Devon Rex Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/20953787">Gandolfi et al. 2010</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">N/N</td>
-	  <td align="left"><i>KRT71</i><br><i>: </i>()</td>
+	  <td align="left"><i>KRT71 (chrB4:81,043,895-81,053,411)</i><br><i>: </i>()</td>
 	  <td align="left"></td>
     </tr>
     <tr>
@@ -127,7 +127,7 @@ In order for me to help keep track of these things, basepaws had a [blog post](h
     <tr>
 	<th align="center">White Gloves<br>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></th>
 	<th align="left"></th>
-	<th align="left">KIT</th>
+	<th align="left">KIT (chrB1:163,952,978-164,039,337)</th>
 	<th align="left"></th>
     </tr>
     <tr>
@@ -139,7 +139,7 @@ In order for me to help keep track of these things, basepaws had a [blog post](h
     <tr>
 	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/abblood.php">AB Blood Group</a></th>
 	<th align="left"><a href="https://bmcgenet.biomedcentral.com/articles/10.1186/1471-2156-8-27">Bighignoli et al. 2007</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></th>
-	<th align="left">CMAH</th>
+	<th align="left">CMAH (chrB2:4,877,564-4,990,770)</th>
 	<th align="left"></th>
     </tr>
 </tbody>
