@@ -15,7 +15,7 @@ UC-Davis VGL "Ancestry Test" Traits
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/25143047">Gershony et al. 2014</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">a/a</td>
 	  <td align="left"><i>ASIP </i><br><i><b>a</b>: </i>(c.122_123delCA)</td>
-	  <td align="left"></td>
+	  <td align="left"><b>a</b>:</td>
     </tr>
     <tr>
 	    <td align="center"><b>Brown</b><br><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
@@ -36,7 +36,7 @@ UC-Davis VGL "Ancestry Test" Traits
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16860533">Ishida et al. 2006</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">D/d</td>
 	  <td align="left"><i>MLPH </i><br><i><b>d</b>: </i>(c.83delT)</td>
-	  <td align="left"></td>
+	  <td align="left"><b>d</b>:</td>
     </tr>
     <tr>
 	    <td align="center"><b>MC1R</b><br><i>Also "Amber" in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
