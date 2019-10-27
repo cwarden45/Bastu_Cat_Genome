@@ -139,6 +139,10 @@ GTGTCTTACCGTCTCCCTGAACTTGCAGTCAACG
 
 ![Separate FGF5 Exon Alignment](Exon3_2alignments.png "Separate FGF5 Exon Alignment")
 
+In particular, I have found that I need to use the CDS sequences from each of the separate 3 exons (Supplemental Figure A1-a to A1-c), to match the RefSeq protein sequence that I can download from UCSC:
+
+![FGF5 Peptide Sequence Alignment](FGF5_ClustalOmega.png "FGF5 Peptide Sequence Alignment")
+
 **TYR (Lynx/Siamese Point, Colorpoint Restriction)**:
 ![BWA-MEM re-aligned TYR coverage](TYR_Colorpoint.png "coverage in cat TYR gene")
 
