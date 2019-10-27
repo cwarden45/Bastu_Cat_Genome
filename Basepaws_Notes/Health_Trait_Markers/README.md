@@ -15,7 +15,7 @@ UC-Davis VGL "Ancestry Test" Traits
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/25143047">Gershony et al. 2014</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">a/a</td>
 	  <td align="left"><i>ASIP </i><br><i><b>a</b>: </i>(c.122_123delCA)</td>
-	  <td align="left"><b>a</b>: chrA3:25,086,566-25,086,567 (<b>Validated Homo</b>)</td>
+	  <td align="left"><b>a</b>: chrA3:25,086,566-25,086,567 (<b>Validated Homozygous</b>)</td>
     </tr>
     <tr>
 	    <td align="center"><b>Brown</b><br><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
@@ -50,7 +50,7 @@ UC-Davis VGL "Ancestry Test" Traits
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/17433015">Drogemuller et al. 2007</a><br><a href="https://www.ncbi.nlm.nih.gov/pubmed/17767004">Kehler et al. 2007</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">N/M3</td>
 	  <td align="left"><i>FGF5</i><br><i><b>M1</b>: </i>(c.356insT)<br><i><b>M2</b>: </i>(c.406C>T)<br><i><b>M3</b>: </i>(c.474delT)<br><i><b>M4</b>: </i>(c.475A>C)</td>
-	    <td align="left"><b>M3</b>: chrB1:142,165,953 (<b>Validated Het</b>)</td>
+	    <td align="left"><b>M3</b>: chrB1:142,165,953 (<b>Validated Heterozygous</b>)</td>
     </tr>
     <tr>
 	    <td align="center"><b>Cornish</b><br><i>Also in <a href="https://www.vgl.ucdavis.edu/services/cat/CornishRex.php">Cornish Rex Coat Test</a></i></td>
