@@ -105,11 +105,14 @@ You can also download GTF gene annotations, and I can **successfully validate Ba
 
 ![FGF5 M3 Validation](Bastu_M3_Validation.png "FGF5 M3 Validation")
 
-**TYR (Lynx/Siamese Point, Colorpoint Restriction)**:
-![BWA-MEM re-aligned TYR coverage](TYR_Colorpoint.png "coverage in cat TYR gene")
+**ASIP (Agouti)**:
+![BWA-MEM re-aligned ASIP coverage](ASIP_Agouti.png "coverage in cat ASIP gene")
 
 **MLPH (Dilute)**:
 ![BWA-MEM re-aligned MLPH coverage](FGF5_LongHair.png "coverage in cat MLPH gene")
+
+**TYR (Lynx/Siamese Point, Colorpoint Restriction)**:
+![BWA-MEM re-aligned TYR coverage](TYR_Colorpoint.png "coverage in cat TYR gene")
 
 In order for me to help keep track of these things, basepaws had a [blog post](https://www.basepaws.com/blog/cat-coat-genetics/) about traits (but I don't believe they have targeted sequencing of those regions, to include in the report).
 
