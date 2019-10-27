@@ -103,7 +103,7 @@ In particular, I have found that I need to use the CDS sequences from each of th
 
 You can also download GTF gene annotations, and I can **successfully validate Bastu's M3 mutation from her UC-Davis report in her basepaws WGS data**:
 
-![FGF5 M3 Validation](Bastu_M3_Validation.PNG "FGF5 M3 Validation")
+![FGF5 M3 Validation](Bastu_M3_Validation.png "FGF5 M3 Validation")
 
 **TYR (Lynx/Siamese Point, Colorpoint Restriction)**:
 ![BWA-MEM re-aligned TYR coverage](TYR_Colorpoint.png "coverage in cat TYR gene")
