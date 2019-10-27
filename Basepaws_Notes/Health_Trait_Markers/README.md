@@ -108,8 +108,12 @@ You can also download GTF gene annotations, and I can **successfully validate Ba
 **ASIP (Agouti)**:
 ![BWA-MEM re-aligned ASIP coverage](ASIP_Agouti.png "coverage in cat ASIP gene")
 
+![ASIP Validation](Bastu_ASIP_Validation.png "ASIP Validation")
+
 **MLPH (Dilute)**:
 ![BWA-MEM re-aligned MLPH coverage](FGF5_LongHair.png "coverage in cat MLPH gene")
+
+![MLPH Validation](Bastu_MLPH_Validation.png "ASIP Partial Validation")
 
 **TYR (Lynx/Siamese Point, Colorpoint Restriction)**:
 ![BWA-MEM re-aligned TYR coverage](TYR_Colorpoint.png "coverage in cat TYR gene")
