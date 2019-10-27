@@ -14,42 +14,42 @@ UC-Davis VGL "Ancestry Test" Traits
 	    <td align="center"><b>Agouti</b><br><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/25143047">Gershony et al. 2014</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">a/a</td>
-	  <td align="left"><i>ASIP </i><br><i>: </i>(c.122_123delCA)</td>
+	  <td align="left"><i>ASIP </i><br><i><b>a</b>: </i>(c.122_123delCA)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Brown</b><br><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16104383">Lyons et al. 2005</a><br><a href="https://www.ncbi.nlm.nih.gov/pubmed/15858157">Schmidt-Küntzel et al. 2005</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">B/B</td>
-	  <td align="left"><i>TYRP1 </i><br><i>: </i>(c.8C > G)<br><i>: </i>(c.298C > T)</td>
+	  <td align="left"><i>TYRP1 </i><br><i><b>b</b>: </i>(c.8C > G)<br><i>: </i>(c.298C > T)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Colorpoint</b><br><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15771720">Lyons et al. 2005</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">C/C</td>
-	<td align="left"><i>TYR </i><br><i>: </i>(<b>C<sup>b</sup></b>,c.715G>T)<br><i>: </i>(<b>C<sup>S</sup></b>,c.940G>A)<br><i>: </i>(<b>c</b>, c.975delC)</td>
+	<td align="left"><i>TYR </i><br><i><b>C<sup>b</sup></b>: </i>(c.715G>T)<br><i><b>C<sup>S</sup></b>: </i>(c.940G>A)<br><i><b>c</b>: </i>(c.975delC)</td>
       <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Dilute</b><br><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/16860533">Ishida et al. 2006</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">D/d</td>
-	  <td align="left"><i>MLPH </i><br><i>: </i>(c.83delT)</td>
+	  <td align="left"><i>MLPH </i><br><i><b>d</b>: </i>(c.83delT)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>MC1R</b><br><i>Also "Amber" in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/19422360">Peterschmitt et al. 2009</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">E/E</td>
-	  <td align="left"><i>MC1R </i><br><i>: </i>(c.250G>A)</td>
+	  <td align="left"><i>MC1R </i><br><i><b>e</b>: </i>(c.250G>A)</td>
 	  <td align="left"></td>
     </tr>
     <tr>
 	    <td align="center"><b>Long Hair</b><br><i>Also in <a href="https://www.vgl.ucdavis.edu/services/cat/CatLongHair.php">Long Hair Test</a></i></td>
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/17433015">Drogemuller et al. 2007</a><br><a href="https://www.ncbi.nlm.nih.gov/pubmed/17767004">Kehler et al. 2007</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">N/M3</td>
-	  <td align="left"><i>FGF5</i><br><i>B1: </i>(<b>M1</b>, c.356insT)<br><i>B1: </i>(<b>M2</b>, c.406C>T)<br><i>B1: </i>(<b>M3</b>, c.474delT)<br><i>B1: </i>(<b>M4</b>, c.475A>C)</td>
+	  <td align="left"><i>FGF5</i><br><i><b>M1</b>: </i>(c.356insT)<br><i><b>M2</b>: </i>(c.406C>T)<br><i><b>M3</b>: </i>(c.474delT)<br><i><b>M4</b>: </i>(c.475A>C)</td>
 	    <td align="left"><b>M1</b>:<br><b>M2</b>:<br><b>M3</b>: chrB1:142,165,953 (<b>validated</b>)<br><b>M4</b>:</td>
     </tr>
     <tr>
