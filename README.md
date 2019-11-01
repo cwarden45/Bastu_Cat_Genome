@@ -46,3 +46,13 @@ basepaws 15x WGS Read1: https://storage.googleapis.com/bastu-cat-genome/HCWGS000
 basepaws 15x WGS Read2: https://storage.googleapis.com/bastu-cat-genome/HCWGS0003.23.HCWGS0003_2.fastq.gz
 
 I still have money left from my $300 Google Cloud credit, but I don't know how much the charge is for people to download from a public link.  However, that should be available in the immediate future.
+
+**basepaws [Coach My Cat](https://shop.basepaws.com/collections/coach-my-cat/products/coach-my-cat-health-behavior-program)**:
+
+I'm not sure how much genomic information will be considered (since I didn't get a regular kit).
+
+10/31/2019 - Started filling out information on-line
+
+This should be a 12-week program, where I beleive 3 sessions are included for free.
+
+I paid $120, but I think the cost is expected to increase to $300?
