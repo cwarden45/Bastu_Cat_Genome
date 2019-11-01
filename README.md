@@ -55,7 +55,7 @@ This should be a 12-week program, where I beleive 3 sessions are included for fr
 
 I'm not sure how much genomic information will be considered (since I didn't get a regular kit).
 
-10/31/2019 - Started filling out information on-line ("Health and Wellness Assessment" and "Weekly Cat Journal")
+*10/31/2019* - Started filling out information on-line ("Health and Wellness Assessment" and "Weekly Cat Journal")
 
 **MyCatDNA / Optimal Selection ($99)**:
 
