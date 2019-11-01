@@ -51,7 +51,7 @@ I still have money left from my $300 Google Cloud credit, but I don't know how m
 
 I'm not sure how much genomic information will be considered (since I didn't get a regular kit).
 
-10/31/2019 - Started filling out information on-line
+10/31/2019 - Started filling out information on-line ("Health and Wellness Assessment" and "Weekly Cat Journal")
 
 This should be a 12-week program, where I beleive 3 sessions are included for free.
 
