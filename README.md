@@ -57,7 +57,17 @@ I'm not sure how much genomic information will be considered (since I didn't get
 
 *10/31/2019* - Started filling out information on-line ("Health and Wellness Assessment" and "Weekly Cat Journal")
 
+**basepaws (mouth swab, $129.00)**:
+
+Purchased Test on 11/1/2019
+
+In order to be able to simplify being able to get another report, I ordered another kit (and I waited to be charged the full new amount, to be fair).
+
+If raw data is eventually provided, I am also extremely interested to see samples from the same cat in different batches (since, I would expect low-coverage WGS to be more prone to batch effects, even though I would guess the Amplicon-Seq health markers are mostly OK).
+
 **MyCatDNA / Optimal Selection ($99)**:
+
+Purchased Test on 10/31/2019
 
 I guess I will find out if the report is the same, but I started trying to order a [MyCatDNA](https://www.mycatdna.com/en/) test and I was informed that I had to purchase a test through [Optimal Selection](https://www.optimal-selection.com/optimal_selection_cats/) (since I was a US customer).
 
