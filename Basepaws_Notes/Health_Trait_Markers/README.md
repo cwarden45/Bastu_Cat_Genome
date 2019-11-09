@@ -133,7 +133,7 @@ In order for me to help keep track of these things, basepaws had a [blog post](h
     </tr>
     <tr>
 	<th align="center">White Gloves<br>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></th>
-	<th align="left"></th>
+	<th align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/25385592">Montague et al. 2014</a></th>
 	<th align="left">KIT</th>
 	<th align="left"></th>
     </tr>
