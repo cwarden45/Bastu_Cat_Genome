@@ -59,6 +59,8 @@ I'm not sure how much genomic information will be considered (since I didn't get
 
 *11/10/2019* - Completed 2 of 12 weeks on-line.  I scheduled a live session, but those were't actually available until March 2020 (which will be after the 12 weeks have completed).  **I have no complaints about the timing of responses of the chats (with responses within ~24 hours).**  However, this makes me think perhaps 1-2 free "live" 30 minute real-time sessions should be offered instead of 3.  Likewise, I noticed some sessions are at times that are probably very inconvenient for the coach (like 1 AM on a Saturday).
 
+*11/13/2019* -While there are currently still some bugs to work out (which might have also affected the live sessions), I really did like [Week 3](https://twitter.com/cwarden45/status/1195781695925936128) in terms of having substantiative eductional content.
+
 **basepaws (mouth swab, $129.00)**:
 
 Purchased Test on 11/1/2019
