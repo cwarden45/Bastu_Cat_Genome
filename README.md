@@ -63,6 +63,8 @@ I'm not sure how much genomic information will be considered (since I didn't get
 
 *11/20/2019* - The calendar issue has been fixed (you can schedule an earlier session, and hours are more reasonable).  I also went back to revise the *11/10/2019* comment.
 
+I have some Data Science courses that I would like to complete first, but I noticed Coursera also had courses from the University of Edinburgh like "[The Truth About Cats and Dogs](https://www.coursera.org/learn/cats-and-dogs?)", "[EDIVET: Do you have what it takes to be a veterinarian?](https://www.coursera.org/learn/becoming-a-veterinarian)", and "[Animal Behaviour and Welfare](https://www.coursera.org/learn/animal-welfare)"
+
 **basepaws (mouth swab, $129.00)**:
 
 Purchased Test on 11/1/2019
