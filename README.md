@@ -81,6 +81,8 @@ Purchased Test on 10/31/2019
 
 Activated Kit / Collected Sample on 11/4/2019
 
+Recieved Report on 11/25/2019
+
 I guess I will find out if the report is the same, but I started trying to order a [MyCatDNA](https://www.mycatdna.com/en/) test and I was informed that I had to purchase a test through [Optimal Selection](https://www.optimal-selection.com/optimal_selection_cats/) (since I was a US customer).
 
 The e-mail receipt came from a "**wisdomhealth.com**" e-mail.  If I try to go to that address, I get re-directed to [https://www.wisdompanel.com/](https://www.wisdompanel.com/).  You can't actually order a cat DNA test on that website, but I think this might explain what was meant by "***Wisdom Panel for Cats***" on [this article](https://www.certapet.com/cat-dna-test/) (even though they didn't mention the UC-Davis VGL)
