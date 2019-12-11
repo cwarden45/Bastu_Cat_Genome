@@ -63,6 +63,8 @@ I'm not sure how much genomic information will be considered (since I didn't get
 
 *11/20/2019* - The calendar issue has been fixed (you can schedule an earlier session, and hours are more reasonable).  I also went back to revise the *11/10/2019* comment.
 
+*12/6/2019* - I had a live session with Coach Becky, which I think went well (although I will schedule one earlier in the day next time, if I schedule more of my 3 free sessions).
+
 basepaws also has educational content within [it's blog](https://www.basepaws.com/blog/).  On a slightly different note, I have some Data Science courses that I would like to complete first, but I noticed Coursera also had courses from the University of Edinburgh like "[The Truth About Cats and Dogs](https://www.coursera.org/learn/cats-and-dogs?)", "[EDIVET: Do you have what it takes to be a veterinarian?](https://www.coursera.org/learn/becoming-a-veterinarian)", and "[Animal Behaviour and Welfare](https://www.coursera.org/learn/animal-welfare)".  However, those won't provide behavior advice for your own cat.
 
 **basepaws (mouth swab, $129.00)**:
