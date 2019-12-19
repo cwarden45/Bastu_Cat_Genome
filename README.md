@@ -79,7 +79,7 @@ E-mail that Sample has been Sequencing on 11/25/2019
 
 E-mail that Sequencing has been Completed on 12/9/2019 (but report is *not* ready - that is estimated in another 2-3 weeks).
 
-E-mail that Report is Ready 12/18/2019 (for lcWGS : Amplicon-Seq variants not ready yet).
+E-mail that Report is Ready 12/18/2019 (for lcWGS : *Amplicon-Seq variants not ready yet*).
 
 If raw data is eventually provided, I am also extremely interested to see samples from the same cat in different batches (since, I would expect low-coverage WGS to be more prone to batch effects, even though I would guess the Amplicon-Seq health markers are mostly OK).
 
