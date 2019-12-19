@@ -69,6 +69,8 @@ basepaws also has educational content within [it's blog](https://www.basepaws.co
 
 **basepaws (mouth swab, $129.00)**:
 
+In order to be able to simplify being able to get another report, I ordered another kit (and I waited to be charged the full new amount, to be fair).
+
 Purchased Test on 11/1/2019
 
 Activated Kit / Collected Sample on 11/6/2019
@@ -77,9 +79,11 @@ E-mail that Sample has been Sequencing on 11/25/2019
 
 E-mail that Sequencing has been Completed on 12/9/2019 (but report is *not* ready - that is estimated in another 2-3 weeks).
 
-In order to be able to simplify being able to get another report, I ordered another kit (and I waited to be charged the full new amount, to be fair).
+E-mail that Report is Ready 12/18/2019 (for lcWGS : Amplicon-Seq variants not ready yet).
 
 If raw data is eventually provided, I am also extremely interested to see samples from the same cat in different batches (since, I would expect low-coverage WGS to be more prone to batch effects, even though I would guess the Amplicon-Seq health markers are mostly OK).
+
+As noted above, I don't have the specific variant information yet, but I will update this when that is available.
 
 **MyCatDNA / Optimal Selection ($99)**:
 
