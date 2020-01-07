@@ -166,7 +166,7 @@ For those who got the more typical sequencing (lcWGS ancestry + Amplicon-Seq hea
 Optimal Selection Trait and Health Mutations
 -----------------
 
-As mentioned in [my blog post](http://cdwscience.blogspot.com/2019/12/review-of-results-data-from-3-cat-dna.html), there is at least one variant with questionable coverage with ~15x basepaws sequencing that could be validated from Optimal Selection (from the UC-Davis VGL results).  That was the dilute variant in the MLPH gene.
+As mentioned in [my blog post](http://cdwscience.blogspot.com/2019/12/review-of-results-data-from-3-cat-dna.html), there is at least one variant with questionable coverage with ~15x basepaws sequencing that could be validated from Optimal Selection (from the UC-Davis VGL results).  That was the dilute variant (d) in the MLPH gene.
 
 You can also see Bastu's Optimal Selection report [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Bastu_OptimalSelection_Report.pdf).
 
