@@ -187,7 +187,7 @@ You can also see Bastu's Optimal Selection report [here](https://github.com/cwar
 	<th align="left"></th>
     </tr>
     <tr>
-	<th align="center">Color Locus B: Chocolate and Cinnamon (2 variants)</th>
+	<th align="center">Color Locus B</br>Chocolate and Cinnamon</br>(2 variants)</th>
 	<th align="left"></th>
 	    <th align="left">B/B</br>Produces black pigment</th>
 	<th align="left"></th>
