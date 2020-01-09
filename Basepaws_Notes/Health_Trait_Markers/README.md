@@ -191,7 +191,7 @@ You can also see Bastu's Optimal Selection report [here](https://github.com/cwar
 
 If I look into the details and see the same strategy is cited, then I will remove the blood type row from the additional UC-Davis traits section.
 
-I beleive "Color Locus B" is the same as the "Brown" trait from the UC-Davis VGL, so I also omittted that from the table above.  I did not previously understand that "B/B" produces black pigment.  However, the UC-Davis [Coat Test](https://www.vgl.ucdavis.edu/services/coatcolorcat.php) does describe the variants for Chocolate and Cinnamon coat color.
+I believe "Color Locus B" is the same as the "Brown" trait from the UC-Davis VGL, so I also omittted that from the table above.  I did not previously understand that "B/B" produces black pigment.  However, the UC-Davis [Coat Test](https://www.vgl.ucdavis.edu/services/coatcolorcat.php) does describe the variants for Chocolate and Cinnamon coat color.
 
 Otherwise, Bastu's Optimal Selection report validated what I had from the UC-Davis VGL report.  She was not a carrier for any disease variants.
 
