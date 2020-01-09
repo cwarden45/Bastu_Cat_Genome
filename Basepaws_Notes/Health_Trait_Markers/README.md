@@ -185,7 +185,7 @@ You can also see Bastu's Optimal Selection report [here](https://github.com/cwar
     </tr>
     <tr>
 	<th align="center">Blood Type</br>(3 variants)</th>
-	<th align="left"></th>
+	<th align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/27755584">Omi et al. 2016</a><br><a href="https://www.ncbi.nlm.nih.gov/pubmed/27171395">Gandolfi et al. 2016</a><br><a href="https://www.ncbi.nlm.nih.gov/pubmed/30235335">Kehl et al. 2018</a></th>
 	<th align="left">Blood Type A</th>
 	<th align="left"></th>
 	<th align="left"></th>
@@ -193,7 +193,7 @@ You can also see Bastu's Optimal Selection report [here](https://github.com/cwar
 </tbody>
 </table>
 
-If I look into the details and see the same strategy is cited, then I will remove the blood type row from the additional UC-Davis traits section.
+If I look into the details and see the same strategy is cited, then I will remove the blood type row from the additional UC-Davis traits section.  Currently, it looks like both strategies search for variants in the CMAH gene, so I would at least say that the strategies for assigning blood types are related.
 
 The Optimal Selection results indicate that Bastu lacks any FERV1 insertions in the KIT gene, which I believe relates to the UC-Davis <a href="https://www.vgl.ucdavis.edu/services/cat/DominantWhite.php">Dominant White & White Spotting</a> tests mentioned above (where FERV1 is spelled out as "*feline endogenous retrovirus*").
 
