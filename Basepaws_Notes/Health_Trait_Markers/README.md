@@ -146,7 +146,7 @@ In order for me to help keep track of these things, basepaws had a [blog post](h
     <tr>
 	<th align="center"><a href="https://www.vgl.ucdavis.edu/services/abblood.php">AB Blood Group</a></th>
 	<th align="left"><a href="https://bmcgenet.biomedcentral.com/articles/10.1186/1471-2156-8-27">Bighignoli et al. 2007</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></th>
-	<th align="left">CMAH</th>
+	<th align="left">CMAH</br>(NeuGc Antigen)</th>
 	<th align="left"></th>
     </tr>
 </tbody>
