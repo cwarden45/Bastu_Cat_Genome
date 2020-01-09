@@ -163,6 +163,10 @@ basepaws Health Results
 
 For those who got the more typical sequencing (lcWGS ancestry + Amplicon-Seq health), there are these white papers to [learn more about the results](https://www.basepaws.com/wp-content/uploads/2019/09/Feline-Health-Markers.pdf).
 
+Bastu not a carrier for any disease variants.
+
+You can see Bastu's full report [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Bastu_basepaws_lcWGS%2BAmpliconSeq_200108.pdf).
+
 Optimal Selection Trait and Health Mutations
 -----------------
 
