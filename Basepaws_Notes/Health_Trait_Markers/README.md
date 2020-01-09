@@ -170,6 +170,27 @@ As mentioned in [my blog post](http://cdwscience.blogspot.com/2019/12/review-of-
 
 You can also see Bastu's Optimal Selection report [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Bastu_OptimalSelection_Report.pdf).
 
+<table>
+  <tbody>
+    <tr>
+	<th align="center">Trait</th>
+	<th align="center">Publications</th>
+	<th align="center">Bastu's Result</th>
+	<th align="center">felCat9 Variant</th>
+	<th align="center">Bastu basepaws WGS</th>
+    </tr>
+<tr>
+	<th align="center">Blood Type (3 variants)</th>
+	<th align="left"></th>
+	<th align="left">Blood Type A</th>
+	<th align="left"></th>
+	<th align="left"></th>
+    </tr>
+</tbody>
+</table>
+
+If I look into the details and see the same strategy is cited, then I will remove this from the additional UC-Davis traits section
+
 Other Notes
 -----------------
 There was a Twitter discussion about trait markers [here](https://twitter.com/esummerbell/status/1214252394223218688).
