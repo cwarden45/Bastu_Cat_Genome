@@ -140,7 +140,7 @@ In order for me to help keep track of these things, basepaws had a [blog post](h
     <tr>
 	 <th align="center"><a href="https://www.vgl.ucdavis.edu/services/cat/DominantWhite.php">Dominant White & White Spotting</a></th>
 	<th align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/25085922">David et al. 2014</a></th>
-	<th align="left"></th>
+	<th align="left">KIT</th>
 	<th align="left"></th>
     </tr>
     <tr>
@@ -195,7 +195,7 @@ You can also see Bastu's Optimal Selection report [here](https://github.com/cwar
 
 If I look into the details and see the same strategy is cited, then I will remove the blood type row from the additional UC-Davis traits section.
 
-The Optimal Selection results indicate that Bastu lacks any FERV1 insertions in the KIT gene, which I believe relates to the UC-Davis <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a> and/or <a href="https://www.vgl.ucdavis.edu/services/cat/DominantWhite.php">Dominant White & White Spotting</a> tests mentioned above.
+The Optimal Selection results indicate that Bastu lacks any FERV1 insertions in the KIT gene, which I believe relates to the UC-Davis <a href="https://www.vgl.ucdavis.edu/services/cat/DominantWhite.php">Dominant White & White Spotting</a> tests mentioned above (where FERV1 is spelled out as "feline endogenous retrovirus").
 
 I believe "Color Locus B" is the same as the "Brown" trait from the UC-Davis VGL, so I also omittted that from the table above.  I did not previously understand that "B/B" produces black pigment.  However, the UC-Davis [Coat Test](https://www.vgl.ucdavis.edu/services/coatcolorcat.php) does describe the variants for Chocolate and Cinnamon coat color.
 
