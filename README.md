@@ -81,7 +81,7 @@ E-mail that Sequencing has been Completed on 12/9/2019 (but report is *not* read
 
 E-mail that Report is Ready 12/18/2019 (for lcWGS : *Amplicon-Seq variants not ready yet*).
 
-I am not sure exactly when the mutation results became available but I noticed them in the report on **1/8/2020**.  I think this was faster than others reported in the Facebook group, so that is pretty good (although e-mail notification may have been nice).
+I am not sure exactly when the mutation results became available but I noticed them in the report on *1/8/2020*.  I think this was faster than others reported in the Facebook group, so that is pretty good (although e-mail notification may have been nice).  However, even if it was 2 months turn-around, that was faster than the previous 3-month turnaround (which was only for raw data - no analysis from basepaws).
 
 If raw data is eventually provided, I am also extremely interested to see samples from the same cat in different batches (since, I would expect low-coverage WGS to be more prone to batch effects, even though I would guess the Amplicon-Seq health markers are mostly OK).
 
