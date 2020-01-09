@@ -196,7 +196,7 @@ You can also see Bastu's Optimal Selection report [here](https://github.com/cwar
 </tbody>
 </table>
 
-If I look into the details and see the same strategy is cited, then I will remove this from the additional UC-Davis traits section
+If I look into the details and see the same strategy is cited, then I will remove the blood type row from the additional UC-Davis traits section.  Otherwise, Bastu's Optimal Selection report validated what I had from the UC-Davis VGL report.  She was not a carrier for any disease variants.
 
 Other Notes
 -----------------
