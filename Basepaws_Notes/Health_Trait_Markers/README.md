@@ -179,10 +179,17 @@ You can also see Bastu's Optimal Selection report [here](https://github.com/cwar
 	<th align="center">felCat9 Variant</th>
 	<th align="center">Bastu basepaws WGS</th>
     </tr>
-<tr>
+    <tr>
 	<th align="center">Blood Type (3 variants)</th>
 	<th align="left"></th>
 	<th align="left">Blood Type A</th>
+	<th align="left"></th>
+	<th align="left"></th>
+    </tr>
+    <tr>
+	<th align="center">Color Locus B: Chocolate and Cinnamon (2 variants)</th>
+	<th align="left"></th>
+	    <th align="left">B/B</br>Produces black pigment</th>
 	<th align="left"></th>
 	<th align="left"></th>
     </tr>
