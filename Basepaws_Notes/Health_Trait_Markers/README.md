@@ -180,7 +180,7 @@ You can also see Bastu's Optimal Selection report [here](https://github.com/cwar
 	<th align="center">Bastu basepaws WGS</th>
     </tr>
     <tr>
-	<th align="center">Blood Type (3 variants)</th>
+	<th align="center">Blood Type</br>(3 variants)</th>
 	<th align="left"></th>
 	<th align="left">Blood Type A</th>
 	<th align="left"></th>
