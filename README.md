@@ -81,9 +81,9 @@ E-mail that Sequencing has been Completed on 12/9/2019 (but report is *not* read
 
 E-mail that Report is Ready 12/18/2019 (for lcWGS : *Amplicon-Seq variants not ready yet*).
 
-If raw data is eventually provided, I am also extremely interested to see samples from the same cat in different batches (since, I would expect low-coverage WGS to be more prone to batch effects, even though I would guess the Amplicon-Seq health markers are mostly OK).
+I am not sure exactly when the mutation results became available but I noticed them in the report on **1/8/2020**.  I think this was faster than others reported in the Facebook group, so that is pretty good (although e-mail notification may have been nice).
 
-As noted above, I don't have the specific variant information yet, but I will update this when that is available.
+If raw data is eventually provided, I am also extremely interested to see samples from the same cat in different batches (since, I would expect low-coverage WGS to be more prone to batch effects, even though I would guess the Amplicon-Seq health markers are mostly OK).
 
 **MyCatDNA / Optimal Selection ($99)**:
 
