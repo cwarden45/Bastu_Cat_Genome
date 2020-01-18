@@ -67,7 +67,7 @@ I'm not sure how much genomic information will be considered (since I didn't get
 
 *1/17/2019* - Completed last session out of 12 weeks.  I also had 2 more live sessions that I could have scheduled, but I was OK with my one session.
 
-I think they are going to change some things (and provide an offer to see an alternative version).  However, at least currently, weeks 10-12 not not have a matching YouTube video, and there weren't any quizes for weeks 11 or 12.
+I think they are going to change some things (and provide an offer to see a "re-launch").  However, at least currently, weeks 10-12 not not have a matching YouTube video, and there weren't any quizes for weeks 11 or 12.
 
 basepaws also has educational content within [it's blog](https://www.basepaws.com/blog/).  On a slightly different note, I have some Data Science courses that I would like to complete first, but I noticed Coursera also had courses from the University of Edinburgh like "[The Truth About Cats and Dogs](https://www.coursera.org/learn/cats-and-dogs?)", "[EDIVET: Do you have what it takes to be a veterinarian?](https://www.coursera.org/learn/becoming-a-veterinarian)", and "[Animal Behaviour and Welfare](https://www.coursera.org/learn/animal-welfare)".  However, those won't provide behavior advice for your own cat.
 
