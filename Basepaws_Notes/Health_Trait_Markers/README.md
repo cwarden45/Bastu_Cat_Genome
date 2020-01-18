@@ -7,6 +7,8 @@ Bastu not a carrier for any disease variants.
 
 You can see Bastu's full report [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Bastu_basepaws_lcWGS%2BAmpliconSeq_200108.pdf).
 
+basepaws also has a [blog post](https://www.basepaws.com/blog/cat-coat-genetics/) about Cat Coat Genetics, but those are not currently covered in their report.
+
 UC-Davis VGL "Ancestry Test" Traits
 -----------------
 
