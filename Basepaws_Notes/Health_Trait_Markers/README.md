@@ -205,6 +205,10 @@ Otherwise, Bastu's Optimal Selection report validated what I had from the UC-Dav
 
 She was not a carrier for any disease variants.
 
+Optimal Selection mentions disease information available from [OMIA](https://omia.org/home/).
+
+As I was Googling some information for another customer's basepaws report, perhaps [vetstream](https://www.vetstream.com/) is like WebMD for animals?  For example, [this page](https://www.vetstream.com/treat/felis/diseases/factor-xii-deficiency) could confirm what I saw in other references about Factor XII deficiency being autosomal recessive. 
+
 Other Notes
 -----------------
 There was a Twitter discussion about trait markers [here](https://twitter.com/esummerbell/status/1214252394223218688).
