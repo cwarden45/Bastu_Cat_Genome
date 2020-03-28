@@ -212,3 +212,5 @@ As I was Googling some information for another customer's basepaws report, perha
 Other Notes
 -----------------
 There was a Twitter discussion about trait markers [here](https://twitter.com/esummerbell/status/1214252394223218688).
+
+I learned about the [PawPeds](https://pawpeds.com/?fbclid=IwAR3gXv9rGaC2y5_qA_rKuamyjdEms5QK-435OxrZOAUMPymWFh0XLfKCYz8) breed database from a basepaws customer in the [Basepaws Cat DNA Club](https://www.facebook.com/groups/BasepawsCatDNAClub/).
