@@ -139,8 +139,8 @@ In order for me to help keep track of these things, basepaws had a [blog post](h
     <tr>
 	<th align="center">Trait</th>
 	<th align="center">Publications</th>
-	<th align="center">felCat9 Variant</th>
-	<th align="center">Bastu basepaws WGS</th>
+	<th align="center">Variant Info</th>
+	<th align="center">basepaws WGS Confirmation</br>(felCat9)</th>
     </tr>
     <tr>
 	<th align="center">White Gloves<br>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></th>
