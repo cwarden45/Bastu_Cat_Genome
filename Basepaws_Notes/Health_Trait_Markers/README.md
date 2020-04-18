@@ -18,8 +18,8 @@ UC-Davis VGL "Ancestry Test" Traits
       <th align="center">Trait</th>
       <th align="center">Publications</th>
       <th align="center">Bastu's Result</th>
-	  <th align="center">felCat9 Variant</th>
-	  <th align="center">basepaws WGS Confirmation</th>
+	  <th align="center">Variant Info</th>
+	    <th align="center">basepaws WGS Confirmation</br>(felCat9)</th>
     </tr>
     <tr>
 	    <td align="center"><b>Agouti</b><br><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
