@@ -189,7 +189,7 @@ You can also see Bastu's Optimal Selection report [here](https://github.com/cwar
 	<th align="center">Blood Type</br>(3 variants)</th>
 	<th align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/27755584">Omi et al. 2016</a><br><a href="https://www.ncbi.nlm.nih.gov/pubmed/27171395">Gandolfi et al. 2016</a><br><a href="https://www.ncbi.nlm.nih.gov/pubmed/30235335">Kehl et al. 2018</a></th>
 	<th align="left">Blood Type A</br>(Neu5Gc Antigen)</th>
-	<th align="left"></th>
+	<th align="left">CMAH</br>(NeuGc Antigen)</th>
 	<th align="left"></th>
     </tr>
 </tbody>
