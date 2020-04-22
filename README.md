@@ -79,7 +79,7 @@ Purchased Test on 11/1/2019
 
 Activated Kit / Collected Sample on 11/6/2019
 
-E-mail that Sample has been Sequencing on 11/25/2019
+E-mail that Sequencing has been started on 11/25/2019
 
 E-mail that Sequencing has been Completed on 12/9/2019 (but report is *not* ready - that is estimated in another 2-3 weeks).
 
