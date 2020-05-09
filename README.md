@@ -49,6 +49,8 @@ I still have money left from my $300 Google Cloud credit, but I don't know how m
 
 Now, it looks like this is [officially available for $950](https://shop.basepaws.com/collections/all-products/products/whole-genome-sequencing), but they don't describe providing a report (which matches what I currently have.
 
+I believe that this was order #3277 (canceled, for hair) that was upgraded to #3405 (to provide mouth swab) with an extra invoice outside of the typical billing system (although I don't think that is necessary anymore).
+
 **basepaws [Coach My Cat](https://shop.basepaws.com/collections/coach-my-cat/products/coach-my-cat-health-behavior-program) (on sale for $120, but will increase to $300?)**:
 
 This should be a 12-week program, where I beleive 3 sessions are included for free.
@@ -71,7 +73,7 @@ I think they are going to change some things (and provide an offer to see a "re-
 
 basepaws also has educational content within [it's blog](https://www.basepaws.com/blog/).  On a slightly different note, I have some Data Science courses that I would like to complete first, but I noticed Coursera also had courses from the University of Edinburgh like "[The Truth About Cats and Dogs](https://www.coursera.org/learn/cats-and-dogs?)", "[EDIVET: Do you have what it takes to be a veterinarian?](https://www.coursera.org/learn/becoming-a-veterinarian)", and "[Animal Behaviour and Welfare](https://www.coursera.org/learn/animal-welfare)".  However, those won't provide behavior advice for your own cat.
 
-**basepaws (mouth swab, $129.00)**:
+**basepaws (mouth swab, $129.00, Order #8114)**:
 
 In order to be able to simplify being able to get another report, I ordered another kit (and I waited to be charged the full new amount, to be fair).
 
@@ -88,6 +90,8 @@ E-mail that Report is Ready 12/18/2019 (for lcWGS : *Amplicon-Seq variants not r
 I am not sure exactly when the mutation results became available but I noticed them in the report on *1/8/2020*.  I think this was faster than others reported in the Facebook group, so that is pretty good (although e-mail notification may have been nice).  However, even if it was 2 months turn-around, that was faster than the previous 3-month turnaround (which was only for raw data - no analysis from basepaws).
 
 If raw data is eventually provided, I am also extremely interested to see samples from the same cat in different batches (since, I would expect low-coverage WGS to be more prone to batch effects, even though I would guess the Amplicon-Seq health markers are mostly OK).
+
+I also ordered a technical replicate (**Order #12725**) on 3/31/2020 and I received the report on 5/8/2020 (when I also re-downloaded a report for the 1st sample that I submitted).
 
 **MyCatDNA / Optimal Selection ($99)**:
 
