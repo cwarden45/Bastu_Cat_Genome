@@ -49,7 +49,7 @@ I still have money left from my $300 Google Cloud credit, but I don't know how m
 
 Now, it looks like this is [officially available for $950](https://shop.basepaws.com/collections/all-products/products/whole-genome-sequencing), but they don't describe providing a report (which matches what I currently have.
 
-I believe that this was order #3277 (canceled, for hair) that was upgraded to #3405 (to provide mouth swab) with an extra invoice outside of the typical billing system (although I don't think that is necessary anymore).
+I believe that this was order #3277 (canceled, for hair) that was upgraded to **order #3405** (to provide mouth swab) with an extra invoice outside of the typical billing system (although I don't think that is necessary anymore).
 
 **basepaws [Coach My Cat](https://shop.basepaws.com/collections/coach-my-cat/products/coach-my-cat-health-behavior-program) (on sale for $120, but will increase to $300?)**:
 
