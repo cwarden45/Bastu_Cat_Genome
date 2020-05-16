@@ -91,7 +91,7 @@ I am not sure exactly when the mutation results became available but I noticed t
 
 If raw data is eventually provided, I am also extremely interested to see samples from the same cat in different batches (since, I would expect low-coverage WGS to be more prone to batch effects, even though I would guess the Amplicon-Seq health markers are mostly OK).
 
-I had a file on my computer noting a "fixed typo" in a report on 3/25/2020.  While the file size is different and the font size is different, I haven't been able to find the typo when I checked more recently (and both reports are supposed to be created from version 2.4).  So, I changed the name of that files, but I will add a note if I can find a typo (even if compared to my 1st report).
+I had a file on my computer noting a "fixed typo" in a report on 3/25/2020.  While the file size is different and the font size is different, I haven't been able to find the typo when I checked more recently (and both reports are supposed to be created from version 2.4).  So, I changed the name of that files, but I will add a note if I can find a typo (even if compared to my 1st report downloaded on 12/18/2019).
 
 I also ordered a technical replicate (**Order #12725**) on 3/31/2020 and I received the report on 5/8/2020 (when I also re-downloaded a report for the 1st sample that I submitted).
 
