@@ -10,6 +10,7 @@ I think there was also at least one Savannah customer who didn't have "Savannah"
 Since I have started to provide this as a link (for what I think is a common misunderstanding), I also have the following notes:
 
  - I will add another picture when the reports are updated, but you can see the difference between **technical replicates** (processed ~5 months apart) in [this blog post](http://cdwscience.blogspot.com/2019/12/review-of-results-data-from-3-cat-dna.html).
+ - Wikipedia listed the 1st Savannah cat in [1986](https://en.wikipedia.org/wiki/Savannah_cat) an the 1st Bengal cat in [1889](https://en.wikipedia.org/wiki/Bengal_cat).  The total number of pedigreed cats also matters, but I think this matches my expectation that the total Savannah cats in the world should be less than the total number of Bengal cats (which I think is also a relatively rare breed).
 
 Comparison to public SNP chip data
 -----------------
