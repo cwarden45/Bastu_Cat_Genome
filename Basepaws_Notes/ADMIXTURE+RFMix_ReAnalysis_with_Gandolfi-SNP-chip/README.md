@@ -1,11 +1,15 @@
 General Breed Notes
 -----------------
 
-Since I think is a lot of confusion in addition to some limits to precision to what the basepaws breed index means (in the context of the question "What contribution of breeds is my cat?"), I thought I should add some notes.
+Since I think is a lot of confusion in addition to some limits to precision to what the basepaws breed index means (in the context of the question "*What contribution of breeds is my cat?*"), I thought I should add some notes.
 
 While I don't yet have an answer, I think [this website](https://savannahcatbreed.com/a-b-c-sbt/) may be providing some information to makes sure that I am using the right terminology to even ask the question "*What is the maximum number of cats that could descend from a pedigreed Savannah in the World?*".  I think there are relatively few Savannahs and they are quite expensive.  So, I think this should be a small percentage of all cats.
 
 I think there was also at least one Savannah customer who didn't have "Savannah" as the breed with the highest percentile (in the "Exotic" category).  So, I think that would be a different problem than a very large (I would guess ~30%, since there are 3 Exotic breeds) number of customers who have "Savannah" their breed index with the highest percentile, since that would be like a false negative rather than a false positive.
+
+Since I have started to provide this as a link (for what I think is a common misunderstanding), I also have the following notes:
+
+ - I will add another picture when the reports are updated, but you can see the difference between **technical replicates** (processed ~5 months apart) in [this blog post](http://cdwscience.blogspot.com/2019/12/review-of-results-data-from-3-cat-dna.html).
 
 Comparison to public SNP chip data
 -----------------
