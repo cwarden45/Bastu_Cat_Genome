@@ -214,3 +214,5 @@ Other Notes
 There was a Twitter discussion about trait markers [here](https://twitter.com/esummerbell/status/1214252394223218688).
 
 I learned about the [PawPeds](https://pawpeds.com/?fbclid=IwAR3gXv9rGaC2y5_qA_rKuamyjdEms5QK-435OxrZOAUMPymWFh0XLfKCYz8) breed database from a basepaws customer in the [Basepaws Cat DNA Club](https://www.facebook.com/groups/BasepawsCatDNAClub/).
+
+There was [a book](https://www.amazon.com/Ultimate-Encyclopedia-Cats-Breeds-Care/dp/184681300X) that said the mutation causing the [Manx breed/trait](https://www.ufaw.org.uk/cats/manx-manx-syndrome) was responsible for spina bifida in humans.  I am not sure what is the best citation for this, although I think that matches the title of [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2032625/).
