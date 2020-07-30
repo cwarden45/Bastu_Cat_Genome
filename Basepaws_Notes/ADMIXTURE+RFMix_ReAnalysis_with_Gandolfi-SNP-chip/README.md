@@ -10,7 +10,7 @@ I think there was also at least one Savannah customer who didn't have "Savannah"
 Since I have started to provide this as a link (for what I think is a common misunderstanding), I also have the following notes:
 
  - I will add another picture when the reports are updated, but you can see the difference between **technical replicates** (processed ~5 months apart) in [this blog post](http://cdwscience.blogspot.com/2019/12/review-of-results-data-from-3-cat-dna.html).
- - Wikipedia listed the 1st Savannah cat in [1986](https://en.wikipedia.org/wiki/Savannah_cat)
+ - Wikipedia listed the 1st Savannah cat in [1986](https://en.wikipedia.org/wiki/Savannah_cat).
  - Wikipedia listed the 1st Bengal cat in [1889](https://en.wikipedia.org/wiki/Bengal_cat), but that was earlier than I expected.  You can also see the primary reference [here](https://archive.org/details/ourcatsallaboutt00weir/page/55/mode/2up), but there is also [another listing](https://www.purina.com/breeds/bengal-cat) that describes the first Bengal being created in **1963** (while also saying "*the hybrid wasn’t perfected until the **mid-1980s***" and the "*International Cat Association (TICA) accepted the Bengal for championship status in **1991***").  I am thankful for a customer from the [Basepaws Cat DNA Club](https://www.facebook.com/groups/BasepawsCatDNAClub) for having me look into this!
  - So, I think the total Savannah cats in the world should be less than the total number of Bengal cats (which I think is also a relatively rare breed), but I think the price and being against the law in some states may be more of a factor than the breed creation date.
  - I thought the Bengal 
