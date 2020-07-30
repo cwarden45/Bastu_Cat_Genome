@@ -13,7 +13,6 @@ Since I have started to provide this as a link (for what I think is a common mis
  - Wikipedia listed the 1st Savannah cat in [1986](https://en.wikipedia.org/wiki/Savannah_cat).
  - Wikipedia listed the 1st Bengal cat in [1889](https://en.wikipedia.org/wiki/Bengal_cat), but that was earlier than I expected.  You can also see the primary reference [here](https://archive.org/details/ourcatsallaboutt00weir/page/55/mode/2up), but there is also [another listing](https://www.purina.com/breeds/bengal-cat) that describes the first Bengal being created in **1963** (while also saying "*the hybrid wasn’t perfected until the **mid-1980s***" and the "*International Cat Association (TICA) accepted the Bengal for championship status in **1991***").  I am thankful for a customer from the [Basepaws Cat DNA Club](https://www.facebook.com/groups/BasepawsCatDNAClub) for having me look into this!
  - So, I think the total Savannah cats in the world should be less than the total number of Bengal cats (which I think is also a relatively rare breed), but I think the price and being against the law in some states may be more of a factor than the breed creation date.
- - I thought the Bengal 
  - The first chapter of the "Non-pedigreed Cats" section of [this book](https://www.amazon.com/Ultimate-Encyclopedia-Cats-Breeds-Care/dp/184681300X) says that <5% of **all cats** are pedigreed cats.  So, if **<1% of *pedigreed* cats** are Savannahs (which is my guess that I am trying to find more evidence for), then that emphasizes my point even more.
 
 Comparison to public SNP chip data
