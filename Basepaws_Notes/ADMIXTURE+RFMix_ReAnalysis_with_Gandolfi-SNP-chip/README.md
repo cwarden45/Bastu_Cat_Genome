@@ -143,3 +143,5 @@ So, I am plotting it down here, instead of above:
 ![Bastu unsupervised RFMIX, imprecise genetic mapping coordinates](Bastu_unsupervised_RFMIX-K2.png)
 
 ![Bastu supervised RFMIX](Bastu_supervised_RFMIX-K2.png)
+
+**WARNING:** To be absolutely clear, I think the chromosome painting above has problems, so I would not encourage it's use on other samples (or even to represent my cat).  There is a bit more about this in the middle of [this blog post](http://cdwscience.blogspot.com/2019/09/examples-of-visual-critical-assessment.html).
