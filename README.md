@@ -38,7 +38,7 @@ Learned data was available on 5/24/2019 (assuming this was in fact for the 2nd s
 
 Data available from AWS S3 bucket on 6/13/2019
 
-*Waiting to recieve Report*
+Download report on 10/16/2020
 
 I'm not sure if basepaws will implement automatic deposit into the [SRA](https://www.ncbi.nlm.nih.gov/sra) (with owner's permission).  However, I have re-uploaded my raw FASTQ files here:
 
