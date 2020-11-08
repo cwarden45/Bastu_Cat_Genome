@@ -1,0 +1,7 @@
+For plotting the FastQC adapter percentages, values less than 1E-10 were set to that value (unless that is beyond the read length).
+
+![Illumina Nextera Transposase Adapter"](FastQC_Nextera_Adapter_Results.png "Illumina Nextera Transposase Adapter")
+![Illumina Universal Adapter"](FastQC_Universal_Adapter_Results.png "Illumina Universal Adapter")
+![Illumina Small RNA 3prime Adapter"](FastQC_Small_RNA_3prime_Results.png "Illumina Small RNA 3prime Adapter")
+![Illumina Small RNA 5prime Adapter"](FastQC_Small_RNA_5prime_Results.png "Illumina Small RNA 5prime Adapter")
+![SOLiD Adapter"](FastQC_SOLiD_Adapter_Results.png "SOLiD Adapter")
