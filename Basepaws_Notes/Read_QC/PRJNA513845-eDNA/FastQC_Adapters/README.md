@@ -13,6 +13,6 @@ For plotting the FastQC adapter percentages, values less than 1E-10 were set to 
 ![Cutadapt-filtered Illumina Nextera Transposase Adapter"](Cutadapt-filtered_FastQC_Nextera_Adapter_Results.png "Illumina Nextera Transposase Adapter")
 ![Cutadapt-filtered Illumina Small RNA 3prime Adapter"](Cutadapt-filtered_FastQC_Small_RNA_3prime_Results.png "Illumina Small RNA 3prime Adapter")
 
-This comes from the code in the DADA2 section
+This comes from the code in the [DADA2 section](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Read_QC/PRJNA513845-eDNA/DADA2).
 
 There were also 8 MiSeq and 8 NovaSeq samples that did not have any remaining reads after this filter.
