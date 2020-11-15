@@ -4,4 +4,6 @@ The first steps of analysis are meant to match the [comment discussion]() for th
 
 You can also run `collect_FastQC_adapters.py` and `plot_adapter_results.R` to summarize the effect of the cutadapt trimming.
 
+![Remaining Reads after Cutadapt](Cutadapt-filtered_read_counts-with_sequencer.png "Read Counts by Sequencer")
+
 **2)** run_DADA2.R
