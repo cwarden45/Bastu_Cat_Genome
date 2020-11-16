@@ -15,4 +15,4 @@ For plotting the FastQC adapter percentages, values less than 1E-10 were set to 
 
 This comes from the code in the [DADA2 section](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Read_QC/PRJNA513845-eDNA/DADA2).
 
-There were also 8 MiSeq and 8 NovaSeq samples that did not have any remaining reads after this filter.
+There currently also 8 MiSeq and 8 NovaSeq samples that did not have any remaining reads after this filter.  However, a number of reads were not successfully downloaded, so  those will be  re-downloaded and updates will be  posted.
