@@ -8,7 +8,7 @@ You can also run `collect_FastQC_adapters.py` and `plot_adapter_results.R` to su
 
 **2)** Run [DADA2](https://benjjneb.github.io/dada2/tutorial.html) using `run_DADA2-by_machine.R` or `run_DADA2-separate_serial.R`
 
-I am skipping the 4 PhiX outliers, but it looks like running cutadapt removed a lot of the PhiX NovaSeq reads (when they would have been present at <1% frequency)?  This would match a response from the authors.
+I am skipping the 4 PhiX outliers, but it looks like running cutadapt removed a lot of the PhiX NovaSeq reads (when they would have been present at <1% frequency)?  This would match a response from the authors in the comment thead.
 
 **3)** Summarize DADA2 merged and corrected sequence counts.
 
