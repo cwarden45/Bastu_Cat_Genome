@@ -1,6 +1,6 @@
 The first steps of analysis are meant to match the [comment discussion]() for the eDNA paper.
 
-**1)** Trim adapters using `run_cutadapt.py`
+**1)** Trim adapters using [cutadapt](https://cutadapt.readthedocs.io/en/stable/) with `run_cutadapt.py`
 
 You can also run `collect_FastQC_adapters.py` and `plot_adapter_results.R` to summarize the effect of the cutadapt trimming.
 
