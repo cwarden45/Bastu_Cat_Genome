@@ -2,7 +2,7 @@ import os
 import sys
 import re
 
-finishedSamples = []
+finishedSamples = ["SRR8423864"]
 inputFolder = "DADA2_Processed_Reads"
 outputFolder = "PEAR"
 
@@ -24,4 +24,17 @@ for file in fileResults:
 
 			#with multi-tasking, run with only 1 thread
 			command = "/opt/pear-0.9.11-linux-x86_64/bin/pear -f " + read1 + " -r " + read2 + " -o " + pearPrefix + " -j 1"
+			os.system(command)
+			
+			assembledFQ = outputFolder + "/" + sample + ".assembled.fastq"
+			command = "gzip " + assembledFQ
+			os.system(command)
+
+			command = "rm " + outputFolder + "/" + sample + ".discarded.fastq"
+			os.system(command)
+			
+			command = "rm " + outputFolder + "/" + sample + ".unassembled.forward.fastq"
+			os.system(command)
+
+			command = "rm " + outputFolder + "/" + sample + ".unassembled.reverse.fastq"
 			os.system(command)
