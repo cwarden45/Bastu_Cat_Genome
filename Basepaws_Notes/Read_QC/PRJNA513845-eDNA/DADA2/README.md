@@ -13,3 +13,5 @@ I am skipping the 4 PhiX outliers, but it looks like running cutadapt removed a 
 **3)** Summarize DADA2 merged and corrected sequence counts.
 
 **4)** For comparison, merge sequences using [PEAR](https://cme.h-its.org/exelixis/web/software/pear/) (`run_PEAR.py`) and/or [FLASH](https://ccb.jhu.edu/software/FLASH/) (`run_FLASH.py`) and count unique sequences using [mothur](https://mothur.org/) (`run_mothur-unique_seqs.py`).
+
+*4a)* Use `reformat_unique_FASTA.py` to combine information from the mothur files (and perhaps later be modified for sequence features).
