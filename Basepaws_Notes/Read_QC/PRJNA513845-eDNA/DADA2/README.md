@@ -16,4 +16,4 @@ I am skipping the 4 PhiX outliers, but it looks like running cutadapt removed a 
 
 *4a)* Use `reformat_unique_FASTA.py` to combine information from the mothur files (and perhaps later be modified for sequence features).
 
-*4b)* Create a combined count table and plots.
+*4b)* Create a combined count table and plots (`unique_count_summary_and_table.R` followed by `unique_count_plots.R`).
