@@ -18,7 +18,7 @@ I am skipping the 4 PhiX outliers, but it looks like running cutadapt removed a 
 
 *4b)* Create a combined count table and plots (`unique_count_summary_and_table.R` followed by `unique_count_plots.R`).
 
-*For the PEAR-Merged Reads:*
+***For the PEAR-Merged Reads:***
 
 ![Partial View of Merged Length](PEAR_merged_read_length_distribution.png "Partial View of Merged Length")
 
@@ -31,7 +31,7 @@ I am skipping the 4 PhiX outliers, but it looks like running cutadapt removed a 
 ![Merged Unique (>1 in 10,000 reads) vs Total Merged](PEAR_merged_unique_merged_per10k_versus_total_merged.png "Merged Unique (>1 in 10,000 reads) vs Total Merged")
 
 
-*For the FLASH-Merged Reads:*
+***For the FLASH-Merged Reads:***
 
 ![Partial View of Merged Length](FLASH_merged_read_length_distribution.png "Partial View of Merged Length")
 
