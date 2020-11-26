@@ -33,3 +33,4 @@ AATGTATTTAATTTTTGCAATTGTTGCAGGAATTATTGGTACAGCTTTTTCAGTATTAATGAGAATTGAATTGATGCATC
 
 All reads from the Illumina sequencers should have the same length but you can see length variation in the above sequences as well as this FastQC summary for the forward read:
 
+![FastQC Length Distribution](Cutadapt-filtered_read_counts-with_sequencer.png "FastQC Length Distribution")
