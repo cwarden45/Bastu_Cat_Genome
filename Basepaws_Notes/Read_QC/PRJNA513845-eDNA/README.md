@@ -31,6 +31,6 @@ CATATCAGGTGCACCGATCATAATTGGGACAAACCAATTACCAAATCCACCAATCATTGCAGGCATTACCATGAAGAAAA
 AATGTATTTAATTTTTGCAATTGTTGCAGGAATTATTGGTACAGCTTTTTCAGTATTAATGAGAATTGAATTGATGCATCCTGGTGATGGAATTTTAGGTGGCAACTATCACTTATATAATGTGTTGGTTACAGGCCATGGATTAATAATGATTTTCTTCATGGTAATGCCTGCAATGATTGGTGGATTTGGTAATTGGTTTGTCCCAATTATGATCGGTGCACCTGATATG
 ```
 
-All reads from the Illumina sequencers should have the same length but you can see length variation in the above sequences as well as this FastQC summary for the forward read:
+Raw reads from the Illumina sequencers should have the **same length** but you can see length variation in the above sequences as well as this FastQC summary for the forward read:
 
 ![FastQC Length Distribution](sequence_length_distribution.png "FastQC Length Distribution")
