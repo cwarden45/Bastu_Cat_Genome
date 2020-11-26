@@ -17,3 +17,28 @@ I am skipping the 4 PhiX outliers, but it looks like running cutadapt removed a 
 *4a)* Use `reformat_unique_FASTA.py` to combine information from the mothur files (and perhaps later be modified for sequence features).
 
 *4b)* Create a combined count table and plots (`unique_count_summary_and_table.R` followed by `unique_count_plots.R`).
+
+*For the PEAR-Merged Reads:*
+
+![Partial View of Merged Length](PEAR_merged_read_length_distribution.png "Partial View of Merged Length")
+
+![Merged Total vs Total Cutadapt](PEAR_merged_total_merged_versus_total_cutadapt.png "Merged Total vs Total Cutadapt")
+
+![Merged Unique vs Total Merged](PEAR_merged_unique_merged_versus_total_merged.png "Merged Unique vs Total Merged")
+
+![Merged Unique (>1 read) vs Total Merged](PEAR_merged_unique_merged_multi-read_versus_total_merged.png "Merged Unique (>1 read) vs Total Merged")
+
+![Merged Unique (>1 in 10,000 reads) vs Total Merged](PEAR_merged_unique_merged_per10k_versus_total_merged.png "Merged Unique (>1 in 10,000 reads) vs Total Merged")
+
+
+*For the FLASH-Merged Reads:*
+
+![Partial View of Merged Length](FLASH_merged_read_length_distribution.png "Partial View of Merged Length")
+
+![Merged Total vs Total Cutadapt](FLASH_merged_total_merged_versus_total_cutadapt.png "Merged Total vs Total Cutadapt")
+
+![Merged Unique vs Total Merged](FLASH_merged_unique_merged_versus_total_merged.png "Merged Unique vs Total Merged")
+
+![Merged Unique (>1 read) vs Total Merged](FLASH_merged_unique_merged_multi-read_versus_total_merged.png "Merged Unique (>1 read) vs Total Merged")
+
+![Merged Unique (>1 in 10,000 reads) vs Total Merged](FLASH_merged_unique_merged_per10k_versus_total_merged.png "Merged Unique (>1 in 10,000 reads) vs Total Merged")
