@@ -14,7 +14,7 @@ I am skipping the 4 PhiX outliers, but it looks like running cutadapt removed a 
 
 **NOTE: The DADA2 analysis is still running, so this is a partial set of results**
 
-![Partial View of Merged Length](DADA2-merged-and-corrected_read_length_distribution.png "Partial View of Merged Length")
+![Partial View of Merged Length](DADA2_processed_read_length_distribution.png "Partial View of Merged Length")
 
 ![Outlier Length Percentage](DADA2-merged-and-corrected_outlier_length_percentage.png "Outlier Length Percentage")
 
