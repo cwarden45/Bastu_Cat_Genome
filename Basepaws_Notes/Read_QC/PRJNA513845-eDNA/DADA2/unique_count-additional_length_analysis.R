@@ -1,14 +1,14 @@
-#lengthTableIn="PEAR_merged_read_length_distribution.txt"
-#metaIn = "Cutadapt-filtered_read_counts-with_sequencer_and_FLASHplusPEAR_counts.txt"
-#outlierPlotOut="PEAR_merged_outlier_length_percentage.png"
-#min_plot_length=200
-#max_plot_length=300
-
-lengthTableIn="FLASH_merged_read_length_distribution.txt"
+lengthTableIn="PEAR_merged_read_length_distribution.txt"
 metaIn = "Cutadapt-filtered_read_counts-with_sequencer_and_FLASHplusPEAR_counts.txt"
-outlierPlotOut="FLASH_merged_outlier_length_percentage.png"
+outlierPlotOut="PEAR_merged_outlier_length_percentage.png"
 min_plot_length=200
 max_plot_length=300
+
+#lengthTableIn="FLASH_merged_read_length_distribution.txt"
+#metaIn = "Cutadapt-filtered_read_counts-with_sequencer_and_FLASHplusPEAR_counts.txt"
+#outlierPlotOut="FLASH_merged_outlier_length_percentage.png"
+#min_plot_length=200
+#max_plot_length=300
 
 min_length=1
 max_length=600
@@ -26,7 +26,7 @@ outlierColumns = paste("L",c(min_length:(min_plot_length-1),(max_plot_length+1):
 outlier.mat = length.table[,match(outlierColumns,names(length.table))]
 rownames(outlier.mat)=length.table$Sample
 
-outlier.percentage = apply(outlier.mat, 1, sum)
+outlier.percentage = 100 * apply(outlier.mat, 1, sum)
 
 png(outlierPlotOut)
 plot(meta.table$Sequencer, outlier.percentage,
