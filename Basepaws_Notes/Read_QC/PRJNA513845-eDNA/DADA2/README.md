@@ -10,7 +10,7 @@ You can also run `collect_FastQC_adapters.py` and `plot_adapter_results.R` to su
 
 I am skipping the 4 PhiX outliers, but it looks like running cutadapt removed a lot of the PhiX NovaSeq reads (when they would have been present at <1% frequency)?  This would match a response from the authors in the comment thead.
 
-**3)** Summarize DADA2 merged and corrected sequence counts.
+**3)** Summarize DADA2 merged and corrected sequence counts using `DADA-corrected_count_summary.R`
 
 **4)** For comparison, merge sequences using [PEAR](https://cme.h-its.org/exelixis/web/software/pear/) (`run_PEAR.py`) and/or [FLASH](https://ccb.jhu.edu/software/FLASH/) (`run_FLASH.py`) and count unique sequences using [mothur](https://mothur.org/) (`run_mothur-unique_seqs.py`).
 
