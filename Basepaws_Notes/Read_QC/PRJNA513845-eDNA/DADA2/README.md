@@ -12,6 +12,20 @@ I am skipping the 4 PhiX outliers, but it looks like running cutadapt removed a 
 
 **3)** Summarize DADA2 merged and corrected sequence counts using `DADA-corrected_count_summary.R`
 
+**NOTE: The DADA2 analysis is still running, so this is a partial set of results**
+
+![Partial View of Merged Length](DADA2-merged-and-corrected_read_length_distribution.png "Partial View of Merged Length")
+
+![Outlier Length Percentage](DADA2-merged-and-corrected_outlier_length_percentage.png "Outlier Length Percentage")
+
+![Merged Total vs Total Cutadapt](DADA2-merged-and-corrected_total_merged_versus_total_cutadapt.png "Merged Total vs Total Cutadapt")
+
+![Merged Unique vs Total Merged](DADA2-merged-and-corrected_unique_merged_versus_total_merged.png "Merged Unique vs Total Merged")
+
+![Merged Unique (>1 read) vs Total Merged](DADA2-merged-and-corrected_unique_merged_multi-read_versus_total_merged.png "Merged Unique (>1 read) vs Total Merged")
+
+![Merged Unique (>1 in 10,000 reads) vs Total Merged](DADA2-merged-and-corrected_unique_merged_per10k_versus_total_merged.png "Merged Unique (>1 in 10,000 reads) vs Total Merged")
+
 **4)** For comparison, merge sequences using [PEAR](https://cme.h-its.org/exelixis/web/software/pear/) (`run_PEAR.py`) and/or [FLASH](https://ccb.jhu.edu/software/FLASH/) (`run_FLASH.py`) and count unique sequences using [mothur](https://mothur.org/) (`run_mothur-unique_seqs.py`).
 
 *4a)* Use `reformat_unique_FASTA.py` to combine information from the mothur files (and perhaps later be modified for sequence features).
@@ -42,3 +56,11 @@ I am skipping the 4 PhiX outliers, but it looks like running cutadapt removed a 
 ![Merged Unique (>1 read) vs Total Merged](FLASH_merged_unique_merged_multi-read_versus_total_merged.png "Merged Unique (>1 read) vs Total Merged")
 
 ![Merged Unique (>1 in 10,000 reads) vs Total Merged](FLASH_merged_unique_merged_per10k_versus_total_merged.png "Merged Unique (>1 in 10,000 reads) vs Total Merged")
+
+*4c)* The exported length matrices can be used to check the percent outlier merged lengths using `unique_count-additional_length_analysis.R`.
+
+***For the PEAR-Merged Reads:***
+
+
+***For the FLASH-Merged Reads:***
+
