@@ -61,6 +61,8 @@ I am skipping the 4 PhiX outliers, but it looks like running cutadapt removed a 
 
 ***For the PEAR-Merged Reads:***
 
+![Outlier Length Percentage](PEAR_merged_outlier_length_percentage.png "Outlier Length Percentage")
 
 ***For the FLASH-Merged Reads:***
 
+![Outlier Length Percentage](FLASH_merged_outlier_length_percentage.png "Outlier Length Percentage")
