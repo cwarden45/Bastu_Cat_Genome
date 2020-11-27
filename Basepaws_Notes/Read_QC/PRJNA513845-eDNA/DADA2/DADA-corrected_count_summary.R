@@ -2,8 +2,8 @@ seqFolder = "DADA2_Processed_Reads"
 seqType = "mergedDADA2_corrected"
 metaIn = "Cutadapt-filtered_read_counts-with_sequencer_and_FLASHplusPEAR_counts.txt"
 metaOut =  "DADA2_processed_read_summary.txt"
-lengthPlot =  "PEAR_merged_read_length_distribution.png"
-lengthOut =  "PEAR_merged_read_length_distribution.txt"
+lengthPlot =  "DADA2_processed_read_length_distribution.png"
+lengthOut =  "DADA2_processed_read_length_distribution.txt"
 min_plot_length=200
 max_plot_length=300
 
