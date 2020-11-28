@@ -73,4 +73,54 @@ MT433998.1_target      GTGCACCAGACATGGCCTTCCCTCGAATAAATAACATGAG	280
 F230_F                 ----------------------------------------	25
 ```
 
+For convenience, this is the reference sequence (for 1 species) that I believe that can compared:
+
+```
+>MT433998.1_target
+GGTCAACAAATCATAAAGATATTGGCACCCTCTATCTAGTATTTGGTGCTTGAGCCGGAATAGTAGGAACTGCATTAAGCCTCCTAATTCGGGCAGAACTAAGCCAGCCCGGCTCTCTCCTCGGAGACGACCAGATTTATAATGTAATTGTTACAGCACATGCTTTCGTAATAATTTTCTTTATAGTAATGCCAATTATAATTGGAGGTTTTGGAAACTGACTAGTGCCACTAATGATTGGTGCACCAGACATGGCCTTCCCTCGAATAAATAACATGAG
+```
+
+This allows me to run the following comparison for that 1st set of paired reads:
+
+```
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Common_R               ------------------------------------------------------------	0
+MT433998.1_target      GGTCAACAAATCATAAAGATATTGGCACCCTCTATCTAGTATTTGGTGCTTGAGCCGGAA	60
+Mini_SH-E_F            -----ACAAATCATAAAGATATTGGCAC--------------------------------	23
+R1                     ----------------------------ACTTTACTTGATTTTTGGTGGGTTATCAGGAG	32
+R2_revcom              -----ACTAAGAAGAAAGACATGGGCAAACTTTACTTGATGTTTGGTGGGTTATCAGGAG	55
+                                                                                   
+
+Common_R               ------------------------------------------------------------	0
+MT433998.1_target      TAGTAGGAACTGCATTAAGCCTCCTAATTCGGGCAGAACTAA------GCCAGCCCGGCT	114
+Mini_SH-E_F            ------------------------------------------------------------	23
+R1                     TTTTGGGTACTACTATGTCTGTGCTTATTCGTCTTCAATTAGCTAGTCCTGGCAACGATT	92
+R2_revcom              TTTTGGGTACTACTATGTCTGTGCTTATTCGTAGTAAATTAGCTAGTCCTGGAAACGATT	115
+                                                                                   
+
+Common_R               ------------------------------------------------------------	0
+MT433998.1_target      CTCTCCTCGGAGACGACCAGATTTATAATGTAATTGTTACAGCACATGCTTTCGTAATAA	174
+Mini_SH-E_F            ------------------------------------------------------------	23
+R1                     TTTTAGGCGGTAATCATCAACTATATAATGTTATTGTTACAGCTCATGCCTTTTTAATGA	152
+R2_revcom              TTTTAGGCGGTAATCATCAACTATATAATGTTATTGTTACAGCTCATGCATTTTTAATGA	175
+                                                                                   
+
+Common_R               ------------------------------------------------------------	0
+MT433998.1_target      TTTTCTTTATAGTAATGCCAATTATAATTGGAGGTTTTGGAAACTGACTAGTGCCACTAA	234
+Mini_SH-E_F            ------------------------------------------------------------	23
+R1                     TTTTTTTTATGGTTATGCCAGTTCTTATAGGATGCTTTTGTAACTGGTTATTTCCACTTA	212
+R2_revcom              TTTTTTTTATGGTTATGCCAGTACTTATAGGAGGAATTGGTAACTGGATAGTAACACTTA	235
+                                                                                   
+
+Common_R               -----------------------TTCCCTCGAATAAATAACATGAG	23
+MT433998.1_target      TGATTGGTGCACCAGACATGGCCTTCCCTCGAATAAATAACATGAG	280
+Mini_SH-E_F            ----------------------------------------------	23
+R1                     TTATTGGTGCACCTGATATT--------------------------	232
+R2_revcom              TGATTGGAGAACATGATATG--------------------------	255                     
+```
+
+There are still differences between the forward and reverse read, but this makes it look like the primers should be either right next to the sequence (for the Mini_SH-E_F primer) or a little outside the sequence (for the common reverse sequence).
+
 There is also an NCBI Gene listing for [COX1](https://www.ncbi.nlm.nih.gov/gene/22164940) in *Oreochromis niloticus x Oreochromis aureus*, with a gene annotation in [NC_025669.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_025669.1).
