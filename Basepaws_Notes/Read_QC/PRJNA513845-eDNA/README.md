@@ -37,6 +37,40 @@ I can see how the forward primer for the F230 amplicon (with reference to [Gibso
 
 Likewise, if I look for the reverse complement of the shared reverse primer (after the underlined sequence in the paper, or in the PLOS ONE paper: TT[C/T]CC[?]CG[?]ATAAA[C/T]AA[C/T]ATAAG), it looks like TTCCCTCGAATAAATAACATGAG is the sequence from the [MT433998.1](https://www.ncbi.nlm.nih.gov/nucleotide/MT433998.1) reference.
 
-[Table 1](https://www.nature.com/articles/srep15894/tables/1) from the referenced [Shokralla et al. 2015](https://www.nature.com/articles/srep15894) paper also provides the forward and shared reverse primer for the Mini_SH-E amplicon.
+[Table 1](https://www.nature.com/articles/srep15894/tables/1) from the referenced [Shokralla et al. 2015](https://www.nature.com/articles/srep15894) paper also provides the forward and shared reverse primer for the Mini_SH-E amplicon.  The paper describes that as a shorter fragment, and it looks like the Clustal Omega for the other forward primer is shifted by 5 bp in the reference sequence (ACAAATCATAAAGATATTGGCAC).  For that given reference sequence, my understanding is that this can be thought of as a visualization of the amplicon:
+
+```
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Common_R               ------------------------------------------------------------	0
+Mini_SH-E_F            -----ACAAATCATAAAGATATTGGCAC--------------------------------	23
+MT433998.1_target      GGTCAACAAATCATAAAGATATTGGCACCCTCTATCTAGTATTTGGTGCTTGAGCCGGAA	60
+F230_F                 GGTCAACAAATCATAAAGATATTGG-----------------------------------	25
+                                                                                   
+
+Common_R               ------------------------------------------------------------	0
+Mini_SH-E_F            ------------------------------------------------------------	23
+MT433998.1_target      TAGTAGGAACTGCATTAAGCCTCCTAATTCGGGCAGAACTAAGCCAGCCCGGCTCTCTCC	120
+F230_F                 ------------------------------------------------------------	25
+                                                                                   
+
+Common_R               ------------------------------------------------------------	0
+Mini_SH-E_F            ------------------------------------------------------------	23
+MT433998.1_target      TCGGAGACGACCAGATTTATAATGTAATTGTTACAGCACATGCTTTCGTAATAATTTTCT	180
+F230_F                 ------------------------------------------------------------	25
+                                                                                   
+
+Common_R               ------------------------------------------------------------	0
+Mini_SH-E_F            ------------------------------------------------------------	23
+MT433998.1_target      TTATAGTAATGCCAATTATAATTGGAGGTTTTGGAAACTGACTAGTGCCACTAATGATTG	240
+F230_F                 ------------------------------------------------------------	25
+                                                                                   
+
+Common_R               -----------------TTCCCTCGAATAAATAACATGAG	23
+Mini_SH-E_F            ----------------------------------------	23
+MT433998.1_target      GTGCACCAGACATGGCCTTCCCTCGAATAAATAACATGAG	280
+F230_F                 ----------------------------------------	25
+```
 
 There is also an NCBI Gene listing for [COX1](https://www.ncbi.nlm.nih.gov/gene/22164940) in *Oreochromis niloticus x Oreochromis aureus*, with a gene annotation in [NC_025669.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_025669.1).
