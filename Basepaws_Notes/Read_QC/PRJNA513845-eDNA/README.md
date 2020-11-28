@@ -32,3 +32,5 @@ AATGTATTTAATTTTTGCAATTGTTGCAGGAATTATTGGTACAGCTTTTTCAGTATTAATGAGAATTGAATTGATGCATC
 Raw reads from the Illumina sequencers should have the **same length** (if they all come from the same run, and no post-processing filters are applied), but you can see length variation in the above sequences as well as this FastQC summary for the forward read:
 
 ![FastQC Length Distribution](sequence_length_distribution.png "FastQC Length Distribution")
+
+I can see how the forward primer for the F230 amplicon (with reference to [Gibson et al. 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0138432)) matches the beginning of COI reference sequence [MT433998.1](https://www.ncbi.nlm.nih.gov/nucleotide/MT433998.1).
