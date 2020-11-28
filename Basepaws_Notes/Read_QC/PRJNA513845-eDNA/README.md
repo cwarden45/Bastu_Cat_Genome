@@ -38,3 +38,5 @@ I can see how the forward primer for the F230 amplicon (with reference to [Gibso
 Likewise, if I look for the reverse complement of the shared reverse primer (after the underlined sequence in the paper, or in the PLOS ONE paper: TT[C/T]CC[?]CG[?]ATAAA[C/T]AA[C/T]ATAAG), 
 
 [Table 1](https://www.nature.com/articles/srep15894/tables/1) from the referenced [Shokralla et al. 2015](https://www.nature.com/articles/srep15894) paper also provides the forward and shared reverse primer for the Mini_SH-E amplicon.
+
+There is also an NCBI Gene listing for [COX1](https://www.ncbi.nlm.nih.gov/gene/22164940) in *Oreochromis niloticus x Oreochromis aureus*.
