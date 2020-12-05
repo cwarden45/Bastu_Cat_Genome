@@ -1,4 +1,4 @@
-As noted in [this file](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Read_QC/PRJNA513845-eDNA/extended_summary.xlsx), there are considerable prokaryotic taxonomy assignments from the SRA.  Most commonly, those are for "Candidatus Pelagibacter ubique" and "Candidatus Pelagibacter sp. HIMB1321", but additional assignments are also made (particuarlly as sequencing depth increases).
+As noted in [this file](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Read_QC/PRJNA513845-eDNA/extended_summary.xlsx), there are considerable prokaryotic taxonomy assignments from the SRA.  Most commonly, those are for "*Candidatus Pelagibacter ubique*" and "*Candidatus Pelagibacter sp. HIMB1321*", but additional assignments are also made (particuarlly as sequencing depth increases).
 
 So, I have tried to note some different strategies  for metagenomics analysis in order to compare to the SRA (before and after filtering)
 
