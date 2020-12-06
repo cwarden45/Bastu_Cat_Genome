@@ -21,7 +21,7 @@ However, aside from indiciating a non-trivial number of bacterial reads for euka
 
 ![FLASH Kracken2 classification](FLASH_merged_Kraken2-Bracken_domain_counts.png "FLASH Kraken2 classification")
 
-Most Kraken2 assignments were bacterial, so the plots above show the classification rate.  However, the uploaded text files also have the similar bacterial percentages.
+**Most Kraken2 assignments were bacterial**, so the plots above show the classification rate.  However, the uploaded text files also have the similar bacterial percentages.
 
 **2)** [Mash Screen](https://mash.readthedocs.io/en/latest/)
 
