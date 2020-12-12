@@ -1,5 +1,5 @@
 
-**1)** Collect unique sequences into 1 file using `combine_unique_sequences.py`
+**1)** Collect unique sequences into 1 file using `combine_unique_sequences.py` or `combine_unique_sequences-multiread.py` (*probably preferable* - this decreases the file size by an order of magnitude, even if only requiring at least 2 reads for a sequence in at least 1 sample)
 
 **2)** Run one of the following OTU clustering methods
 
