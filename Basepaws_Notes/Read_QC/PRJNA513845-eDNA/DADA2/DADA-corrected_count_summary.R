@@ -51,10 +51,20 @@ for (i in 1:length(sampleID)){
 	obs_gt10k[i]=length(temp_10k[temp_10k > 0])
 	
 	temp_length_table =  tapply(temp_table$abundance, merged_length, sum)
-	outlierLengthIndex = match(as.numeric(names(temp_length_table)),c(min_length:(min_plot_length-1),(max_plot_length+1):max_length),nomatch=0)
-	outlierLengthIndex=outlierLengthIndex[outlierLengthIndex!=0]
-	print(length(outlierLengthIndex))
-	outlierLengthPercent[i]= 100 * sum(temp_length_table[match(outlierLengthIndex,names(temp_length_table))])/mergedTotal[i]
+	outlier_lengths = c(min_length:(min_plot_length-1),(max_plot_length+1):max_length)
+	temp_outlier_values = outlier_lengths[match(as.numeric(names(temp_length_table)),outlier_lengths,nomatch=0)]
+	print(length(temp_outlier_values))
+	counts_to_sum=temp_length_table[match(temp_outlier_values,as.numeric(names(temp_length_table)))]
+	outlierLengthPercent[i]= 100 * sum(counts_to_sum)/mergedTotal[i]
+	if(is.na(outlierLengthPercent[i])){
+		print(temp_outlier_values )
+		print(dim(temp_length_table))
+		print(names(temp_length_table))
+		print(counts_to_sum)
+		print(mergedTotal[i])
+		print(temp_outlier_values [is.na(counts_to_sum)])
+		stop()
+	}#end if(is.na(outlierLengthPercent[i]))
 	
 	temp_length_table = temp_length_table / mergedTotal[i]
 	length_x = min_length:max_length
