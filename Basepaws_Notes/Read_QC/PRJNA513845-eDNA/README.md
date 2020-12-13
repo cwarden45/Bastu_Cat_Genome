@@ -126,3 +126,16 @@ R2_revcom              TGATTGGAGAACATGATATG--------------------------	255
 There are still 19 differences between the forward and reverse read, but this makes it look like the primers should be either right next to the sequence (for the Mini_SH-E_F primer) or a little outside the sequence (for the common reverse sequence).  However, it looks like the `ACTAAGAAGAAAGACATGGGCAA` sequenced on the reverse complement of the R2 read is the non-degenerate primer sequence match for this sample (for Mini_SH-E).
 
 There is also an NCBI Gene listing for [COX1](https://www.ncbi.nlm.nih.gov/gene/22164940) in *Oreochromis niloticus x Oreochromis aureus*, with a gene annotation in [NC_025669.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_025669.1).
+
+
+---
+
+## Extra follow-up questions (to decrease space in follow-up comments)
+
+**Read Sequence / Length**:
+
+**1a)**  Raw Illumina reads from a run should all have the same read length.  However, the uploaded reads have variable lengths.  So, I don't believe the untrimmed and unfiltered FASTQ files were uploaded.
+
+In addition to wanting to check how often the adjacent barcode in the sequenced adapter for small fragments varies from the intended barcode (which relates to the hosting in a GitHub subfolder for an otherwise unrelated topic), I would like to see how often there are exact matches at the ends of the sequences for the different samples as a quality measure (and possible filter among the current sequences that I am comparing).
+
+**1b)** What does the degenerate nucleotide sequence “I” represent?  I could find the [others]( https://www.bioinformatics.org/sms/iupac.html), but I apologize that I was not sure about that one.
