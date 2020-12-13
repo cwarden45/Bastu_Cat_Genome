@@ -12,7 +12,7 @@ The input FASTA file is created using `combine_unique_sequences-multiread-swarm.
 
 Swarm is then run using `run_swarm.py`.
 
-This ran successfully and was faster than VSEARCH for the set of sequences present in at least 2 reads for at least 1 sample.  So, I also tested Swarm with the full set of reads.
+This ran successfully and was faster than VSEARCH for the set of sequences present in at least 2 reads for at least 1 sample.  So, I will test Swarm with the full set of reads.
 
 *c)* mothur with filtered seqs?
 
