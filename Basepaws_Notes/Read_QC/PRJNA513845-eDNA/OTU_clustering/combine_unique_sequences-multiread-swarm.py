@@ -2,10 +2,14 @@ import os
 import sys
 import re
 
-finishedSamples = [""]
-min_reads=2
+#min_reads=2
+#inputFolder = "../DADA2/FLASH"
+#combinedFA = "FLASH_combined_unique_seqs-min_2_reads-swarm_format.fa"
+#suffix = ".count_table2"
+
+min_reads=1
 inputFolder = "../DADA2/FLASH"
-combinedFA = "FLASH_combined_unique_seqs-min_2_reads-swarm_format.fa"
+combinedFA = "FLASH_combined_unique_seqs-swarm_format.fa"
 suffix = ".count_table2"
 
 #read once to define seqs
@@ -55,6 +59,7 @@ print "Step 2) Sum Counts"
 countHash = {}
 for uniSeq in uniqueHash:
 	countHash[uniSeq]=0
+del uniqueHash
 
 fileResults = os.listdir(inputFolder)
 
@@ -94,7 +99,7 @@ for file in fileResults:
 print("Step 3) Writing Combined Sequences")
 outHandle = open(combinedFA, 'w')
 
-uniqueSeqs = uniqueHash.keys()
+uniqueSeqs = countHash.keys()
 
 for i in xrange(0,len(uniqueSeqs)):
 	uniSeq=uniqueSeqs[i]
