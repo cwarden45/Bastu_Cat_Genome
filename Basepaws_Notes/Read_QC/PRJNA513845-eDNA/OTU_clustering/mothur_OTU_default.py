@@ -17,6 +17,7 @@ os.system(command)
 
 #If I use all unique sequences, I run into issues with the job being killed for the previous step, before I could get to the cluster() step
 #even with requiring only 2 reads in at least 1 sample, I think I still have to reduce the sequence count
+#I think it could run if I required at least 10 reads in at least 1 sample.  However, the .dist file and other files from the above step filled up the remaining ~30% of my hard drive.  So, I will skip this and focus on swarm/vsearch.
 
 dist = re.sub(".fasta$",".dist",inputFA)
 dist = re.sub(".fa$",".dist",dist)
