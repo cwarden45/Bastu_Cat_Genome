@@ -17,4 +17,4 @@ This ran successfully and was faster than VSEARCH for the set of sequences prese
 You can see a legend for the vsearch `--uc` output file [here](https://manpages.debian.org/stretch/vsearch/vsearch.1).
 
 
-**3)** Create revised table of counts based upon mapping between clusters and each unique sequence
+**3)** Create revised table of counts based upon mapping between clusters and each unique sequence using `create_OTU_count_table-uclust_format.pl`
