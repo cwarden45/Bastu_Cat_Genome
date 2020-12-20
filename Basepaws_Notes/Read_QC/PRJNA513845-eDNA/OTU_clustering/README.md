@@ -17,6 +17,8 @@ This ran successfully and was faster than VSEARCH for the set of sequences prese
 You can see a legend for the vsearch `--uc` output file [here](https://manpages.debian.org/stretch/vsearch/vsearch.1).
 
 
-**3)** Create revised table of counts based upon mapping between clusters and each unique sequence using `create_OTU_count_table-uclust_format.pl`
+**3)** Create revised count table of counts based upon mapping between clusters and each unique sequence using `create_OTU_count_table-uclust_format.pl`
 
 I installed the [BioPerl](https://bioperl.org/index.html) dependency by entering a `cpan` shell and running `install Bundle::BioPerl` (as described [here](http://etutorials.org/Programming/perl+bioinformatics/Part+II+Perl+and+Bioinformatics/Chapter+9.+Introduction+to+Bioperl/9.2+Installing+Bioperl/))
+
+**4)** Similar to the original unique count tables, create summary plots.
