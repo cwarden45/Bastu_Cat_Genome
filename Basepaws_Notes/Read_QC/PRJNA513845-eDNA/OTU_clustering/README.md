@@ -19,8 +19,6 @@ You can see a legend for the vsearch `--uc` output file [here](https://manpages.
 
 **3)** Create revised count table of counts based upon mapping between clusters and each unique sequence using `create_OTU_count_table-uclust_format.pl`
 
-I believe that you can install the full [BioPerl](https://bioperl.org/index.html) dependency by entering a `cpan` shell and running `install Bundle::BioPerl` (as described [here](http://etutorials.org/Programming/perl+bioinformatics/Part+II+Perl+and+Bioinformatics/Chapter+9.+Introduction+to+Bioperl/9.2+Installing+Bioperl/)).
-
-However, I think it is quicker to run `cpan Bio::SeqIO` for this particular script.
+I believe that you can install the full [BioPerl](https://bioperl.org/index.html) dependency by entering a `cpan` shell and running `install Bundle::BioPerl` (as described [here](http://etutorials.org/Programming/perl+bioinformatics/Part+II+Perl+and+Bioinformatics/Chapter+9.+Introduction+to+Bioperl/9.2+Installing+Bioperl/)).  You can also try to run `cpan Bio::SeqIO` for just this particular script.
 
 **4)** Similar to the original unique count tables, create summary plots.
