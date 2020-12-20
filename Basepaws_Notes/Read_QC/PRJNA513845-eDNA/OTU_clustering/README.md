@@ -14,5 +14,7 @@ This ran successfully and was faster than VSEARCH for the set of sequences prese
 
 *b)* [vsearch](https://github.com/torognes/vsearch) using `run_vsearch.py`
 
+You can see a legend for the vsearch `--uc` output file [here](https://manpages.debian.org/stretch/vsearch/vsearch.1).
+
 
 **3)** Create revised table of counts based upon mapping between clusters and each unique sequence
