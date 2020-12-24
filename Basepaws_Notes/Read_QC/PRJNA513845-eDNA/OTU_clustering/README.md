@@ -48,7 +48,7 @@ I believe that you can install the full [BioPerl](https://bioperl.org/index.html
 
 **4)** Similar to the [original unique count tables](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Read_QC/PRJNA513845-eDNA/DADA2), create summary plots using `unique_count_summary_and_table.R` followed by `unique_count_plots.R` (2 sequencer groups) or `unique_count_plots-2.R` (4 sequencer +  amplicon groups).
 
-**Swarm (all FLASH-Merged Reads):***
+**Swarm (all FLASH-Merged Reads):**
 
 ![Partial View of Merged Length](Swarm-min2reads-FLASH_merged_read_length_distribution.png "Partial View of Merged Length")
 
@@ -61,6 +61,6 @@ I believe that you can install the full [BioPerl](https://bioperl.org/index.html
 ![Merged Unique (>1 in 10,000 reads) vs Total Merged](Swarm.min2reads.FLASH_merged_unique_merged_per10k_versus_total_merged.png "Merged Unique (>1 in 10,000 reads) vs Total Merged")
 
 
-**Swarm (FLASH-Merged Reads, minimum 2 in at  least 1 sample):***
+**Swarm (FLASH-Merged Reads, minimum 2 in at  least 1 sample):**
 
-**VSEARCH(FLASH-Merged Reads, minimum 2 in at  least 1 sample):***
+**VSEARCH(FLASH-Merged Reads, minimum 2 in at  least 1 sample):**
