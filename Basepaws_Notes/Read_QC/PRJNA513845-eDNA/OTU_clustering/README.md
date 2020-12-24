@@ -1,11 +1,11 @@
 
-**1)** Collect unique sequences into 1 file using `combine_unique_sequences.py`
+**1)** Collect unique sequences into 1 file using `combine_unique_sequences-multiread-swarm.py`
 
 **2)** Run one of the following OTU clustering methods
 
 *a)* [swarm](https://github.com/torognes/swarm)
 
-The input FASTA file is created using `combine_unique_sequences-multiread-swarm.py`
+The input FASTA file must be created using `combine_unique_sequences-multiread-swarm.py` (versus a version where the sequences are combined without including the count in the name)
 
 Swarm is then run using `run_swarm.py`.
 
@@ -75,3 +75,5 @@ I believe that you can install the full [BioPerl](https://bioperl.org/index.html
 ![Merged Unique (>1 read) vs Total Merged](VSEARCH.min2reads.FLASH_merged_unique_merged_multi-read_versus_total_merged.png "Merged Unique (>1 read) vs Total Merged")
 
 ![Merged Unique (>1 in 10,000 reads) vs Total Merged](VSEARCH.min2reads.FLASH_merged_unique_merged_per10k_versus_total_merged.png "Merged Unique (>1 in 10,000 reads) vs Total Merged")
+
+**5)** Use `combine_unique_sequences-multiread-swarm.py` again to create the input files for a MegaBLAST search for the reduced set of OTU sequences.
