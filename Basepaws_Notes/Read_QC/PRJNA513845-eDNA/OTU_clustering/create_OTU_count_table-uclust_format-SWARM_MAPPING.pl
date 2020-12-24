@@ -40,7 +40,7 @@ while (<INPUTFILE>){
 		my $uclust_name = $line_info[2];
 		
 		$name_hash{$uclust_name}=$unique_name;
-		$original_seq_hash{$uclust_name}=$amp_seq
+		$original_seq_hash{$uclust_name}=$amp_seq;
 	}#end if ($line_count > 1)
 
 }#end while (<INPUTFILE>)
@@ -67,6 +67,12 @@ while (<INPUTFILE>){
 		$seqName=$name_hash{$seqName};
 	}else{
 		print "Problem mapping original name: $seqName\n";
+		exit;
+	}
+	
+	if ($OTU_seq  eq ""){
+		print "There has been a problem in mapping the OTU sequence!\n";
+		print "$line\n";
 		exit;
 	}
 	
@@ -166,11 +172,17 @@ foreach my $file (@files){
 			
 			my $otu_seq="";
 			if(defined($OTU_seq_hash{$otu})){
-				my $otu_seq = $OTU_seq_hash{$otu};
+				$otu_seq = $OTU_seq_hash{$otu};
 			}else{
 				print "Problem Mapping OTU Sequence for: $otu\n";
 				exit;
 			}
+			
+			if ($otu_seq eq ""){
+				print "$otu is defined but empty?\n";
+				exit;
+			}
+
 			my $otu_length = length($otu_seq);
 			print OUTPUTFILE "$otu_seq\t$otu\t$count\t$otu_length\n";
 		}
