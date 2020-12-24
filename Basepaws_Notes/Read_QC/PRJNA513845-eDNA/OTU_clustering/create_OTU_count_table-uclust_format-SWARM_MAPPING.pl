@@ -2,18 +2,20 @@ use warnings;
 use strict;
 use Bio::SeqIO;
 
-my $input_folder = "../DADA2/FLASH";
-my $output_folder = "FLASH-Swarm_OTU-min_2reads";
-my $OTU_table = "FLASH_combined_unique_seqs-min_2_reads-swarm.uclust";
-my $OTU_FA = "FLASH_combined_unique_seqs-min_2_reads-swarm_OTU.fa";
-my $name_map = "FLASH_combined_unique_seqs-min_2_reads-swarm_format.map";
-
+#my $input_folder = "../DADA2/FLASH";
+#my $output_folder = "FLASH-Swarm_OTU-min_2reads";
+#my $OTU_table = "FLASH_combined_unique_seqs-min_2_reads-swarm.uclust";
+#my $name_map = "FLASH_combined_unique_seqs-min_2_reads-swarm_format.map";
 
 #my $input_folder = "../DADA2/FLASH";
 #my $output_folder = "FLASH-Swarm_OTU-all";
 #my $OTU_table = "FLASH_combined_unique_seqs-swarm.uclust";
-#my $OTU_FA = "FLASH_combined_unique_seqs-swarm_OTU.fa";
 #my $name_map = "FLASH_combined_unique_seqs-swarm_format.map";
+
+my $input_folder = "../DADA2/FLASH";
+my $output_folder = "FLASH-VSEARCH_OTU-min_2reads";
+my $OTU_table = "FLASH_combined_VSEARCH_cluster-min_2_reads.txt";
+my $name_map = "FLASH_combined_unique_seqs-min_2_reads-swarm_format.map";
 
 my $command = "mkdir $output_folder";
 system($command);
