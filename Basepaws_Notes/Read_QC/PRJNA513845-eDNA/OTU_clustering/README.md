@@ -37,7 +37,7 @@ You can see a legend for the vsearch `--uc` output file [here](https://manpages.
     <tr>
 	    <td align="center">VSEARCH</td>
       <td align="center">Min 2 Reads in at least 1 Sample</td>
-      <td align="center"></td>
+      <td align="center">37:31.13</td>
     </tr>
 </tbody>
 </table>
