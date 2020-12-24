@@ -32,7 +32,7 @@ You can see a legend for the vsearch `--uc` output file [here](https://manpages.
     <tr>
 	    <td align="center">Swarm</td>
       <td align="center">Min 2 Reads in at least 1 Sample</td>
-      <td align="center"></td>
+      <td align="center">21:26.92</td>
     </tr>
     <tr>
 	    <td align="center">VSEARCH</td>
