@@ -50,7 +50,7 @@ I believe that you can install the full [BioPerl](https://bioperl.org/index.html
 
 **Swarm (all FLASH-Merged Reads):***
 
-![Partial View of Merged Length](Swarm.min2reads.FLASH_merged_read_length_distribution.png "Partial View of Merged Length")
+![Partial View of Merged Length](Swarm-min2reads-FLASH_merged_read_length_distribution.png "Partial View of Merged Length")
 
 ![Merged Total vs Total Cutadapt](Swarm.min2reads.FLASH_merged_total_merged_versus_total_cutadapt.png "Merged Total vs Total Cutadapt")
 
