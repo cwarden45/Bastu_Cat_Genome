@@ -26,12 +26,12 @@ You can see a legend for the vsearch `--uc` output file [here](https://manpages.
     </tr>
     <tr>
 	    <td align="center">Swarm</td>
-      <td align="center">All Reads</td>
+      <td align="center">All FLASH-Merged Reads</td>
       <td align="center"></td>
     </tr>
     <tr>
 	    <td align="center">Swarm</td>
-      <td align="center">Min 2 Reads in at least 1 Sample</td>
+      <td align="center">FLASH-Merged Reads<br>Min 2 Reads in at least 1 Sample</td>
       <td align="center">21:26.92</td>
     </tr>
     <tr>
