@@ -27,17 +27,17 @@ You can see a legend for the vsearch `--uc` output file [here](https://manpages.
     <tr>
 	    <td align="center">Swarm</td>
       <td align="center">All FLASH-Merged Reads</td>
-      <td align="center"></td>
+      <td align="center">2:38:09</td>
     </tr>
     <tr>
 	    <td align="center">Swarm</td>
       <td align="center">FLASH-Merged Reads<br>(<i>Min 2 Reads in at least 1 Sample</i>)</td>
-      <td align="center">21:26.92</td>
+      <td align="center">0:21:27</td>
     </tr>
     <tr>
 	    <td align="center">VSEARCH</td>
       <td align="center">FLASH-Merged Reads<br>(<i>Min 2 Reads in at least 1 Sample</i>)</td>
-      <td align="center">37:31.13</td>
+      <td align="center">0:37:31</td>
     </tr>
 </tbody>
 </table>
