@@ -38,6 +38,6 @@ However, for these purposes, I am focusing on the viral reads, as defined as tho
 
 
 
-**3)** [megablast](https://www.ncbi.nlm.nih.gov/books/NBK279668/) (from [BLAST+](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)) on unique sequences using `run_megablast-FASTA.py`
+**3)** [megablast](https://www.ncbi.nlm.nih.gov/books/NBK279668/) (from [BLAST+](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)) on unique sequences using `run_megablast-FASTA.sh`
 
-- Should also work for clustered / corrected unique reads
+You may want to need to work with a reduced set of sequences (such as OTUs filtered by supporting reads).
