@@ -23,6 +23,8 @@ However, aside from indiciating a non-trivial number of bacterial reads for euka
 
 **Most Kraken2 assignments were bacterial**, so the plots above show the classification rate.  However, the uploaded text files also have the similar bacterial percentages.
 
+I am not sure why the assignment rate drops for the FishE NovaSeq samples.  However, this might not necessarily be good.  For example, if there are more reads from other samples, then the biological origin might not be bacterial (it could be mouse or human, for example).
+
 **2)** [Mash Screen](https://mash.readthedocs.io/en/latest/)
 
 I am focusing on:
@@ -41,3 +43,9 @@ However, for these purposes, I am focusing on the viral reads, as defined as tho
 **3)** [megablast](https://www.ncbi.nlm.nih.gov/books/NBK279668/) (from [BLAST+](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)) on unique sequences using `run_megablast-FASTA.sh`
 
 You may want to need to work with a reduced set of sequences (such as OTUs filtered by supporting reads).
+
+**4)** FastQ Screen
+
+**5)** COI reference alignment
+
+For these samples, I am not really primarily interested in the metagenomic assignments.  Instead, I am trying to get a sense of the off-target reads.  So, for that, calculating the unaligned read rate might be helpful for that goal.
