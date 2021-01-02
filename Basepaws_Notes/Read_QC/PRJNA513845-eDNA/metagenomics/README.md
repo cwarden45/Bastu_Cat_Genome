@@ -60,7 +60,7 @@ For these samples, I am not really primarily interested in the metagenomic assig
       <th align="center">Min 2 Reads in Min 1 Sample Input<br>n=339,349 OTU</th>
     </tr>
     <tr>
-	    <td align="center">--end-to-end --sensitive<br>(default)</td>
+	    <td align="center">--end-to-end --sensitive<br>(<b>default</b>)</td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
@@ -70,7 +70,7 @@ For these samples, I am not really primarily interested in the metagenomic assig
       <td align="center">&lt0.01% (1 read)</td>
     </tr>
     <tr>
-	    <td align="center">--local --sensitive-local<br>(default for --local)</td>
+	    <td align="center">--local --sensitive-local<br>(<b>default for --local</b>)</td>
       <td align="center">0.03%</td>
       <td align="center">0.06%</td>
     </tr>
