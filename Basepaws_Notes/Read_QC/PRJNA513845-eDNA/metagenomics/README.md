@@ -88,8 +88,8 @@ However, I think there should be some non-trivial alignment rate among sequence 
 
 I am not saying that I know the absolute best strategy.  However, I was hopeing to find something that would OK enough to go back and calculate the alignment as an abundance (rather than an OTU count).
 
-**All FLASH-Merged FASTQ (after DADA2 filtering)**:
+**Bowtie2 `--local` Alignment rate for All FLASH-Merged FASTQ (after DADA2 filtering)**:
 
 
-**All PEAR-Merged FASTQ (after DADA2 filtering)**:
+**Bowtie2 `--local` Alignment rate for All PEAR-Merged FASTQ (after DADA2 filtering)**:
 
