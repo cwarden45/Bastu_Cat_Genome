@@ -66,8 +66,8 @@ For these samples, I am not really primarily interested in the metagenomic assig
     </tr>
     <tr>
 	    <td align="center">--end-to-end --very-sensitive</td>
-      <td align="center">&lt0.00% (1 read)</td>
       <td align="center"></td>
+      <td align="center">&lt0.00% (1 read)</td>
     </tr>
     <tr>
 	    <td align="center">--local --sensitive-local</td>
@@ -81,6 +81,12 @@ For these samples, I am not really primarily interested in the metagenomic assig
     </tr>
 </tbody>
 </table>
+
+*I am somewhat concerned about the substantial increase in OTU for sequences that are found in less than 2 reads in at least 1 sample.*
+
+However, I think there should be some non-trivial alignment rate among sequence with OTU  defined from unique sequences found in at least 2 reads in 1 sample.  So, if a given configuration has a low alignment rate, then that is probably not the best way to define on-target sequences.
+
+I am not saying that I know the absolute best strategy.  However, I was hopeing to find something that would OK enough to go back and calculate the alignment as an abundance (rather than an OTU count).
 
 **All FLASH-Merged FASTQ (after DADA2 filtering)**:
 
