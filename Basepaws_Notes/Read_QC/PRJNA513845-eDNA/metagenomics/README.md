@@ -70,14 +70,14 @@ For these samples, I am not really primarily interested in the metagenomic assig
       <td align="center">&lt0.01% (1 read)</td>
     </tr>
     <tr>
-	    <td align="center">--local --sensitive-local</td>
+	    <td align="center">--local --sensitive-local<br>(default for --local)</td>
       <td align="center">0.03%</td>
       <td align="center">0.06%</td>
     </tr>
     <tr>
 	    <td align="center">--local --very-sensitive-local</td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">0.03%</td>
+      <td align="center">0.06%</td>
     </tr>
 </tbody>
 </table>
