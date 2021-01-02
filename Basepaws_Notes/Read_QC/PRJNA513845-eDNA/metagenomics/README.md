@@ -56,8 +56,8 @@ For these samples, I am not really primarily interested in the metagenomic assig
   <tbody>
     <tr>
       <th align="center">Bowtie2 Param</th>
-      <th align="center">All Unique Input<br>n=OTU</th>
-      <th align="center">Min 2 Reads in Min 1 Sample Input<br>n=OTU</th>
+      <th align="center">All Unique Input<br>n=26,155,839 OTU</th>
+      <th align="center">Min 2 Reads in Min 1 Sample Input<br>n=339,349 OTU</th>
     </tr>
     <tr>
 	    <td align="center">--end-to-end --sensitive<br>(default)</td>
