@@ -49,3 +49,11 @@ You may want to need to work with a reduced set of sequences (such as OTUs filte
 **5)** [COI](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Read_QC/PRJNA513845-eDNA/OTU_clustering/COI_ref.fa) reference alignment
 
 For these samples, I am not really primarily interested in the metagenomic assignments.  Instead, I am trying to get a sense of the off-target reads.  So, for that, calculating the unaligned read rate might be helpful for that goal.
+
+**All FLASH-Merged FASTQ (after DADA2 filtering)**:
+
+**All PEAR-Merged FASTQ (after DADA2 filtering)**:
+
+**All Swarm OTU  (FLASH-Merged, at least 2 reads in at least 1 sample)**:
+
+**All Swarm OTU  (FLASH-Merged, all unique sequences)**:
