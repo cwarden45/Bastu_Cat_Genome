@@ -66,7 +66,7 @@ For these samples, I am not really primarily interested in the metagenomic assig
     </tr>
     <tr>
 	    <td align="center">--end-to-end --very-sensitive</td>
-      <td align="center"></td>
+      <td align="center">&lt0.00% (1 read)</td>
       <td align="center"></td>
     </tr>
     <tr>
