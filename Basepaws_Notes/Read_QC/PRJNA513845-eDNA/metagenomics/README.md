@@ -50,8 +50,37 @@ You may want to need to work with a reduced set of sequences (such as OTUs filte
 
 For these samples, I am not really primarily interested in the metagenomic assignments.  Instead, I am trying to get a sense of the off-target reads.  So, for that, calculating the unaligned read rate might be helpful for that goal.
 
-**Swarm OTU  (FLASH-Merged)**:
+**Swarm OTU (FLASH-Merged)**:
 
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Bowtie2 Param</th>
+      <th align="center">All Unique Input<br>n=OTU</th>
+      <th align="center">Min 2 Reads in Min 1 Sample Input<br>n=OTU</th>
+    </tr>
+    <tr>
+	    <td align="center">--end-to-end --sensitive<br>(default)</td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+	    <td align="center">--end-to-end --very-sensitive</td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+	    <td align="center">--local --sensitive-local</td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+	    <td align="center">--local --very-sensitive-local</td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+</tbody>
+</table>
 
 **All FLASH-Merged FASTQ (after DADA2 filtering)**:
 
