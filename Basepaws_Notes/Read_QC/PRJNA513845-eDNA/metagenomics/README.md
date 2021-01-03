@@ -103,3 +103,7 @@ If I create a "fake" FASTQ file from the FASTA file with the OTU sequences, then
 **5)** [megablast](https://www.ncbi.nlm.nih.gov/books/NBK279668/) (from [BLAST+](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)) on unique sequences using `run_megablast-FASTA.sh`
 
 You may want to need to work with a reduced set of sequences (such as OTUs filtered by supporting reads).
+
+**Swarm OTU (FLASH-Merged, FILTER MIN 100 READS PER OTU PER SAMPLE, Defined from Min 2 Reads in Min 1 Sample)**:
+
+**Swarm OTU (FLASH-Merged, Min 2 Reads in Min 1 Sample)**:
