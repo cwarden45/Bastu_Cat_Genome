@@ -11,7 +11,7 @@ Either way, this should be followed by `tabulate_Kraken2-Braken_statistics.py`.
 
 The amplicon type (F230 vs FishE) shows a noticabe difference for some metrics (more so than the sequencer).
 
-However, aside from indiciating a non-trivial number of bacterial reads for eukaryotic amplicon sequencing, the classificaiton rate was not as consistently different in a similar way between sequencers.
+However, aside from indiciating a non-trivial number of bacterial reads for eukaryotic amplicon sequencing, the classification rate was not as consistently different in a similar way between sequencers.
 
 **Original SRA Downloaded Reads:**
 
@@ -78,7 +78,7 @@ For these samples, I am not really primarily interested in the metagenomic assig
 
 However, I think there should be some non-trivial alignment rate among sequence with OTU  defined from unique sequences found in at least 2 reads in 1 sample.  So, if a given configuration has a low alignment rate, then that is probably not the best way to define on-target sequences.
 
-**I am not saying that I know the absolute best strategy for getting some sense of variation in the off-target reads.**  However, I was hopeing to find something that would OK enough to go back and calculate the alignment as an abundance (rather than an OTU count).
+**I am *not* saying that I know the best strategy for getting some sense of variation in the off-target reads.**  However, I was hopeing to find something that would OK enough to go back and calculate the alignment as an abundance (rather than an OTU count).  This particular strategy might not have worked, but I a showing the analysis that  I performed.
 
 THe following plots were then created using `COI_Bowtie2_plots.R`.
 
