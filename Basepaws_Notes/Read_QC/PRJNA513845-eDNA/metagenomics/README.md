@@ -39,7 +39,13 @@ More specifically, I think the taxonomy information would help for interpretatio
 However, for these purposes, I am focusing on the viral reads, as defined as those with "Viral" in the .fna.gz reference name.  Even though I am using the `-w` parameter to try and reduce duplicate hits for what is really the same reference, I am focusing on assignments with more than 1 read below:
 
 
-**3)** FastQ Screen
+**3)** [FastQ Screen](https://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/)
+
+If I create a "fake" FASTQ file from the FASTA file with the OTU sequences, then I can check if reads that are supported by less than 2 reads in at least 1 sample are more likely to come from human or mouse (possibly as cross-contamination from other lab's samples?) using `run_FastQ-Screen_OTU.sh`.
+
+**Swarm OTU (FLASH-Merged, Min 2 Reads in Min 1 Sample)**:
+
+**Swarm OTU (FLASH-Merged, All Unique Reads)**:
 
 **4)** [COI](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Read_QC/PRJNA513845-eDNA/OTU_clustering/COI_ref.fa) reference alignment (`run_COI_Bowtie2-SE.py`, followed by `tabulate_Bowtie2_statistics.py`)
 
