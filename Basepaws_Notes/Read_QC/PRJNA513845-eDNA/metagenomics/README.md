@@ -88,6 +88,8 @@ However, I think there should be some non-trivial alignment rate among sequence 
 
 **I am not saying that I know the absolute best strategy for getting some sense of variation in the off-target reads.**  However, I was hopeing to find something that would OK enough to go back and calculate the alignment as an abundance (rather than an OTU count).
 
+THe following plots were then created using `COI_Bowtie2_plots.R`.
+
 **Bowtie2 `--local` Alignment rate for All FLASH-Merged FASTQ (after DADA2 filtering)**:
 
 
