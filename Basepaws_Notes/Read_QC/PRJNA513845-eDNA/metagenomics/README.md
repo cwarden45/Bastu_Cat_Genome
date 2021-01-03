@@ -38,16 +38,7 @@ More specifically, I think the taxonomy information would help for interpretatio
 
 However, for these purposes, I am focusing on the viral reads, as defined as those with "Viral" in the .fna.gz reference name.  Even though I am using the `-w` parameter to try and reduce duplicate hits for what is really the same reference, I am focusing on assignments with more than 1 read below:
 
-
-**3)** [FastQ Screen](https://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/)
-
-If I create a "fake" FASTQ file from the FASTA file with the OTU sequences, then I can check if reads that are supported by less than 2 reads in at least 1 sample are more likely to come from human or mouse (possibly as cross-contamination from other lab's samples?) using `run_FastQ-Screen_OTU.sh`.
-
-**Swarm OTU (FLASH-Merged, Min 2 Reads in Min 1 Sample)**:
-
-**Swarm OTU (FLASH-Merged, All Unique Reads)**:
-
-**4)** [COI](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Read_QC/PRJNA513845-eDNA/OTU_clustering/COI_ref.fa) reference alignment (`run_COI_Bowtie2-SE.py`, followed by `tabulate_Bowtie2_statistics.py`)
+**3)** [COI](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Read_QC/PRJNA513845-eDNA/OTU_clustering/COI_ref.fa) reference alignment (`run_COI_Bowtie2-SE.py`, followed by `tabulate_Bowtie2_statistics.py`)
 
 For these samples, I am not really primarily interested in the metagenomic assignments.  Instead, I am trying to get a sense of the off-target reads.  So, for that, calculating the unaligned read rate might be helpful for that goal.
 
@@ -98,6 +89,16 @@ THe following plots were then created using `COI_Bowtie2_plots.R`.
 **Bowtie2 `--local` Alignment rate for All PEAR-Merged FASTQ (after DADA2 filtering)**:
 
 **Unfortunately, I am not entirely sure how to interpret these results, whose individual sample alignment rates are all low.**
+
+**4)** [FastQ Screen](https://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/)
+
+If I create a "fake" FASTQ file from the FASTA file with the OTU sequences, then I can check if reads that are supported by less than 2 reads in at least 1 sample are more likely to come from human or mouse (possibly as cross-contamination from other lab's samples?) using `run_FastQ-Screen_OTU.sh`.
+
+**Swarm OTU (FLASH-Merged, Min 2 Reads in Min 1 Sample)**:
+
+![FastQ Screen Summary](FLASH_combined_unique_seqs-min_2_reads-Swarm_OTU_with_counts_screen.png "FastQ Screen Summary")
+
+**Swarm OTU (FLASH-Merged, All Unique Reads)**:
 
 **5)** [megablast](https://www.ncbi.nlm.nih.gov/books/NBK279668/) (from [BLAST+](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)) on unique sequences using `run_megablast-FASTA.sh`
 
