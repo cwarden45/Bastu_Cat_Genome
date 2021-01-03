@@ -96,7 +96,7 @@ If I create a "fake" FASTQ file from the FASTA file with the OTU sequences, then
 
 **Swarm OTU (FLASH-Merged, Min 2 Reads in Min 1 Sample)**:
 
-![FastQ Screen Summary](FLASH_combined_unique_seqs-min_2_reads-Swarm_OTU_with_counts_screen.png "FastQ Screen Summary")
+![OTU FastQ Screen Summary](FLASH_combined_unique_seqs-min_2_reads-Swarm_OTU_with_counts_screen.png "OTU FastQ Screen Summary")
 
 **Swarm OTU (FLASH-Merged, All Unique Reads)**:
 
