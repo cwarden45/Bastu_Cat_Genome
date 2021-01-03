@@ -88,6 +88,8 @@ THe following plots were then created using `COI_Bowtie2_plots.R`.
 
 **Bowtie2 `--local` Alignment rate for All PEAR-Merged FASTQ (after DADA2 filtering)**:
 
+![Bowtie2 Local COI Alignment Rate](COI_Bowtie2-PEAR_Bowtie2_alignment_rate.png "Bowtie2 Local COI Alignment Rate")
+
 **Unfortunately, I am not entirely sure how to interpret these results, whose individual sample alignment rates are all low (all <0.2%).**
 
 **4)** [FastQ Screen](https://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/)
