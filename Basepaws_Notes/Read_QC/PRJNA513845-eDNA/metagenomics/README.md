@@ -39,14 +39,9 @@ More specifically, I think the taxonomy information would help for interpretatio
 However, for these purposes, I am focusing on the viral reads, as defined as those with "Viral" in the .fna.gz reference name.  Even though I am using the `-w` parameter to try and reduce duplicate hits for what is really the same reference, I am focusing on assignments with more than 1 read below:
 
 
+**3)** FastQ Screen
 
-**3)** [megablast](https://www.ncbi.nlm.nih.gov/books/NBK279668/) (from [BLAST+](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)) on unique sequences using `run_megablast-FASTA.sh`
-
-You may want to need to work with a reduced set of sequences (such as OTUs filtered by supporting reads).
-
-**4)** FastQ Screen
-
-**5)** [COI](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Read_QC/PRJNA513845-eDNA/OTU_clustering/COI_ref.fa) reference alignment (`run_COI_Bowtie2-SE.py`, followed by `tabulate_Bowtie2_statistics.py`)
+**4)** [COI](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Read_QC/PRJNA513845-eDNA/OTU_clustering/COI_ref.fa) reference alignment (`run_COI_Bowtie2-SE.py`, followed by `tabulate_Bowtie2_statistics.py`)
 
 For these samples, I am not really primarily interested in the metagenomic assignments.  Instead, I am trying to get a sense of the off-target reads.  So, for that, calculating the unaligned read rate might be helpful for that goal.
 
@@ -92,6 +87,12 @@ THe following plots were then created using `COI_Bowtie2_plots.R`.
 
 **Bowtie2 `--local` Alignment rate for All FLASH-Merged FASTQ (after DADA2 filtering)**:
 
+![Bowtie2 Local COI Alignment Rate](COI_Bowtie2-FLASH_Bowtie2_alignment_rate.png "Bowtie2 Local COI Alignment Rate")
 
 **Bowtie2 `--local` Alignment rate for All PEAR-Merged FASTQ (after DADA2 filtering)**:
 
+**Unfortunately, I am not entirely sure how to interpret these results, whose individual sample alignment rates are all low.**
+
+**5)** [megablast](https://www.ncbi.nlm.nih.gov/books/NBK279668/) (from [BLAST+](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)) on unique sequences using `run_megablast-FASTA.sh`
+
+You may want to need to work with a reduced set of sequences (such as OTUs filtered by supporting reads).
