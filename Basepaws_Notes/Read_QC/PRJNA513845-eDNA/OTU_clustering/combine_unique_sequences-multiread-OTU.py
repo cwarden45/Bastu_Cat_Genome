@@ -2,9 +2,14 @@ import os
 import sys
 import re
 
-min_reads=2
+#min_reads=2
+#inputFolder = "FLASH-Swarm_OTU-min_2reads"
+#combinedFA = "FLASH_combined_unique_seqs-min_2_reads-Swarm_OTU_with_counts.fa"
+#suffix = ".count_table2"
+
+min_reads=100
 inputFolder = "FLASH-Swarm_OTU-min_2reads"
-combinedFA = "FLASH_combined_unique_seqs-min_2_reads-Swarm_OTU_with_counts.fa"
+combinedFA = "FLASH_combined_unique_seqs-min_2_reads--FILTER_OTU_MIN_100_READS-Swarm_OTU_with_counts.fa"
 suffix = ".count_table2"
 
 #read once to define seqs
