@@ -102,6 +102,39 @@ If I create a "fake" FASTQ file from the FASTA file with the OTU sequences, then
 
 **Swarm OTU (FLASH-Merged, All Unique Reads)**:
 
+![OTU FastQ Screen Summary](FLASH_combined_unique_seqs-swarm_format_screen.png "OTU FastQ Screen Summary")
+
+Qualitatively, I don't see much of a difference in the proportion when unique sequences present in less than 2 reads in all samples.  In terms of the exact counts:
+
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Reference</th>
+      <th align="center">All Unique Input<br>n=26,155,839 OTU</th>
+      <th align="center">Min 2 Reads in Min 1 Sample Input<br>n=339,349 OTU</th>
+    </tr>
+    <tr>
+	    <td align="center">Human</td>
+      <td align="center">5,566 reads (1 hit)<br>9,323 reads (&gt1 hit)</td>
+      <td align="center">178 reads (1 hit)<br>99 reads (&gt1 hit)</td>
+    </tr>
+    <tr>
+	    <td align="center">Mouse</td>
+      <td align="center">34,874 reads (1 hit)<br>34,491 reads (&gt1 hit)</td>
+      <td align="center">621 reads (1 hit)<br>1,101 reads (&gt1 hit)</td>
+    </tr>
+    <tr>
+	    <td align="center">Vectors</td>
+      <td align="center">14 reads (1 hit)<br>5 reads (&gt1 hit)</td>
+      <td align="center">2 reads (1 hit)<br>0 reads (&gt1 hit)</td>
+    </tr>
+</tbody>
+</table>
+
+So, additional sequences are being found, but I don't think they are substantially more likely to be found (although this might be enough if all OTUs count equally?).
+
+That said, I thought it might have been unexpected that there were a lot more reads uniquely aligned ot the mouse genome than the human genome?
+
 **5)** [megablast](https://www.ncbi.nlm.nih.gov/books/NBK279668/) (from [BLAST+](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)) on unique sequences using `run_megablast-FASTA.sh`
 
 You may want to need to work with a reduced set of sequences (such as OTUs filtered by supporting reads).
