@@ -115,18 +115,18 @@ Qualitatively, I don't see much of a difference in the proportion when unique se
     </tr>
     <tr>
 	    <td align="center">Human</td>
-      <td align="center">5,566 reads (1 hit)<br>9,323 reads (&gt1 hit)</td>
-      <td align="center">178 reads (1 hit)<br>99 reads (&gt1 hit)</td>
+      <td align="center">5,566 reads (1 hit, 1 genome)<br>9,323 reads (&gt1 hit, 1 genome)</td>
+      <td align="center">178 reads (1 hit, 1 genome)<br>99 reads (&gt1 hit, 1 genome)</td>
     </tr>
     <tr>
 	    <td align="center">Mouse</td>
-      <td align="center">34,874 reads (1 hit)<br>34,491 reads (&gt1 hit)</td>
-      <td align="center">621 reads (1 hit)<br>1,101 reads (&gt1 hit)</td>
+      <td align="center">34,874 reads (1 hit, 1 genome)<br>34,491 reads (&gt1 hit, 1 genome)</td>
+      <td align="center">621 reads (1 hit, 1 genome)<br>1,101 reads (&gt1 hit, 1 genome)</td>
     </tr>
     <tr>
 	    <td align="center">Vectors</td>
-      <td align="center">14 reads (1 hit)<br>5 reads (&gt1 hit)</td>
-      <td align="center">2 reads (1 hit)<br>0 reads (&gt1 hit)</td>
+      <td align="center">14 reads (1 hit, 1 genome)<br>5 reads (&gt1 hit, 1 genome)</td>
+      <td align="center">2 reads (1 hit, 1 genome)<br>0 reads (&gt1 hit, 1 genome)</td>
     </tr>
 </tbody>
 </table>
