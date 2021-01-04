@@ -38,7 +38,50 @@ More specifically, I think the taxonomy information would help for interpretatio
 
 However, for these purposes, I am focusing on the viral reads, as defined as those with "Viral" in the .fna.gz reference name.  Even though I am using the `-w` parameter to try and reduce duplicate hits for what is really the same reference, I am focusing on assignments with more than 1 read below:
 
-**3)** [COI](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Read_QC/PRJNA513845-eDNA/OTU_clustering/COI_ref.fa) reference alignment (`run_COI_Bowtie2-SE.py`, followed by `tabulate_Bowtie2_statistics.py`)
+**3)** [FastQ Screen](https://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/)
+
+If I create a "fake" FASTQ file from the FASTA file with the OTU sequences, then I can check if reads that are supported by less than 2 reads in at least 1 sample are more likely to come from human or mouse (possibly as cross-contamination from other lab's samples?) using `run_FastQ-Screen_OTU.sh`.
+
+**Swarm OTU (FLASH-Merged, Min 2 Reads in Min 1 Sample)**:
+
+![OTU FastQ Screen Summary](FLASH_combined_unique_seqs-min_2_reads-Swarm_OTU_with_counts_screen.png "OTU FastQ Screen Summary")
+
+**Swarm OTU (FLASH-Merged, All Unique Reads)**:
+
+![OTU FastQ Screen Summary](FLASH_combined_unique_seqs-swarm_format_screen.png "OTU FastQ Screen Summary")
+
+Qualitatively, I don't see much of a difference in the proportion when unique sequences present in less than 2 reads in all samples.  In terms of the exact counts:
+
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Reference</th>
+      <th align="center">All Unique Input<br>n=26,155,839 OTU</th>
+      <th align="center">Min 2 Reads in Min 1 Sample Input<br>n=339,349 OTU</th>
+    </tr>
+    <tr>
+	    <td align="center">Human</td>
+      <td align="center">5,566 OTU (1 hit, 1 genome)<br>9,323 OTU (&gt1 hit, 1 genome)</td>
+      <td align="center">178 OTU (1 hit, 1 genome)<br>99 OTU (&gt1 hit, 1 genome)</td>
+    </tr>
+    <tr>
+	    <td align="center">Mouse</td>
+      <td align="center">34,874 OTU (1 hit, 1 genome)<br>34,491 OTU (&gt1 hit, 1 genome)</td>
+      <td align="center">621 OTU (1 hit, 1 genome)<br>1,101 OTU (&gt1 hit, 1 genome)</td>
+    </tr>
+    <tr>
+	    <td align="center">Vectors</td>
+      <td align="center">14 OTU (1 hit, 1 genome)<br>5 OTU (&gt1 hit, 1 genome)</td>
+      <td align="center">2 OTU (1 hit, 1 genome)<br>0 OTU (&gt1 hit, 1 genome)</td>
+    </tr>
+</tbody>
+</table>
+
+So, additional sequences are being found, but I don't think they are substantially more likely to be found (although this might be enough if all OTUs count equally?).
+
+That said, I thought it might have been unexpected that there were a lot more reads uniquely aligned ot the mouse genome than the human genome?
+
+**4)** [COI](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Read_QC/PRJNA513845-eDNA/OTU_clustering/COI_ref.fa) reference alignment (`run_COI_Bowtie2-SE.py`, followed by `tabulate_Bowtie2_statistics.py`)
 
 For these samples, I am not really primarily interested in the metagenomic assignments.  Instead, I am trying to get a sense of the off-target reads.  So, for that, calculating the unaligned read rate might be helpful for that goal.
 
@@ -92,48 +135,9 @@ THe following plots were then created using `COI_Bowtie2_plots.R`.
 
 **Unfortunately, I am not entirely sure how to interpret these results, whose individual sample alignment rates are all low (all <0.2%).**
 
-**4)** [FastQ Screen](https://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/)
+If I take the FastQ Screen results into consideration and I check alignment to the **mouse genome** (rather than the COI partial gene sequence), then this is what I see:
 
-If I create a "fake" FASTQ file from the FASTA file with the OTU sequences, then I can check if reads that are supported by less than 2 reads in at least 1 sample are more likely to come from human or mouse (possibly as cross-contamination from other lab's samples?) using `run_FastQ-Screen_OTU.sh`.
-
-**Swarm OTU (FLASH-Merged, Min 2 Reads in Min 1 Sample)**:
-
-![OTU FastQ Screen Summary](FLASH_combined_unique_seqs-min_2_reads-Swarm_OTU_with_counts_screen.png "OTU FastQ Screen Summary")
-
-**Swarm OTU (FLASH-Merged, All Unique Reads)**:
-
-![OTU FastQ Screen Summary](FLASH_combined_unique_seqs-swarm_format_screen.png "OTU FastQ Screen Summary")
-
-Qualitatively, I don't see much of a difference in the proportion when unique sequences present in less than 2 reads in all samples.  In terms of the exact counts:
-
-<table>
-  <tbody>
-    <tr>
-      <th align="center">Reference</th>
-      <th align="center">All Unique Input<br>n=26,155,839 OTU</th>
-      <th align="center">Min 2 Reads in Min 1 Sample Input<br>n=339,349 OTU</th>
-    </tr>
-    <tr>
-	    <td align="center">Human</td>
-      <td align="center">5,566 reads (1 hit, 1 genome)<br>9,323 reads (&gt1 hit, 1 genome)</td>
-      <td align="center">178 reads (1 hit, 1 genome)<br>99 reads (&gt1 hit, 1 genome)</td>
-    </tr>
-    <tr>
-	    <td align="center">Mouse</td>
-      <td align="center">34,874 reads (1 hit, 1 genome)<br>34,491 reads (&gt1 hit, 1 genome)</td>
-      <td align="center">621 reads (1 hit, 1 genome)<br>1,101 reads (&gt1 hit, 1 genome)</td>
-    </tr>
-    <tr>
-	    <td align="center">Vectors</td>
-      <td align="center">14 reads (1 hit, 1 genome)<br>5 reads (&gt1 hit, 1 genome)</td>
-      <td align="center">2 reads (1 hit, 1 genome)<br>0 reads (&gt1 hit, 1 genome)</td>
-    </tr>
-</tbody>
-</table>
-
-So, additional sequences are being found, but I don't think they are substantially more likely to be found (although this might be enough if all OTUs count equally?).
-
-That said, I thought it might have been unexpected that there were a lot more reads uniquely aligned ot the mouse genome than the human genome?
+**Bowtie2 `--local` Alignment rate for All FLASH-Merged FASTQ (after DADA2 filtering)**:
 
 **5)** [megablast](https://www.ncbi.nlm.nih.gov/books/NBK279668/) (from [BLAST+](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)) on unique sequences using `run_megablast-FASTA.sh`
 
