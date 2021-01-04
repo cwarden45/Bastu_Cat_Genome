@@ -1,0 +1,10 @@
+#Fastq_screen version: 0.14.1	#Aligner: bowtie2	#Processing all reads in FASTQ files
+Genome	#Reads_processed	#Unmapped	%Unmapped	#One_hit_one_genome	%One_hit_one_genome	#Multiple_hits_one_genome	%Multiple_hits_one_genome	#One_hit_multiple_genomes	%One_hit_multiple_genomes	Multiple_hits_multiple_genomes	%Multiple_hits_multiple_genomes
+Human	53317534	52839744	99.10	5566	0.01	9323	0.02	25803	0.05	437098	0.82
+Mouse	53317534	52785232	99.00	34874	0.07	34491	0.06	3005	0.01	459932	0.86
+Ecoli	53317534	53317522	100.00	0	0.00	12	0.00	0	0.00	0	0.00
+PhiX	53317534	53317534	100.00	0	0.00	0	0.00	0	0.00	0	0.00
+Adapters	53317534	53317534	100.00	0	0.00	0	0.00	0	0.00	0	0.00
+Vectors	53317534	53180837	99.75	14	0.00	5	0.00	2339	0.00	134339	0.25
+
+%Hit_no_genomes: 98.97
