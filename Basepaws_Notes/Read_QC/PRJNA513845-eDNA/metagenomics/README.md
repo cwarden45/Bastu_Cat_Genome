@@ -79,7 +79,7 @@ Qualitatively, I don't see much of a difference in the proportion when unique se
 
 So, additional sequences are being found, but I don't think they are substantially more likely to be found (although this might be enough if all OTUs count equally?).
 
-That said, I thought it might have been unexpected that there were a lot more reads uniquely aligned ot the mouse genome than the human genome?
+That said, I thought it might have been unexpected that there were a lot more reads uniquely aligned ot the mouse genome than the human genome?  If I use a Bowtie2 alignment in the next section (to just the  mouse genome), then that will also include the reads mapped to multiple species (in the figure but not the table).  However, I will first check alignment against the COI sequence from which the primers were designed.
 
 **4)** [COI](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Read_QC/PRJNA513845-eDNA/OTU_clustering/COI_ref.fa) reference alignment (`run_COI_Bowtie2-SE.py`, followed by `tabulate_Bowtie2_statistics.py`)
 
