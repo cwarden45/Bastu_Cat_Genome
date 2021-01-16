@@ -135,7 +135,7 @@ THe following plots were then created using `COI_Bowtie2_plots.R`.
 
 **Unfortunately, I am not entirely sure how to interpret these results, whose individual sample alignment rates are all low (all <0.2%).**
 
-If I take the FastQ Screen results into consideration and I check alignment to the **mouse genome** (rather than the COI partial gene sequence) using `run_mm10_Bowtie2-SE.py`, then this is what I see:
+If I take the FastQ Screen results into consideration and I check alignment to the **mouse genome** (rather than the COI partial gene sequence) using `run_mm10_Bowtie2-SE.py`+`tabulate_Bowtie2_statistics.py`+`COI_Bowtie2_plots.R`, then this is what I see:
 
 **Bowtie2 *Default* Alignment rate for All FLASH-Merged FASTQ (after DADA2 filtering)**:
 
