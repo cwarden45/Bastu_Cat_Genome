@@ -1,13 +1,25 @@
+#exclude.samples = c("SRR8423878")#exclude sample where log could not be parsed
+#meta.file = "../sample_info.txt"
+#alignment.file = "COI_Bowtie2-FLASH_Bowtie2_alignment_rate.txt"
+#boxplot.file = "COI_Bowtie2-FLASH_Bowtie2_alignment_rate.png"
+
+#exclude.samples = c("SRR8423878")#exclude sample where metadata is not  defined
+#meta.file = "../sample_info.txt"
+#alignment.file = "COI_Bowtie2-PEAR_Bowtie2_alignment_rate.txt"
+#boxplot.file = "COI_Bowtie2-PEAR_Bowtie2_alignment_rate.png"
+
 exclude.samples = c("SRR8423878")#exclude sample where log could not be parsed
 meta.file = "../sample_info.txt"
-alignment.file = "COI_Bowtie2-FLASH_Bowtie2_alignment_rate.txt"
-boxplot.file = "COI_Bowtie2-FLASH_Bowtie2_alignment_rate.png"
+alignment.file = "mm10_Bowtie2-FLASH_Bowtie2_alignment_rate.txt"
+boxplot.file = "mm10_Bowtie2-FLASH_Bowtie2_alignment_rate.png"
+
+#exclude.samples = c("SRR8423878")#exclude sample where metadata is not  defined
+#meta.file = "../sample_info.txt"
+#alignment.file = "mm10_Bowtie2-PEAR_Bowtie2_alignment_rate.txt"
+#boxplot.file = "mm10_Bowtie2-PEAR_Bowtie2_alignment_rate.png"
 
 
-exclude.samples = c("SRR8423878")#exclude sample where metadata is not  defined
-meta.file = "../sample_info.txt"
-alignment.file = "COI_Bowtie2-PEAR_Bowtie2_alignment_rate.txt"
-boxplot.file = "COI_Bowtie2-PEAR_Bowtie2_alignment_rate.png"
+
 
 meta.table = read.table(meta.file, head=T, sep="\t")
 alignment.table = read.table(alignment.file, head=T, sep="\t")

@@ -7,10 +7,21 @@ import re
 #suffix="-DADA2_filtered_FQ_alignment_stats.log"
 #statFile = "COI_Bowtie2-FLASH_Bowtie2_alignment_rate.txt"
 
+#skip_samples = ("")
+#inputFolder = "COI_Bowtie2-PEAR"
+#suffix="-DADA2_filtered_FQ_alignment_stats.log"
+#statFile = "COI_Bowtie2-PEAR_Bowtie2_alignment_rate.txt"
+
 skip_samples = ("")
-inputFolder = "COI_Bowtie2-PEAR"
+inputFolder = "mm10_Bowtie2-FLASH"
 suffix="-DADA2_filtered_FQ_alignment_stats.log"
-statFile = "COI_Bowtie2-PEAR_Bowtie2_alignment_rate.txt"
+statFile = "mm10_Bowtie2-FLASH_Bowtie2_alignment_rate.txt"
+
+#skip_samples = ("")
+#inputFolder = "mm10_Bowtie2-PEAR"
+#suffix="-DADA2_filtered_FQ_alignment_stats.log"
+#statFile = "mm10_Bowtie2-PEAR_Bowtie2_alignment_rate.txt"
+
 
 statHandle = open(statFile, 'w')
 text = "Sample\tAlignment.Rate\n"
