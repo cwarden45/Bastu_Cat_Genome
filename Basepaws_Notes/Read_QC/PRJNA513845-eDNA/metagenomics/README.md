@@ -135,14 +135,12 @@ THe following plots were then created using `COI_Bowtie2_plots.R`.
 
 **Unfortunately, I am not entirely sure how to interpret these results, whose individual sample alignment rates are all low (all <0.2%).**
 
-If I take the FastQ Screen results into consideration and I check alignment to the **mouse genome** (rather than the COI partial gene sequence), then this is what I see:
+If I take the FastQ Screen results into consideration and I check alignment to the **mouse genome** (rather than the COI partial gene sequence) using `run_mm10_Bowtie2-SE.py`, then this is what I see:
 
-**Bowtie2 `--local` Alignment rate for All FLASH-Merged FASTQ (after DADA2 filtering)**:
+**Bowtie2 *Default* Alignment rate for All FLASH-Merged FASTQ (after DADA2 filtering)**:
 
 **5)** [megablast](https://www.ncbi.nlm.nih.gov/books/NBK279668/) (from [BLAST+](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)) on unique sequences using `run_megablast-FASTA.sh`
 
 You may want to need to work with a reduced set of sequences (such as OTUs filtered by supporting reads).
 
 **Swarm OTU (FLASH-Merged, FILTER MIN 100 READS PER OTU PER SAMPLE, Defined from Min 2 Reads in Min 1 Sample)**:
-
-**Swarm OTU (FLASH-Merged, Min 2 Reads in Min 1 Sample)**:
