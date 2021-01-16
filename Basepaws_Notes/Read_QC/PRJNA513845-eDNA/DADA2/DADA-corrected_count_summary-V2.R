@@ -1,3 +1,5 @@
+#delete SRR8423878 (with very few starting reads)
+
 seqFolder = "DADA2_Processed_Reads"
 seqType = "mergedDADA2_corrected"
 metaIn = "Cutadapt-filtered_read_counts-with_sequencer_and_FLASHplusPEAR_counts.txt"
