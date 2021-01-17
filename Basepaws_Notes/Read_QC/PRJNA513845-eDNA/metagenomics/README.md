@@ -143,6 +143,8 @@ If I take the FastQ Screen results into consideration and I check alignment to t
 
 **Bowtie2 *Default* Alignment rate for All PEAR-Merged FASTQ (after DADA2 filtering)**:
 
+![Bowtie2 End-to-End mm10 Alignment Rate](mm10_Bowtie2-PEAR_Bowtie2_alignment_rate.png "Bowtie2 mm10 Alignment Rate")
+
 **5)** [megablast](https://www.ncbi.nlm.nih.gov/books/NBK279668/) (from [BLAST+](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)) on unique sequences using `run_megablast-FASTA.sh`
 
 You may want to need to work with a reduced set of sequences (such as OTUs filtered by supporting reads).
