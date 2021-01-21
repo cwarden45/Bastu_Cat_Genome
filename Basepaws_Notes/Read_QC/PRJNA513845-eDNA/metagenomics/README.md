@@ -149,6 +149,10 @@ If I  use `mm10_Bowtie2_heatmap.R` for the FLASH-merged sequences, you can see t
 
 ![Chromosomal Bowtie2 End-to-End mm10 Alignment Rate](mm10_Bowtie2-FLASH_Bowtie2_alignment_rate_per_chr.PNG "Chromosomal Bowtie2 mm10 Alignment Rate")
 
+The trend is similar if I take **unaligned reads** into consideration (again, for the FLASH-merged reads):
+
+![Chromosomal Bowtie2 End-to-End mm10 Alignment Rate](mm10_Bowtie2-FLASH_Bowtie2_alignment_rate_per_chr-V2.PNG "Chromosomal Bowtie2 mm10 Alignment Rate")
+
 **5)** [megablast](https://www.ncbi.nlm.nih.gov/books/NBK279668/) (from [BLAST+](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)) on unique sequences using `run_megablast-FASTA.sh`
 
 You may want to need to work with a reduced set of sequences (such as OTUs filtered by supporting reads).
