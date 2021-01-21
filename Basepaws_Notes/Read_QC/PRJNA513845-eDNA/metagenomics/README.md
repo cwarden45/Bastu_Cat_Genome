@@ -145,7 +145,7 @@ If I take the FastQ Screen results into consideration and I check alignment to t
 
 ![Bowtie2 End-to-End mm10 Alignment Rate](mm10_Bowtie2-PEAR_Bowtie2_alignment_rate.png "Bowtie2 mm10 Alignment Rate")
 
-If I  use `mm10_Bowtie2_heatmap.R` for the FLASH-merged sequences, you can see that the [chrM](https://www.ncbi.nlm.nih.gov/gene/17708) alignments don't vary but the enrichment of sequence tends to be (at varying locations in the mouse genome).
+If I  use `mm10_Bowtie2_heatmap.R` for the FLASH-merged sequences, you can see that the [chrM](https://www.ncbi.nlm.nih.gov/gene/17708) alignments don't vary but the enrichment of sequence tends to be (at varying locations in the mouse genome, with the highest percentages **among mm10-aligned reads** being in the NovaSeq FishE amplicons).
 
 ![Chromosomal Bowtie2 End-to-End mm10 Alignment Rate](mm10_Bowtie2-FLASH_Bowtie2_alignment_rate_per_chr.PNG "Chromosomal Bowtie2 mm10 Alignment Rate")
 
