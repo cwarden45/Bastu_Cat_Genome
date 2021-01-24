@@ -1,3 +1,13 @@
+seqFolder = "FLASH-Swarm_OTU-all"
+seqType = "Swarm.all.FLASH_merged"
+metaIn = "../DADA2/Cutadapt-filtered_read_counts-with_sequencer_and_FLASHcounts.txt"
+metaOut =  "Cutadapt-filtered_read_counts-with_sequencer--FLASH_merged_read_counts--Swarm-all.txt"
+countOut =  "Swarm-all-FLASH_merged_read_counts-greater_than_1_in_10000.txt"
+lengthPlot =  "Swarm-all-FLASH_merged_read_length_distribution.png"
+lengthOut =  "Swarm-all-FLASH_merged_read_length_distribution.txt"
+min_plot_length=200
+max_plot_length=300
+
 #seqFolder = "FLASH-Swarm_OTU-min_2reads"
 #seqType = "Swarm.min2reads.FLASH_merged"
 #metaIn = "../DADA2/Cutadapt-filtered_read_counts-with_sequencer_and_FLASHcounts.txt"
@@ -8,15 +18,15 @@
 #min_plot_length=200
 #max_plot_length=300
 
-seqFolder = "FLASH-VSEARCH_OTU-min_2reads"
-seqType = "VSEARCH.min2reads.FLASH_merged"
-metaIn = "../DADA2/Cutadapt-filtered_read_counts-with_sequencer_and_FLASHcounts.txt"
-metaOut =  "Cutadapt-filtered_read_counts-with_sequencer--FLASH_merged_read_counts--VSEARCH-min2reads.txt"
-countOut =  "VSEARCH-min2reads-FLASH_merged_read_counts-greater_than_1_in_10000.txt"
-lengthPlot =  "VSEARCH-min2reads-FLASH_merged_read_length_distribution.png"
-lengthOut =  "VSEARCH-min2reads-FLASH_merged_read_length_distribution.txt"
-min_plot_length=200
-max_plot_length=300
+#seqFolder = "FLASH-VSEARCH_OTU-min_2reads"
+#seqType = "VSEARCH.min2reads.FLASH_merged"
+#metaIn = "../DADA2/Cutadapt-filtered_read_counts-with_sequencer_and_FLASHcounts.txt"
+#metaOut =  "Cutadapt-filtered_read_counts-with_sequencer--FLASH_merged_read_counts--VSEARCH-min2reads.txt"
+#countOut =  "VSEARCH-min2reads-FLASH_merged_read_counts-greater_than_1_in_10000.txt"
+#lengthPlot =  "VSEARCH-min2reads-FLASH_merged_read_length_distribution.png"
+#lengthOut =  "VSEARCH-min2reads-FLASH_merged_read_length_distribution.txt"
+#min_plot_length=200
+#max_plot_length=300
 
 min_length=1
 max_length=600

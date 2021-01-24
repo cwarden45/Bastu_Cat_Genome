@@ -1,8 +1,11 @@
+seqType = "Swarm.all.FLASH_merged"
+meta.file =  "Cutadapt-filtered_read_counts-with_sequencer--FLASH_merged_read_counts--Swarm-all.txt"
+
 #seqType = "Swarm.min2reads.FLASH_merged"
 #meta.file =  "Cutadapt-filtered_read_counts-with_sequencer--FLASH_merged_read_counts--Swarm-min2reads.txt"
 
-seqType = "VSEARCH.min2reads.FLASH_merged"
-meta.file =  "Cutadapt-filtered_read_counts-with_sequencer--FLASH_merged_read_counts--VSEARCH-min2reads.txt"
+#seqType = "VSEARCH.min2reads.FLASH_merged"
+#meta.file =  "Cutadapt-filtered_read_counts-with_sequencer--FLASH_merged_read_counts--VSEARCH-min2reads.txt"
 
 sample_file = "../sample_info.txt"
 
