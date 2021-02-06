@@ -45,6 +45,7 @@ Download report on 10/16/2020
 I'm not sure if basepaws will implement automatic deposit into the [SRA](https://www.ncbi.nlm.nih.gov/sra) (with owner's permission).  However, I have re-uploaded my raw FASTQ files here:
 
 basepaws 15x WGS Read1: https://storage.googleapis.com/bastu-cat-genome/HCWGS0003.23.HCWGS0003_1.fastq.gz
+
 basepaws 15x WGS Read2: https://storage.googleapis.com/bastu-cat-genome/HCWGS0003.23.HCWGS0003_2.fastq.gz
 
 I still have money left from my $300 Google Cloud credit, but I don't know how much the charge is for people to download from a public link.  However, that should be available in the immediate future.
