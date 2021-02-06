@@ -30,6 +30,8 @@ Activated Kit / Collected Sample on 3/1/2019
 
 **basepaws (mouth swab, $1000, ~15x sequencing, with raw data as FASTQ+BAM+gVCF)**:
 
+Currently, it looks like this is [officially available for $499 or $599](https://shop.basepaws.com/collections/all-products/products/whole-genome-sequencing).
+
 Purchased Test on 3/7/2019
 
 Activated Kit / Collected Sample on 3/14/2019
@@ -46,8 +48,6 @@ basepaws 15x WGS Read1: https://storage.googleapis.com/bastu-cat-genome/HCWGS000
 basepaws 15x WGS Read2: https://storage.googleapis.com/bastu-cat-genome/HCWGS0003.23.HCWGS0003_2.fastq.gz
 
 I still have money left from my $300 Google Cloud credit, but I don't know how much the charge is for people to download from a public link.  However, that should be available in the immediate future.
-
-Now, it looks like this is [officially available for $950](https://shop.basepaws.com/collections/all-products/products/whole-genome-sequencing), but they don't describe providing a report (which matches what I currently have.
 
 I believe that this was order #3277 (canceled, for hair) that was upgraded to **order #3405** (to provide mouth swab) with an extra invoice outside of the typical billing system (although I don't think that is necessary anymore).
 
