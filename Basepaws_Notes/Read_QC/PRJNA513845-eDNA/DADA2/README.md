@@ -26,6 +26,8 @@ I am skipping the 4 PhiX outliers, but it looks like running cutadapt removed a 
 
 ![Merged Unique (>1 in 10,000 reads) vs Total Merged](DADA2-merged-and-corrected_unique_merged_per10k_versus_total_merged.png "Merged Unique (>1 in 10,000 reads) vs Total Merged")
 
+You can download the DADA2-corrected reads that I generated [here](https://zenodo.org/record/4546559/files/DADA2_Corrected_Reads.tar.gz).  However, these may be different from the exact set of DADA2-corrected reads used in the paper.
+
 **4)** For comparison, merge sequences using [PEAR](https://cme.h-its.org/exelixis/web/software/pear/) (`run_PEAR.py`) and/or [FLASH](https://ccb.jhu.edu/software/FLASH/) (`run_FLASH.py`) and count unique sequences using [mothur](https://mothur.org/) (`run_mothur-unique_seqs.py`).
 
 *4a)* Use `reformat_unique_FASTA.py` to combine information from the mothur files (and perhaps later be modified for sequence features).
