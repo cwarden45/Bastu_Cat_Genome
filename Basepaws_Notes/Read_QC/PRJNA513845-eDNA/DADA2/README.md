@@ -46,6 +46,7 @@ You can download the DADA2-corrected reads that I generated [here](https://zenod
 
 ![Merged Unique (>1 in 10,000 reads) vs Total Merged](PEAR_merged_unique_merged_per10k_versus_total_merged.png "Merged Unique (>1 in 10,000 reads) vs Total Merged")
 
+Unique sequences and counts for PEAR-merged reads can be downloaded [here](https://zenodo.org/record/4546559/files/PEAR-Merged_Reads.tar.gz).
 
 ***For the FLASH-Merged Reads:***
 
@@ -58,6 +59,8 @@ You can download the DADA2-corrected reads that I generated [here](https://zenod
 ![Merged Unique (>1 read) vs Total Merged](FLASH_merged_unique_merged_multi-read_versus_total_merged.png "Merged Unique (>1 read) vs Total Merged")
 
 ![Merged Unique (>1 in 10,000 reads) vs Total Merged](FLASH_merged_unique_merged_per10k_versus_total_merged.png "Merged Unique (>1 in 10,000 reads) vs Total Merged")
+
+Unique sequences and counts for FLASH-merged reads can be downloaded [here](https://zenodo.org/record/4546559/files/FLASH-Merged_Reads.tar.gz).
 
 *4c)* The exported length matrices can be used to check the percent outlier merged lengths using `unique_count-additional_length_analysis.R`.
 
