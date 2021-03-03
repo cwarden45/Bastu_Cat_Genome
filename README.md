@@ -109,3 +109,9 @@ Recieved e-mail reply about questions on 12/18/2019 (including how to share Bast
 I guess I will find out if the report is the same, but I started trying to order a [MyCatDNA](https://www.mycatdna.com/en/) test and I was informed that I had to purchase a test through [Optimal Selection](https://www.optimal-selection.com/optimal_selection_cats/) (since I was a US customer).
 
 The e-mail receipt came from a "**wisdomhealth.com**" e-mail.  If I try to go to that address, I get re-directed to [https://www.wisdompanel.com/](https://www.wisdompanel.com/).  You can't actually order a cat DNA test on that website, but I think this might explain what was meant by "***Wisdom Panel for Cats***" on [this article](https://www.certapet.com/cat-dna-test/) (even though they didn't mention the UC-Davis VGL)
+
+**PetQCheck by Purina (gut microbiome test, list price of $99.00, purchase price for me was $79.00, includes free shipping)**:
+
+I don't believe FASTQ files are normally returned.  However, before ordering the kit, I double-checked and I was told "*We can definitely send the FASTQ files to you....We don’t typically provide this raw data, therefore, could you do the following to make sure that we include them: One of the last questions of the survey asks whether there is anything else we should know about your pet. Can you add a note in this field asking for the FASTQ files?*"
+
+Purchased Test on 3/3/2021 (from [here](https://shop.petqcheck.com/27936161867/checkouts/eca75c681dc2c2dc417f5257240484cd), a link towards the bottom of [this page](https://petqcheck.com/)).  It also looks like there are other things that can be ordered [here](https://shop.petqcheck.com/collections/frontpage).
