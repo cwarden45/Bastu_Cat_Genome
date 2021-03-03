@@ -114,4 +114,7 @@ The e-mail receipt came from a "**wisdomhealth.com**" e-mail.  If I try to go to
 
 I don't believe FASTQ files are normally returned.  However, before ordering the kit, I double-checked and I was told "*We can definitely send the FASTQ files to you....We don’t typically provide this raw data, therefore, could you do the following to make sure that we include them: One of the last questions of the survey asks whether there is anything else we should know about your pet. Can you add a note in this field asking for the FASTQ files?*"
 
-Purchased Test on 3/3/2021 (from [here](https://shop.petqcheck.com/27936161867/checkouts/eca75c681dc2c2dc417f5257240484cd), a link towards the bottom of [this page](https://petqcheck.com/)).  It also looks like there are other things that can be ordered [here](https://shop.petqcheck.com/collections/frontpage).
+Purchased Test on 3/3/2021
+
+- I ordered from from [here](https://shop.petqcheck.com/27936161867/checkouts/eca75c681dc2c2dc417f5257240484cd), a link towards the bottom of [this page](https://petqcheck.com/)).
+- It also looks like there are other things that can be ordered [here](https://shop.petqcheck.com/collections/frontpage).
