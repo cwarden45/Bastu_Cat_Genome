@@ -118,3 +118,5 @@ Purchased Test on 3/3/2021
 
 - I ordered from from [here](https://shop.petqcheck.com/27936161867/checkouts/eca75c681dc2c2dc417f5257240484cd), a link towards the bottom of [this page](https://petqcheck.com/)).
 - It also looks like there are other things that can be ordered [here](https://shop.petqcheck.com/collections/frontpage).
+
+Kit arrived on 3/8/2021 (but I need to wait until my cat uses the litter box and I am not too busy, in order to collect a fresh sample)
