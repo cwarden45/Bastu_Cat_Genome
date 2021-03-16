@@ -120,3 +120,5 @@ Purchased Test on 3/3/2021
 - It also looks like there are other things that can be ordered [here](https://shop.petqcheck.com/collections/frontpage).
 
 Kit arrived on 3/8/2021 (but I need to wait until my cat uses the litter box and I am not too busy, in order to collect a fresh sample)
+
+Sample collected and mailed on 3/15/2021.
