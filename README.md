@@ -126,3 +126,9 @@ Sample collected and mailed on 3/15/2021.
 I recieved a report and raw data on 4/12/2021.
 
 You can see a copy of that report [here](https://petqcheck.com/share/1046786d-2b60-4c98-bd22-83d7c436b50c).
+
+I think the FASTQ files are slightly larger than I should upload to GitHub, so I uploaded those to Google Cloud:
+
+PetQCheck metagenomics Read1: https://storage.googleapis.com/bastu-cat-genome/zr4262_9V3V4_R1.fastq.gz
+
+PetQCheck metagenomics Read2: https://storage.googleapis.com/bastu-cat-genome/zr4262_9V3V4_R2.fastq.gz
