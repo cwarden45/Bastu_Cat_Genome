@@ -122,3 +122,7 @@ Purchased Test on 3/3/2021
 Kit arrived on 3/8/2021 (but I need to wait until my cat uses the litter box and I am not too busy, in order to collect a fresh sample)
 
 Sample collected and mailed on 3/15/2021.
+
+I recieved a report and raw data on 4/12/2021.
+
+You can see a copy of that report [here](https://petqcheck.com/share/1046786d-2b60-4c98-bd22-83d7c436b50c).
