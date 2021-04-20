@@ -132,3 +132,5 @@ I think the FASTQ files are slightly larger than I should upload to GitHub, so I
 PetQCheck metagenomics Read1: https://storage.googleapis.com/bastu-cat-genome/zr4262_9V3V4_R1.fastq.gz
 
 PetQCheck metagenomics Read2: https://storage.googleapis.com/bastu-cat-genome/zr4262_9V3V4_R2.fastq.gz
+
+I haven't compared [AnimalBiome/KittyBiome](https://shop.animalbiome.com/products/kittykit), but perhaps I can submit samples to multiple companies at the same time as a future experiment.
