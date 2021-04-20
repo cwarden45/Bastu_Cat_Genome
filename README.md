@@ -133,4 +133,4 @@ PetQCheck metagenomics Read1: https://storage.googleapis.com/bastu-cat-genome/zr
 
 PetQCheck metagenomics Read2: https://storage.googleapis.com/bastu-cat-genome/zr4262_9V3V4_R2.fastq.gz
 
-I haven't compared [AnimalBiome/KittyBiome](https://shop.animalbiome.com/products/kittykit), but perhaps I can submit samples to multiple companies at the same time as a future experiment.
+I haven't compared [AnimalBiome/KittyBiome](https://shop.animalbiome.com/products/kittykit), but perhaps I can submit samples to multiple companies at the same time as a future experiment.  As of 3/2/2021, raw FASTQ files were not provided for KittyBiome (unlike PetQCheck).
