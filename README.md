@@ -134,3 +134,11 @@ PetQCheck metagenomics Read1: https://storage.googleapis.com/bastu-cat-genome/zr
 PetQCheck metagenomics Read2: https://storage.googleapis.com/bastu-cat-genome/zr4262_9V3V4_R2.fastq.gz
 
 I haven't compared [AnimalBiome/KittyBiome](https://shop.animalbiome.com/products/kittykit), but perhaps I can submit samples to multiple companies at the same time as a future experiment.  As of 3/2/2021, raw FASTQ files were not provided for KittyBiome (unlike PetQCheck).
+
+**basepaws (Dental Health Test, $69-$79 each, 4 samples)**:
+
+[Website](https://basepaws.com/products/cat-dental-health-test?variant=39630212202693) says "BUY MORE, SAVE MORE", and I thought there was a discount for ordering 4 samples to be delivered over the source of the year.
+
+However, I ordered 4 individual samples, since I wanted to test them at intervals that were essentially as close as my cat would allow.  The price was the same both ways ($276, with Memorial Day discount).
+
+So, while not strictly untrue (if you save $10 on 1 sample, you will save $40 on 4 samples), there was not really a discount for purchasing in bulk on the day that I did so, and I think this has the potential to give the customer the wrong impression.
