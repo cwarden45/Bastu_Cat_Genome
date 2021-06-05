@@ -1,0 +1,1 @@
+I ordered 4 separate Dental Health Kits, but I also learned by that previous Whole Genome Sequencing report also includes a dental health report.
