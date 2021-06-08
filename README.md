@@ -151,3 +151,7 @@ I haven't compared [AnimalBiome/KittyBiome](https://shop.animalbiome.com/product
 However, I ordered 4 individual samples, since I wanted to test them at intervals that were essentially as close as my cat would allow.  The price was the same both ways ($276, with Memorial Day discount).
 
 So, while not strictly untrue (if you save $10 on 1 sample, you will save $40 on 4 samples), there was not really a discount for purchasing in bulk on the day that I did so, and I think this has the potential to give the customer the wrong impression.
+
+All 4 kits arrived on 6/7/2021.
+
+I collected the **1st sample** on **6/7/2021**.  Bastu mostly licked the foam collector, so hopefully that is OK (versus having more direct contact with her teeth).  The prior training helped keep her from running away, but he hasn't quite figured out what is earning her the treat afterwards.
