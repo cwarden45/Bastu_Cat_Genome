@@ -154,4 +154,6 @@ So, while not strictly untrue (if you save $10 on 1 sample, you will save $40 on
 
 All 4 kits arrived on 6/7/2021.
 
-I collected the **1st sample** on **6/7/2021**.  Bastu mostly licked the foam collector, so hopefully that is OK (versus having more direct contact with her teeth).  The prior training helped keep her from running away, but he hasn't quite figured out what is earning her the treat afterwards.
+I collected the **1st sample** (ID 31201053202314) on **6/7/2021**.  Bastu mostly licked the foam collector, so hopefully that is OK (versus having more direct contact with her teeth).  The prior training helped keep her from running away, but he hasn't quite figured out what is earning her the treat afterwards.
+
+I collected the **2nd sample** (ID 31201053201942) on **6/8/2021**.  Again, Bastu mostly licked the foam collector.
