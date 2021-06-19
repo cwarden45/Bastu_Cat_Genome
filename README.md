@@ -162,6 +162,6 @@ I collected the **3rd sample** (ID 31201053202280) on **6/9/2021**.  Again, Bast
 
 Accordingly, I have decided not to submit my *4th sample*.  Instead, I will try to use that for training, and maybe try again for the oral samples at a later date.  The actual collection tube will have the right shape, and I have already ordered baby oral cleaners (such as [here](https://smile.amazon.com/gp/product/B08K4RDVH1)) for previous training.  So, if I can find a way to temporarily attach the oral cleaner to the collection device, I think I can have something steral that I can use for training.
 
-**Wisdom Panel (Wisdom Panel Complete for Cats, $129.99, Order #98735)**:
+**Wisdom Panel ([Wisdom Panel Complete for Cats](https://www.wisdompanel.com/en-us/cat-dna-tests/complete-for-cats), $129.99, Order #98735)**:
 
 Purchased Test on 6/19/2021
