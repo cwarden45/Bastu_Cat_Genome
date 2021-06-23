@@ -2,6 +2,8 @@
 
 I noticed that a report is now provided for my earlier [Whole Genome Sequencing](https://basepaws.com/products/whole-genome-sequencing) sample, which I have uploaded.
 
+**basepaws (Dental Health Test, $69-$79 each, 4 samples, Order #31272)**:
+
 [Website](https://basepaws.com/products/cat-dental-health-test?variant=39630212202693) says "BUY MORE, SAVE MORE", and I thought there was a discount for ordering 4 samples to be delivered over the source of the year.
 
 However, I ordered 4 individual samples, since I wanted to test them at intervals that were essentially as close as my cat would allow.  The price was the same both ways ($276, with Memorial Day discount).
