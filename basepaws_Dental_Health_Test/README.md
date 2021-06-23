@@ -6,9 +6,7 @@ I noticed that a report is now provided for my earlier [Whole Genome Sequencing]
 
 **basepaws (Dental Health Test, $69-$79 each, 4 samples, Order #31272)**:
 
-[Website](https://basepaws.com/products/cat-dental-health-test?variant=39630212202693) says "BUY MORE, SAVE MORE", and I thought there was a discount for ordering 4 samples to be delivered over the source of the year.
-
-However, I ordered 4 individual samples, since I wanted to test them at intervals that were essentially as close as my cat would allow.  The price was the same both ways ($276, with Memorial Day discount).  So, while not strictly untrue (if you save $10 on 1 sample, you will save $40 on 4 samples), there was not really a discount for purchasing in bulk on the day that I did so, and I think this has the potential to give the customer the wrong impression.
+[Website](https://basepaws.com/products/cat-dental-health-test?variant=39630212202693) says "BUY MORE, SAVE MORE", and I thought there was a discount for ordering 4 samples to be delivered over the source of the year.  However, I ordered 4 individual samples, since I wanted to test them at intervals that were essentially as close as my cat would allow.  The price was the same both ways ($276, with Memorial Day discount).  So, while not strictly untrue (if you save $10 on 1 sample, you will save $40 on 4 samples), there was not really a discount for purchasing in bulk on the day that I did so, and I think this has the potential to give the customer the wrong impression.  **However, as of 6/23/2021, I don't think I see that option, and this may not be aniisseu for new orders.**
 
 All 4 kits arrived on 6/7/2021.
 
