@@ -1,5 +1,7 @@
 **basepaws (mouth swab, $1000, ~15x sequencing, with raw data as FASTQ+BAM+gVCF)**:
 
+Activated Kit / Collected Sample on 3/14/2019
+
 I noticed that a report is now provided for my earlier [Whole Genome Sequencing](https://basepaws.com/products/whole-genome-sequencing) sample, which I have uploaded.
 
 **basepaws (Dental Health Test, $69-$79 each, 4 samples, Order #31272)**:
