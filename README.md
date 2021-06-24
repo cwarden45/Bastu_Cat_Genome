@@ -151,3 +151,5 @@ I moved notes to a [README](https://github.com/cwarden45/Bastu_Cat_Genome/blob/m
 **Wisdom Panel ([Wisdom Panel Complete for Cats](https://www.wisdompanel.com/en-us/cat-dna-tests/complete-for-cats), $129.99, Order #98735)**:
 
 Purchased Test on 6/19/2021
+
+Kit Arrived and Sample Collected on 6/23/2021
