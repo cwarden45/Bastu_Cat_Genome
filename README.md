@@ -153,3 +153,5 @@ I moved notes to a [README](https://github.com/cwarden45/Bastu_Cat_Genome/blob/m
 Purchased Test on 6/19/2021
 
 Kit Arrived and Sample Collected on 6/23/2021
+
+Results returned on 7/6/2021
