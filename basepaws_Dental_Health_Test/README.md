@@ -1,3 +1,21 @@
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Sample</th>
+      <th align="center">Periodontal</br>Disease</th>
+      <th align="center">Tooth</br>Resorption</th>
+	    <th align="center">Bad</br>Breath</th>
+    </tr>
+    <tr>
+      <th align="center">~15x WGS</br>3-14-2019</th>
+      <th align="center">High Risk</br>7.35</th>
+      <th align="center">High Risk</br>9.98</th>
+	    <th align="center">Low Risk</br>0.34</th>
+    </tr>
+</tbody>
+</table>
+
+
 **basepaws (mouth swab, ~15x sequencing, with raw data as FASTQ+BAM+gVCF)**:
 
 Activated Kit / Collected Sample on 3/14/2019
