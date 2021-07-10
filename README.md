@@ -156,6 +156,6 @@ Kit Arrived and Sample Collected on 6/23/2021
 
 Results returned on 7/6/2021
 
-**PetQCheck by Purina (gut microbiome test, list price of $99.00, purchase price for me was $79.00, includes free shipping, Order PQCBP1541)**:
+**PetQCheck by Purina (gut microbiome test, list price of $99.00, purchase price for me was $79.00, includes free shipping, Order PQCBP1863)**:
 
 I purchased a 2nd test (to check changes over time) on 7/10/2021.
