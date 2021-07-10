@@ -8,9 +8,27 @@
     </tr>
     <tr>
       <th align="center">~15x WGS</br>3-14-2019</th>
-      <th align="center">High Risk</br>7.35</th>
-      <th align="center">High Risk</br>9.98</th>
-	    <th align="center">Low Risk</br>0.34</th>
+      <th align="center">High Risk</br>(7.35)</th>
+      <th align="center">High Risk</br>(9.98)</th>
+	<th align="center">Low Risk</br>(0.34)</th>
+    </tr>
+    <tr>
+      <th align="center">Dental Health</br>(mostly lick)</br>6-7-2021</th>
+      <th align="center">High Risk</br>(7.89)</th>
+      <th align="center">High Risk</br>(9.58)</th>
+	<th align="center">Low Risk</br>(0.05)</th>
+    </tr>
+    <tr>
+      <th align="center">Dental Health</br>(mostly lick)</br>6-8-2021</th>
+      <th align="center">High Risk</br>(6.68)</th>
+      <th align="center">High Risk</br>(9.76)</th>
+	<th align="center">Low Risk</br>(0.02)</th>
+    </tr>
+    <tr>
+      <th align="center">Dental Health</br>(mostly lick)</br>6-9-2021</th>
+      <th align="center">High Risk</br>(7.73)</th>
+      <th align="center">High Risk</br>(9.65)</th>
+	<th align="center">Low Risk</br>(0.18)</th>
     </tr>
 </tbody>
 </table>
