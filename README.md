@@ -119,7 +119,7 @@ I guess I will find out if the report is the same, but I started trying to order
 
 The e-mail receipt came from a "**wisdomhealth.com**" e-mail.  If I try to go to that address, I get re-directed to [https://www.wisdompanel.com/](https://www.wisdompanel.com/).  You can't actually order a cat DNA test on that website, but I think this might explain what was meant by "***Wisdom Panel for Cats***" on [this article](https://www.certapet.com/cat-dna-test/) (even though they didn't mention the UC-Davis VGL)
 
-**PetQCheck by Purina (gut microbiome test, list price of $99.00, purchase price for me was $79.00, includes free shipping)**:
+**PetQCheck by Purina (gut microbiome test, list price of $99.00, purchase price for me was $79.00, includes free shipping, Order PQCBP1541)**:
 
 I don't believe FASTQ files are normally returned.  However, before ordering the kit, I double-checked and I was told "*We can definitely send the FASTQ files to you....We don’t typically provide this raw data, therefore, could you do the following to make sure that we include them: One of the last questions of the survey asks whether there is anything else we should know about your pet. Can you add a note in this field asking for the FASTQ files?*"
 
@@ -155,3 +155,7 @@ Purchased Test on 6/19/2021
 Kit Arrived and Sample Collected on 6/23/2021
 
 Results returned on 7/6/2021
+
+**PetQCheck by Purina (gut microbiome test, list price of $99.00, purchase price for me was $79.00, includes free shipping, Order PQCBP1541)**:
+
+I purchased a 2nd test (to check changes over time) on 7/10/2021.
