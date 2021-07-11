@@ -144,7 +144,7 @@ PetQCheck metagenomics Read2: https://storage.googleapis.com/bastu-cat-genome/zr
 
 I haven't compared [AnimalBiome/KittyBiome](https://shop.animalbiome.com/products/kittykit), but perhaps I can submit samples to multiple companies at the same time as a future experiment.  As of 3/2/2021, raw FASTQ files were not provided for KittyBiome (unlike PetQCheck).
 
-**basepaws (Dental Health Test, $69-$79 each, 4 samples, Order #31272)**:
+**basepaws (Dental Health Test, 2 orders, 5 samples purchased, intend to use 4 of the samples)**:
 
 I moved notes to a [README](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/basepaws_Dental_Health_Test/README.md) file in a subfolder.
 
