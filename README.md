@@ -156,6 +156,8 @@ Kit Arrived and Sample Collected on 6/23/2021
 
 Results returned on 7/6/2021
 
+On 7/9/2021, the company indicated that they use a custom Illuminm Infinium XT genotyping chip to generate the data.  They said they do not currently return raw data and there is no timeline about when that may be offered, but they hope to do so in the future.
+
 **PetQCheck by Purina (gut microbiome test, list price of $99.00, purchase price for me was $79.00, includes free shipping, Order PQCBP1863)**:
 
 I purchased a 2nd test (to check changes over time) on 7/10/2021.
