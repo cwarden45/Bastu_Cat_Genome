@@ -63,3 +63,5 @@ I ordered 1 additional sample that I hope to have a vet help me collect on 7/11/
 ## Other Notes
 
 As I collect more data, I will comment on the preprint ([Kao et al. 2021](https://www.biorxiv.org/content/10.1101/2021.04.23.441192v1)).  Already, I think the company is supposed to declare a competing interest, because this relates to a product that they are be selling.  However, I am waiting to say more about the scientific details (and implications for individuals purchasing the test).
+
+If I am correctly understanding the report, I think the "normal" range is relatively small and a lot of cats will be called "High Risk"?  I am also curious what the score distribution looks like in new, independent samples.
