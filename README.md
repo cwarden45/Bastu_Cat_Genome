@@ -163,3 +163,5 @@ On 7/9/2021, the company indicated that they use a custom Illuminm Infinium XT g
 I purchased a 2nd test (to check changes over time) on 7/10/2021.
 
 Kit arrived on 7/15/2021.
+
+Sample collected and mailed on 7/16/2021.
