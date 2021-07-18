@@ -67,3 +67,5 @@ As I collect more data, I will comment on the preprint ([Kao et al. 2021](https:
 I think there is at least some misunderstanding, which I could determine based upon an answer in the [Basepaws Cat Club](https://www.facebook.com/groups/basepaws/permalink/2957599151162943) Facebook group.  Based upon what I see in another individual's report, I think the plots next to the scores are for individual bacteria (versus cats in the healthy and/or disease training groups)?  I am going to follow-up via e-mail.  Neverthless, I would like to see what the plot looks like for scores among cats that have been tested, and I am also curious what the *score distribution looks like in new, independent samples*.
 
 I think I may also ask if the liquid in the collection material has something to reduce or prevent [post-collection bacterial "blooms"](https://www.nature.com/articles/d42473-018-00136-7).
+
+I am not sure if it might also be worth looking more into some of the referneces for [this article](https://californianewstimes.com/basepaws-has-a-dna-test-for-your-cats-teeth-does-it-work/377746/).
