@@ -68,4 +68,6 @@ I think there is at least some misunderstanding, which I could determine based u
 
 I think I may also ask if the liquid in the collection material has something to reduce or prevent [post-collection bacterial "blooms"](https://www.nature.com/articles/d42473-018-00136-7).
 
+My understanding is that age is a risk factor.  I like that I don't see any obvious over-fitting in the results (with accuracy that seems more than random, but certainly not perfectly predictive).  However, is the microbiome score providing an advantage over known risk factors?
+
 I am not sure if it might also be worth looking more into some of the referneces for [this article](https://californianewstimes.com/basepaws-has-a-dna-test-for-your-cats-teeth-does-it-work/377746/).
