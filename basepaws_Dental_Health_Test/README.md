@@ -68,7 +68,7 @@ I did see a similar number (50-90%) reported on [this page](https://www.vet.corn
 
 For any level of severity, if you count 50-70% as being similar, then that overlaps what is reported [here](https://vcahospitals.com/know-your-pet/dental-disease-in-cats) and perhaps pages 10-11 of the **2016 report** that can be downloaded [here](https://www.banfield.com/pet-health/State-of-pet-health).  ***However, I think that is different than what a lot of people would think of for "*periodontal disease*"?***
 
-However, I think the claim about prevalence looks different than I see in [this paper](https://bmcvetres.biomedcentral.com/articles/10.1186/s12917-021-02775-3/tables/1) on dogs. Likewise, I can also see [this paper](https://pubmed.ncbi.nlm.nih.gov/25178688/) where the prevalence is more similar to what I saw in cats (**10-15%** for **periodontal disease**, which was in fact reported as being the most common specific disease)
+For example, I think the claim about prevalence looks different than I see in [this paper](https://bmcvetres.biomedcentral.com/articles/10.1186/s12917-021-02775-3/tables/1) on dogs. Likewise, I can also see [this paper](https://pubmed.ncbi.nlm.nih.gov/25178688/) where the prevalence is more similar to what I saw in cats (**10-15%** for **periodontal disease**, which was in fact reported as being the most common specific disease)
 
 Possibly somewhere in between, in [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5002895/), there was a fraction of overall "dental" problems being reported in the abstract is ~30%.
 
