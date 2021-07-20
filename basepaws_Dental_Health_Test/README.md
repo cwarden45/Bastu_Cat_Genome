@@ -70,7 +70,7 @@ For any level of severity, if you count 50-70% as being similar, then that overl
 
 For example, I think the claim about prevalence looks different than I see in [this paper](https://bmcvetres.biomedcentral.com/articles/10.1186/s12917-021-02775-3/tables/1) on dogs. Likewise, I can also see [this paper](https://pubmed.ncbi.nlm.nih.gov/25178688/) where the prevalence is more similar to what I saw in cats (**10-15%** for **periodontal disease**, which was in fact reported as being the most common specific disease)
 
-Possibly somewhere in between, in [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5002895/), there was a fraction of overall "dental problems" being reported in the abstract is ~30%.
+Possibly somewhere in between, in [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5002895/), there was a fraction of overall "*dental problems*" being reported in the abstract is ~30%.
 
 I don't see dental problems listed on [this ASPCA page](https://www.aspca.org/pet-care/cat-care/common-cat-diseases), (or, I believe, [this Wikipedia page](https://en.wikipedia.org/wiki/Cat_health)).  So, I am not sure what to think about that.
 
