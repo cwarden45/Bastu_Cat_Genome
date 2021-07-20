@@ -60,6 +60,20 @@ I was able to download all 3 results on **7/9/2021**.
 
 I ordered 1 additional sample that I hope to have a vet help me collect on 7/11/2021.
 
+## Prevalance Notes (mostly copied from [blog post](http://cdwscience.blogspot.com/2019/12/review-of-results-data-from-3-cat-dna.html))
+
+I have been notified as a plan for basepaws to add a dental health test. I did see a similar number (50-90%) reported on [this page](https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/feline-dental-disease) for cats.
+
+For any level of severity, if you count 50-70% as being similar, then that overlaps what is reported [here](https://vcahospitals.com/know-your-pet/dental-disease-in-cats) and perhaps pages 10-11 of the **2016 report** that can be downloaded [here](https://www.banfield.com/pet-health/State-of-pet-health).  However, I think that is different than what a lot of people would think of for "*periodontal disease*"
+
+However, I think the claim about prevalence looks different than I see in [this paper](https://bmcvetres.biomedcentral.com/articles/10.1186/s12917-021-02775-3/tables/1) on dogs. Likewise, I can also see [this paper](https://pubmed.ncbi.nlm.nih.gov/25178688/) where the prevalence is more similar to what I saw in cats (**10-15%** for periodontal disease, which was in fact reported as being the most common specific disease)
+
+Possibly somewhere in between, in [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5002895/), there was a fraction of overall "dental" problems being reported in the abstract is ~30%.
+
+I don't see dental problems listed on [this ASPCA page](https://www.aspca.org/pet-care/cat-care/common-cat-diseases), (or, I believe, [this Wikipedia page](https://en.wikipedia.org/wiki/Cat_health)).  So, I am not sure what to think about that.
+
+I will continue to gradually look into this more, but the "periodontal disease stage" for dogs (and stage I, for cats) in the [2016 VCA report](https://www.banfield.com/pet-health/State-of-pet-health) with a higher percentage for "*dental tartar*" seems like what I was expecting (with values **<10%** for **stage I periodontal disease** cats, and varying fractions by age for dog that are also all <10%).
+
 ## Other Notes
 
 As I collect more data, I will comment on the preprint ([Kao et al. 2021](https://www.biorxiv.org/content/10.1101/2021.04.23.441192v1)).  Already, I think the company is supposed to declare a *competing interest*, because this relates to a product that they are be selling.  However, I am waiting to say more about the scientific details (and implications for individuals purchasing the test).
