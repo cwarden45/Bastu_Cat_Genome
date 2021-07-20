@@ -60,7 +60,7 @@ I was able to download all 3 results on **7/9/2021**.
 
 I ordered 1 additional sample that I hope to have a vet help me collect on 7/11/2021.
 
-## Prevalance Notes (mostly copied from [blog post](http://cdwscience.blogspot.com/2019/12/review-of-results-data-from-3-cat-dna.html))
+## Prevalence Notes (mostly copied from [blog post](http://cdwscience.blogspot.com/2019/12/review-of-results-data-from-3-cat-dna.html))
 
 I have been notified as a plan for basepaws to add a dental health test. I did see a similar number (50-90%) reported on [this page](https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/feline-dental-disease) for cats.
 
