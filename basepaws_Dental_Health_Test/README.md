@@ -34,7 +34,7 @@
 </table>
 
 
-**basepaws (mouth swab, ~15x [Whole Genome Sequencing](https://basepaws.com/products/whole-genome-sequencing), with raw data as FASTQ+BAM+gVCF)**:
+## **basepaws (mouth swab, ~15x [Whole Genome Sequencing](https://basepaws.com/products/whole-genome-sequencing), with raw data as FASTQ+BAM+gVCF)**:
 
 Activated Kit / Collected Sample on 3/14/2019
 
@@ -46,7 +46,7 @@ While raw data is not available for the separate Dental Health Test, you can see
 
 *basepaws 15x WGS Read2*: https://storage.googleapis.com/bastu-cat-genome/HCWGS0003.23.HCWGS0003_2.fastq.gz
 
-**basepaws ([Dental Health Test](https://basepaws.com/products/cat-dental-health-test), $69-$79 each, 4 samples, Order #31272)**:
+## **basepaws ([Dental Health Test](https://basepaws.com/products/cat-dental-health-test), $69-$79 each, 4 samples, Order #31272)**:
 
 Samples were ordered on 5/30/2021.
 
