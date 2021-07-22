@@ -40,6 +40,12 @@ Activated Kit / Collected Sample on 3/14/2019
 
 I noticed that a report is now provided for my earlier Whole Genome Sequencing sample, which I have uploaded.
 
+While raw data is not available for the separate Dental Health Test, you can see the raw data for my regular coverage WGS here:
+
+basepaws 15x WGS Read1: https://storage.googleapis.com/bastu-cat-genome/HCWGS0003.23.HCWGS0003_1.fastq.gz
+
+basepaws 15x WGS Read2: https://storage.googleapis.com/bastu-cat-genome/HCWGS0003.23.HCWGS0003_2.fastq.gz
+
 **basepaws ([Dental Health Test](https://basepaws.com/products/cat-dental-health-test), $69-$79 each, 4 samples, Order #31272)**:
 
 Samples were ordered on 5/30/2021.
