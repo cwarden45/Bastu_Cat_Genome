@@ -62,9 +62,9 @@ Accordingly, I have decided not to submit my *4th sample*.  Instead, I will try 
 
 I was able to download all 3 results on **7/9/2021**.
 
-**basepaws ([Dental Health Test](https://basepaws.com/products/cat-dental-health-test), $59 each, 1 sample, Order #32719)**:
+## **basepaws ([Dental Health Test](https://basepaws.com/products/cat-dental-health-test), $59 each, 1 sample, Order #32719)**:
 
-I ordered 1 additional sample that I hope to have a vet help me collect on 7/11/2021.
+I ordered 1 additional sample that I hope to have a vet help me collect on 7/11/2021 (which was delivered to my apartment on 7/22/2021).
 
 ## Prevalence Notes (mostly copied from [blog post](http://cdwscience.blogspot.com/2019/12/review-of-results-data-from-3-cat-dna.html))
 
