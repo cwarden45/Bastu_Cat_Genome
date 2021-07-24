@@ -1,0 +1,243 @@
+Percent	Fragments_clade	Fragments_direct	Taxonomic_Rank	NCBI_Taxonomy_ID	Scientific_Name	basepaws.species	basepaws.Taxonomy.ID	basepaws.periodontal	basepaws.resorption	basepaws.bad.breath
+0	1192	1192	S	727	                Haemophilus influenzae	Haemophilus influenzae	727	1	0	0
+0	46	46	S	52771	                  Actinomyces howellii	Actinomyces howellii	52771	1	0	0
+NA	NA	NA	NA	NA	NA	Saccharomyces cerevisiae	4932	1	0	0
+0	157	157	S	329854	                    Bacteroides intestinalis	Bacteroides intestinalis	329854	1	0	0
+0	377	377	S	28116	                    Bacteroides ovatus	Bacteroides ovatus	28116	1	0	0
+0	19	19	S	2161816	                  Tessaracoccus timonensis	Tessaracoccus timonensis	2161816	1	0	0
+0	93	93	S	1642646	                    Petrimonas mucosa	Petrimonas mucosa	1642646	1	0	0
+0	19	19	S	28123	                    Porphyromonas asaccharolytica	Porphyromonas asaccharolytica	28123	1	0	0
+0	113	113	S	589437	                    Prevotella scopos	Prevotella scopos	589437	1	0	0
+0	415	415	S	106649	                Acinetobacter guillouiae	Acinetobacter guillouiae	106649	1	0	0
+NA	NA	NA	NA	NA	NA	Corynebacterium tuberculostearicum	38304	1	0	0
+0	354	354	S	40214	                Acinetobacter johnsonii	Acinetobacter johnsonii	40214	1	0	0
+NA	NA	NA	NA	NA	NA	Actinomyces sp. ZJ750	2744574	1	0	0
+0	51	51	S	1049583	                  Kocuria indica	Kocuria indica	1049583	1	0	0
+0	52	52	S	820	                    Bacteroides uniformis	Bacteroides uniformis	820	1	0	0
+0.05	24798	24798	S	28901	                Salmonella enterica	Salmonella enterica	28901	1	0	0
+0	30	30	S	1487956	                    Corynebacterium sp. ATCC 6931	Corynebacterium sp. ATCC 6931	1487956	1	0	0
+0	2	2	S	489	                Neisseria polysaccharea	Neisseria polysaccharea	489	1	0	0
+0	90	90	S	1642647	                    Proteiniphilum saccharofermentans	Proteiniphilum saccharofermentans	1642647	1	0	0
+0	110	110	S	1851395	                    Actinomyces sp. Chiba101	Actinomyces sp. Chiba101	1851395	1	0	0
+0	157	157	S	28118	                    Odoribacter splanchnicus	Odoribacter splanchnicus	28118	1	0	0
+0	238	238	S	292800	                  Flavonifractor plautii	Flavonifractor plautii	292800	0	1	0
+0	25	25	S	399497	                  Tessaracoccus flavescens	Tessaracoccus flavescens	399497	0	1	0
+0	36	36	S	1699624	                  Psychrobacter sp. P11G5	Psychrobacter sp. P11G5	1699624	0	1	0
+0	3	3	S	2058152	                Klebsiella grimontii	Klebsiella grimontii	2058152	0	1	0
+0	1986	1986	S	562	                Escherichia coli	Escherichia coli	562	0	1	0
+0	76	76	S	1550024	                  Ruthenibacterium lactatiformans	Ruthenibacterium lactatiformans	1550024	0	1	0
+0	222	222	S	1336	                    Streptococcus equi	Streptococcus equi	1336	0	1	0
+NA	NA	NA	NA	NA	NA	Enterocloster clostridioformis	1531	0	1	0
+0	221	221	S	823	                    Parabacteroides distasonis	Parabacteroides distasonis	823	0	1	0
+0	127	127	S	617123	                  Lachnoanaerobaculum umeaense	Lachnoanaerobaculum umeaense	617123	0	1	0
+0	214	214	S	1636606	                  Aeromonas sp. ASNIH1	Aeromonas sp. ASNIH1	1636606	0	1	0
+0	198	198	S	1511	                  Acetoanaerobium sticklandii	Acetoanaerobium sticklandii	1511	0	1	0
+0	108	108	S	731	                Histophilus somni	Histophilus somni	731	1	1	0
+0	69	69	S	2133944	                      Alloprevotella sp. E39	Alloprevotella sp. E39	2133944	1	1	0
+NA	NA	NA	NA	NA	NA	Cruoricaptor ignavus	1118202	1	1	0
+0	81	81	S	754	                Pasteurella dagmatis	Pasteurella dagmatis	754	1	1	0
+NA	NA	NA	NA	NA	NA	Psychrobacter alimentarius	261164	1	1	0
+0	789	789	S	2663009	                Fusobacterium pseudoperiodonticum	Fusobacterium pseudoperiodonticum	2663009	1	1	0
+0	153	153	S	849	                Fusobacterium gonidiaformans	Fusobacterium gonidiaformans	849	1	1	0
+0	355	355	S	1334	                    Streptococcus dysgalactiae	Streptococcus dysgalactiae	1334	1	1	0
+0	535	535	S	1307	                  Streptococcus suis	Streptococcus suis	1307	1	1	0
+0	41	41	S	870	                Dichelobacter nodosus	Dichelobacter nodosus	870	1	1	0
+0	217	217	S	40215	                Acinetobacter junii	Acinetobacter junii	40215	1	1	0
+0	205	205	S	34105	                Streptobacillus moniliformis	Streptobacillus moniliformis	34105	1	1	0
+0	15	15	S	844	                  Wolinella succinogenes	Wolinella succinogenes	844	1	1	0
+0	123	123	S	386891	                Moraxella bovoculi	Moraxella bovoculi	386891	1	1	0
+0	61	61	S	1917441	                  Streptococcus ruminantium	Streptococcus ruminantium	1917441	1	1	0
+NA	NA	NA	NA	NA	NA	Saccharomyces eubayanus	1080349	1	1	0
+0	24	24	S	349106	                  Psychrobacter sp. PRwf-1	Psychrobacter sp. PRwf-1	349106	1	1	0
+0	126	126	S	301301	                  Roseburia hominis	Roseburia hominis	301301	1	1	0
+0	91	91	S	860	                Fusobacterium periodonticum	Fusobacterium periodonticum	860	1	1	0
+0	90	90	S	1725	                  Corynebacterium xerosis	Corynebacterium xerosis	1725	1	1	0
+NA	NA	NA	NA	NA	NA	Mycoplasma felis	33923	1	1	0
+0	203	203	S	712357	                  Leptotrichia sp. oral taxon 212	Leptotrichia sp. oral taxon 212	712357	1	1	0
+0	172	172	S	2652177	                  Pelistega sp. NLN63	Pelistega sp. NLN63	2652177	1	1	0
+0	203	203	S	1303	                  Streptococcus oralis	Streptococcus oralis	1303	1	1	0
+0	111	111	S	371601	                    Bacteroides xylanisolvens	Bacteroides xylanisolvens	371601	1	1	0
+0	433	433	S	34062	                Moraxella osloensis	Moraxella osloensis	34062	1	1	0
+0	55	55	S	326523	                Neisseria zoodegmatis	Neisseria zoodegmatis	326523	1	1	0
+0	119	119	S	393921	                    Porphyromonas crevioricanis	Porphyromonas crevioricanis	393921	0	0	1
+0	52	52	S	1177574	                    Prevotella jejuni	Prevotella jejuni	1177574	0	0	1
+NA	NA	NA	NA	NA	NA	Campylobacter sp. RM16192	1660080	0	0	1
+0	7	7	S	1327989	                  Serratia sp. FS14	Serratia sp. FS14	1327989	0	0	1
+0	199	199	S	29391	                    Gemella morbillorum	Gemella morbillorum	29391	0	0	1
+0	95	95	S	1660	                  Schaalia odontolytica	Schaalia odontolytica	1660	0	0	1
+0	42	42	S	721785	                Acidovorax ebreus	Acidovorax ebreus	721785	0	0	1
+0	60	60	S	1176533	                  Luteimonas sp. Gr-4	Luteimonas granuli	1176533	0	0	1
+NA	NA	NA	NA	NA	NA	Citrobacter sp. RHBSTW-00599	2742657	0	0	1
+NA	NA	NA	NA	NA	NA	Brucella intermedia	94625	0	0	1
+0	147	147	S	358220	                  Acidovorax sp. KKS102	Acidovorax sp. KKS102	358220	0	0	1
+0	200	200	S	409322	                Treponema pedis	Treponema pedis	409322	0	0	1
+NA	NA	NA	NA	NA	NA	Stenotrophomonas sp. SXG-1	2682487	0	0	1
+0	1	1	S	463024	                Bordetella genomosp. 6	Bordetella genomosp. 6	463024	0	0	1
+0	163	163	S	1338	                    Streptococcus intermedius	Streptococcus intermedius	1338	0	0	1
+NA	NA	NA	NA	NA	NA	Diaphorobacter aerolatus	1288495	0	0	1
+0	285	285	S	143361	                  Filifactor alocis	Filifactor alocis	143361	0	0	1
+0	61	61	S	415229	                Pseudoxanthomonas spadix	Pseudoxanthomonas spadix	415229	0	0	1
+NA	NA	NA	NA	NA	NA	Citrobacter sp. RHBSTW-00570	2742655	0	0	1
+0	615	615	S	316	                    Pseudomonas stutzeri	Pseudomonas stutzeri	316	0	0	1
+0	22	22	S	1658671	                    Arsenicicoccus sp. oral taxon 190	Arsenicicoccus sp. oral taxon 190	1658671	0	0	1
+NA	NA	NA	NA	NA	NA	Thermomonas sp. HDW16	2714945	0	0	1
+0	67	67	S	162	                Treponema phagedenis	Treponema phagedenis	162	0	0	1
+0	158	158	S	438	                Acetobacter pasteurianus	Acetobacter pasteurianus	438	0	0	1
+0	72	72	S	56458	                Xanthomonas sacchari	Xanthomonas sacchari	56458	0	0	1
+0	20	20	S	519	                Bordetella parapertussis	Bordetella parapertussis	519	0	0	1
+NA	NA	NA	NA	NA	NA	Citrobacter sp. RHBSTW-00229	2742641	0	0	1
+0	33	33	S	56454	                Xanthomonas hortorum	Xanthomonas hortorum	56454	0	0	1
+NA	NA	NA	NA	NA	NA	Pseudoxanthomonas mexicana	128785	0	0	1
+0	38	38	S	456327	                Xanthomonas euvesicatoria	Xanthomonas euvesicatoria	456327	0	0	1
+NA	NA	NA	NA	NA	NA	Pseudomonas otitidis	319939	0	0	1
+0	18	18	S	232721	                  Acidovorax sp. JS42	Acidovorax sp. JS42	232721	0	0	1
+0	89	89	S	1539298	                  Treponema sp. OMZ 838	Treponema sp. OMZ 838	1539298	0	0	1
+0	188	188	S	296591	                  Polaromonas sp. JS666	Polaromonas sp. JS666	296591	0	0	1
+0	60	60	S	105219	                Ralstonia mannitolilytica	Ralstonia mannitolilytica	105219	0	0	1
+NA	NA	NA	NA	NA	NA	Thermomonas sp. XSG	2771436	0	0	1
+0	127	127	S	70775	                  Pseudomonas plecoglossicida	Pseudomonas plecoglossicida	70775	0	0	1
+0	85	85	S	28135	                    Prevotella oris	Prevotella oris	28135	0	0	1
+0	64	64	S	436515	                Variovorax boronicumulans	Variovorax boronicumulans	436515	0	0	1
+0	124	124	S	1082851	                Comamonas serinivorans	Comamonas serinivorans	1082851	0	0	1
+NA	NA	NA	NA	NA	NA	Enterobacter cloacae complex sp. FDA-CDC-AR_0132	2077137	0	0	1
+NA	NA	NA	NA	NA	NA	Stenotrophomonas indicatrix	2045451	0	0	1
+0	298	298	S	1270	                  Micrococcus luteus	Micrococcus luteus	1270	0	0	1
+0	46	46	S	216465	                Polaromonas naphthalenivorans	Polaromonas naphthalenivorans	216465	0	0	1
+0	63	63	S	69823	                  Selenomonas sputigena	Selenomonas sputigena	69823	0	0	1
+0	95	95	S	2184519	                  Hydrogenophaga sp. NH-16	Hydrogenophaga sp. NH-16	2184519	0	0	1
+0	103	103	S	1858609	                  Acidovorax sp. T1	Acidovorax sp. T1	1858609	0	0	1
+0	277	277	S	158	                Treponema denticola	Treponema denticola	158	0	0	1
+0	8	8	S	1310165	                Ralstonia pseudosolanacearum	Ralstonia pseudosolanacearum	1310165	0	0	1
+NA	NA	NA	NA	NA	NA	Citrobacter sp. RHB36-C18	2742627	0	0	1
+NA	NA	NA	NA	NA	NA	Mycoplasma arginini	2094	0	0	1
+0	175	175	S	553814	                Acidovorax carolinensis	Acidovorax carolinensis	553814	0	0	1
+0	72	72	S	43306	                  Pseudomonas denitrificans (nomen rejiciendum)	Pseudomonas denitrificans (nom. rej.)	43306	0	0	1
+0	89	89	S	53442	                  Eubacterium callanderi	Eubacterium callanderi	53442	0	0	1
+0.08	44772	44772	S	346	                  Xanthomonas citri	Xanthomonas citri	346	0	0	1
+0	761	761	S	40324	                  Stenotrophomonas maltophilia	Stenotrophomonas maltophilia	40324	0	0	1
+0	58	58	S	72557	                Achromobacter ruhlandii	Achromobacter ruhlandii	72557	0	0	1
+0	169	169	S	147645	                Paracoccus yeei	Paracoccus yeei	147645	0	0	1
+0	101	101	S	795665	                  Hydrogenophaga sp. PBC	Hydrogenophaga sp. PBC	795665	0	0	1
+0	168	168	S	343	                Xanthomonas translucens	Xanthomonas translucens	343	0	0	1
+0	57	57	S	56448	                Xanthomonas arboricola	Xanthomonas arboricola	56448	0	0	1
+0	1540	1540	S	1747	                  Cutibacterium acnes	Cutibacterium acnes	1747	0	0	1
+0	40	40	S	361101	                  Streptococcus pseudoporcinus	Streptococcus pseudoporcinus	361101	0	0	1
+0	67	67	S	339	                Xanthomonas campestris	Xanthomonas campestris	339	0	0	1
+0	79	79	S	204	                  Campylobacter showae	Campylobacter showae	204	0	0	1
+0	397	397	S	511	                Alcaligenes faecalis	Alcaligenes faecalis	511	0	0	1
+0	143	143	S	69	                Lysobacter enzymogenes	Lysobacter enzymogenes	69	0	0	1
+NA	NA	NA	NA	NA	NA	Acidovorax sp. 16-35-5	2743470	0	0	1
+0	56	56	S	33040	                  Streptococcus milleri	Streptococcus milleri	33040	0	0	1
+0	410	410	S	85698	                Achromobacter xylosoxidans	Achromobacter xylosoxidans	85698	0	0	1
+0	281	281	S	28131	                    Prevotella intermedia	Prevotella intermedia	28131	0	0	1
+NA	NA	NA	NA	NA	NA	Acidovorax sp. HDW3	2714923	0	0	1
+0	198	198	S	1328	                    Streptococcus anginosus	Streptococcus anginosus	1328	0	0	1
+NA	NA	NA	NA	NA	NA	Diaphorobacter sp. JS3050	2735554	0	0	1
+0	16	16	S	1881022	                    Streptomyces sp. 2114.2	Streptomyces sp. 2114.2	1881022	0	0	1
+0	32	32	S	648	                Aeromonas caviae	Aeromonas caviae	648	0	0	1
+0	59	59	S	2597701	                  Comamonas sp. NLF-7-7	Comamonas sp. NLF-7-7	2597701	0	0	1
+0	46	46	S	1563222	                Citrobacter pasteurii	Citrobacter pasteurii	1563222	0	0	1
+NA	NA	NA	NA	NA	NA	Enterobacter sp. DSM 30060	2747372	0	0	1
+0	143	143	S	103855	                Bordetella hinzii	Bordetella hinzii	103855	0	0	1
+0	126	126	S	216778	                Stenotrophomonas rhizophila	Stenotrophomonas rhizophila	216778	0	0	1
+0	25	25	S	1458425	                Serpentinomonas raichei	Serpentinomonas raichei	1458425	0	0	1
+NA	NA	NA	NA	NA	NA	Thermomonas brevis	215691	0	0	1
+NA	NA	NA	NA	NA	NA	Enterobacter sp. RHBSTW-00593	2742656	0	0	1
+0	82	82	S	1034889	                  Variovorax sp. HW608	Variovorax sp. HW608	1034889	0	0	1
+0	101	101	S	2508168	                  Luteimonas sp. YGD11-2	Luteimonas sp. YGD11-2	2508168	0	0	1
+0	28	28	S	1458426	                Serpentinomonas mccroryi	Serpentinomonas mccroryi	1458426	0	0	1
+0	76	76	S	363952	                Comamonas thiooxydans	Comamonas thiooxydans	363952	0	0	1
+0	41	41	S	1605891	                Lysobacter maris	Lysobacter maris	1605891	0	0	1
+NA	NA	NA	NA	NA	NA	Campylobacter rectus	203	0	0	1
+0	460	460	S	859	                Fusobacterium necrophorum	Fusobacterium necrophorum	859	0	0	1
+0	292	292	S	246787	                    Bacteroides cellulosilyticus	Bacteroides cellulosilyticus	246787	0	0	1
+0	6	6	S	2485839	                  Serratia sp. LS-1	Serratia sp. LS-1	2485839	0	0	1
+0	17	17	S	2010829	                Aerosticca soli	Aerosticca soli	2010829	0	0	1
+NA	NA	NA	NA	NA	NA	Stenotrophomonas nitritireducens	83617	0	0	1
+0	117	117	S	2116657	                Pulveribacter suum	Pulveribacter suum	2116657	0	0	1
+0	54	54	S	180282	                Delftia tsuruhatensis	Delftia tsuruhatensis	180282	0	0	1
+0	160	160	S	357276	                    Bacteroides dorei	Phocaeicola dorei	357276	0	0	1
+0	268	268	S	217203	                Achromobacter spanius	Achromobacter spanius	217203	0	0	1
+0	90	90	S	128780	                Stenotrophomonas acidaminiphila	Stenotrophomonas acidaminiphila	128780	0	0	1
+0	59	59	S	2109913	                  Melaminivora sp. SC2-9	Melaminivora sp. SC2-9	2109913	0	0	1
+0	3	3	S	2566012	                  Citrobacter sp. CF971	Citrobacter sp. CF971	2566012	0	0	1
+0	433	433	S	546	                  Citrobacter freundii	Citrobacter freundii	546	0	0	1
+0	78	78	S	225991	                Comamonas aquatica	Comamonas aquatica	225991	0	0	1
+0	69	69	S	434010	                  Hydrogenophaga sp. PBL-H3	Hydrogenophaga sp. PBL-H3	434010	0	0	1
+NA	NA	NA	NA	NA	NA	Propioniciclava sp. HDW11	2714937	0	0	1
+0	184	184	S	285	                Comamonas testosteroni	Comamonas testosteroni	285	0	0	1
+0	275	275	S	81028	                Treponema brennaborense	Treponema brennaborense	81028	0	0	1
+0	97	97	S	221027	                Treponema putidum	Treponema putidum	221027	0	0	1
+0	82	82	S	179636	                Alicycliphilus denitrificans	Alicycliphilus denitrificans	179636	0	0	1
+0	21	21	S	2184083	                Thauera hydrothermalis	Thauera hydrothermalis	2184083	0	0	1
+NA	NA	NA	NA	NA	NA	Treponema socranskii	53419	0	0	1
+0	131	131	S	1812935	                  Enterobacter roggenkampii	Enterobacter roggenkampii	1812935	0	0	1
+NA	NA	NA	NA	NA	NA	Proteus terrae	1574161	0	0	1
+0	621	621	S	817	                    Bacteroides fragilis	Bacteroides fragilis	817	1	0	1
+0	83	83	S	1986146	                  Desulfobulbus oralis	Desulfobulbus oralis	1986146	1	0	1
+0	72	72	S	493	                Neisseria canis	Neisseria canis	493	1	0	1
+0	73	73	S	1796613	                    Bacteroides caecimuris	Bacteroides caecimuris	1796613	1	0	1
+0	31	31	S	2718	                Cardiobacterium hominis	Cardiobacterium hominis	2718	1	0	1
+0	5	5	S	2698682	                Lysobacter oculi	Lysobacter oculi	2698682	1	0	1
+0	126	126	S	28129	                    Prevotella denticola	Prevotella denticola	28129	1	0	1
+0	133	133	S	157692	                Leptotrichia goodfellowii	Pseudoleptotrichia goodfellowii	157692	1	0	1
+0	69	69	S	1658672	                  Ottowia sp. oral taxon 894	Ottowia sp. oral taxon 894	1658672	1	0	1
+0	204	204	S	1019	                    Capnocytophaga sputigena	Capnocytophaga sputigena	1019	1	0	1
+NA	NA	NA	NA	NA	NA	Hydrogenophaga sp. BA0156	2716225	1	0	1
+0	219	219	S	28112	                    Tannerella forsythia	Tannerella forsythia	28112	1	0	1
+0	184	184	S	28189	                    Capnocytophaga cynodegmi	Capnocytophaga cynodegmi	28189	1	0	1
+0	25	25	S	28449	                Neisseria subflava	Neisseria subflava	28449	1	0	1
+NA	NA	NA	NA	NA	NA	Conchiformibius steedae	153493	1	0	1
+0	23	23	S	631220	                    Desulfovibrio sp. G11	Desulfovibrio sp. G11	631220	1	0	1
+0	90	90	S	44742	                  Desulfovibrio fairfieldensis	Desulfovibrio fairfieldensis	44742	1	0	1
+0	281	281	S	837	                    Porphyromonas gingivalis	Porphyromonas gingivalis	837	1	0	1
+0	38	38	S	1659	                  Actinomyces israelii	Actinomyces israelii	1659	1	0	1
+0	43	43	S	1853278	                Neisseria chenwenguii	Neisseria chenwenguii	1853278	1	0	1
+0	187	187	S	487	                Neisseria meningitidis	Neisseria meningitidis	487	1	0	1
+0	43	43	S	488	                Neisseria mucosa	Neisseria mucosa	488	1	0	1
+0	54	54	S	495	                Neisseria elongata	Neisseria elongata	495	1	0	1
+NA	NA	NA	NA	NA	NA	Neisseria shayeganii	607712	1	0	1
+0	108	108	S	28113	                    Bacteroides heparinolyticus	Bacteroides heparinolyticus	28113	1	0	1
+NA	NA	NA	NA	NA	NA	Neisseria bacilliformis	267212	1	0	1
+0	60	60	S	47671	                Lautropia mirabilis	Lautropia mirabilis	47671	1	0	1
+0	63	63	S	539	                Eikenella corrodens	Eikenella corrodens	539	1	0	1
+0	54	54	S	132132	                  Desulfomicrobium orale	Desulfomicrobium orale	132132	1	0	1
+0	221	221	S	47678	                    Bacteroides caccae	Bacteroides caccae	47678	1	0	1
+NA	NA	NA	NA	NA	NA	Neisseria dentiae	194197	1	0	1
+NA	NA	NA	NA	NA	NA	Alysiella filiformis	194196	1	0	1
+NA	NA	NA	NA	NA	NA	Neisseria sicca	490	1	0	1
+0	53	53	S	1329	                  Streptococcus canis	Streptococcus canis	1329	0	1	1
+0	101	101	S	1785995	                      Gemella sp. oral taxon 928	Gemella sp. oral taxon 928	1785995	0	1	1
+0	20	20	S	119206	                  Aerococcus sanguinicola	Aerococcus sanguinicola	119206	0	1	1
+0	94	94	S	2109914	                Ottowia oryzae	Ottowia oryzae	2109914	0	1	1
+NA	NA	NA	NA	NA	NA	Treponema sp. Marseille-Q4132	2766701	0	1	1
+0	216	216	S	33033	                  Parvimonas micra	Parvimonas micra	33033	0	1	1
+0	87	87	S	120683	                  Treponema sp. OMZ 804	Treponema sp. OMZ 804	120683	0	1	1
+0	125	125	S	1750	                  Pseudopropionibacterium propionicum	Pseudopropionibacterium propionicum	1750	0	1	1
+NA	NA	NA	NA	NA	NA	Bacteroides sp. HF-5287	2650157	1	1	1
+0	83	83	S	715	                Actinobacillus pleuropneumoniae	Actinobacillus pleuropneumoniae	715	1	1	1
+0	133	133	S	1945658	                      Capnocytophaga sp. H4358	Capnocytophaga sp. H4358	1945658	1	1	1
+0	266	266	S	28188	                    Capnocytophaga canimorsus	Capnocytophaga canimorsus	28188	1	1	1
+0	102	102	S	758	                Rodentibacter pneumotropicus	Rodentibacter pneumotropicus	758	1	1	1
+0	31	31	S	2030797	                  Glaesserella sp. 15-184	Glaesserella sp. 15-184	2030797	1	1	1
+0	408	408	S	34085	                    Riemerella anatipestifer	Riemerella anatipestifer	34085	1	1	1
+0	36	36	S	28119	                    Bacteroides zoogleoformans	Bacteroides zoogleoformans	28119	1	1	1
+0	83	83	S	1432056	                  Mannheimia sp. USDA-ARS-USMARC-1261	Mannheimia sp. USDA-ARS-USMARC-1261	1432056	1	1	1
+0	47	47	S	34061	                Moraxella cuniculi	Moraxella cuniculi	34061	1	1	1
+0	62	62	S	326522	                Neisseria animaloris	Neisseria animaloris	326522	1	1	1
+0	191	191	S	726	                Haemophilus haemolyticus	Haemophilus haemolyticus	726	1	1	1
+NA	NA	NA	NA	NA	NA	Mannheimia pernigra	111844	1	1	1
+0	96	96	S	28091	                Neisseria weaveri	Neisseria weaveri	28091	1	1	1
+NA	NA	NA	NA	NA	NA	Frederiksenia canicola	123824	1	1	1
+0	607	607	S	747	                Pasteurella multocida	Pasteurella multocida	747	1	1	1
+0	107	107	S	1945657	                      Capnocytophaga sp. H2931	Capnocytophaga sp. H2931	1945657	1	1	1
+NA	NA	NA	NA	NA	NA	Neisseria musculi	1815583	1	1	1
+0	112	112	S	728	                Avibacterium paragallinarum	Avibacterium paragallinarum	728	1	1	1
+0	66	66	S	51049	                Actinobacillus indolicus	Actinobacillus indolicus	51049	1	1	1
+0	169	169	S	738	                Glaesserella parasuis	Glaesserella parasuis	738	1	1	1
+0	253	253	S	732	                Aggregatibacter aphrophilus	Aggregatibacter aphrophilus	732	1	1	1
+0	115	115	S	480	                Moraxella catarrhalis	Moraxella catarrhalis	480	1	1	1
+0	289	289	S	1848904	                    Capnocytophaga stomatis	Capnocytophaga stomatis	1848904	1	1	1
+0	117	117	S	29433	                Moraxella ovis	Moraxella ovis	29433	1	1	1
+NA	NA	NA	NA	NA	NA	Neisseria wadsworthii	607711	1	1	1
+0	52	52	S	1906744	                Rodentibacter heylii	Rodentibacter heylii	1906744	1	1	1
