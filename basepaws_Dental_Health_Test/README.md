@@ -50,7 +50,7 @@ Because the raw data is available, I added the following scripts (uploaded in th
 
 ***a)*** *run_Kracken2_Bracken-FASTQ-PE.py*  - runs Kraken2 and Bracken
 
-***b)*** *filter_Bracken.R* - filters Braken species-level assignment for those listed in the Supplemental Table of ([Kao et al. 2021](https://www.biorxiv.org/content/10.1101/2021.04.23.441192v1)) **WARNING: please note this script does not currently work as intended.**
+***b)*** *filter_Bracken.R* - filters Braken species-level assignment for those listed in the Supplemental Table of ([Kao et al. 2021](https://www.biorxiv.org/content/10.1101/2021.04.23.441192v1)) **Please note this script does *not* currently work as intended.**
 
 ## **basepaws ([Dental Health Test](https://basepaws.com/products/cat-dental-health-test), $69-$79 each, 4 samples, Order #31272)**:
 
