@@ -37,7 +37,7 @@ Activated Kit / Collected Sample on 3/1/2019
 
 *Update (6/22)*: I think there was confusion, but it was decided just to provide ~20x sequencing for my swab sample, so I should only be recieving one report).
 
-**basepaws (mouth swab, $1000, ~15x sequencing, with raw data as FASTQ~~+BAM~~+gVCF)**:
+**basepaws (mouth swab, $1000, ~15x sequencing, with raw data as FASTQ+~~BAM~~+gVCF)**:
 
 Currently, it looks like this is [officially available for $499 or $599](https://shop.basepaws.com/collections/all-products/products/whole-genome-sequencing).  Also, I believe currrent customers only recieve FASTQ and gVCF files, without the BAM file.  If you look closely, I think that is [on the website](https://basepaws.com/products/whole-genome-sequencing) under "*Your cat’s raw whole genome sequencing data on a secure thumb drive:*".
 
