@@ -104,6 +104,42 @@ I will continue to gradually look into this more, but the "periodontal disease s
 
 For example, in the ([Kao et al. 2021](https://www.biorxiv.org/content/10.1101/2021.04.23.441192v1)) preprint for the basepaws Dental Health Test, I believe **9.3%** (570 / 6110) of the **filtered** cats / samples had periodontal disease.
 
+## Attempts to calculate the Positive Preditive Value (for periodontal disease and tooth resorption)
+
+# Only Consider 2 Groups (n=1,717)
+
+**For Periodontal Disease:**
+ - 66% sensitivity for 570 cases (376 true positive, 194 false positive)
+ - 70% specificity for 1147 cases (344 false negative, 803 true negative)
+
+<table>
+  <tbody>
+    <tr>
+      <th align="center"></th>
+      <th align="center">Predicted Medium / High Risk</th>
+      <th align="center">Predicted Low Risk</th>
+    </tr>
+    <tr>
+      <th align="center">True Periodontal Disease</th>
+      <th align="center">376</th>
+      <th align="center">194</th>
+    </tr>
+    <tr>
+      <th align="center">No Periodontal Disease Record</th>
+      <th align="center">344</th>
+      <th align="center">803</th>
+    </tr>
+</tbody>
+</table>
+
+From that, I would calculate the positive predictive value to be 376 / (376 + 344) = **52.2%**.
+
+**For Tooth Resorption:**
+
+# Attempt to Consider 5 Groups (n=6,110)
+
+Based upon the above links, I thought that the prevalance is closer to what you would calculate when you combine all 5 groups.  I suspect that all other groups doesn't necessarily get low risk predictions, but I wanted to test a calculation on the assumption that they did (and emphasize the issue with the varying size of the 2 groups)
+
 ## Other Notes
 
 As I collect more data, I will comment on the preprint ([Kao et al. 2021](https://www.biorxiv.org/content/10.1101/2021.04.23.441192v1)).  Already, I think the company is supposed to declare a *competing interest*, because this relates to a product that they are be selling.  However, I am waiting to say more about the scientific details (and implications for individuals purchasing the test).
