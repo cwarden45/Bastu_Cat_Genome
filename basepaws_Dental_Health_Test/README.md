@@ -106,11 +106,11 @@ For example, in the ([Kao et al. 2021](https://www.biorxiv.org/content/10.1101/2
 
 ## Attempts to calculate the Positive Preditive Value (for periodontal disease and tooth resorption)
 
-# Only Consider 2 Groups (n=1,717)
+### Only Consider 2 Groups (n=1,717)
 
 **For Periodontal Disease:**
  - 66% sensitivity for 570 cases (376 true positive, 194 false positive)
- - 70% specificity for 1147 cases (344 false negative, 803 true negative)
+ - 70% specificity for 1147 controls (344 false negative, 803 true negative)
 
 <table>
   <tbody>
@@ -136,9 +136,91 @@ From that, I would calculate the positive predictive value to be 376 / (376 + 34
 
 **For Tooth Resorption:**
 
-# Attempt to Consider 5 Groups (n=6,110)
+ - 63% sensitivity for 111 cases (70 true positive, 41 false positive)
+ - 78% specificity for 1147 controls (252 false negative, 895 true negative)
 
-Based upon the above links, I thought that the prevalance is closer to what you would calculate when you combine all 5 groups.  I suspect that all other groups doesn't necessarily get low risk predictions, but I wanted to test a calculation on the assumption that they did (and emphasize the issue with the varying size of the 2 groups)
+<table>
+  <tbody>
+    <tr>
+      <th align="center"></th>
+      <th align="center">Predicted Medium / High Risk</th>
+      <th align="center">Predicted Low Risk</th>
+    </tr>
+    <tr>
+      <th align="center">True Tooth Resorption</th>
+      <th align="center">70</th>
+      <th align="center">41</th>
+    </tr>
+    <tr>
+      <th align="center">No Tooth Resorption Record</th>
+      <th align="center">252</th>
+      <th align="center">895</th>
+    </tr>
+</tbody>
+</table>
+
+From that, I would calculate the positive predictive value to be 70 / (70 + 252) = **21.8%**.
+
+### Attempt to Consider 5 Groups (n=6,110)
+
+Based upon the above links, I thought that the prevalance is closer to what you would calculate when you combine all 5 groups.  I suspect that all other groups doesn't necessarily get low risk predictions, but I wanted to test a calculation on the assumption that they did (and emphasize the issue with the varying size of the 2 groups).
+
+In other words, I now test defining all the other groups as controls.  For periodontal disease, that would be 5,540 (111 + 173 + 1,147 + 4,109).  For tooth resorption, that would be 5,999 (570 + 173 + 1,147 + 4,109).
+
+**For Periodontal Disease:**
+ - 66% sensitivity for 570 cases (376 true positive, 194 false positive)
+ - 70% specificity for **5540 controls** (1162 false negative, 3878 true negative)
+
+<table>
+  <tbody>
+    <tr>
+      <th align="center"></th>
+      <th align="center">Predicted Medium / High Risk</th>
+      <th align="center">Predicted Low Risk</th>
+    </tr>
+    <tr>
+      <th align="center">True Periodontal Disease</th>
+      <th align="center">376</th>
+      <th align="center">194</th>
+    </tr>
+    <tr>
+      <th align="center">No Periodontal Disease Record</th>
+      <th align="center">1162</th>
+      <th align="center">3878</th>
+    </tr>
+</tbody>
+</table>
+
+From that, I would calculate the positive predictive value to be 376 / (376 + 1162) = **24.4%**.
+
+**For Tooth Resorption:**
+
+ - 63% sensitivity for 111 cases (70 true positive, 41 false positive)
+ - 78% specificity for **5999 controls** (1320 false negative, 4679 true negative)
+
+<table>
+  <tbody>
+    <tr>
+      <th align="center"></th>
+      <th align="center">Predicted Medium / High Risk</th>
+      <th align="center">Predicted Low Risk</th>
+    </tr>
+    <tr>
+      <th align="center">True Tooth Resorption</th>
+      <th align="center">70</th>
+      <th align="center">41</th>
+    </tr>
+    <tr>
+      <th align="center">No Tooth Resorption Record</th>
+      <th align="center">1320</th>
+      <th align="center">4679</th>
+    </tr>
+</tbody>
+</table>
+
+From that, I would calculate the positive predictive value to be 70 / (70 + 1320) = **5.0%**.
+
+*Again, I don't think these will be the exact true numbers.*  However, if the true indidence of periodontal disease and tooth resorption is low, then I think that can cause the positive predictive value to be low.
 
 ## Other Notes
 
