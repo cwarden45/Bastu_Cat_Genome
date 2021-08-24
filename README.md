@@ -165,3 +165,13 @@ I purchased a 2nd test (to check changes over time) on 7/10/2021.
 Kit arrived on 7/15/2021.
 
 Sample collected and mailed on 7/16/2021.
+
+I recieved a report and raw data on 8/23/2021.
+
+You can see a copy of that report [here](https://petqcheck.com/share/8d78f84e-1995-4e3e-9df2-eab7f3d241cb).
+
+I think the FASTQ files are slightly larger than I should upload to GitHub, so I uploaded those to Google Cloud:
+
+PetQCheck metagenomics Read1: https://storage.googleapis.com/bastu-cat-genome/zr4669_1V3V4_R1.fastq.gz
+
+PetQCheck metagenomics Read2: https://storage.googleapis.com/bastu-cat-genome/zr4669_1V3V4_R2.fastq.gz
