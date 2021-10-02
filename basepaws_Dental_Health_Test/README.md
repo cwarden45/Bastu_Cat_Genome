@@ -66,11 +66,13 @@ All 4 kits arrived on 6/7/2021.
 
 I collected the **1st sample** (ID 31201053202314) on **6/7/2021**.  Bastu mostly licked the foam collector, so hopefully that is OK (versus having more direct contact with her teeth).  The prior training helped keep her from running away, but she hasn't quite figured out what is earning her the treat afterwards.
 
+I used baby oral cleaners (such as [here](https://smile.amazon.com/gp/product/B08K4RDVH1)) for the earlier training.  I either directly applied Churu treat or I gave her a separate treat after I could get the oral cleaner without anything on it in her mouth (if even for a second).  So, I think that is why she did not immediately run away when collecting these dental health test samples.
+
 I collected the **2nd sample** (ID 31201053201942) on **6/8/2021**.  Again, Bastu mostly licked the foam collector.
 
 I collected the **3rd sample** (ID 31201053202280) on **6/9/2021**.  Again, Bastu mostly licking, but I think less than the previous days.  Towards the ends, I might have had something closer to the ideal interaction in the mouth, but I then stopped to give a treat (and, hopefully, build off that later).
 
-Accordingly, I have decided not to submit my *4th sample*.  Instead, I will try to use that for training, and maybe try again for the oral samples at a later date.  The actual collection tube will have the right shape, and I have already ordered baby oral cleaners (such as [here](https://smile.amazon.com/gp/product/B08K4RDVH1)) for previous training.  If I can find a way to temporarily attach the oral cleaner to the collection device, then I think I can have something sterile that I can use for training?
+Accordingly, I have decided not to submit my *4th sample*.  I was considering using it for training, but I ultimately threw the whole collection device away (not just the purple fluid). 
 
 I was able to download all 3 results on **7/9/2021**.
 
