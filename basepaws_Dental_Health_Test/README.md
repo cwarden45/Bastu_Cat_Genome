@@ -76,7 +76,7 @@ I was able to download all 3 results on **7/9/2021**.
 
 ## **basepaws ([Dental Health Test](https://basepaws.com/products/cat-dental-health-test), $59 each, 1 sample, Order #32719)**:
 
-I ordered 1 additional sample that I hope to have a vet help me collect on 7/11/2021 (which was delivered to my apartment on 7/22/2021).  This is sample with ID 31210251700872.
+I ordered 1 additional sample on 7/11/2021, which was delivered to my apartment on 7/22/2021.  This is sample with ID 31210251700872.  This is the sample that I hoped I could get a vet or vet tech to help collect.
 
 I took Bastu to a vet appointment on **8/16/2021**.  The vet thought Bastu looked to be in good shape, and confirmed that she was healthy enough to go under anesthesia.  However, I added her to the wait list to get a dental cleaning, and I think she will get some dental x-rays to be extra cautious.  More specifically, she was taken off the wait list in the middle of September, and her appointment for a dental cleaning is 10/5/2021.  As of 10/2/2021, I still did not have the report for the vet-assisted sample collected on 8/16/2021.
 
