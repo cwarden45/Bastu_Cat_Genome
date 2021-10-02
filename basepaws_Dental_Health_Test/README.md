@@ -82,9 +82,7 @@ I ordered 1 additional sample on 7/11/2021, which was delivered to my apartment 
 
 I took Bastu to a vet appointment on **8/16/2021**.  The vet thought Bastu looked to be in good shape, and confirmed that she was healthy enough to go under anesthesia.  However, I added her to the wait list to get a dental cleaning, and I think she will get some dental x-rays to be extra cautious.  More specifically, she was taken off the wait list in the middle of September, and her appointment for a dental cleaning is 10/5/2021.  As of 10/2/2021, I still did not have the report for the vet-assisted sample collected on 8/16/2021.
 
-In the process of providing some materials to the vet, I also noticed a potential point of confusion: the outer wrapper/sleeve correctly describes this as a "Dental Health Test" but *they use the same inside box for all tests* (and that makes no mention of being a Dental Health Test or recommending collection more centered on the teeth/gumline).
-
-So, I think you should **keep the outer sleeve**, if providing the materials to your vet.
+In the process of providing some materials to the vet, I also noticed a potential point of confusion: the outer wrapper/sleeve correctly describes this as a "Dental Health Test" but *they use the same inside box for all tests* (and that makes no mention of being a Dental Health Test or recommending collection more centered on the teeth/gumline).  So, I think you should **keep the outer sleeve**, if providing the materials to your vet.
 
 ## Prevalence Notes (mostly copied from [blog post](http://cdwscience.blogspot.com/2019/12/review-of-results-data-from-3-cat-dna.html))
 
