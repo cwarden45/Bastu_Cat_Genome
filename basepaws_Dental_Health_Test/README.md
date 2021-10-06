@@ -32,9 +32,9 @@
     </tr>
     <tr>
       <th align="center">Dental Health</br>(<i>vet assisted</i>)</br>8-16-2021</th>
-      <th align="center"></th>
-      <th align="center"></th>
-	<th align="center"></th>
+      <th align="center">High Risk</br>(8.87)</th>
+      <th align="center">High Risk</br>(9.97)</th>
+	<th align="center">Low Risk</br>(0.04)</th>
     </tr>
 </tbody>
 </table>
