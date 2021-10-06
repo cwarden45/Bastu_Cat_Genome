@@ -84,6 +84,8 @@ I took Bastu to a vet appointment on **8/16/2021**.  The vet thought Bastu looke
 
 In the process of providing some materials to the vet, I also noticed a potential point of confusion: the outer wrapper/sleeve correctly describes this as a "Dental Health Test" but *they use the same inside box for all tests* (and that makes no mention of being a Dental Health Test or recommending collection more centered on the teeth/gumline).  So, I think you should **keep the outer sleeve**, if providing the materials to your vet.
 
+I was able to download the results for this sample on **10/5/2021**.
+
 ## Prevalence Notes (mostly copied from [blog post](http://cdwscience.blogspot.com/2019/12/review-of-results-data-from-3-cat-dna.html))
 
 On [one of the basepaws websites](https://basepaws.com/pages/cat-dental-health-test), it says "*It is estimated that 50-90% of ALL adult cats have a dental health problem, with periodontal disease being the number one culprit*."
