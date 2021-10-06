@@ -224,6 +224,23 @@ From that, I would calculate the positive predictive value to be 70 / (70 + 1320
 
 *Again, I don't think these will be the exact true numbers.*  However, if the true indidence of periodontal disease and tooth resorption is low, then I think that can cause the positive predictive value to be low.
 
+## Discordance prevalence within basepaws reports
+
+In addition to being outliers to other estimates, the following numbers don't match the preprint above:
+
+ - "***Periodontal disease** affects up to 80% of the adult feline population.*" ([page 5](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/basepaws_Dental_Health_Test/Bastu_basepaws_DentalHealthTest-VetAssisted-210816.pdf))
+
+ - "*Unfortunately, **tooth resorption** is relatively common, affecting 20-60% of all cats and over 70% of cats over the age of five.*" ([page 5](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/basepaws_Dental_Health_Test/Bastu_basepaws_DentalHealthTest-VetAssisted-210816.pdf))
+
+----
+
+The other estimates for periodontal disease are listed in an earlier section.  In the [2016 Banfield report](https://www.banfield.com/pet-health/State-of-pet-health), a **<10%** frequency of **periodontal disease** was reported for geriatric cats (>10 years), on pages 10-11.
+
+While I haven't currently looked for as many references for **tooth resorption**, the frequency in that 2016 report on page 21 is even smaller: "*Tooth resorption has increased
+dramatically in cats from 5.4 cases per 10,000 in 2006 to 91.6 cases per 10,000 in 2015—a 1,587 percent increase.*"  The statistic of "*91.6 cases per 10,000*" is equivalent to **~0.9%**.
+
+So, if you calculated the tooth resorption frequences based upon the basepaws preprint, then my current attempts at an estimate are **8.8%** for the 1st calculation (111 divided by 111 + 1,147) or **~1.9%** with the 2nd calculation (111 divided by 570 + 173 + 1,147 + 4,109).  So, that 2nd calculation is still somewhat higher, but it is within an order of magnitude (unlike the frequencies in the reports returned to customers, which were "*20-60%*" or "*70%*").
+
 ## Other Notes
 
 As I collect more data, I will comment on the preprint ([Kao et al. 2021](https://www.biorxiv.org/content/10.1101/2021.04.23.441192v1)).  Already, I think the company is supposed to declare a *competing interest*, because this relates to a product that they are be selling.  However, I am waiting to say more about the scientific details (and implications for individuals purchasing the test).
