@@ -239,7 +239,7 @@ The other estimates for periodontal disease are listed in an earlier section.  I
 While I haven't currently looked for as many references for **tooth resorption**, the frequency in that 2016 report on page 21 is even smaller: "*Tooth resorption has increased
 dramatically in cats from 5.4 cases per 10,000 in 2006 to 91.6 cases per 10,000 in 2015—a 1,587 percent increase.*"  The statistic of "*91.6 cases per 10,000*" is equivalent to **~0.9%**.
 
-So, if you calculated the tooth resorption frequences based upon the basepaws preprint, then my current attempts at an estimate are **8.8%** for the 1st calculation (111 divided by 111 + 1,147) or **~1.9%** with the 2nd calculation (111 divided by 570 + 173 + 1,147 + 4,109).  So, that 2nd calculation is still somewhat higher, but it is within an order of magnitude (unlike the frequencies in the reports returned to customers, which were "*20-60%*" or "*70%*").
+So, if you calculated the **tooth resorption** frequences based upon the basepaws preprint, then my current attempts at an estimate are **8.8%** for the 1st calculation (111 divided by 111 + 1,147) or **~1.9%** with the 2nd calculation (111 divided by 570 + 173 + 1,147 + 4,109).  So, that 2nd calculation is still somewhat higher, but it is within an order of magnitude (unlike the frequencies in the reports returned to customers, which were "*20-60%*" or "*70%*").
 
 ## Other Notes
 
