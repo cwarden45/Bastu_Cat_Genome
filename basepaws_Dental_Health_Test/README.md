@@ -86,6 +86,8 @@ In the process of providing some materials to the vet, I also noticed a potentia
 
 I was able to download the results for this sample on **10/5/2021**.
 
+I took Bastu in for her dental cleaning on **10/21/2021**.  You can see the x-rays taken during the cleaning [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/basepaws_Dental_Health_Test/Bastu-Dental-Xray-211021.zip).  Overall, my understanding is that Bastu is in good health, especially for a cat her age.  However, I will try to provide additional relevant notes.
+
 ## Prevalence Notes (mostly copied from [blog post](http://cdwscience.blogspot.com/2019/12/review-of-results-data-from-3-cat-dna.html))
 
 On [one of the basepaws websites](https://basepaws.com/pages/cat-dental-health-test), it says "*It is estimated that 50-90% of ALL adult cats have a dental health problem, with periodontal disease being the number one culprit*."
