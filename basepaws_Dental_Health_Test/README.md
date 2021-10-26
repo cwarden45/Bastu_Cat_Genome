@@ -86,7 +86,17 @@ In the process of providing some materials to the vet, I also noticed a potentia
 
 I was able to download the results for this sample on **10/5/2021**.
 
-I took Bastu in for her dental cleaning on **10/21/2021**.  You can see the x-rays taken during the cleaning [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/basepaws_Dental_Health_Test/Bastu-Dental-Xray-211021.zip).  Overall, my understanding is that Bastu is in good health, especially for a cat her age.  However, I will try to provide additional relevant notes.
+## Dental Cleaning Notes
+
+I took Bastu in for her dental cleaning on **10/21/2021**.  You can see the x-rays taken during the cleaning [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/basepaws_Dental_Health_Test/Bastu-Dental-Xray-211021.zip).  Overall, my understanding is that Bastu is in good health, especially for a cat her age.
+
+I think there was at least 1 earlier bowl movement with a strong smell, but I mostly noticed diarrhea starting on Saturday (10/23).  I forget exactly who provided the recommendation, but I had purchased wet food to give Bastu immediately after the cleaning.
+
+On Sunday (10/24), I noticed that Bastu couldn't eat the greenies that I previously had mixed in with her dry food for the automatic feeder.  I believe I also noticed some loss of appetite for the regular dry food on Monday (10/25), which is very unusual for her.
+
+I called the vet on Monday (10/25), since this was recommended if there were side effects lasting longer than 48 hours.  They suggested she may still have sensitivity, so I switched back to wet food.  They provided some options, but I followed the suggestion to purchase [Purina FortiFlora](https://www.amazon.com/Purina-Veterinary-Fortiflora-Nutritional-Supplement/dp/B001650OE0/) to mix into her wet food (for the diarrhea).
+
+I will keep my eye on how things progress back to normal, but I think at least some of this is within the range of the reactions in the detailed information.  For example, when I look into the details of Bastu's medical record it says "*Refrain from offering any hard toys or treats for 7-10 days after the cleaning to allow any gum tenderness to fade.*".
 
 ## Prevalence Notes (mostly copied from [blog post](http://cdwscience.blogspot.com/2019/12/review-of-results-data-from-3-cat-dna.html))
 
