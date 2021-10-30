@@ -98,6 +98,10 @@ I called the vet on Monday (10/25), since this was recommended if there were sid
 
 I will keep my eye on how things progress back to normal, but I think at least some of this is within the range of the reactions in the detailed information.  For example, when I look into the details of Bastu's medical record it says "*Refrain from offering any hard toys or treats for 7-10 days after the cleaning to allow any gum tenderness to fade.*".
 
+I think there is something about the taste the FortiFlora that Bastu doesn't like.  However, if I put the FortiFlora in the middle of the wet food and I re-create a cylindrical-like shape, then she eats a larger fraction of the food.
+
+During most of the 1st week after the cleaning, I offered a small amount of dry food (1 unit from the automatic feeder) for lunch.  Towards the end of the week, I believe she consistently ate the dry food offered each day (and, before the cleaning, she would always eat all food as soon as it was available).  On Friday 10/29/2021, she was able to eat a few Greenies (which should could not do before).  So, on Saturday (10/30/2021), I started using the automatic feeder for dinner (3 units), to see if she consistently eats normal portions of her regular food.  I am providing wet food with FortiFlora in the morning.
+
 ## Prevalence Notes (mostly copied from [blog post](http://cdwscience.blogspot.com/2019/12/review-of-results-data-from-3-cat-dna.html))
 
 On [one of the basepaws websites](https://basepaws.com/pages/cat-dental-health-test), it says "*It is estimated that 50-90% of ALL adult cats have a dental health problem, with periodontal disease being the number one culprit*."
