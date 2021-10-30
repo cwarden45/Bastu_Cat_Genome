@@ -179,3 +179,5 @@ PetQCheck metagenomics Read2: https://storage.googleapis.com/bastu-cat-genome/zr
 **PetQCheck by Purina (gut microbiome test, list price of $99.00, purchase price for me was $79.00 + $5.73 in taxes for a total of $84.73, includes free shipping, Order PQCBP2244)**:
 
 I purchased a 3rd test on 10/25/2021.
+
+Kit arrived on 10/29/2021.
