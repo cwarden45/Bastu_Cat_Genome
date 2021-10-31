@@ -269,7 +269,7 @@ However, I have collected some additional notes on tooth resorption, after recei
 
  - [This VCA summary](https://vcahospitals.com/know-your-pet/tooth-resorption-in-cats) mentions frequencies closer to 50%.  Type I and Type II tooth resorption are defined. 
 
-- [This summary from Jan Bellows](https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=102903&id=4951295) mentions 5 stages of tooth resorption, but it may be good for me to try and understand the difference better.
+- [This summary from Jan Bellows](https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=102903&id=4951295) briefly mentions 5 stages of tooth resorption.
 
 - [This PDF](http://www.toothvet.ca/PDFfiles/Tooth_resorption_in_cats.pdf) provides a lot of details on tooth resorption, with a number of photos.
 
