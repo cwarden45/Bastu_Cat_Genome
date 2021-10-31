@@ -242,7 +242,7 @@ From that, I would calculate the positive predictive value to be 70 / (70 + 1320
 
 However, if the true indidence of periodontal disease and (especially) tooth resorption is low, then I think that can cause the positive predictive value to be low.
 
-## Discordance prevalence within basepaws reports
+## Prevalence Discordance between Basepaws Reports and Banfield 2016 Report
 
 In addition to being outliers to other estimates, the following numbers don't match the preprint above:
 
@@ -258,6 +258,30 @@ While I haven't currently looked for as many references for **tooth resorption**
 dramatically in cats from 5.4 cases per 10,000 in 2006 to 91.6 cases per 10,000 in 2015—a 1,587 percent increase.*"  The statistic of "*91.6 cases per 10,000*" is equivalent to **~0.9%**.
 
 So, if you calculated the **tooth resorption** frequences based upon the basepaws preprint, then my current attempts at an estimate are **8.8%** for the 1st calculation (111 divided by 111 + 1,147) or **~1.9%** with the 2nd calculation (111 divided by 570 + 173 + 1,147 + 4,109).  So, that 2nd calculation is still somewhat higher, but it is within an order of magnitude of the estimate from the Banfield 2016 report (unlike the frequencies in the reports returned to customers, which were "*20-60%*" or "*70%*").
+
+## Other Tooth Resorption Notes
+
+I originally thought that the Banfield report seemed representative (sine it seemed like that was true for the Periodontal Disease part).
+
+However, I have collected some additional notes on tooth resorption, after receiving the e-mail reply from basepaws.  I think there is something that I still don't quite understand, but here is what I have collected so far:
+
+ - [This page](https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/tooth-resorption) from Cornell veterinary school reports a frequency of *20% to 60%*
+
+ - [This VCA summary](https://vcahospitals.com/know-your-pet/tooth-resorption-in-cats) mentions frequencies closer to 50%.  Type I and Type II tooth resorption are defined. 
+
+- [This summary from Jan Bellows](https://veterinarypartner.vin.com/default.aspx?pid=19239&catId=102903&id=4951295) mentions 5 stages of tooth resorption, but it may be good for me to try and understand the difference better.
+
+- [This PDF](http://www.toothvet.ca/PDFfiles/Tooth_resorption_in_cats.pdf) provides a lot of details on tooth resorption, with a number of photos.
+
+ - [Girard et al. 2008](https://pubmed.ncbi.nlm.nih.gov/19025137/) report a higher frequency in purebred cats versus mixed-breed cats, which I would guess could relate to a germline genetic basis for varying risk.
+
+ - [This blog post](https://blog.healthypawspetinsurance.com/cat-cavities-and-tooth-resorption) says that they are different from human cavities, but uses the term "cat cavity" to describe feline tooth resorption and mentions 50% as a prevalance for a "mild cat cavity" (as I understand it).
+
+I am not sure if how much is something like the presence of 1 small "cat cavity" versus something needing tooth extraction (or other serious medical procedure).  From what I understand, I think it would be odd for the tooth resorption frequency to be higher than the periodontal disease frequency, but I am thinking about disease severe enough to require surgical intervention (and I am not sure if that matters and/or explains why the Banfield report above can be <1% while the citations above are much higher, closer to what is in the basepaws reports.
+
+[This page](https://icatcare.org/advice/dental-disease-in-cats/) provides information about a variety of dental diseases, and I believe uses the term "Feline resorptive lesions (FRLs)" to refer to tooth resorption (citing a high frequency).
+
+Nevertheless, if quickly looking for a frequency value, these are trending much closer to what was in the basepaws report.
 
 ## Other Notes
 
