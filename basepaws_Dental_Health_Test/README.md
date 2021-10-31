@@ -277,7 +277,7 @@ However, I have collected some additional notes on tooth resorption, after recei
 
  - [This blog post](https://blog.healthypawspetinsurance.com/cat-cavities-and-tooth-resorption) says that they are different from human cavities, but uses the term "cat cavity" to describe feline tooth resorption and mentions 50% as a prevalance for a "mild cat cavity" (as I understand it).
 
-I am not sure if how much is something like the presence of 1 small "cat cavity" versus something needing tooth extraction (or other serious medical procedure).  From what I understand, I think it would be odd for the tooth resorption frequency to be higher than the periodontal disease frequency, but I am thinking about disease severe enough to require surgical intervention (and I am not sure if that matters and/or explains why the Banfield report above can be <1% while the citations above are much higher, closer to what is in the basepaws reports.
+I am not sure if how much is something like the presence of 1 small "cat cavity" versus something needing tooth extraction (or other serious medical procedure).  From what I understand, I think it would be odd for the tooth resorption frequency to be higher than the periodontal disease frequency, but I am thinking about disease severe enough to require surgical intervention (and I am not sure if that makes a big difference in the prevlance estimates, possibly to the extent of the difference in the minimal and maximal estimates?).
 
 [This page](https://icatcare.org/advice/dental-disease-in-cats/) provides information about a variety of dental diseases, and I believe uses the term "Feline resorptive lesions (FRLs)" to refer to tooth resorption (citing a high frequency).
 
