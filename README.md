@@ -181,3 +181,5 @@ PetQCheck metagenomics Read2: https://storage.googleapis.com/bastu-cat-genome/zr
 I purchased a 3rd test on 10/25/2021.
 
 Kit arrived on 10/29/2021.
+
+Sample collected and mailed on 10/31/2021.
