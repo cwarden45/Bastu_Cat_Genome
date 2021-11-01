@@ -102,6 +102,10 @@ I think there is something about the taste the FortiFlora that Bastu doesn't lik
 
 During most of the 1st week after the cleaning, I offered a small amount of dry food (1 unit from the automatic feeder) for lunch.  Towards the end of the week, I believe she consistently ate the dry food offered each day (and, before the cleaning, she would always eat all food as soon as it was available).  On Friday 10/29/2021, she was able to eat a few Greenies (which should could not do before).  So, on Saturday (10/30/2021), I started using the automatic feeder for dinner (3 units), to see if she consistently eats normal portions of her regular food.  I am providing wet food with FortiFlora in the morning.
 
+Bastu had a solid stool on 10/31/2021.  This was used for the PetQCheck stool sample.  The oder was not optimal, but I will continue with the FortiFlora for some extra time (before switching back to all dry food).  I also started mixing back in the Greenies treats.
+
+The vet provided 2 possible prescriptions, but I am going to wait to stop the FortiFlora before testing out the specialized dental food.
+
 ## Prevalence Notes (mostly copied from [blog post](http://cdwscience.blogspot.com/2019/12/review-of-results-data-from-3-cat-dna.html))
 
 On [one of the basepaws websites](https://basepaws.com/pages/cat-dental-health-test), it says "*It is estimated that 50-90% of ALL adult cats have a dental health problem, with periodontal disease being the number one culprit*."
