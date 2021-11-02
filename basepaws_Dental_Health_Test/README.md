@@ -104,7 +104,9 @@ During most of the 1st week after the cleaning, I offered a small amount of dry 
 
 Bastu had a solid stool on 10/31/2021.  This was used for the PetQCheck stool sample.  The oder was not optimal, but I will continue with the FortiFlora for some extra time (before switching back to all dry food).  I also started mixing back in the Greenies treats.
 
-The vet provided 2 possible prescriptions, but I am going to wait to stop the FortiFlora before testing out the specialized dental food.
+On 11/2/2021, it was harder to get Bastu to eat the wet food with the FortiFlora added.  So, I will test using this as the last day for FortiFlora, turning back on her automatic feeder for 3 units of breakfast on the following day.
+
+If things continue to be normal, then I will start looking into the 2 possible dental diet prescriptions from the vet.
 
 ## Prevalence Notes (mostly copied from [blog post](http://cdwscience.blogspot.com/2019/12/review-of-results-data-from-3-cat-dna.html))
 
