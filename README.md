@@ -183,3 +183,7 @@ I purchased a 3rd test on 10/25/2021.
 Kit arrived on 10/29/2021.
 
 Sample collected and mailed on 10/31/2021.
+
+**I was informed of a sample mix-up problem on 12/21/2021.**  I did not recieve a report for the original sample that I submitted.
+
+I recieved a replacement kit on 12/29/2021.
