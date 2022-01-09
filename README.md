@@ -187,3 +187,5 @@ Sample collected and mailed on 10/31/2021.
 **I was informed of a sample mix-up problem on 12/21/2021.**  I did not recieve a report for the original sample that I submitted.
 
 I recieved a replacement kit on 12/29/2021.
+
+Sample was collected on 1/8/2021.
