@@ -189,3 +189,5 @@ Sample collected and mailed on 10/31/2021.
 I recieved a replacement kit on 12/29/2021.
 
 Sample was collected on 1/8/2021.
+
+This replacement sample was mailed on 1/9/2021.
