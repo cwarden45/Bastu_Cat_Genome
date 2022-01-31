@@ -188,6 +188,17 @@ Sample collected and mailed on 10/31/2021.
 
 I recieved a replacement kit on 12/29/2021.
 
-Sample was collected on 1/8/2021.
+Sample was collected on 1/8/2022.
 
-This replacement sample was mailed on 1/9/2021.
+This replacement sample was mailed on 1/9/2022.
+
+I recieved a report and raw data on 1/30/2022.
+
+You can see a copy of that report [here](https://petqcheck.com/share/bdc117df-e842-42a0-8025-16dd8b0d2c03).
+
+You can view the FASTQ files using the links below:
+
+PetQCheck metagenomics Read1: https://storage.googleapis.com/bastu-cat-genome/zr5877_3V3V4_R1.fastq.gz
+
+PetQCheck metagenomics Read2: https://storage.googleapis.com/bastu-cat-genome/zr5877_3V3V4_R2.fastq.gz
+
