@@ -202,3 +202,9 @@ PetQCheck metagenomics Read1: https://storage.googleapis.com/bastu-cat-genome/zr
 
 PetQCheck metagenomics Read2: https://storage.googleapis.com/bastu-cat-genome/zr5877_3V3V4_R2.fastq.gz
 
+**basepaws (mouth swab, $429.00, with raw data as FASTQ+gVCF, Order #48757)**:
+
+I ordered a 2nd [Whole Genome Sequencing](https://basepaws.com/products/whole-genome-sequencing?variant=41082749976773) kit in order to get a 2nd sample with raw data for metagenomics analysis as well as additional reads that could potentially be combined for higher coverage germline analysis.
+
+I purchased this kit on 4/18/2022.
+
