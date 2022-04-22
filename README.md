@@ -208,3 +208,4 @@ I ordered a 2nd [Whole Genome Sequencing](https://basepaws.com/products/whole-ge
 
 I purchased this kit on 4/18/2022.
 
+Sample was collected on 4/21/2022 (for *ID #31211051000777*).
