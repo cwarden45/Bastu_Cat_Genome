@@ -130,7 +130,13 @@ You can also download GTF gene annotations, and I can **successfully validate Ba
 
 **NOTE(6/22/2022):** I previously provided a [screenshot](TYR_Colorpoint.png), but I apologize that was for the [TYRP1](https://www.ncbi.nlm.nih.gov/nuccore/110350672) gene.
 
-In order for me to help keep track of these things, basepaws had a [blog post](https://www.basepaws.com/blog/cat-coat-genetics/) about traits (but I don't believe they have targeted sequencing of those regions, to include in the report).
+In the meantime, this is what I can see using information from Wisdom Panel as well as the RefSeq annotations from other species:
+
+![Possible UCSC TYR footprint](UCSC-TYR.PNG "Possible UCSC TYR footprint")
+
+![alignment of Basepaws data for region above](UCSC-TYR-IGV_screenshot.PNG "alignment of Basepaws data for region above")
+
+In order for me to help keep track of these things, basepaws had a [blog post](https://www.basepaws.com/blog/cat-coat-genetics/) about traits.  At the time of that posting, they didn'thave targeted sequencing of those regions to include in the report.  However, I believe additional Amplicon-Seq targets have been added more recently.
 
 (Selected) Other UC-Davis VGL Traits / Health Results
 -----------------
