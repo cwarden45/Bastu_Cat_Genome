@@ -127,7 +127,8 @@ You can also download GTF gene annotations, and I can **successfully validate Ba
 ![MLPH Validation](Bastu_MLPH_Validation.png "ASIP Partial Validation")
 
 **TYR (Lynx/Siamese Point, Colorpoint Restriction)**:
-![BWA-MEM re-aligned TYR coverage](TYR_Colorpoint.png "coverage in cat TYR gene")
+
+**NOTE(6/22/2022):** I previously provided a [screenshot](TYR_Colorpoint.png), but I apologize that was for the [TYRP1](https://www.ncbi.nlm.nih.gov/nuccore/110350672) gene.
 
 In order for me to help keep track of these things, basepaws had a [blog post](https://www.basepaws.com/blog/cat-coat-genetics/) about traits (but I don't believe they have targeted sequencing of those regions, to include in the report).
 
