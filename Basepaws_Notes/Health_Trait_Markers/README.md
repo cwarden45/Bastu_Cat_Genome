@@ -128,7 +128,7 @@ You can also download GTF gene annotations, and I can **successfully validate Ba
 
 **TYR (Lynx/Siamese Point, Colorpoint Restriction)**:
 
-**NOTE(6/22/2022):** I previously provided a [screenshot](TYR_Colorpoint.png), but I apologize that was for the [TYRP1](https://www.ncbi.nlm.nih.gov/nuccore/110350672) gene.
+**NOTE(6/22/2022):** I previously provided a [screenshot](TYRP1.png), but I apologize that was for the [TYRP1](https://www.ncbi.nlm.nih.gov/nuccore/110350672) gene.
 
 In the meantime, this is what I can see using information from Wisdom Panel as well as the RefSeq annotations from other species:
 
