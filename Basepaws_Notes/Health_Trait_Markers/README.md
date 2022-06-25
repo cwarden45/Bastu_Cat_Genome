@@ -140,6 +140,10 @@ I am currently not 100% sure if it is the full explanation, but the view for ali
 
 ![alignment of Basepaws data for felCat8 liftOver](UCSC-felCat8_liftOver-TYR-IGV_screenshot.PNG "alignment of Basepaws data for felCat8 liftOver")
 
+I think the alignment also looks good for felCat6.  I expect to provide more details in the near future, but you can see a screenshot below:
+
+![alignment of Basepaws data for felCat6 BLAST mapping](UCSC-felCat6_BLAST-TYR-IGV_screenshot.PNG "alignment of Basepaws data for felCat6 BLAST mapping")
+
 In order for me to help keep track of these things, basepaws had a [blog post](https://www.basepaws.com/blog/cat-coat-genetics/) about traits.  At the time of that posting, they didn'thave targeted sequencing of those regions to include in the report.  However, I believe additional Amplicon-Seq targets have been added more recently.
 
 (Selected) Other UC-Davis VGL Traits / Health Results
