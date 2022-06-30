@@ -12,7 +12,7 @@ In terms of more detailed information, along with additional files:
 
 I am currently not 100% sure if it is the full explanation, but the view for alignments in this region in felCat8 looks better:
 
-![alignment of Basepaws data for felCat8 liftOver](UCSC-felCat8_liftOver-TYR-IGV_screenshot.PNG "alignment of Basepaws data for felCat8 liftOver")
+![alignment of Basepaws data for felCat8 liftOver](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Health_Trait_Markers/UCSC-felCat8_liftOver-TYR-IGV_screenshot.PNG "alignment of Basepaws data for felCat8 liftOver")
 
 # felCat6 BLAST hits
 
