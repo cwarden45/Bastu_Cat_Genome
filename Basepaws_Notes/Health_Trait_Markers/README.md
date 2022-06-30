@@ -138,7 +138,7 @@ The problem is that there is also a supplemental chromosome with similar sequenc
 
 So, if you visualize the 1st Whole Genome Sequencing data for my cat, then you see the following.
 
-![alignment of Basepaws data for region above](UCSC-TYR-IGV_screenshot.PNG "alignment of Basepaws data for region above")
+![alignment of Basepaws data for Wisdom Panel position](TYR_screenshot.png "alignment of Basepaws data for Wisdom Panel position")
 
 However, if you use the supplemental chromosome, then you can see an alignment matching the conclusion that my cat carries 0 copies of the known colorpoint mutations:
 
