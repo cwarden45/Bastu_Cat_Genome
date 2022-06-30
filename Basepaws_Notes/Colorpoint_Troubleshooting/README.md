@@ -2,9 +2,9 @@ This subfolder contains some information moved from the [Health_Trait_Markers](h
 
 As still presented in that location, this is what I can see using information from Wisdom Panel as well as the RefSeq annotations from other species:
 
-![Possible UCSC TYR footprint](UCSC-TYR.PNG "Possible UCSC TYR footprint")
+![Possible UCSC TYR footprint](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Health_Trait_Markers/UCSC-TYR.PNG "Possible UCSC TYR footprint")
 
-![alignment of Basepaws data for region above](UCSC-TYR-IGV_screenshot.PNG "alignment of Basepaws data for region above")
+![alignment of Basepaws data for region above](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Health_Trait_Markers/UCSC-TYR-IGV_screenshot.PNG "alignment of Basepaws data for region above")
 
 In terms of more detailed information, along with additional files:
 
@@ -18,7 +18,7 @@ I am currently not 100% sure if it is the full explanation, but the view for ali
 
 I think the alignment also looks good for felCat6:
 
-![alignment of Basepaws data for felCat6 BLAST mapping](UCSC-felCat6_BLAST-TYR-IGV_screenshot.PNG "alignment of Basepaws data for felCat6 BLAST mapping")
+![alignment of Basepaws data for felCat6 BLAST mapping]([UCSC-felCat6_BLAST-TYR-IGV_screenshot.PNG](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Health_Trait_Markers/UCSC-felCat6_BLAST-TYR-IGV_screenshot.PNG) "alignment of Basepaws data for felCat6 BLAST mapping")
 
 This is based upon the BLAST results uploaded in this subfolder, with the code in `run_BLAST.sh`
 
