@@ -1,6 +1,6 @@
 This subfolder contains some information moved from the [Health_Trait_Markers](https://github.com/cwarden45/Bastu_Cat_Genome/edit/master/Basepaws_Notes/Health_Trait_Markers) folder, along with some additional informaiton.
 
-As still presented in that location, this is what I can see using information from Wisdom Panel as well as the RefSeq annotations from other species:
+As still presented in that original location, this is what I can see using information from Wisdom Panel as well as the RefSeq annotations from other species:
 
 ![Possible UCSC TYR footprint](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Health_Trait_Markers/UCSC-TYR.PNG "Possible UCSC TYR footprint")
 
