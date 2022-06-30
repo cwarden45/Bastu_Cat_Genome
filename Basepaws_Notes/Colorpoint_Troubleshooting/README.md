@@ -6,7 +6,7 @@ As still presented in that original location, this is what I can see using infor
 
 ![alignment of Basepaws data for region above](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Health_Trait_Markers/UCSC-TYR-IGV_screenshot.PNG "alignment of Basepaws data for region above")
 
-In terms of more detailed information, along with additional files:
+Importantly, there appears to be a [lack of coverage](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Health_Trait_Markers/TYR_screenshot.png) for the region of interest.  However, as explained below, there are alternaive ways to see the lack of varations with 3 genome builds (felCat6, felCat8, and an alternative location in felCat9):
 
 # felCat8 liftOver
 
