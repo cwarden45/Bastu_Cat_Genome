@@ -130,21 +130,21 @@ You can also download GTF gene annotations, and I can **successfully validate Ba
 
 **NOTE(6/22/2022):** I previously provided a [screenshot](TYRP1.png), but I apologize that was for the [TYRP1](https://www.ncbi.nlm.nih.gov/nuccore/110350672) gene.
 
-In the meantime, this is what I can see using information from Wisdom Panel as well as the RefSeq annotations from other species:
+This is what I can see using information from Wisdom Panel as well as the RefSeq annotations from other species:
 
 ![Possible UCSC TYR footprint](UCSC-TYR.PNG "Possible UCSC TYR footprint")
 
+The problem is that there is also a supplemental chromosome with similar sequence.
+
+So, if you visualize the 1st Whole Genome Sequencing data for my cat, then you see the following.
+
 ![alignment of Basepaws data for region above](UCSC-TYR-IGV_screenshot.PNG "alignment of Basepaws data for region above")
 
-I am currently not 100% sure if it is the full explanation, but the view for alignments in this region in felCat8 looks better:
+However, if you use the supplemental chromosome, then you can see an alignment matching the conclusion that my cat carries 0 copies of the known colorpoint mutations:
 
-![alignment of Basepaws data for felCat8 liftOver](UCSC-felCat8_liftOver-TYR-IGV_screenshot.PNG "alignment of Basepaws data for felCat8 liftOver")
+If interested in seeing more details for the colorpoint troubleshooting, there are additional details [here](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Colorpoint_Troubleshooting).
 
-I think the alignment also looks good for felCat6.  I expect to provide more details in the near future, but you can see a screenshot below:
-
-![alignment of Basepaws data for felCat6 BLAST mapping](UCSC-felCat6_BLAST-TYR-IGV_screenshot.PNG "alignment of Basepaws data for felCat6 BLAST mapping")
-
-In order for me to help keep track of these things, basepaws had a [blog post](https://www.basepaws.com/blog/cat-coat-genetics/) about traits.  At the time of that posting, they didn'thave targeted sequencing of those regions to include in the report.  However, I believe additional Amplicon-Seq targets have been added more recently.
+In general, in order for me to help keep track of these things, basepaws had a [blog post](https://www.basepaws.com/blog/cat-coat-genetics/) about traits.  At the time of that posting, they didn'thave targeted sequencing of those regions to include in the report.  However, I believe additional Amplicon-Seq targets have been added more recently.
 
 (Selected) Other UC-Davis VGL Traits / Health Results
 -----------------
