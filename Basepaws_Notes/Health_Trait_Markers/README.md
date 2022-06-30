@@ -142,6 +142,8 @@ So, if you visualize the 1st Whole Genome Sequencing data for my cat, then you s
 
 However, if you use the supplemental chromosome, then you can see an alignment matching the conclusion that my cat carries 0 copies of the known colorpoint mutations:
 
+![BWA-MEM re-aligned TYR coverage](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Colorpoint_Troubleshooting/IGV-NW_019365422v1-amplicon-BLAT-felCat9.PNG "coverage in cat TYR gene")
+
 If interested in seeing more details for the colorpoint troubleshooting, there are additional details [here](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Colorpoint_Troubleshooting).
 
 In general, in order for me to help keep track of these things, basepaws had a [blog post](https://www.basepaws.com/blog/cat-coat-genetics/) about traits.  At the time of that posting, they didn'thave targeted sequencing of those regions to include in the report.  However, I believe additional Amplicon-Seq targets have been added more recently.
