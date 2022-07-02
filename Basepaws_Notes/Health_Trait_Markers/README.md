@@ -40,7 +40,7 @@ UC-Davis VGL "Ancestry Test" Traits
       <td align="left"><a href="https://www.ncbi.nlm.nih.gov/pubmed/15771720">Lyons et al. 2005</a><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3541004/">Lyons 2012</a></td>
       <td align="left">C/C</td>
 	<td align="left"><i>TYR </i><br><i><b>C<sup>b</sup></b>: </i>(c.715G>T)<br><i><b>C<sup>S</sup></b>: </i>(c.940G>A)<br><i><b>c</b>: </i>(c.975delC)</td>
-      <td align="left"><i><b>C<sup>b</sup></b>: </i><br><i><b>C<sup>S</sup></b>: </i>chrD1_NW_019365422v1_random:28,953 (0 copies, negative strand)<br><i><b>c</b>: </i></td>
+      <td align="left"><i><b>C<sup>b</sup></b>: </i><br><i><b>C<sup>S</sup></b>: </i>chrD1_NW_019365422v1_random:28,953 (<i>0 copies</i>, negative strand)<br><i><b>c</b>: </i></td>
     </tr>
     <tr>
 	    <td align="center"><b>Dilute</b><br><i>Also in <a href="https://www.vgl.ucdavis.edu/services/coatcolorcat.php">Coat Test</a></i></td>
