@@ -32,10 +32,12 @@ During the discussion to understand and identify an issue in my current basepaws
 
 In that file, there is one sequence that has noticably more 100% identical amplicons than other 100% identical sequences.  I think that was the basis in agreeing that my cat should have 0 copies of the C-->T colorpoint mutation (although the strand is the opposite, so you are looking for a lack of a change from a G to an A).  This was after an intermediate suggestion that my cat had C-->TCC variant instead of a C-->T variant, but I think that was also shown to not be true (or at least not for the regions represented by the screenshots on this page).  I think understanding the sequence difference flanking this variant in the ***canonical*** chrD1 for felCat8 versus felCat9.
 
-Either way, you can visualize the BLAT hit for that amplicon sequence for felCat9, and you can see that the sequence for **chrD1_NW_019365422v1_random:28881-29056** is a 100% match (on the positive strand).
+Either way, you can visualize the BLAT hit for that amplicon sequence for felCat9, and you can see that the sequence for **chrD1_NW_019365422v1_random:28881-29056** is a 100% match.
 
 I can then use the raw data to visualize that alignment:
 
 ![alignment of Basepaws data for alternate felCat9 position](IGV-NW_019365422v1-amplicon-BLAT-felCat9.PNG "alignment of Basepaws data for alternate felCat9 position")
 
-***So, in fact, there is a genomic coordinate that can be used for felCat9 where you can visually see a lack of a variant for the colorpoint mutation!***
+The hit is on the positive strand, but the amplcion was on the negative strand.  So, the genomic coordinate is on the negative strand (**G-->A**, instead of C-->T).
+
+***Nevertheless, there is in fact a genomic coordinate that can be used for felCat9 where you can visually see a lack of a variant for the colorpoint mutation.***
