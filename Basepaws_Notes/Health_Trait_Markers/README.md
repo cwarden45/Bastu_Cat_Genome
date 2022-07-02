@@ -142,7 +142,7 @@ So, if you visualize the 1st Whole Genome Sequencing data for my cat, then you s
 
 However, if you use the supplemental chromosome, then you can see an alignment matching the conclusion that my cat carries 0 copies of the known colorpoint mutations:
 
-![BWA-MEM re-aligned TYR coverage](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Colorpoint_Troubleshooting/IGV-NW_019365422v1-amplicon-BLAT-felCat9.PNG "coverage in cat TYR gene")
+![BWA-MEM re-aligned cS Siamese variant TYR coverage](IGV-felCat9_NW_019365422v1-Colorpoint_Siamese.PNG "coverage in cat TYR gene, for cS Siamese variant")
 
 If interested in seeing more details for the colorpoint troubleshooting, there are additional details [here](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Colorpoint_Troubleshooting).
 
