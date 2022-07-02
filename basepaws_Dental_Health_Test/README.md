@@ -37,7 +37,7 @@
 	<th align="center">Low Risk</br>(0.04)</th>
     </tr>
     <tr>
-      <th align="center">Whole Genome Sequencing</br>(<i><b>not</b> vet assisted</i>)</br>4-21-2022</th>
+      <th align="center">Whole Genome Sequencing</br>(<i>not</i> vet assisted)</br>4-21-2022</th>
       <th align="center">High Risk</br>(8.7)</th>
       <th align="center">High Risk</br>(9.93)</th>
 	<th align="center">Low Risk</br>(0.19)</th>
