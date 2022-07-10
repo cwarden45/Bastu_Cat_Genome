@@ -58,33 +58,33 @@
     </tr>
     <tr>
       <th align="center">~15x WGS</br>3-14-2019</th>
-      <th align="center"><i>Moraxella bovoculi</i></br><i>Corynebacterium sp. ATCC 6931</i></i></br><i>Actinomyces howellii</i></th>
-      <th align="center"><i>Corynebacterium xerosis</i></br><i><Parabacteroides distasonis/i></i></br><i>Moraxella bovoculi</i></th>
+      <th align="center"><b>6/5/2021 Report</b><i>Moraxella bovoculi</i></br><i>Corynebacterium sp. ATCC 6931</i></br><i>Actinomyces howellii</i></br></br><b>6/15/2022 Report</b></th>
+      <th align="center"><i>Corynebacterium xerosis</i></br><i>Parabacteroides distasonis</i></br><i>Moraxella bovoculi</i></th>
     </tr>
     <tr>
       <th align="center">Dental Health</br>(<i>mostly lick</i>)</br>6-7-2021</th>
-      <th align="center"><i></i></br><i></i></i></br><i></i></th>
-      <th align="center"><i></i></br><i></i></i></br><i></i></th>
+      <th align="center"><i>Moraxella cuniculi</i></br><i>Wolinella succinogenes</i></br><i>Corynebacterium xerosis</i></th>
+      <th align="center"><i>Moraxella cuniculi</i></br><i>Corynebacterium xerosis</i></br><i>Parabacteroides distasonis</i></th>
     </tr>
     <tr>
       <th align="center">Dental Health</br>(<i>mostly lick</i>)</br>6-8-2021</th>
-      <th align="center"><i></i></br><i></i></i></br><i></i></th>
-      <th align="center"><i></i></br><i></i></i></br><i></i></th>
+      <th align="center"><i>Moraxella catarrhalis</i></br><i>Wolinella succinogenes</i></br><i>Corynebacterium xerosis</i></th>
+      <th align="center"><i>Moraxella catarrhalis</i></br><i>Corynebacterium xerosis</i></br><i>Wolinella succinogenes</i></th>
     </tr>
     <tr>
       <th align="center">Dental Health</br>(<i>mostly lick</i>)</br>6-9-2021</th>
-      <th align="center"><i></i></br><i></i></i></br><i></i></th>
-      <th align="center"><i></i></br><i></i></i></br><i></i></th>
+      <th align="center"><i>Moraxella cuniculi</i></br><i>Wolinella succinogenes</i></br><i>Capnocytophaga sputigena</i></th>
+      <th align="center"><i>Moraxella cuniculi</i></br><i>Parabacteroides distasonis</i></br><i>Wolinella succinogenes</i></th>
     </tr>
     <tr>
       <th align="center">Dental Health</br>(<i>vet assisted</i>)</br>8-16-2021</th>
-      <th align="center"><i></i></br><i></i></i></br><i></i></th>
-      <th align="center"><i></i></br><i></i></i></br><i></i></th>
+      <th align="center"><i>Moraxella bovoculi</i></br><i>Wolinella succinogenes</i></br><i>Actinomyces sp. Chiba101</i></th>
+      <th align="center"><i>Parabacteroides distasonis</i></br><i>Moraxella bovoculi</i></br><i>Wolinella succinogenes</i></th>
     </tr>
     <tr>
       <th align="center">Whole Genome Sequencing</br>(<i>not</i> vet assisted)</br>4-21-2022</th>
-      <th align="center"><i></i></br><i></i></i></br><i></i></th>
-      <th align="center"><i></i></br><i></i></i></br><i></i></th>
+      <th align="center"><i></i></br><i></i></br><i></i></th>
+      <th align="center"><i></i></br><i></i></br><i></i></th>
     </tr>
 </tbody>
 </table>
