@@ -58,8 +58,8 @@
     </tr>
     <tr>
       <th align="center">~15x WGS</br>3-14-2019</th>
-      <th align="center"><b>6/5/2021 Report</b><i>Moraxella bovoculi</i></br><i>Corynebacterium sp. ATCC 6931</i></br><i>Actinomyces howellii</i></br></br><b>6/15/2022 Report</b></th>
-      <th align="center"><i>Corynebacterium xerosis</i></br><i>Parabacteroides distasonis</i></br><i>Moraxella bovoculi</i></th>
+      <th align="center"><b>~~6/5/2021 Report~~</b></br><i>Moraxella bovoculi</i></br><i>Corynebacterium sp. ATCC 6931</i></br><i>Actinomyces howellii</i></br></br><b>~~6/15/2022 Report~~</b></br><i>Kocuria indica</i></br><i>Moraxella bovoculi</i></br><i>Corynebacterium sp. ATCC 6931</i></th>
+      <th align="center"><b>~~6/5/2021 Report~~</b></br><i>Corynebacterium xerosis</i></br><i>Parabacteroides distasonis</i></br><i>Moraxella bovoculi</i></br></br><b>~~6/15/2022 Report~~</b></br><i>Corynebacterium xerosis</i></br><i>Parabacteroides distasonis</i></br><i>Moraxella bovoculi</i></th>
     </tr>
     <tr>
       <th align="center">Dental Health</br>(<i>mostly lick</i>)</br>6-7-2021</th>
@@ -83,8 +83,8 @@
     </tr>
     <tr>
       <th align="center">Whole Genome Sequencing</br>(<i>not</i> vet assisted)</br>4-21-2022</th>
-      <th align="center"><i></i></br><i></i></br><i></i></th>
-      <th align="center"><i></i></br><i></i></br><i></i></th>
+      <th align="center"><i>Moraxella bovoculi</i></br><i>Moraxella osloensis</i></br><i>Moraxella cuniculi</i></th>
+      <th align="center"><i>Corynebacterium xerosis</i></br><i>Moraxella bovoculi</i></br><i>Moraxella cuniculi</i></th>
     </tr>
 </tbody>
 </table>
