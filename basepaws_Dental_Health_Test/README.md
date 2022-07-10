@@ -1,3 +1,5 @@
+## Risk Scores Per Sample:
+
 <table>
   <tbody>
     <tr>
@@ -45,6 +47,47 @@
 </tbody>
 </table>
 
+## Top "High Risk" Species Per Sample:
+
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Sample</th>
+      <th align="center">Periodontal</br>Disease</th>
+      <th align="center">Tooth</br>Resorption</th>
+    </tr>
+    <tr>
+      <th align="center">~15x WGS</br>3-14-2019</th>
+      <th align="center"><i>Moraxella bovoculi</i></br><i>Corynebacterium sp. ATCC 6931</i></i></br><i>Actinomyces howellii</i></th>
+      <th align="center"><i>Corynebacterium xerosis</i></br><i><Parabacteroides distasonis/i></i></br><i>Moraxella bovoculi</i></th>
+    </tr>
+    <tr>
+      <th align="center">Dental Health</br>(<i>mostly lick</i>)</br>6-7-2021</th>
+      <th align="center"><i></i></br><i></i></i></br><i></i></th>
+      <th align="center"><i></i></br><i></i></i></br><i></i></th>
+    </tr>
+    <tr>
+      <th align="center">Dental Health</br>(<i>mostly lick</i>)</br>6-8-2021</th>
+      <th align="center"><i></i></br><i></i></i></br><i></i></th>
+      <th align="center"><i></i></br><i></i></i></br><i></i></th>
+    </tr>
+    <tr>
+      <th align="center">Dental Health</br>(<i>mostly lick</i>)</br>6-9-2021</th>
+      <th align="center"><i></i></br><i></i></i></br><i></i></th>
+      <th align="center"><i></i></br><i></i></i></br><i></i></th>
+    </tr>
+    <tr>
+      <th align="center">Dental Health</br>(<i>vet assisted</i>)</br>8-16-2021</th>
+      <th align="center"><i></i></br><i></i></i></br><i></i></th>
+      <th align="center"><i></i></br><i></i></i></br><i></i></th>
+    </tr>
+    <tr>
+      <th align="center">Whole Genome Sequencing</br>(<i>not</i> vet assisted)</br>4-21-2022</th>
+      <th align="center"><i></i></br><i></i></i></br><i></i></th>
+      <th align="center"><i></i></br><i></i></i></br><i></i></th>
+    </tr>
+</tbody>
+</table>
 
 ## **basepaws (mouth swab, ~15x [Whole Genome Sequencing](https://basepaws.com/products/whole-genome-sequencing), with raw data as FASTQ+BAM+gVCF)**:
 
