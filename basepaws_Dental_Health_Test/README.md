@@ -175,7 +175,7 @@ I don't see dental problems listed on [this ASPCA page](https://www.aspca.org/pe
 
 I will continue to gradually look into this more, but the "periodontal disease stage" for dogs (and stage I, for cats) in the [2016 Banfield report](https://www.banfield.com/pet-health/State-of-pet-health) with a higher percentage for "*dental tartar*" (greater than 50%, for ages greater than 1 year) seems like what I was expecting (with values **<10%** for **stage I periodontal disease** cats, and varying fractions by age for dog that are also all <10%).
 
-For example, in the ([Kao et al. 2021](https://www.biorxiv.org/content/10.1101/2021.04.23.441192v1)) preprint for the basepaws Dental Health Test, I believe **9.3%** (570 / 6110) of the **filtered** cats / samples had periodontal disease.  **However, as pointed out in an e-mail to me from basepaws on 10/15/2021, I believe cats with comorbidities were excluded, which can cause an underestimation of the prevalance (all other things being equal).**
+For example, in the ([Kao et al. 2021](https://www.biorxiv.org/content/10.1101/2021.04.23.441192v1)) preprint for the basepaws Dental Health Test, I believe **9.3%** (570 / 6110) of the **filtered** cats / samples had periodontal disease.  **However, as pointed out in an e-mail to me from basepaws on 10/15/2021, I believe cats with comorbidities were excluded, which can cause an underestimation of the prevalence (all other things being equal).**
 
 ## Attempts to calculate the Positive Preditive Value (for periodontal disease and tooth resorption)
 
