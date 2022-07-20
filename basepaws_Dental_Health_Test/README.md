@@ -248,7 +248,7 @@ I am sure it is not perfect, but I wanted to get some sense of the frequency of 
 
 My understanding is that there were reasons why Basepaws had some difficulties answering this question.  I would also **not** use what I am about to describe as the main result.
 
-Nevetheless, if I try to summarize what I noticed with minimial information from reports that are posted either publicly or in the [Facebook Basepaws Cat Club](https://www.facebook.com/groups/basepaws), then I can attempt the calculations [here]().  Essentially, these are more optimisitc, but the question of whether they have reasonable prevalance (or if the true sensitivty and specifity might vary could still be up for discussion.
+Nevetheless, if I try to summarize what I noticed with minimial information from reports that are posted either publicly or in the [Facebook Basepaws Cat Club](https://www.facebook.com/groups/basepaws), then I can attempt the calculations [here]().
 
 ~~Noticed calculation error shortly after posting on Google Drive.  Wait another day before posting updated calculations, in order to check again.~~
 
