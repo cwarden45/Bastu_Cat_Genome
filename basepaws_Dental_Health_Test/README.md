@@ -236,66 +236,23 @@ From that, I would calculate the positive predictive value to be 70 / (70 + 252)
 
 ### Attempt to Consider 5 Groups (n=6,110)
 
-Based upon the above links, I thought that the prevalance is closer to what you would calculate when you combine all 5 groups.  I suspect that all other groups doesn't necessarily get low risk predictions, but I wanted to test a calculation on the assumption that they did (and emphasize the issue with the varying size of the 2 groups).
+After some additional considerations, I think substantially increasing the frequency of cats might be too stringent when trying to estimate the positive predictive values.
 
-In other words, I now test defining all the other groups as controls.  For periodontal disease, that would be 5,540 (111 + 173 + 1,147 + 4,109).  For tooth resorption, that would be 5,999 (570 + 173 + 1,147 + 4,109).
+I still believe the connection between prevalence and positive preditive values is an important concept.  So, you can still see those calulcation attempts [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/basepaws_Dental_Health_Test/effect_of_increasing_healthy_cat_frequency.pdf).
 
-**For Periodontal Disease:**
- - 66% sensitivity for 570 cases (376 true positive, 194 false positive)
- - 70% specificity for **5540 controls** (1162 false negative, 3878 true negative)
+However, after taking what I saw in the next section, I decided to place the relatively greatest emphasis on the **n=1,717** analysis.
 
-<table>
-  <tbody>
-    <tr>
-      <th align="center"></th>
-      <th align="center">Predicted Medium / High Risk</th>
-      <th align="center">Predicted Low Risk</th>
-    </tr>
-    <tr>
-      <th align="center">True Periodontal Disease</th>
-      <th align="center">376</th>
-      <th align="center">194</th>
-    </tr>
-    <tr>
-      <th align="center">No Periodontal Disease Record</th>
-      <th align="center">1162</th>
-      <th align="center">3878</th>
-    </tr>
-</tbody>
-</table>
+### Consideration of Posted Basepaws Reports
 
-From that, I would calculate the positive predictive value to be 376 / (376 + 1162) = **24.4%**.
+I am sure it is not perfect, but I wanted to get some sense of the frequency of estimated risk for independent sets of customers.
 
-**For Tooth Resorption:**
+My understanding is that there were reasons why Basepaws had some difficulties answering this question.  I would also **not** use what I am about to describe as the main result.
 
- - 63% sensitivity for 111 cases (70 true positive, 41 false positive)
- - 78% specificity for **5999 controls** (1320 false negative, 4679 true negative)
+Nevetheless, if I try to summarize what I noticed with minimial information from reports that are posted either publicly or in the [Facebook Basepaws Cat Club](https://www.facebook.com/groups/basepaws), then I can attempt the calculations [here](https://drive.google.com/file/d/1s-ZaOMhPcJJRVNlI2ct1Qj3_YHC25AdY/view?usp=sharing).  Essentially, these are more optimisitc, but the question of whether they have reasonable prevalance (or if the true sensitivty and specifity might vary could still be up for discussion.
 
-<table>
-  <tbody>
-    <tr>
-      <th align="center"></th>
-      <th align="center">Predicted Medium / High Risk</th>
-      <th align="center">Predicted Low Risk</th>
-    </tr>
-    <tr>
-      <th align="center">True Tooth Resorption</th>
-      <th align="center">70</th>
-      <th align="center">41</th>
-    </tr>
-    <tr>
-      <th align="center">No Tooth Resorption Record</th>
-      <th align="center">1320</th>
-      <th align="center">4679</th>
-    </tr>
-</tbody>
-</table>
+I will include prevalence notes below.  *However, I wonder if maybe the focus should be shifted to whether something different than **standard/recommended care** should take place, versus precisely how the prevalence estimates were calculated and how serious the disease needed to be to be diagnosed.*  For example, my cat had some "high risk" estimates, but the vet said she was in relatively good health for her age and I agree with the indiviudal assessement to follow the recommended general guidelines (versus previously not taking additional action for dental health).
 
-From that, I would calculate the positive predictive value to be 70 / (70 + 1320) = **5.0%**.
-
-***Again, I don't think these will be the exact true numbers.***  For example, as mentioned above, I recieved an e-mail from basepaws on 10/15/2021 explaining that the cats used for the **training model excluded comorbidities**.  Unless the "healthy" group can also be smaller than representative, I think that should make the tooth resorption frequency even higher than I saw elsewhere; however, I think it does seem somewhat unexpected for cats to have tooth resorption without any other dental disease (even though I will continue to learn more about this).
-
-However, if the true indidence of periodontal disease and (especially) tooth resorption is low, then I think that can cause the positive predictive value to be low.
+Likewise, I don't believe **anybody** recommends less than standard/recommended care because of "low risk" results from Basepaws.
 
 ## Prevalence Discordance between Basepaws Reports and Banfield 2016 Report
 
