@@ -248,7 +248,9 @@ I am sure it is not perfect, but I wanted to get some sense of the frequency of 
 
 My understanding is that there were reasons why Basepaws had some difficulties answering this question.  I would also **not** use what I am about to describe as the main result.
 
-Nevetheless, if I try to summarize what I noticed with minimial information from reports that are posted either publicly or in the [Facebook Basepaws Cat Club](https://www.facebook.com/groups/basepaws), then I can attempt the calculations [here](https://drive.google.com/file/d/1s-ZaOMhPcJJRVNlI2ct1Qj3_YHC25AdY/view?usp=sharing).  Essentially, these are more optimisitc, but the question of whether they have reasonable prevalance (or if the true sensitivty and specifity might vary could still be up for discussion.
+Nevetheless, if I try to summarize what I noticed with minimial information from reports that are posted either publicly or in the [Facebook Basepaws Cat Club](https://www.facebook.com/groups/basepaws), then I can attempt the calculations [here]().  Essentially, these are more optimisitc, but the question of whether they have reasonable prevalance (or if the true sensitivty and specifity might vary could still be up for discussion.
+
+~~Noticed calculation error shortly after posting on Google Drive.  Wait another day before posting updated calculations, in order to check again.~~
 
 I will include prevalence notes below.  *However, I wonder if maybe the focus should be shifted to whether something different than **standard/recommended care** should take place, versus precisely how the prevalence estimates were calculated and how serious the disease needed to be to be diagnosed.*  For example, my cat had some "high risk" estimates, but the vet said she was in relatively good health for her age and I agree with the indiviudal assessement to follow the recommended general guidelines (versus previously not taking additional action for dental health).
 
