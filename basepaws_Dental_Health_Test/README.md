@@ -252,7 +252,9 @@ Nevetheless, if I try to summarize what I noticed with minimial information from
 
 ~~Noticed calculation error shortly after posting on Google Drive.  Wait another day before posting updated calculations, in order to check again.~~
 
-I will include prevalence notes below.  *However, I wonder if maybe the focus should be shifted to whether something different than **standard/recommended care** should take place, versus precisely how the prevalence estimates were calculated and how serious the disease needed to be to be diagnosed.*  For example, my cat had some "high risk" estimates, but the vet said she was in relatively good health for her age and I agree with the indiviudal assessement to follow the recommended general guidelines (versus previously not taking additional action for dental health).
+One consistent result across all 3 attempts to calculate positive predictive values is that it is **always** true that the positive predictive value is lower for tooth resorption than periodontal disease.  
+
+Additionally, I will include prevalence notes below.  *However, I wonder if maybe the focus should be shifted to whether something different than **standard/recommended care** should take place, versus precisely how the prevalence estimates were calculated and how serious the disease needed to be to be diagnosed.*  For example, my cat had some "high risk" estimates, but the vet said she was in relatively good health for her age and I agree with the indiviudal assessement to follow the recommended general guidelines (versus previously not taking additional action for dental health).
 
 Likewise, I don't believe **anybody** recommends less than standard/recommended care because of "low risk" results from Basepaws.
 
