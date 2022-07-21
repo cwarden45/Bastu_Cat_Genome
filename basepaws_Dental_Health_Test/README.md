@@ -248,13 +248,11 @@ I am sure it is not perfect, but I wanted to get some sense of the frequency of 
 
 My understanding is that there were reasons why Basepaws had some difficulties answering this question.  I would also **not** use what I am about to describe as the main result.
 
-Nevetheless, if I try to summarize what I noticed with minimial information from reports that are posted either publicly or in the [Facebook Basepaws Cat Club](https://www.facebook.com/groups/basepaws), then I can attempt the calculations [here]().   Essentially, these are more optimisitc, but the question of whether they have reasonable prevalance (or if the true sensitivty and specifity might from what is described in the preprint) could still be up for discussion.
-
-~~Noticed calculation error shortly after posting on Google Drive.  Wait another day before posting updated calculations, in order to check again.~~
+Nevetheless, if I try to summarize what I noticed with minimial information from reports that are posted either publicly or in the [Facebook Basepaws Cat Club](https://www.facebook.com/groups/basepaws), then I can attempt the calculations [here](https://drive.google.com/file/d/174pSXNQBK3ens1oavw-lo-kZiPZzmcYM/view?usp=sharing).   Essentially, this caused me to place less emphasis on the earlier alternative calculation that would have been more pessimistic, but I would say the question of whether they have reasonable prevalance (or if the true sensitivity and specifity might from what is described in the preprint) could still be up for discussion.
 
 One consistent result across all 3 attempts to calculate positive predictive values is that it is **always** true that the positive predictive value is lower for tooth resorption than periodontal disease.  
 
-Additionally, I will include prevalence notes below.  *However, I wonder if maybe the focus should be shifted to whether something different than **standard/recommended care** should take place, versus precisely how the prevalence estimates were calculated and how serious the disease needed to be to be diagnosed.*  For example, my cat had some "high risk" estimates, but the vet said she was in relatively good health for her age and I agree with the indiviudal assessement to follow the recommended general guidelines (versus previously not taking additional action for dental health).
+Additionally, I will include prevalence notes below.  *However, I wonder if maybe the focus should be shifted to whether something different than **standard/recommended care** should take place, versus precisely how the prevalence estimates were calculated and how serious the disease needed to be to be diagnosed.*  For example, my cat had some "high risk" estimates, but the vet said she was in relatively good health for her age and I agree with the indiviudal assessement to follow the recommended general guidelines (versus previously not taking discussing preventative dental health measures with my vet).
 
 Likewise, I don't believe **anybody** recommends less than standard/recommended care because of "low risk" results from Basepaws.
 
