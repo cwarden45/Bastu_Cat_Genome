@@ -215,3 +215,5 @@ I received an e-mail that "Bastu - ALT (Swab)'s DNA results are here!" on 6/10/2
 I also noticed that updated report for my earlier Whole Genome Sequencing kit was also still not ready (even though it had an estimated update date of "Apr 17th - May 1st", and I checked on June 11th).
 
 On 6/13/2022, I received a PDF report via e-mail (which I could also then see in the web interface).  I have not yet received the raw data, but my understanding is that is not yet ready to be returned to me (and/or I have not yet received something physically).
+
+On 8/10/2022, I recieve an e-mail to confirm my address in preparation to mail a USB with data to me.
