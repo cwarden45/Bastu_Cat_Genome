@@ -217,3 +217,5 @@ I also noticed that updated report for my earlier Whole Genome Sequencing kit wa
 On 6/13/2022, I received a PDF report via e-mail (which I could also then see in the web interface).  I have not yet received the raw data, but my understanding is that is not yet ready to be returned to me (and/or I have not yet received something physically).
 
 On 8/10/2022, I recieve an e-mail to confirm my address in preparation to mail a USB with data to me.
+
+On 8/13/2022, I received a USB drive with data.
