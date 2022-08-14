@@ -218,4 +218,12 @@ On 6/13/2022, I received a PDF report via e-mail (which I could also then see in
 
 On 8/10/2022, I recieve an e-mail to confirm my address in preparation to mail a USB with data to me.
 
-On 8/13/2022, I received a USB drive with data.
+On 8/13/2022, I received a USB drive with data.  I then uploaded the data to Google Cloud:
+
+**Interleaved FASTQ #1 (*Run 186, Lane 1*):** [AB.CN.45.31211051000777.LP.858.D9.L1.R186.WGS.fastq.gz](https://storage.googleapis.com/bastu-cat-genome/AB.CN.45.31211051000777.LP.858.D9.L1.R186.WGS.fastq.gz)
+
+**Interleaved FASTQ #1 (*Run 186, Lane 2*):** [AB.CN.45.31211051000777.SP.319.D1.L2.R186.WGS.fastq.gz](https://storage.googleapis.com/bastu-cat-genome/AB.CN.45.31211051000777.SP.319.D1.L2.R186.WGS.fastq.gz)
+
+**Interleaved FASTQ #1 (*Run 195, Lane 2*):** [AB.CN.45.31211051000777.SP.329.E1.L2.R195.WGS.fastq.gz](https://storage.googleapis.com/bastu-cat-genome/AB.CN.45.31211051000777.SP.329.E1.L2.R195.WGS.fastq.gz)
+
+I will most likely work on writing custom code to create reads in a similar file format as for the 1st WGS sample (which I prefer).  However, even if I extend the read names to keep track of the source, it will no be possible to run analysis on a per-tile basis or analyze the observed versus expected barcode sequences (as I did for the [1st WGS sample](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Read_QC)).
