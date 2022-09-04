@@ -30,11 +30,9 @@ However, the path for me seeing this additional view of a complementary alignmen
 
 During the discussion to understand and identify an issue in my current basepaws reports, I was provided an additional file that represents a version of the amplicons relevant to this variant (uploaded on Google Drive [here](https://drive.google.com/file/d/1j_JWYY0Yq7A_jQJ34TUu-HbW1EyqAA8Q/view?usp=sharing)).
 
-In that file, there is one sequence that has noticably more 100% identical amplicons than other 100% identical sequences.  I think that was the basis in agreeing that my cat should have 0 copies of the C-->T colorpoint mutation (although the strand is the opposite, so you are looking for a lack of a change from a G to an A).  This was after an intermediate suggestion that my cat had C-->TCC variant instead of a C-->T variant, but I think that was also shown to not be true (or at least not for the regions represented by the screenshots on this page).  I think understanding the sequence difference flanking this variant in the ***canonical*** chrD1 for felCat8 versus felCat9.
+In that file, there is one sequence that has noticably more 100% identical amplicons than other 100% identical sequences.  I think that was the basis in agreeing that my cat should have 0 copies of the C-->T colorpoint mutation (although the strand is the opposite, so you are looking for a lack of a change from a G to an A).  This was after an intermediate suggestion that my cat had C-->TCC variant instead of a C-->T variant, but this was also not true (or at least not for the regions represented by the screenshots on this page) and Basepaws then agreed that Bastu should have 0 copies instead of 2 copies of the variant (where I believe showing the Whole Genome Sequencing alignments was important).
 
-Either way, you can visualize the BLAT hit for that amplicon sequence for felCat9, and you can see that the sequence for **chrD1_NW_019365422v1_random:28881-29056** is a 100% match.
-
-I can then use the raw data to visualize that alignment:
+Either way, you can visualize the BLAT hit for that amplicon sequence for felCat9, and you can see that the sequence for **chrD1_NW_019365422v1_random:28881-29056** is a 100% match (for Bastu's Whole Genome Sequencing data):
 
 ![alignment of Basepaws data for alternate felCat9 position](IGV-NW_019365422v1-amplicon-BLAT-felCat9.PNG "alignment of Basepaws data for alternate felCat9 position")
 
