@@ -4,6 +4,8 @@
  - [Review of Results / Data from 3 Cat DNA Organizations / Companies](http://cdwscience.blogspot.com/2019/12/review-of-results-data-from-3-cat-dna.html)
 
  - [Why I think the basepaws "Breed Group" should be called an "Ancestry Cluster" (with abstract cluster names)](http://cdwscience.blogspot.com/2021/02/why-i-think-basepaws-breed-index-should.html)
+ 
+ - [Selected Comparisons for 2 Basepaws Whole Genome Sequencing Results](http://cdwscience.blogspot.com/2022/07/selected-comparisons-for-2-basepaws.html)
 
 ## Overview / Purchases
 
