@@ -3,7 +3,9 @@
 Purchased on 9/4/2022 for yearly cost of **$1,633.07**.  I also plan to renew my [Banfield Wellness Plan](https://www.banfield.com/products/optimum-wellness-plan/Cat-plans) (*Special Care*, for preventative medicine).
 
 *Max Annual Payout*: $10,000
+
 *Deductable*: $400
+
 *Reimbursement Rate*: 80%
 
 I was originally interested in *PetPlan*, but my understanding is that [this is currently Fetch by The Dodo](https://www.insurancebusinessmag.com/ca/news/breaking-news/petplan-rebrands-to-fetch-by-the-dodo-397588.aspx).
