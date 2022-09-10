@@ -25,3 +25,5 @@ For 2022, [ASPCA Pet Insurance](https://www.aspcapetinsurance.com/pet-insurance-
  - I am also familiar with the ASPCA in other contexts.
 
 There are also rankings from [U.S.News](https://www.usnews.com/insurance/pet-insurance), [MarketWatch](https://www.marketwatch.com/picks/guides/insurance/best-pet-insurance/), [Fund.com](https://www.fund.com/top/pet-insurance/cat/desk/), etc.
+
+My understanding is that [Trupanion](https://trupanion.com/) will lock in the price if you start when your cat is a kitten (or younger cat), and Trupanion also directly pays the vet (instead of being reimbursed by insurance afterwards, as I understand it).
