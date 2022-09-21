@@ -23,7 +23,7 @@ For 2022, [Embrace](https://www.embracepetinsurance.com/) was tied for the top r
 
 For 2022, [ASPCA Pet Insurance](https://www.aspcapetinsurance.com/pet-insurance-plan) was top-ranked by [findinsurance.com](https://findinsurance.com/pet-insurance-cats).
  - I am also familiar with the ASPCA in other contexts.
- - However, the [About Us](https://www.aspcapetinsurance.com/about-us/) page mentions ["Crum & Forster Pet Insurance Group"](https://www.cfpetinsurance.com/).  So, I don't know what is the different between the option associated with a non-profit name versus the version that I don't beleive is associated with a non-profit name.
+ - However, the [About Us](https://www.aspcapetinsurance.com/about-us/) page mentions ["Crum & Forster Pet Insurance Group"](https://www.cfpetinsurance.com/).  So, I don't know what is the difference between the option associated with a non-profit name versus the company that I don't beleive is associated with a non-profit name.
 
 There are also rankings from [U.S.News](https://www.usnews.com/insurance/pet-insurance), [MarketWatch](https://www.marketwatch.com/picks/guides/insurance/best-pet-insurance/), [Fund.com](https://www.fund.com/top/pet-insurance/cat/desk/), etc.
 
