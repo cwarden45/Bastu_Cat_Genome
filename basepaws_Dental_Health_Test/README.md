@@ -163,7 +163,7 @@ I took Bastu in for her dental cleaning on **9/19/2022**.  You can see the x-ray
 
 I started Bastu on FortiFlora a couple days before the cleaning (as well as a separate preparation for ~1 day a week before that), with the goal of continuing until the morning of 9/23/2022 (always mixed with wet food, before starting her back on her prescription dental diet).
 
-My understanding is that cats are typically expected to be back to normal the next day.  This was not true for the first appointment.  **However, during a similar interval of time, I did not have the same problem with diarrhea or continuing with eating even wet food the next day.**.  So, I don't know the relative influence of the FortiFlora, but this cleaning went much better!  I hope that continues in the future.
+My understanding is that cats are typically expected to be back to normal the next day.  This was not true for the first appointment.  **However, during a similar interval of time, I did *not* have the same problem with diarrhea or continuing with eating even wet food the next day.**  So, I don't know the relative influence of the FortiFlora, but this cleaning went much better!  I hope that continues in the future.
 
 ## Prevalence Notes (mostly copied from [blog post](http://cdwscience.blogspot.com/2019/12/review-of-results-data-from-3-cat-dna.html))
 
