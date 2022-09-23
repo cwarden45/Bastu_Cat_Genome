@@ -135,7 +135,7 @@ In the process of providing some materials to the vet, I also noticed a potentia
 
 I was able to download the results for this sample on **10/5/2021**.
 
-## Dental Cleaning Notes
+## Dental Cleaning Notes (1st Appointment)
 
 I took Bastu in for her dental cleaning on **10/21/2021**.  You can see the x-rays taken during the cleaning [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/basepaws_Dental_Health_Test/Bastu-Dental-Xray-211021.zip).  Overall, my understanding is that Bastu is in good health, especially for a cat her age.
 
@@ -156,6 +156,10 @@ Bastu had a solid stool on 10/31/2021.  This was used for the PetQCheck stool sa
 On 11/2/2021, it was harder to get Bastu to eat the wet food with the FortiFlora added.  So, I will test using this as the last day for FortiFlora, turning back on her automatic feeder for 3 units of breakfast on the following day.
 
 As far as I could tell, I think Bastu seemed normal after that.  On 11/6/2021, I picked up some Royal Canin Feline Dental Food (dry, by prescription).  I mixed that in with the existing food in Bastu's feeder.  I also offered her a small sample, and she ate them.  So, I think this should go smoothly.  However, I will continue to follow up and make sure that I understand the situation (as well as make sure that all of my questions are eventually answered, if at all possible).
+
+## Dental Cleaning Notes (2nd Appointment)
+
+I took Bastu in for her dental cleaning on **9/19/2022**. 
 
 ## Prevalence Notes (mostly copied from [blog post](http://cdwscience.blogspot.com/2019/12/review-of-results-data-from-3-cat-dna.html))
 
