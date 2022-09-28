@@ -233,3 +233,7 @@ I will most likely work on writing custom code to create reads in a similar file
 **PetQCheck "TARGETED HEALTH Advanced Microbiome Screener" by Purina (gut microbiome test, list price of $149.00 + $10.80, includes free shipping, Order PQCBP2700)**:
 
 I purchased a 4th test on 9/9/2022.
+
+Sample collected after giving Bastu FortiFlora slightly before and a few days after dental cleaning (9/19/2022), with last FortiFlora in wet foot on 9/23/2022.
+
+Sample collected and mailed on 9/28/2022.
