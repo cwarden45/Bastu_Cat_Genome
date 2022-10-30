@@ -237,3 +237,5 @@ I purchased a 4th test on 9/9/2022.
 Sample collected after giving Bastu FortiFlora slightly before and a few days after dental cleaning (9/19/2022), with last FortiFlora in wet foot on 9/23/2022.
 
 Sample collected and mailed on 9/28/2022.
+
+I recieved Bastu's results on 10/30/2022, with a report that can be viewed [here](https://petqcheck.com/share/e83b6ef7-1fb0-418d-9e66-c591d2ccd81a).
