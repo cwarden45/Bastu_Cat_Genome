@@ -239,3 +239,9 @@ Sample collected after giving Bastu FortiFlora slightly before and a few days af
 Sample collected and mailed on 9/28/2022.
 
 I recieved Bastu's results on 10/30/2022, with a report that can be viewed [here](https://petqcheck.com/share/e83b6ef7-1fb0-418d-9e66-c591d2ccd81a).
+
+You can view the FASTQ files using the links below:
+
+PetQCheck metagenomics Read1: https://storage.googleapis.com/bastu-cat-genome/zr8725_3V3V4_R1.fastq.gz
+
+PetQCheck metagenomics Read2: https://storage.googleapis.com/bastu-cat-genome/zr8725_3V3V4_R2.fastq.gz
