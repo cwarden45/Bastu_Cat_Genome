@@ -15,6 +15,9 @@ ln -s -T /mnt/usb8/Bastu_Cat_Genome/PetQCheck/zr5877_3V3V4_R2.fastq.gz Kraken-IN
 ln -s -T /mnt/usb8/Bastu_Cat_Genome/PetQCheck/zr8725_3V3V4_R1.fastq.gz Kraken-IN/PetQCheck4_R1.fastq.gz
 ln -s -T /mnt/usb8/Bastu_Cat_Genome/PetQCheck/zr8725_3V3V4_R2.fastq.gz Kraken-IN/PetQCheck4_R2.fastq.gz
 
+ln -s -T /mnt/usb8/CDW_Genome/Bristle_Health/BH3773Y4_R1.fastq.gz Kraken-IN/Bristle1_R1.fastq.gz
+ln -s -T /mnt/usb8/CDW_Genome/Bristle_Health/BH3773Y4_R2.fastq.gz Kraken-IN/Bristle1_R2.fastq.gz
+
 ln -s -T /mnt/usb8/CDW_Genome/Veritas/veritas_wgs_R1.fastq.gz Kraken-IN/Veritas_WGS_R1.fastq.gz
 ln -s -T /mnt/usb8/CDW_Genome/Veritas/veritas_wgs_R2.fastq.gz Kraken-IN/Veritas_WGS_R2.fastq.gz
 
