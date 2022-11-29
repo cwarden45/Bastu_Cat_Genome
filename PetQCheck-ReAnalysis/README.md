@@ -1,0 +1,1 @@
+As described [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/README.md), classifications were generated using Kraken2/Bracken.
