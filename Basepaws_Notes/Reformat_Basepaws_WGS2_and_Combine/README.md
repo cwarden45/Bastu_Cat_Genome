@@ -28,7 +28,7 @@ Assuming that cat reads will be misclassifed as human reads by Kraken2/Bracken, 
 
 **Top 10 Genera (by Average Non-Eukaryotic Percentage):**
 
-![Top 10 Classifications](n28_FILTERED_Braken_genera-heatmap_quantified-Top10.PNG "Top 10 Classofications")
+![Top 10 Classifications](n28_FILTERED_Braken_genera-heatmap_quantified-Top10.PNG "Top 10 Classifications")
 
 ## Re-Alignment for Germline Feline Variants
 
