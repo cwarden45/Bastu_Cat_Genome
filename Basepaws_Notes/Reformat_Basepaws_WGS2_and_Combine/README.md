@@ -22,7 +22,13 @@ The data type is different, but the 4 PetQCheck *fecal* samples have been upload
 
 Assuming that cat reads will be misclassifed as human reads by Kraken2/Bracken, use different script than for paired human analysis (to only consider species considered part of microbiome).
 
-![Filter Post Bracken-Adjustment Percent Quantified Clustering](n24_FILTERED_Braken_genera-heatmap_quantified.PNG "Filter Post Bracken-Adjustment Percent Quantified Clustering")
+**All Genera with Max Percent Reads >0.5%:**
+
+![Filter Post Bracken-Adjustment Percent Quantified Clustering](n28_FILTERED_Braken_genera-heatmap_quantified.PNG "Filter Post Bracken-Adjustment Percent Quantified Clustering")
+
+**Top 10 Genera (by Average Non-Eukaryotic Percentage):**
+
+![Top 10 Classifications](n28_FILTERED_Braken_genera-heatmap_quantified-Top10.PNG "Top 10 Classofications")
 
 ## Re-Alignment for Germline Feline Variants
 
