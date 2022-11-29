@@ -14,7 +14,7 @@ For some early uBiome samples, uncompressed .fastq files were used to create com
 
 **1)** Run Kraken2/Bracken analysis using `run_Kracken2_Bracken-FASTQ-PE.py` from [paired human samples from multiple companies](https://github.com/cwarden45/DTC_Scripts/tree/master/Psomagen_Viome/Kraken2_analysis).
 
-The output for Bastu's 1st WGS sample and the combined reads in the separate R1/R2 format are uploaded in [Kraken-OUT]().
+The output for Bastu's 1st WGS sample and the combined reads in the separate R1/R2 format are uploaded in [Kraken-OUT](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/Kraken-OUT).
 
 The data type is different, but the 4 PetQCheck *fecal* samples have been uploaded under [PetQCheck-ReAnalysis](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/PetQCheck-ReAnalysis).  This also includes the full Kraken2 output files, where were too large to upload on GitHub for the 2 Basepaws (Oral) WGS samples.
 
