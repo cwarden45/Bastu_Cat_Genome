@@ -32,4 +32,4 @@ Assuming that cat reads will be misclassifed as human reads by Kraken2/Bracken, 
 
 ## Re-Alignment for Germline Feline Variants
 
-**1)** Use `align_BWA_MEM.py` from [top Basepaws_Notes folder](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes).
+**1)** Use `align_BWA_MEM-v2.py`, which is modified from [top Basepaws_Notes folder](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes).
