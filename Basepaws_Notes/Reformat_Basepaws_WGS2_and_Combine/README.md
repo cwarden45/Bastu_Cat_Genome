@@ -4,6 +4,20 @@
 
 Based upon the *deinterleave* process in [this code](https://github.com/metashot/kraken2/blob/master/modules/bbtools.nf), I believe this can also be performed using [BBtools](https://jgi.doe.gov/data-and-tools/software-tools/bbtools/).  **However**, the **read name** has to be changed in order to be able to combine the reads.  So, I think the custom script may in fact be needed for that.  Unfortuantely, I think this also means that Kraken2/Bracken cannot (or, ideally, should not) be run on the interleaved files that were provided.
 
+If it helps with explain the need for the reformatting, here is what the first pair of reads looks like in one of the interleaved files:
+
+```
+@1 1
+GNCTTCTAAACCATCAGCTTGCTTGCCCTCAAATTCCTGTAGTAAGTTTACTTAGGGTTTAGCCTGGGGTGGGAGGTGATGAGAGGGACCTCTGTTCATCCCCTTCCTTGCTTCCATCATGTCCCTGATTAGACCACCTTCCCTCCAGCAC
++
+F!:FFFF,FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF:FFFFFFFFFF:FFFFF:FFFFFFFFFFFFFFFFFFFFF:FFFFFFFFFFFFFFFFFFFFFF:FFFFFFFF:FFFFFFFFFFFFFFFFFFFFF
+@1 2
+GGTCTGCCCAAGGAGCCAAAGGGCCAGTTCCATCAGAAGACAGACACTGTTAGGGGCACGGAGAGAGAGGGCAGAAATCTTCATCCATAAACTATCTACGAAAATATCGGGCTCCAACTTTTTATCCTTTCACTGAAGTATCTGTTAGCAA
++
+FF::FFFFFFFFF,F::FFFFFFFFFF,,FFFFFFFFFFFFFFFF:F:FF::F:FFFF:FFFF:FFFFFFFFFFFFFFFFFFFFFF:FFFFFFFFFF::FF,FFFFFFFF:FFFFFFF:F,F,F:F:,F,F:FFFFFFFFFF:FFFFF:FF
+
+```
+
 **2)** Combine three separate .fastq.gz files (for R1 and R2) using `combine_reads.sh`
 
 ## Metagenomics Comparisons
