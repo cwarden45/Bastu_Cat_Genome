@@ -44,6 +44,8 @@ Assuming that cat reads will be misclassifed as human reads by Kraken2/Bracken, 
 
 ![Top 20 Classifications](n29_FILTERED_Braken_genera-heatmap_quantified-TOP20.PNG "Top 20 Classifications")
 
+Please note that **Vertias** provided an **hg19-aligned .bam** file, which I converted to paired-end reads.  So, those should be close to 100% human reads.  **I think this in turn raises some concerns and/or questions for the Basepaws WGS samples.**
+
 ## Re-Alignment for Germline Feline Variants
 
 **1)** Use `align_BWA_MEM-v2.py`, with dependency version updates relative to *align_BWA_MEM.py* from [top Basepaws_Notes folder](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes).
