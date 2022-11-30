@@ -40,9 +40,9 @@ Assuming that cat reads will be misclassifed as human reads by Kraken2/Bracken, 
 
 ![Filter Post Bracken-Adjustment Percent Quantified Clustering](n29_FILTERED_Braken_genera-heatmap_quantified.PNG "Filter Post Bracken-Adjustment Percent Quantified Clustering")
 
-**Top 10 Genera (by Average Non-Eukaryotic Percentage):**
+**Top 20 Genera (by Average Non-Eukaryotic Percentage):**
 
-![Top 10 Classifications](n29_FILTERED_Braken_genera-heatmap_quantified-TOP10.PNG "Top 10 Classifications")
+![Top 20 Classifications](n29_FILTERED_Braken_genera-heatmap_quantified-TOP20.PNG "Top 20 Classifications")
 
 ## Re-Alignment for Germline Feline Variants
 
