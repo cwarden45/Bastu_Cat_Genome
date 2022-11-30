@@ -1,11 +1,11 @@
 input_folder = "Kraken-OUT"
-Species   = c("Cat" ,"Cat" ,"Human","Human","Human","Human","Human","Human","Cat"  ,"Cat"  ,"Cat"  ,"Cat"  ,"Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human")
-SampleSite= c("Oral","Oral","Fecal","Fecal","Fecal","Oral" ,"Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Oral" ,"Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Oral" ,"Oral" ,"Oral")
-output.classification_rate = "n28_Kraken2-Bacterial_Classifications.txt"
-output.percent_quantified = "n28_FILTERED_Braken_genera-heatmap_quantified.txt"
-output.counts = "n28_FILTERED_Braken_genera-counts.txt"
-heatmap.output_quantified = "n28_FILTERED_Braken_genera-heatmap_quantified.pdf"
-heatmap.output_quantified10 = "n28_FILTERED_Braken_genera-heatmap_quantified-TOP10.pdf"
+Species   = c("Cat" ,"Cat" ,"Human","Human","Human","Human","Human","Human","Human","Cat"  ,"Cat"  ,"Cat"  ,"Cat"  ,"Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human")
+SampleSite= c("Oral","Oral","Oral" ,"Fecal","Fecal","Fecal","Oral" ,"Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Oral" ,"Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Oral" ,"Oral" ,"Oral")
+output.classification_rate = "n29_Kraken2-Bacterial_Classifications.txt"
+output.percent_quantified = "n29_FILTERED_Braken_genera-heatmap_quantified.txt"
+output.counts = "n29_FILTERED_Braken_genera-counts.txt"
+heatmap.output_quantified = "n29_FILTERED_Braken_genera-heatmap_quantified.pdf"
+heatmap.output_quantified20 = "n29_FILTERED_Braken_genera-heatmap_quantified-TOP20.pdf"
 min.percent = 0.5
 
 classification.rate = c()
@@ -23,13 +23,42 @@ for (i in 1:length(Bracken_files)){
 	sampleID = gsub("_Kraken2_bracken.kreport","",Bracken_files[i])
 	print(sampleID)
 	Bracken_table = read.table(paste(input_folder,Bracken_files[i],sep="/"), head=F, sep="\t")
+	Bracken_table$V6 = gsub("\\s+","",as.character(Bracken_table$V6))
 	print(dim(Bracken_table))##MODIIFED CODE
-	Eukaryota_index = grep("Eukaryota",Bracken_table$V6)#MODIFIED CODE
+	Eukaryota_index = grep("^Eukaryota$",Bracken_table$V6)#MODIFIED CODE
+	Bacteria_index = grep("^Bacteria$",Bracken_table$V6)#MODIFIED CODE
 	if(length(Eukaryota_index) == 1){
-		Bracken_table=Bracken_table[1:(Eukaryota_index-1),]#MODIFIED CODE
+		if(length(Bacteria_index) == 1){
+			if(Bacteria_index > Eukaryota_index){
+				keep_rows = Bacteria_index:nrow(Bracken_table)#MODIFIED CODE
+				
+				Bracken_table=Bracken_table[keep_rows,]#MODIFIED CODE
+			}else{
+				keep_rows = 1:(Eukaryota_index-1)#MODIFIED CODE
+				Viral_index = grep("^Viruses$",Bracken_table$V6)#MODIFIED CODE
+				if(length(Viral_index) == 1){
+					if(Viral_index > Eukaryota_index){
+						keep_rows = c(keep_rows,Viral_index:nrow(Bracken_table))#MODIFIED CODE
+					}#end if(Viral_index > Eukaryota_index) ..MODIFIED CODE	
+				}else if(length(Viral_index) > 1){
+					print("Troubleshoot code with more than one Viral row")#MODIFIED CODE
+					print(Viral_index)#MODIFIED CODE
+					print(Bracken_table$V6[Viral_index])#MODIFIED CODE
+					stop()#MODIFIED CODE
+				}#end 	
+				Bracken_table=Bracken_table[keep_rows,]#MODIFIED CODE
+			}#end else...MODIFIED CODE	
+		}else{
+			print("Troubleshoot code with more than one Bacteria row")#MODIFIED CODE
+			print(Bacteria_index)#MODIFIED CODE
+			print(Bracken_table$V6[Bacteria_index])#MODIFIED CODE
+			stop()#MODIFIED CODE
+		}#end else...MODIFIED CODE
 	}else if(length(Eukaryota_index) > 1){
-		print("Troubleshoot code with more than one Eukaryota row")
-		stop()
+		print("Troubleshoot code with more than one Eukaryota row")#MODIFIED CODE
+		print(Eukaryota_index)#MODIFIED CODE
+		print(Bracken_table$V6[Eukaryota_index])#MODIFIED CODE
+		stop()#MODIFIED CODE
 	}#end 
 
 	print(dim(Bracken_table))##MODIIFED CODE
@@ -116,8 +145,15 @@ source("heatmap.3.R")
 column_annotation = as.matrix(data.frame(Species = speciesCol,SampleSite = siteCol))
 colnames(column_annotation)=c("Species","SampleSite")
 
+#copied from https://github.com/cwarden45/RNAseq_templates/blob/master/TopHat_Workflow/DEG_goseq.R
+cor.dist = function(mat){
+	cor.mat = cor(as.matrix(t(mat)))
+	dis.mat = 1 - cor.mat
+	return(as.dist(dis.mat))	
+}#end def cor.dist
+
 pdf(heatmap.output_quantified)
-heatmap.3(genus_percent.quantified,   distfun = dist, hclustfun = hclust,
+heatmap.3(genus_percent.quantified,   distfun = cor.dist, hclustfun = hclust,
 			col=colorpanel(33, low="black", mid="pink", high="red"), density.info="none", key=TRUE,
 			ColSideColors=column_annotation, ColSideColorsSize=2, cexRow=0.5,
 			trace="none", margins = c(14,10), dendrogram="both")
@@ -132,11 +168,11 @@ genus_percent.quantified2=genus_percent.quantified
 print(dim(genus_percent.quantified2))#MODIFIED CODE
 average_percent = apply(genus_percent.quantified, 1, mean)#MODIFIED CODE
 genus_percent.quantified2=genus_percent.quantified2[order(average_percent, decreasing = TRUE),]#MODIFIED CODE
-genus_percent.quantified2=genus_percent.quantified2[1:10,]#MODIFIED CODE
+genus_percent.quantified2=genus_percent.quantified2[1:20,]#MODIFIED CODE
 print(dim(genus_percent.quantified2))#MODIFIED CODE
 
-pdf(heatmap.output_quantified10)
-heatmap.3(genus_percent.quantified2,   distfun = dist, hclustfun = hclust,
+pdf(heatmap.output_quantified20)
+heatmap.3(genus_percent.quantified2,   distfun = cor.dist, hclustfun = hclust,
 			col=colorpanel(33, low="black", mid="pink", high="red"), density.info="none", key=TRUE,
 			ColSideColors=column_annotation, ColSideColorsSize=2, cexRow=1,
 			trace="none", margins = c(14,10), dendrogram="both")
