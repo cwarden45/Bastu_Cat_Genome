@@ -46,7 +46,7 @@ Assuming that cat reads will be misclassifed as human reads by Kraken2/Bracken, 
 
 Please note that ***Vertias*** provided an **hg19-aligned .bam** file, which I converted to paired-end reads.  So, those should be close to 100% human reads.  **I think this in turn raises some concerns and/or questions for the *Basepaws* (cat) WGS samples.**
 
-**Kraken2 Classification Rate (Ordered by Increasing Rate(:**
+**Kraken2 Classification Rate (Ordered by Increasing Classification Rate):**
 
 <table>
   <tbody>
@@ -55,11 +55,11 @@ Please note that ***Vertias*** provided an **hg19-aligned .bam** file, which I c
       <th align="center">Classification Rate</th>
     </tr>
     <tr>
-      <th align="center">Veritas_WGS: <i>Only hg19 Alignable Reads</i></th>
+      <th align="center">Veritas_WGS<br>(<i>Only hg19 Alignable Reads</i>)</th>
       <th align="center">0.02%</th>
     </tr>
     <tr>
-      <th align="center">Sequencing.com</th>
+      <th align="center">Sequencing.com WGS</th>
       <th align="center">2.29%</th>
     </tr>
     <tr>
