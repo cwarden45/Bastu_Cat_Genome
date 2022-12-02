@@ -156,7 +156,7 @@ Please note that ***Vertias*** provided an **hg19-aligned .bam** file, which I c
     </tr>
      <tr>
       <th align="center">PetQCheck<br>(<i>Sample 4</i>)</th>
-      <th align="center"99.97%</th>
+      <th align="center">99.97%</th>
     </tr>
     <tr>
       <th align="center">Psomagen<br>(<i>Sample 1a</i>)</th>
