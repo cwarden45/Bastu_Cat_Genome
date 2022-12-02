@@ -36,17 +36,17 @@ The data type is different, but the 4 PetQCheck *fecal* samples have been upload
 
 Assuming that cat reads will be misclassifed as human reads by Kraken2/Bracken, use different script than for paired human analysis (to only consider species considered part of microbiome).
 
-**All Genera with Max Percent Reads >0.5%:**
+***All Genera with Max Percent Reads >0.5%:***
 
 ![Filter Post Bracken-Adjustment Percent Quantified Clustering](n29_FILTERED_Braken_genera-heatmap_quantified.PNG "Filter Post Bracken-Adjustment Percent Quantified Clustering")
 
-**Top 20 Genera (by Average Non-Eukaryotic Percentage):**
+***Top 20 Genera (by Average Non-Eukaryotic Percentage):***
 
 ![Top 20 Classifications](n29_FILTERED_Braken_genera-heatmap_quantified-TOP20.PNG "Top 20 Classifications")
 
 Please note that ***Vertias*** provided an **hg19-aligned .bam** file, which I converted to paired-end reads.  So, those should be close to 100% human reads.  **I think this in turn raises some concerns and/or questions for the *Basepaws* (cat) WGS samples.**
 
-**Kraken2 Classification Rate (Ordered by Increasing Classification Rate):**
+***Kraken2 Classification Rate (Ordered by Increasing Classification Rate):***
 
 <table>
   <tbody>
