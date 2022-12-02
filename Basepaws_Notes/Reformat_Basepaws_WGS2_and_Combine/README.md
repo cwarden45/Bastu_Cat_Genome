@@ -55,7 +55,7 @@ Please note that ***Vertias*** provided an **hg19-aligned .bam** file, which I c
       <th align="center">Classification Rate</th>
     </tr>
     <tr>
-      <th align="center">Veritas_WGS</br>(<b>Only hg19 Alignable Reads</b>)</th>
+      <th align="center">Veritas_WGS: <i>Only hg19 Alignable Reads</i></th>
       <th align="center">0.02%</th>
     </tr>
     <tr>
@@ -71,32 +71,32 @@ Please note that ***Vertias*** provided an **hg19-aligned .bam** file, which I c
       <th align="center">7.85%</th>
     </tr>
     <tr>
-      <th align="center"><b>Basepaws</b><br>(<i>Sample 2</i>)</th>
+      <th align="center"><i>Basepaws Sample 2</i></th>
       <th align="center">17.48%</th>
     </tr>
      <tr>
-      <th align="center"><b>Basepaws</b><br>(<i>Sample 1</i>)</th>
+      <th align="center"><i>Basepaws Sample 1</i></th>
       <th align="center">25.29%</th>
     </tr>
     <tr>
-      <th align="center">Kean<br>(<i>Sample 6b</i>)</th>
+      <th align="center">Kean<br>(<i>Sample 6b, "shotgun" WGS</i>)</th>
       <th align="center">53.81%</th>
     </tr>
     <tr>
-      <th align="center">Psomagen<br>(<i>Sample 4</i>)</th>
+      <th align="center">Psomagen<br>(<i>Sample 4, "shotgun" WGS</i>)</th>
       <th align="center">55.04%</th>
     </tr>
     <tr>
-      <th align="center">Psomagen<br>(<i>Sample 2</i>)</th>
+      <th align="center">Psomagen<br>(<i>Sample 2, "shotgun" WGS</i>)</th>
       <th align="center">57.21%</th>
     </tr>
     <tr>
-      <th align="center">Psomagen<br>(<i>Sample 3</i>)</th>
+      <th align="center">Psomagen<br>(<i>Sample 3, "shotgun" WGS</i>)</th>
       <th align="center">58.75%</th>
     </tr>
      <tr>
-      <th align="center">Psomagen<br>(<i>Sample 1b</i>)</th>
-      <th align="center">%</th>
+      <th align="center">Psomagen<br>(<i>Sample 1b, "shotgun" WGS</i>)</th>
+      <th align="center">61.88%</th>
     </tr>
     <tr>
       <th align="center">uBiome<br>(<i>2014 Oral Sample</i>)</th>
