@@ -79,23 +79,23 @@ Please note that ***Vertias*** provided an **hg19-aligned .bam** file, which I c
       <th align="center">25.29%</th>
     </tr>
     <tr>
-      <th align="center">Kean<br>(<i>Sample 6b, "shotgun" WGS</i>)</th>
+      <th align="center">Kean<br>(<i>Sample 6b, "shotgun" metagenomics</i>)</th>
       <th align="center">53.81%</th>
     </tr>
     <tr>
-      <th align="center">Psomagen<br>(<i>Sample 4, "shotgun" WGS</i>)</th>
+      <th align="center">Psomagen<br>(<i>Sample 4, "shotgun" metagenomics</i>)</th>
       <th align="center">55.04%</th>
     </tr>
     <tr>
-      <th align="center">Psomagen<br>(<i>Sample 2, "shotgun" WGS</i>)</th>
+      <th align="center">Psomagen<br>(<i>Sample 2, "shotgun" metagenomics</i>)</th>
       <th align="center">57.21%</th>
     </tr>
     <tr>
-      <th align="center">Psomagen<br>(<i>Sample 3, "shotgun" WGS</i>)</th>
+      <th align="center">Psomagen<br>(<i>Sample 3, "shotgun" metagenomics</i>)</th>
       <th align="center">58.75%</th>
     </tr>
      <tr>
-      <th align="center">Psomagen<br>(<i>Sample 1b, "shotgun" WGS</i>)</th>
+      <th align="center">Psomagen<br>(<i>Sample 1b, "shotgun" metagenomics</i>)</th>
       <th align="center">61.88%</th>
     </tr>
     <tr>
