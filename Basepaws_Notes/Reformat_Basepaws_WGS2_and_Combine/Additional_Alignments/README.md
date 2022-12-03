@@ -20,17 +20,17 @@ The exact species is different, but *Porphyromonas endodontalis* appeared in my 
      <tr>
       <th align="center"><i>Porphyromonas</i></th>
       <th align="center"><i>gingivalis</i></th>
-      <th align="center"><a href=""></a</th>
+      <th align="center"><a href="https://www.ncbi.nlm.nih.gov/nuccore/NC_010729.1/">NC_010729.1</a</th>
     </tr>
      <tr>
       <th align="center"><i>Treponema</i></th>
       <th align="center"><i>denticola</i></th>
-      <th align="center"><a href=""></a</th>
+      <th align="center"><a href="https://www.ncbi.nlm.nih.gov/nuccore/NC_002967.9/">NC_002967.9</a</th>
     </tr>
      <tr>
       <th align="center"><i>Tannerella</i></th>
       <th align="center"><i>forsythia</i></th>
-      <th align="center"><a href=""></a</th>
+      <th align="center"><a href="https://www.ncbi.nlm.nih.gov/nuccore/NC_016610.1/">NC_016610.1</a</th>
     </tr>
 </tbody>
 </table>
