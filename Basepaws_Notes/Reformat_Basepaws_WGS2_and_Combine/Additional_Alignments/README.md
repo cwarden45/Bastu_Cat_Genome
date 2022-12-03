@@ -13,13 +13,13 @@ The exact species is different, but *Porphyromonas endodontalis* appeared in my 
 <table>
   <tbody>
     <tr>
-      <th align="center">Genus</th>
-	  <th align="center">Species</th>
-	  <th align="center">Accession to Test</th>
+    	<th align="center">Genus</th>
+	<th align="center">Species</th>
+	 <th align="center">Accession to Test</th>
     </tr>
      <tr>
       <th align="center"><i>Porphyromonas</i></th>
-      <<th align="center"><i>gingivalis</i></th>
+      <th align="center"><i>gingivalis</i></th>
       <th align="center"> </th>
     </tr>
 </tbody>
