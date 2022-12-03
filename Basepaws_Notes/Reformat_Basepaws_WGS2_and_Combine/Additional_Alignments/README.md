@@ -20,7 +20,17 @@ The exact species is different, but *Porphyromonas endodontalis* appeared in my 
      <tr>
       <th align="center"><i>Porphyromonas</i></th>
       <th align="center"><i>gingivalis</i></th>
-      <th align="center"> </th>
+      <th align="center"><a href=""></a</th>
+    </tr>
+     <tr>
+      <th align="center"><i>Treponema</i></th>
+      <th align="center"><i>denticola</i></th>
+      <th align="center"><a href=""></a</th>
+    </tr>
+     <tr>
+      <th align="center"><i>Tannerella</i></th>
+      <th align="center"><i>forsythia</i></th>
+      <th align="center"><a href=""></a</th>
     </tr>
 </tbody>
 </table>
