@@ -13,7 +13,6 @@ The exact species is different, but *Porphyromonas endodontalis* appeared in my 
 <table>
   <tbody>
     <tr>
-      <th align="center">Sample</th>
       <th align="center">Genus</th>
 	  <th align="center">Species</th>
 	  <th align="center">Accession to Test</th>
