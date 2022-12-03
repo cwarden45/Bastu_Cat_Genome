@@ -43,7 +43,7 @@ A decrease in ***Moraxella*** assignments is mentioned in the [general discussio
 
 For example, there is a row for *Moraxella* in the original Kraken2/Braken [raw count table](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/n29_FILTERED_Braken_genera-counts.txt) but not the [filtered percentages](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/n29_FILTERED_Braken_genera-heatmap_quantified.txt) considered for visualization.
 
-In order to facilitate parsing information from the alignment, I edited the exact sequence names in the bacterial reference file **.fa** (which is uploaded on this page).
+In order to facilitate parsing information from the alignment, I edited the exact sequence names in the bacterial reference file *.fa* (which is uploaded on this page, as the compressed file **.fa.gz**).
 
 ## Bowtie2 Bacterial-Alone Alignment (fastp-filtered reads)
 
