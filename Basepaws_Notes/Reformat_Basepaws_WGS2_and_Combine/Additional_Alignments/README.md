@@ -25,9 +25,9 @@ The exact species is different, but *Porphyromonas endodontalis* appeared in my 
 </tbody>
 </table>
 
-**Category B: Abundant Kraken2/Braken Assignments for My Human Oral Samples **
+**Category B: Abundant Kraken2/Braken Assignments for My Human Oral Samples**
 
-**Category C: Abundant Kraken2/Braken Assignments for Candidate False Positives **
+**Category C: Abundant Kraken2/Braken Assignments for Candidate False Positives**
 
 A decrease in *Moraxella* assignments is mentioned in the [general discussion](https://github.com/cwarden45/Bastu_Cat_Genome/discussions/1).  However, the species above focus on high abundance assignments, and the risk scores for Bastu were based upon *decreased* abundance of *Moraxella*.
 
