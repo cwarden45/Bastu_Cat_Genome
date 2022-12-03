@@ -20,22 +20,52 @@ The exact species is different, but *Porphyromonas endodontalis* appeared in my 
      <tr>
       <th align="center"><i>Porphyromonas</i></th>
       <th align="center"><i>gingivalis</i></th>
-      <th align="center"><a href="https://www.ncbi.nlm.nih.gov/nuccore/NC_010729.1/">NC_010729.1</a</th>
+      <th align="center"><a href="https://www.ncbi.nlm.nih.gov/nuccore/NC_010729.1/">NC_010729.1</a></th>
     </tr>
      <tr>
       <th align="center"><i>Treponema</i></th>
       <th align="center"><i>denticola</i></th>
-      <th align="center"><a href="https://www.ncbi.nlm.nih.gov/nuccore/NC_002967.9/">NC_002967.9</a</th>
+      <th align="center"><a href="https://www.ncbi.nlm.nih.gov/nuccore/NC_002967.9/">NC_002967.9</a></th>
     </tr>
      <tr>
       <th align="center"><i>Tannerella</i></th>
       <th align="center"><i>forsythia</i></th>
-      <th align="center"><a href="https://www.ncbi.nlm.nih.gov/nuccore/NC_016610.1/">NC_016610.1</a</th>
+      <th align="center"><a href="https://www.ncbi.nlm.nih.gov/nuccore/NC_016610.1/">NC_016610.1</a></th>
     </tr>
 </tbody>
 </table>
 
 **Category B: Abundant Kraken2/Braken Assignments for My Human Oral Samples**
+
+<table>
+  <tbody>
+    <tr>
+    	<th align="center">Genus</th>
+	<th align="center">Species</th>
+	 <th align="center">Accession to Test</th>
+    </tr>
+     <tr>
+      <th align="center"><i>Streptococcus</i></th>
+      <th align="center"><i>oralis</i></th>
+      <th align="center"><a href="https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP097843.1">NZ_CP097843.1</a></th>
+    </tr>
+     <tr>
+      <th align="center"><i>Rothia</i></th>
+      <th align="center"><i>dentocariosa</i></th>
+      <th align="center"><a href="https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP079201.1">NZ_CP079201.1</a></th>
+    </tr>
+      <tr>
+      <th align="center"><i>Veillonella</i></th>
+      <th align="center"><i>parvula</i></th>
+      <th align="center"><a href="https://www.ncbi.nlm.nih.gov/nuccore/NZ_CABFMP000000000.1">Incomplete Assembly?</a</th>
+    </tr>
+      <tr>
+      <th align="center"><i>Prevotella</i></th>
+      <th align="center"><i>denticola</i></th>
+      <th align="center"><a href="https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP072373.1">NZ_CP072373.1</a</th>
+    </tr>
+</tbody>
+</table>
 
 **Category C: Abundant Kraken2/Braken Assignments for Candidate False Positives**
 
