@@ -37,7 +37,10 @@ In order to facilitate parsing information from the alignment, I edited the exac
 
 ## Bowtie2 Bacterial-Alone Alignment (fastp-filtered reads)
 
+**0)** Create index using ``.
+
 **1)** 
+
 ## BWA-MEM Joint Alignment (hg19+felCat9+Custom Bacteria, fastp-filtered reads)
 
 **0)** Create index using ``.
