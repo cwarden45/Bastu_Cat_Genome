@@ -1,0 +1,10 @@
+Sample	Classification_Rate
+Basepaws_WGS1	24.39
+Basepaws_WGS2	13.19
+Basepaws_WGS2SUB1	13.06
+Basepaws_WGS2SUB2	13.35
+Basepaws_WGS2SUB3	12.88
+Bristle1	6.3
+Nebula_lcWGS	7.22
+SequencingDotCom_WGS	2.16
+Veritas_WGS	0.03
