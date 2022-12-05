@@ -139,10 +139,21 @@ ID=WgsOralBacteria11
 bowtie2-build $FA $ID
 ```
 
-**1)** 
+**1)** Align reads for 6 oral samples using `run_Bowtie2_PE.py`.
 
 ## BWA-MEM Joint Alignment (hg19+felCat9+Custom Bacteria, fastp-filtered reads)
 
-**0)** Create index using ``.
+**0)** Create index using the following commands:
 
-**1)** Use `align_BWA_MEM-v2.py` from [Reformat_Basepaws_WGS2_and_Combine](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/align_BWA_MEM-v2.py).
+```
+IN1=/path/to/genome.fa
+IN2=/path/to/felCat9.fa
+IN3=/path/to/Bacteria11.fa
+OUT=hg19_felCat9_Bacteria11.fa
+
+cat $IN1 $IN2 $IN3 > $OUT
+/opt/samtools/samtools faidx $OUT
+/opt/bwa-0.7.17/bwa index $OUT
+```
+
+**1)** Align reads for 6 oral samples using `run_BWA-MEM_PE.py`.
