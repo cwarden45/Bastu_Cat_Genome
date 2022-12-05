@@ -128,6 +128,8 @@ For example, there is a row for *Moraxella* in the original Kraken2/Braken [raw 
 
 In order to facilitate parsing information from the alignment, I edited the exact sequence names in the bacterial reference file *Bacteria11.fa* (which is uploaded on this page, as the compressed file **Bacteria11.fa.gz**).
 
+In order to create .bam alignment files with only Bacterial-aligned reads the uploaded **Bacteria11.bed** file was also created.
+
 ## Bowtie2 Bacterial-Alone Alignment (fastp-filtered reads)
 
 **0)** Create index using the following commands:
