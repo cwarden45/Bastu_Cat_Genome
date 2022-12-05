@@ -104,8 +104,25 @@ If I remember correctly, I beleive *Staphylococcus* is a genus where there was e
 Selecting a species for the *Pseudomonas* was more difficult.  The top species was different in each sample (*Pseudomonas tolaasii* for the Veritas WGS with hg19-aligned reads that were unlikely to be true bacterial reads, *Pseudomonas fluorescens* for the 1st Basepaws WGS sample, and *Pseudomonas resinovorans* foro the 2nd Basepaws WGS sample).  However, 2 out of the 3 had the most reads assigned to a species within the "Pseudomonas fluorescens group".  At the same time, I think this might affect the Bowtie2 alignment the most: I think BWA-MEM will probably align reads from related species to a sequence representive for the genus (with the human and cat reference genomes being used to capture false positives in a joint reference, with this more sensitive alignment).
 
 Relative to the [first "Top 20" heatmap with both oral and fecal samples](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/n29_FILTERED_Braken_genera-heatmap_quantified-TOP20.pdf), fastp filtering and trimming [substantially reduced ***Komagataeibacter*** assignments ](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/fastp_results/Oral6SUB3_FILTERED_Braken_genera-heatmap_quantified-TOP20.pdf) from appearing at a 72.4% non-feline read frequency to **not appearing in the filtered set of genera assignments** (with a frequency of less than 0.5%). 
-	  
-A decrease in ***Moraxella*** assignments is mentioned in the [general discussion](https://github.com/cwarden45/Bastu_Cat_Genome/discussions/1).  However, the species above focus on high abundance assignments, and the risk scores for Bastu were based upon *decreased* abundance of *Moraxella*.
+
+**So, based upon those sequences trimmed and filtered by fastp with the `--length_required 100 --n_base_limit 0` parameters, an additional sequence for one more genus was added:**
+
+<table>
+  <tbody>
+    <tr>
+    	<th align="center">Genus</th>
+	<th align="center">Species</th>
+	 <th align="center">Accession to Test</th>
+    </tr>
+     <tr>
+      <th align="center"><i>Capnocytophaga</i></th>
+      <th align="center"><i>stomatis</i></th>
+      <th align="center"><a href="https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP022387.1">NZ_CP022387.1</a></th>
+    </tr>
+</tbody>
+</table>
+
+As an additional note, a decrease in ***Moraxella*** assignments is mentioned in the [general discussion](https://github.com/cwarden45/Bastu_Cat_Genome/discussions/1).  However, the species above focus on high abundance assignments, and the risk scores for Bastu were based upon *decreased* abundance of *Moraxella*.
 
 For example, there is a row for *Moraxella* in the original Kraken2/Braken [raw count table](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/n29_FILTERED_Braken_genera-counts.txt) but not the [filtered percentages](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/n29_FILTERED_Braken_genera-heatmap_quantified.txt) considered for visualization.
 
