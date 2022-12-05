@@ -130,7 +130,14 @@ In order to facilitate parsing information from the alignment, I edited the exac
 
 ## Bowtie2 Bacterial-Alone Alignment (fastp-filtered reads)
 
-**0)** Create index using ``.
+**0)** Create index using the following commands:
+
+```
+FA=/path/to/Bacteria11.fa
+ID=WgsOralBacteria11
+
+bowtie2-build $FA $ID
+```
 
 **1)** 
 
