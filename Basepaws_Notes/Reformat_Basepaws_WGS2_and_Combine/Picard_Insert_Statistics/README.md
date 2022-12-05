@@ -6,4 +6,4 @@
 
 Values greater than 1000 are set to equal 1000 for plotting purposes.
 
-When [running fastp](), remove trimmed reads whose length is less than 100.  This will not remove all smaller insert sizes, but I hope it helps some with the first Basepaws sample.
+When [running fastp](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/fastp_results), remove trimmed reads whose length is less than 100.  This will not remove all smaller insert sizes, but I hope it helps some with the first Basepaws sample.
