@@ -148,7 +148,7 @@ bowtie2-build $FA $ID
 **0)** Create index using the following commands:
 
 ```
-IN1=/path/to/genome.fa
+IN1=/path/to/genome.fa #hg19 UCSC human genome
 IN2=/path/to/felCat9.fa
 IN3=/path/to/Bacteria11.fa
 OUT=hg19_felCat9_Bacteria11.fa
