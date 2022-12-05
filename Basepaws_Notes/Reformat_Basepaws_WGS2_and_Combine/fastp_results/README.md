@@ -87,6 +87,6 @@ With the more stringent criteria, I also tested the separate runs/lanes for my 2
 
 **4)** Then create summary table and heatmaps using `create_Kracken2_Bracken_table-INTERSPECIES_HOST.R`.
 
-![fastp-filtered assignments](n24_FILTERED_Braken_genera-heatmap_quantified.PNG "fastp-filtered assignments")
+![fastp-filtered assignments](Oral6SUB3_FILTERED_Braken_genera-heatmap_quantified-TOP20.PNG "fastp-filtered assignments")
 
 Technical replicates between lanes/runs are relatively consistent.  However, for the 6 without subseting after running fastp, [additional analysis](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/Additional_Alignments) for selected genera was then performed.
