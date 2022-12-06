@@ -143,6 +143,8 @@ bowtie2-build $FA $ID
 
 **1)** Align reads for 6 oral samples using `run_Bowtie2_PE.py`.
 
+**2)** TDF coverage files were created by importing **Bacteria11.fa** as the reference genome and running **Tools --> Run igvtools...** from [Integrative Genomics Viewer](https://software.broadinstitute.org/software/igv/).
+
 ## BWA-MEM Joint Alignment (hg19+felCat9+Custom Bacteria, fastp-filtered reads)
 
 **0)** Create index using the following commands:
