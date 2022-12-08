@@ -32,7 +32,7 @@ for file in fileResults:
 			command = "bowtie2 -p " + threads + " -x " + ref + " -1 " + FQ1+ " -2 " + FQ2 + " -S " + alnSam
 			os.system(command)
 
-			tempBam = outputFolder + "temp.bam"
+			tempBam = outputFolder + "/temp.bam"
 			command = "/opt/samtools/samtools view -b " + alnSam+ " > " + tempBam
 			os.system(command)
 
