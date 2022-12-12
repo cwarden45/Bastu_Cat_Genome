@@ -204,36 +204,36 @@ For the 2 Basepaws samples, `samtools idxstats` produced the following counts:
       <th align="center"><i>Staphylococcus_NZ_CP040625.1</i></th>
       <th align="center">19</th>
       <th align="center">20</th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">11,351</th>
+      <th align="center">12,383</th>
     </tr>
     <tr>
       <th align="center"><i>Streptococcus_NZ_CP097843.1</i></th>
       <th align="center">18</th>
       <th align="center">12</th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">5,118</th>
+      <th align="center">4,847</th>
     </tr>
     <tr>
       <th align="center"><i>Tannerella_NC_016610.1</i></th>
       <th align="center">39</th>
       <th align="center">39</th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">5,555,787</th>
+      <th align="center">1,241,463</th>
     </tr>
     <tr>
       <th align="center"><i>Treponema_NC_002967.9</i></th>
       <th align="center">8</th>
       <th align="center">8</th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">1,444,457</th>
+      <th align="center">468,864</th>
     </tr>
     <tr>
       <th align="center"><i>Veillonella_NZ_CP019721.1</i></th>
       <th align="center">6</th>
       <th align="center">1</th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">3,114</th>
+      <th align="center">3,909</th>
     </tr>
 </tbody>
 </table>
@@ -243,6 +243,8 @@ As a simplification, I defined a count for further analysis (such as heatmaps) a
 **2)** TDF coverage files were created by importing **Bacteria11.fa** as the reference genome and running **Tools --> Run igvtools...** from [Integrative Genomics Viewer](https://software.broadinstitute.org/software/igv/).
 
 ![IGV TDF Coverage View](IGV-TDF-Bowtie2.PNG "IGV TDF Coverage View")
+	  
+If there are high counts for classification for a genus/species and the reads can truely be uniquely assigned, then we would expect **relatively even** coverage across all genomic positions (and more sparce coverage for only certain parts of the genome could be consistent with false positive assignments, or the potential lack of true presence for that microbe).
 
 When the file was small enough to be uploaded (for either of the previous steps), it was uploaded under [Bowtie2_Bacteria11_Alignment](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/Additional_Alignments/Bowtie2_Bacteria11_Alignment).
 	  
