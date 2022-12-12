@@ -275,78 +275,78 @@ For the 2 Basepaws samples, `samtools idxstats` produced the following counts:
       <th align="center"><i>Capnocytophaga_NZ_CP022387.1</i></th>
       <th align="center"></th>
       <th align="center"></th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">9,596,817</th>
+      <th align="center">671,147</th>
     </tr>
     <tr>
       <th align="center"><i>Komagataeibacter_NZ_CP050139.1</i></th>
       <th align="center"></th>
       <th align="center"></th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">1,669,148</th>
+      <th align="center">247,723</th>
     </tr>
     <tr>
       <th align="center"><i>Porphyromonas_NC_010729.1</i></th>
       <th align="center"></th>
       <th align="center"></th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">1,603,030</th>
+      <th align="center">285,353</th>
     </tr>
     <tr>
       <th align="center"><i>Prevotella_NZ_CP072373.1</i></th>
       <th align="center"></th>
       <th align="center"></th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">807,838</th>
+      <th align="center">129,851</th>
     </tr>
     <tr>
       <th align="center"><i>Pseudomonas_NZ_CP063233.1</i></th>
       <th align="center"></th>
       <th align="center"></th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">4,126,247</th>
+      <th align="center">698,133</th>
     </tr>
     <tr>
       <th align="center"><i>Rothia_NZ_CP079201.1</i></th>
       <th align="center"></th>
       <th align="center"></th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">524,389</th>
+      <th align="center">72,173</th>
     </tr> 
     <tr>
       <th align="center"><i>Staphylococcus_NZ_CP040625.1</i></th>
       <th align="center"></th>
       <th align="center"></th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">280,797</th>
+      <th align="center">28,809</th>
     </tr>
     <tr>
       <th align="center"><i>Streptococcus_NZ_CP097843.1</i></th>
       <th align="center"></th>
       <th align="center"></th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">201,758</th>
+      <th align="center">19,256</th>
     </tr>
     <tr>
       <th align="center"><i>Tannerella_NC_016610.1</i></th>
       <th align="center"></th>
       <th align="center"></th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">14,488,409</th>
+      <th align="center">752,603</th>
     </tr>
     <tr>
       <th align="center"><i>Treponema_NC_002967.9</i></th>
       <th align="center"></th>
       <th align="center"></th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">5,303,689</th>
+      <th align="center">259,207</th>
     </tr>
     <tr>
       <th align="center"><i>Veillonella_NZ_CP019721.1</i></th>
       <th align="center"></th>
       <th align="center"></th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">205,587</th>
+      <th align="center">30,667</th>
     </tr>
 </tbody>
 </table>
