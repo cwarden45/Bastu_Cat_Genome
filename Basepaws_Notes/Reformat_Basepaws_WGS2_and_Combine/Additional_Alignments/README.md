@@ -142,12 +142,111 @@ bowtie2-build $FA $ID
 ```
 
 **1)** Align reads for 6 oral samples using `run_Bowtie2_PE.py`.
+	  
+For the 2 Basepaws samples, `samtools idxstats` produced the following counts:
+	  
+<table>
+  <tbody>
+    <tr>
+      <th align="center" rowspan="2">Genus</th>
+      <th align="center" colspan="2">Basepaws WGS1</th>
+      <th align="center" colspan="2">Basepaws WGS1</th>
+    </tr>
+    <tr>
+      <th align="center">Mapped Read Segments</th>
+      <th align="center">Unmapped Read Segments</th>
+      <th align="center">Mapped Read Segments</th>
+      <th align="center">Unmapped Read Segments</th>
+    </tr>
+    <tr>
+      <th align="center"><i>Capnocytophaga_NZ_CP022387.1</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+    <tr>
+      <th align="center"><i>Komagataeibacter_NZ_CP050139.1</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+    <tr>
+      <th align="center"><i>Porphyromonas_NC_010729.1</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+    <tr>
+      <th align="center"><i>Prevotella_NZ_CP072373.1</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+    <tr>
+      <th align="center"><iPseudomonas_NZ_CP063233.1</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+    <tr>
+      <th align="center"><i>Rothia_NZ_CP079201.1</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr> 
+    <tr>
+      <th align="center"><i>Staphylococcus_NZ_CP040625.1</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+    <tr>
+      <th align="center"><i>Streptococcus_NZ_CP097843.1</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+    <tr>
+      <th align="center"><i>Tannerella_NC_016610.1</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+    <tr>
+      <th align="center"><i>Treponema_NC_002967.9</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+    <tr>
+      <th align="center"><i>Veillonella_NZ_CP019721.1</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+</tbody>
+</table>
+
+As a simplification, I defined a count for further analysis (such as heatmaps) as (Aligned Reads - Unaligned Reads)/2.  I am not sure why some genera had noticable counts in both columns.  However, I think this is a reasonable starting point, which can be studied in greater detail within the full alignments (if that might help).
 
 **2)** TDF coverage files were created by importing **Bacteria11.fa** as the reference genome and running **Tools --> Run igvtools...** from [Integrative Genomics Viewer](https://software.broadinstitute.org/software/igv/).
 
 ![IGV TDF Coverage View](IGV-TDF-Bowtie2.PNG "IGV TDF Coverage View")
 
 When the file was small enough to be uploaded (for either of the previous steps), it was uploaded under [Bowtie2_Bacteria11_Alignment](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/Additional_Alignments/Bowtie2_Bacteria11_Alignment).
+	  
+**3)** Create adjusted/normalized count tables and heatmaps using ``.
 
 ## BWA-MEM Joint Alignment (hg19+felCat9+Custom Bacteria, fastp-filtered reads)
 
