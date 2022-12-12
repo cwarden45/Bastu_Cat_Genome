@@ -187,7 +187,7 @@ For the 2 Basepaws samples, `samtools idxstats` produced the following counts:
       <th align="center"></th>
     </tr>
     <tr>
-      <th align="center"><iPseudomonas_NZ_CP063233.1</i></th>
+      <th align="center"><i>Pseudomonas_NZ_CP063233.1</i></th>
       <th align="center"></th>
       <th align="center"></th>
       <th align="center"></th>
