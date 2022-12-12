@@ -162,43 +162,43 @@ For the 2 Basepaws samples, `samtools idxstats` produced the following counts:
       <th align="center"><i>Capnocytophaga_NZ_CP022387.1</i></th>
       <th align="center">47</th>
       <th align="center">51</th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">5,868,526</th>
+      <th align="center">384,570</th>
     </tr>
     <tr>
       <th align="center"><i>Komagataeibacter_NZ_CP050139.1</i></th>
       <th align="center">7</th>
       <th align="center">5</th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">4,007</th>
+      <th align="center">14,864</th>
     </tr>
     <tr>
       <th align="center"><i>Porphyromonas_NC_010729.1</i></th>
       <th align="center">101</th>
       <th align="center">95</th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">354,214</th>
+      <th align="center">117,369</th>
     </tr>
     <tr>
       <th align="center"><i>Prevotella_NZ_CP072373.1</i></th>
       <th align="center">0</th>
       <th align="center">0</th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">33,802</th>
+      <th align="center">17,146</th>
     </tr>
     <tr>
       <th align="center"><i>Pseudomonas_NZ_CP063233.1</i></th>
       <th align="center">7</th>
       <th align="center">7</th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">81,907</th>
+      <th align="center">86,880</th>
     </tr>
     <tr>
       <th align="center"><i>Rothia_NZ_CP079201.1</i></th>
       <th align="center">8</th>
       <th align="center">8</th>
-      <th align="center"></th>
-      <th align="center"></th>
+      <th align="center">31,405</th>
+      <th align="center">21,711</th>
     </tr> 
     <tr>
       <th align="center"><i>Staphylococcus_NZ_CP040625.1</i></th>
