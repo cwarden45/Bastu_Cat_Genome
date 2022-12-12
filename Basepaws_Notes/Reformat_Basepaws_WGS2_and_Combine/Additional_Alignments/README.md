@@ -147,6 +147,8 @@ bowtie2-build $FA $ID
 
 ![IGV TDF Coverage View](IGV-TDF-Bowtie2.PNG "IGV TDF Coverage View")
 
+When the file was small enough to be uploaded (for either of the previous steps), it was uploaded under [Bowtie2_Bacteria11_Alignment](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/Additional_Alignments/Bowtie2_Bacteria11_Alignment).
+
 ## BWA-MEM Joint Alignment (hg19+felCat9+Custom Bacteria, fastp-filtered reads)
 
 **0)** Create index using the `create_multi-species_reference.pl`
