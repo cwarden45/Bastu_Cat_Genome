@@ -150,7 +150,7 @@ For the 2 Basepaws samples, `samtools idxstats` produced the following counts:
     <tr>
       <th align="center" rowspan="2">Genus</th>
       <th align="center" colspan="2">Basepaws WGS1</th>
-      <th align="center" colspan="2">Basepaws WGS1</th>
+      <th align="center" colspan="2">Basepaws WGS2</th>
     </tr>
     <tr>
       <th align="center">Mapped Read Segments</th>
@@ -253,3 +253,111 @@ When the file was small enough to be uploaded (for either of the previous steps)
 **0)** Create index using the `create_multi-species_reference.pl`
 
 **1)** Align reads for 6 oral samples using `run_BWA-MEM_PE.py`.
+	  
+For the 2 Basepaws samples, `samtools idxstats` produced the following counts:
+	  
+<table>
+  <tbody>
+    <tr>
+      <th align="center" rowspan="2">Genus</th>
+      <th align="center" colspan="2">Basepaws WGS1</th>
+      <th align="center" colspan="2">Basepaws WGS2</th>
+    </tr>
+    <tr>
+      <th align="center">Mapped Read Segments</th>
+      <th align="center">Unmapped Read Segments</th>
+      <th align="center">Mapped Read Segments</th>
+      <th align="center">Unmapped Read Segments</th>
+    </tr>
+    <tr>
+      <th align="center"><i>Capnocytophaga_NZ_CP022387.1</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+    <tr>
+      <th align="center"><i>Komagataeibacter_NZ_CP050139.1</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+    <tr>
+      <th align="center"><i>Porphyromonas_NC_010729.1</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+    <tr>
+      <th align="center"><i>Prevotella_NZ_CP072373.1</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+    <tr>
+      <th align="center"><i>Pseudomonas_NZ_CP063233.1</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+    <tr>
+      <th align="center"><i>Rothia_NZ_CP079201.1</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr> 
+    <tr>
+      <th align="center"><i>Staphylococcus_NZ_CP040625.1</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+    <tr>
+      <th align="center"><i>Streptococcus_NZ_CP097843.1</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+    <tr>
+      <th align="center"><i>Tannerella_NC_016610.1</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+    <tr>
+      <th align="center"><i>Treponema_NC_002967.9</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+    <tr>
+      <th align="center"><i>Veillonella_NZ_CP019721.1</i></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+      <th align="center"></th>
+    </tr>
+</tbody>
+</table>
+
+As a simplification, I defined a count for further analysis (such as heatmaps) as (Aligned Reads - Unaligned Reads)/2.
+	  
+
+**2)** TDF coverage files were created by importing **Bacteria11.fa** as the reference genome and running **Tools --> Run igvtools...** from [Integrative Genomics Viewer](https://software.broadinstitute.org/software/igv/).
+	  
+The reference for BWA-MEM was **hg19_felCat9_Bacteria11.fa**.  However, the input for IGV is the *bacteria-filtered* .bam alignment file.  So, by using the reference with only bacteria to create the TDF files, is is easier to more directly compare the Bowtie2 (bacteria-only) and BWA-MEM (human hg19 + cat felCat9 + bacteria) alignments  
+
+![IGV TDF Coverage View](IGV-TDF-BWA-MEM.PNG "IGV TDF Coverage View")
+
+When the file was small enough to be uploaded (for either of the previous steps), it was uploaded under [BWA-MEM_Human-hg19_Cat-felCat9-Bacteria11_Alignment](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/Additional_Alignments/BWA-MEM_Human-hg19_Cat-felCat9-Bacteria11_Alignment).
+	  
+**3)** Create adjusted/normalized count tables and heatmaps using ``.
