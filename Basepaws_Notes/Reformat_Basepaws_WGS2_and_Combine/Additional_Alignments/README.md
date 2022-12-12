@@ -145,6 +145,8 @@ bowtie2-build $FA $ID
 
 **2)** TDF coverage files were created by importing **Bacteria11.fa** as the reference genome and running **Tools --> Run igvtools...** from [Integrative Genomics Viewer](https://software.broadinstitute.org/software/igv/).
 
+![IGV TDF Coverage View](IGV-TDF-Bowtie2.PNG "IGV TDF Coverage View")
+
 ## BWA-MEM Joint Alignment (hg19+felCat9+Custom Bacteria, fastp-filtered reads)
 
 **0)** Create index using the `create_multi-species_reference.pl`
