@@ -54,6 +54,9 @@ for file in fileResults:
 			command = "java -jar -Xmx" + javaMem + " /opt/picard-v2.21.9.jar MarkDuplicates INPUT=" + rgBam + " OUTPUT=" + nodupBam + " METRICS_FILE=" + duplicateMetrics + " REMOVE_DUPLICATES=true CREATE_INDEX=True"
 			os.system(command)
 
+			command = "rm " + rgBam
+			os.system(command)
+
 			statsFile = outputFolder + "/" + sample+"_idxstats.txt"
 			command = "/opt/samtools/samtools idxstats " + nodupBam + " > " + statsFile
 			os.system(command)
