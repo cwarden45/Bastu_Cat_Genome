@@ -177,3 +177,14 @@ Please note that ***Vertias*** provided an **hg19-aligned .bam** file, which I c
 ## Re-Alignment for Germline Feline Variants
 
 **1)** Use `align_BWA_MEM-v2.py`, with dependency version updates relative to *align_BWA_MEM.py* from [top Basepaws_Notes folder](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes).
+
+
+**2)** Visualize using [Integrative Genomics Viewer](https://software.broadinstitute.org/software/igv/).  I also created TDF coverage files, but I am not currently/immediately showing any of that on this page.
+
+To provide a specific example, the [Health_Trait_Markers](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Health_Trait_Markers) notes mention that I only saw [1 read](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Health_Trait_Markers/Bastu_MLPH_Validation.png) with the heterozygous dilute variant in Bastu's first WGS sample.
+
+Now, I can create a screenshot with both samples (for a deletion at *chrC1:219,396,820* in *felCat9*):
+
+![MLPH Validation](Bastu_MLPH_BETTER_WGS2_Validation.png "MLPH Validation")
+
+There is now **additional** read support for this result (from muliple companies/organization) for this variant in the 2nd WGS sample.  **So, I think this provides additional evidence for value in obtaining data for a 2nd WGS sample.**
