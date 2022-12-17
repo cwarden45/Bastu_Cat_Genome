@@ -250,6 +250,8 @@ When the file was small enough to be uploaded (for either of the previous steps)
 	  
 **3)** Create adjusted/normalized count tables and heatmaps using `create_Bowtie2_table-NORMALIZE_KRAKEN2_BRAKEN.R`.
 
+![Bowtie2 Adjusted Counts, Normalied by Kraken2/Braken Non-Host Counts](n6_Oral_Bowtie2-heatmap.PNG "Bowtie2 Adjusted Counts, Normalied by Kraken2/Braken Non-Host Counts")
+
 ## BWA-MEM Joint Alignment (hg19+felCat9+Custom Bacteria, fastp-filtered reads)
 
 **0)** Create index using the `create_multi-species_reference.pl`
@@ -363,3 +365,5 @@ The reference for BWA-MEM was **hg19_felCat9_Bacteria11.fa**.  However, the inpu
 When the file was small enough to be uploaded (for either of the previous steps), it was uploaded under [BWA-MEM_Human-hg19_Cat-felCat9-Bacteria11_Alignment](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/Additional_Alignments/BWA-MEM_Human-hg19_Cat-felCat9-Bacteria11_Alignment).
 	  
 **3)** Create adjusted/normalized count tables and heatmaps using `create_BWA-MEM_table-NORMALIZE_KRAKEN2_BRAKEN.R`.
+
+![BWA-MEM Adjusted Counts, Normalied by Kraken2/Braken Non-Host Counts](n6_Oral_BWA-MEM-heatmap.PNG "BWA-MEM Adjusted Counts, Normalied by Kraken2/Braken Non-Host Counts")
