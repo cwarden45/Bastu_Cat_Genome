@@ -6,7 +6,7 @@ However, as a starting point, I have selected some sequences based upon at least
 
 **Category A: Brief Literature Search**
 
-As discussed [here](https://github.com/cwarden45/Bastu_Cat_Genome/discussions/1), my understanding is that there is a **Red Complex** of bacteria affecting dental health (*Porphyromonas gingivalis*,*Treponema denticola*,*Tannerella forsythia*).
+As discussed [here](https://github.com/cwarden45/Bastu_Cat_Genome/discussions/1), my understanding is that there is a **Red Complex** of bacteria affecting dental health (*Porphyromonas gingivalis*, *Treponema denticola*, *Tannerella forsythia*).
 
 The exact species is different, but *Porphyromonas endodontalis* appeared in my [human dental health report](https://github.com/cwarden45/Bastu_Cat_Genome/discussions/1#discussioncomment-4082391).
 
