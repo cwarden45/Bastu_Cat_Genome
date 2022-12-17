@@ -1,5 +1,3 @@
-#setwd("E:\\Bastu_Genome\\WGS2\\Reformat_Basepaws_WGS2_and_Combine\\Normalization_Testing")
-
 input_reference_counts = "../n29_FILTERED_Braken_genera-counts.txt"
 filtered_genera_list="../Additional_Alignments/Bacteria11.bed"
 Samples  =   c("Basepaws_WGS1","Basepaws_WGS2","Bristle1","Nebula_lcWGS","SequencingDotCom_WGS","uBiome_Oral2014","uBiome_Oral2019","Veritas_WGS"             )
