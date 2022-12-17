@@ -367,3 +367,5 @@ When the file was small enough to be uploaded (for either of the previous steps)
 **3)** Create adjusted/normalized count tables and heatmaps using `create_BWA-MEM_table-NORMALIZE_KRAKEN2_BRAKEN.R`.
 
 ![BWA-MEM Adjusted Counts, Normalied by Kraken2/Braken Non-Host Counts](n6_Oral_BWA-MEM-heatmap.PNG "BWA-MEM Adjusted Counts, Normalied by Kraken2/Braken Non-Host Counts")
+
+I think something may be underestimating the BWA-MEM unmapped counts in the **first** Basepaws WGS sample, which would in turn over-estimate the adjusted BWA-MEM counts.  However, the total fraction of reads with BWA-MEM in the **first** Basepaws WGS sample are all low, and this appears to be less of an issue with the **second** Basepaws WGS sample.
