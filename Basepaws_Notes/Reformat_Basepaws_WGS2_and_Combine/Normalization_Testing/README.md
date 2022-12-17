@@ -47,6 +47,8 @@ Calls: aldex.clr ... aldex.clr.function -> aldex.set.mode -> iqlr.features -> ap
 
 When I used to use my Windows PC (instead of the Ubuntu server where all other genomic dependenies are installed) with **R v4.2.1**, I receive a similar error message.
 
+I have started a troubleshooting thread [here](https://support.bioconductor.org/p/9148457/).
+
 Plots below are created using `test4-ALDEx2_IQLR.R`, with [ALDEx2](https://bioconductor.org/packages/release/bioc/html/ALDEx2.html) dependency.
 
 ![Streptococcus Dot Plot](test4-n8_Oral_Kraken2_Braken-ALDEx2_IQLR-Staphylococcus.png "Streptococcus Dot Plot")
