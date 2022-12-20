@@ -36,21 +36,13 @@ So, plots below are created using `test3-log_median.R`.
 
 ## ALDEx2 IQLR Normalization (Inter-Quartile Log-Ratio,`denom="iqlr"`, described in [Quinn et al. 2018](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2261-8), use median for MonteCarlo simulations)
 
-**NOTE:** When using **R v3.6.3**, I received the error message:
+I am receiving an error message when I try to run `test4-ALDEx2_IQLR.R`.  So, I have started a troubleshooting thread [here](https://support.bioconductor.org/p/9148457/).
 
-```
-Error in apply(reads.clr[these.rows, ], 2, function(x) { :
-  dim(X) must have a positive length
-Calls: aldex.clr ... aldex.clr.function -> aldex.set.mode -> iqlr.features -> apply
+## Inter-Quartile Sum for Percentage (custom code)
 
-```
+Plots below are created using `test5_linear_quantile_sum.R`.
 
-When I used to use my Windows PC (instead of the Ubuntu server where all other genomic dependenies are installed) with **R v4.2.1**, I receive a similar error message.
+![Streptococcus Dot Plot](test5-n8_Oral_Kraken2_Braken-linear_quantile_sum-Staphylococcus.png "Streptococcus Dot Plot")
 
-I have started a troubleshooting thread [here](https://support.bioconductor.org/p/9148457/).
+![11 Genera Heatmap](test5-n8_Oral_Kraken2_Braken-linear_quantile_sum-heatmap_n11.png "11 Genera Heatmap")
 
-Plots below are created using `test4-ALDEx2_IQLR.R`, with [ALDEx2](https://bioconductor.org/packages/release/bioc/html/ALDEx2.html) dependency.
-
-![Streptococcus Dot Plot](test4-n8_Oral_Kraken2_Braken-ALDEx2_IQLR-Staphylococcus.png "Streptococcus Dot Plot")
-
-![11 Genera Heatmap](test4-n8_Oral_Kraken2_Braken-ALDEx2_IQLR-heatmap_n11.png "11 Genera Heatmap")
