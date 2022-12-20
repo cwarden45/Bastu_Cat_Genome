@@ -38,7 +38,7 @@ So, plots below are created using `test3-log_median.R`.
 
 I am receiving an error message when I try to run `test4-ALDEx2_IQLR.R`.  So, I have started a troubleshooting thread [here](https://support.bioconductor.org/p/9148457/).
 
-## TMM-like Percentage (custom code)
+## TMM-like Percentage (custom code, linear measure)
 
 If correctly implemented, an interquartile sum from 25% to 75% can still have NA values when the sum is zero.
 
@@ -47,4 +47,12 @@ So, instead I used 30% and 5% to be like [TMM normalization for RNA-Seq data](ht
 ![Streptococcus Dot Plot](test5-n8_Oral_Kraken2_Braken-TMMlike_percent-Staphylococcus.png "Streptococcus Dot Plot")
 
 ![11 Genera Heatmap](test5-n8_Oral_Kraken2_Braken-TMMlike_percent-heatmap_n11.png "11 Genera Heatmap")
+
+## log2(TMM-like Percentage + 0.5) (custom code)
+
+Same as above, but with log2-transformation.  Created using `test6_TMM-like_log2.R`.
+
+![Streptococcus Dot Plot](test6-n8_Oral_Kraken2_Braken-TMMlike_log2-Staphylococcus.png "Streptococcus Dot Plot")
+
+![11 Genera Heatmap](test6-n8_Oral_Kraken2_Braken-TMMlike_log2-heatmap_n11.png "11 Genera Heatmap")
 
