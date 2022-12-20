@@ -39,7 +39,7 @@ png(dot_plot.output, type="cairo")
 par(mar=c(15,5,5,2))
 plot(as.numeric(as.factor(Samples)), as.numeric(percent_table[rownames(percent_table)=="Streptococcus",]),
 		xaxt="n", xlim=c(0,length(Samples)+1),
-		xlab="", ylab="log2(count / non-zero median) (Streptococcus)", pch=16, col=speciesCol,
+		xlab="", ylab="TMM-like Percent (Streptococcus)", pch=16, col=speciesCol,
 		cex=1.2, main="")
 legend("top",c("Cat","Human","Human (Negative Control)"),col=c(rainbow(4)[1],rainbow(4)[2],"black"),
 		cex=1.3, pch=16, inset=-0.33, xpd=T, ncol=2)
