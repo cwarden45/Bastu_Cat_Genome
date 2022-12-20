@@ -38,11 +38,11 @@ So, plots below are created using `test3-log_median.R`.
 
 I am receiving an error message when I try to run `test4-ALDEx2_IQLR.R`.  So, I have started a troubleshooting thread [here](https://support.bioconductor.org/p/9148457/).
 
-## TMM-like 30%-to-95% Percentage (custom code)
+## TMM-like Percentage (custom code)
 
 If correctly implemented, an interquartile sum from 25% to 75% can still have NA values when the sum is zero.
 
-So, instead I used 30% and 5% to be like [TMM normalization for RNA-Seq data](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-3-r25), with plots below created using `test5_TMM-like.R`.
+So, instead I used 30% and 5% to be like [TMM normalization for RNA-Seq data](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-3-r25).  Some samples still had 0 counts at 95%, so I tested **30% to 98%** with plots below created using `test5_TMM-like.R`.
 
 ![Streptococcus Dot Plot](test5-n8_Oral_Kraken2_Braken-TMMlike_percent-Staphylococcus.png "Streptococcus Dot Plot")
 
