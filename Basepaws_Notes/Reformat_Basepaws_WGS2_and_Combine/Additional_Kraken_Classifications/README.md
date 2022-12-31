@@ -58,6 +58,6 @@ This **also** requires using a **newer** version of Bracken from [GitHub](https:
 **3)** Optionally, also run `create_Kraken2Uniq_ONLY_table-INTERSPECIES_HOST.R` to generate below plots (**Without Bracken - Kraken2Uniq implementation alone**):
 
 
-![Filtered Kraken2Uniq Percent Quantified Clustering](n29_FILTERED_Kraken2Uniq_genera-heatmap_quantified.PNG "Filtered Kraken2Uniq  Percent Quantified Clustering")
+![Filtered Kraken2Uniq Percent Quantified Clustering](n29_FILTERED_Kraken2Uniq_genera-heatmap_quantified.png "Filtered Kraken2Uniq  Percent Quantified Clustering")
 
-![Top 20 Classifications](n29_FILTERED_Kraken2Uniq_genera-heatmap_quantified-TOP20.PNG "Top 20 Classifications")
+![Top 20 Classifications](n29_FILTERED_Kraken2Uniq_genera-heatmap_quantified-TOP20.png "Top 20 Classifications")
