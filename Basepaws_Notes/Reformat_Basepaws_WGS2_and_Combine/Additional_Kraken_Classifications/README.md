@@ -62,6 +62,6 @@ This **also** requires using a **newer** version of Bracken from [GitHub](https:
 
 ![Top 20 Classifications](n29_FILTERED_Kraken2Uniq_genera-heatmap_quantified-TOP20.png "Top 20 Classifications")
 
-## With newer versions, test requring `--minimum-hit-groups 10` (without `--report-minimizer-data`, and increasing that criteria from 3 to 10)
+## With newer versions of Kraken2 and Bracken, test requring `--minimum-hit-groups 10` (without `--report-minimizer-data`, and increasing that criteria from 3 to 10)
 
 **1)** Run `run_Kraken2_Bracken-FASTQ-PE--10_hit_groups.py`, using the smaller *minikraken_8GB_20200312* reference.
