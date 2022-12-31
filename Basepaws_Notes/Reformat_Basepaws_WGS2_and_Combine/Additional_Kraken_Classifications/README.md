@@ -2,9 +2,9 @@
 
 **1)** Run `create_Kraken2_ONLY_table-INTERSPECIES_HOST.R` to generate below plots:
 
-![Filtered Kraken2 Percent Quantified Clustering](n29_FILTERED_Kraken2_genera-heatmap_quantified.PNG "Filtered Kraken2 Percent Quantified Clustering")
+![Filtered Kraken2 Percent Quantified Clustering](n29_FILTERED_Kraken2_genera-heatmap_quantified.png "Filtered Kraken2 Percent Quantified Clustering")
 
-![Top 20 Classifications](n29_FILTERED_Kraken2_genera-heatmap_quantified-TOP20.PNG "Top 20 Classifications")
+![Top 20 Classifications](n29_FILTERED_Kraken2_genera-heatmap_quantified-TOP20.png "Top 20 Classifications")
 
 So, my impression is that running Bracken may help some, but many trends can be observed with only Kraken2.
 
@@ -26,15 +26,15 @@ Also, importantly, that script adds the `--memory-mapping` parameter to avoid re
 
 **2)** Run `create_Kraken2_Bracken_table-INTERSPECIES_HOST.R` to generate below plots:
 
-![Filter Post Bracken-Adjustment Percent Quantified Clustering](n29_k2_standard_20221209-FILTERED_Bracken_genera-heatmap_quantified-DOWNSAMPLE.PNG "Filter Post Bracken-Adjustment Percent Quantified Clustering")
+![Filter Post Bracken-Adjustment Percent Quantified Clustering](n29_k2_standard_20221209-FILTERED_Bracken_genera-heatmap_quantified-DOWNSAMPLE.png "Filter Post Bracken-Adjustment Percent Quantified Clustering")
 
-![Top 20 Classifications](n29_k2_standard_20221209-FILTERED_Bracken_genera-heatmap_quantified-TOP20-DOWNSAMPLE.PNG "Top 20 Classifications")
+![Top 20 Classifications](n29_k2_standard_20221209-FILTERED_Bracken_genera-heatmap_quantified-TOP20-DOWNSAMPLE.png "Top 20 Classifications")
 
 **3)** Similar to the first example within this subfolder, also run `create_Kraken2_ONLY_table-INTERSPECIES_HOST.R` to generate below plots:
 
-![Filtered Kraken2 Percent Quantified Clustering](n29_k2_standard_20221209-FILTERED_Kraken2_genera-heatmap_quantified-DOWNSAMPLE.PNG "Filtered Kraken2 Percent Quantified Clustering")
+![Filtered Kraken2 Percent Quantified Clustering](n29_k2_standard_20221209-FILTERED_Kraken2_genera-heatmap_quantified-DOWNSAMPLE.png "Filtered Kraken2 Percent Quantified Clustering")
 
-![Top 20 Classifications](n29_k2_standard_20221209-FILTERED_Kraken2_genera-heatmap_quantified-TOP20-DOWNSAMPLE.PNG "Top 20 Classifications")
+![Top 20 Classifications](n29_k2_standard_20221209-FILTERED_Kraken2_genera-heatmap_quantified-TOP20-DOWNSAMPLE.png "Top 20 Classifications")
 
 ## Test KrakenUnique Implementation within Kraken2
 
@@ -51,9 +51,9 @@ This **also** requires using a **newer** version of Bracken from [GitHub](https:
 
 **2)** Run `create_Kraken2Uniq_Bracken_table-INTERSPECIES_HOST.R` to generate below plots (**With Bracken**):
 
-![Filtered Post Bracken-Adjustment for Kraken2Uniq Percent Quantified Clustering](n29_FILTERED_Kraken2Uniq-Bracken_genera-heatmap_quantified.PNG "Filtered Post Bracken-Adjustment for Kraken2Uniq Percent Quantified Clustering")
+![Filtered Post Bracken-Adjustment for Kraken2Uniq Percent Quantified Clustering](n29_FILTERED_Kraken2Uniq-Bracken_genera-heatmap_quantified.png "Filtered Post Bracken-Adjustment for Kraken2Uniq Percent Quantified Clustering")
 
-![Top 20 Classifications](n29_FILTERED_Kraken2Uniq-Bracken_genera-heatmap_quantified-TOP20.PNG "Top 20 Classifications")
+![Top 20 Classifications](n29_FILTERED_Kraken2Uniq-Bracken_genera-heatmap_quantified-TOP20.png "Top 20 Classifications")
 
 **3)** Optionally, also run `create_Kraken2Uniq_ONLY_table-INTERSPECIES_HOST.R` to generate below plots (**Without Bracken - Kraken2Uniq implementation alone**):
 
