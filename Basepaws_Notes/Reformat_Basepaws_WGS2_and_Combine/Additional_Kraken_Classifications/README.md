@@ -61,3 +61,7 @@ This **also** requires using a **newer** version of Bracken from [GitHub](https:
 ![Filtered Kraken2Uniq Percent Quantified Clustering](n29_FILTERED_Kraken2Uniq_genera-heatmap_quantified.png "Filtered Kraken2Uniq  Percent Quantified Clustering")
 
 ![Top 20 Classifications](n29_FILTERED_Kraken2Uniq_genera-heatmap_quantified-TOP20.png "Top 20 Classifications")
+
+## With newer versions, test requring `--minimum-hit-groups 10` (without `--report-minimizer-data`, and increasing that criteria from 3 to 10)
+
+**1)** Run `run_Kraken2_Bracken-FASTQ-PE--10_hit_groups.py`, using the smaller *minikraken_8GB_20200312* reference.
