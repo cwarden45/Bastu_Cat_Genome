@@ -1,33 +1,12 @@
-#input_folder = "../Kraken-OUT"
-#Species   = c("Cat" ,"Cat" ,"Human","Human","Human","Human","Human","Human","Human","Cat"  ,"Cat"  ,"Cat"  ,"Cat"  ,"Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human")
-#SampleSite= c("Oral","Oral","Oral" ,"Fecal","Fecal","Fecal","Oral" ,"Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Oral" ,"Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Oral" ,"Oral" ,"Oral")
-#output.classification_rate = "n29_Kraken2-Bacterial_Classifications.txt"
-#output.percent_quantified = "n29_FILTERED_Kraken2_genera-heatmap_quantified.txt"
-#output.counts = "n29_FILTERED_Kraken2_genera-counts.txt"
-#heatmap.output_quantified = "n29_FILTERED_Kraken2_genera-heatmap_quantified.png"
-#heatmap.output_quantified20 = "n29_FILTERED_Kraken2_genera-heatmap_quantified-TOP20.png"
-#min.percent = 0.5
-
-#input_folder = "Kraken-OUT-k2_standard_20221209-DOWNSAMPLE_1M"
-#Species   = c("Cat" ,"Cat" ,"Human","Human","Human","Human","Human","Human","Human","Cat"  ,"Cat"  ,"Cat"  ,"Cat"  ,"Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human")
-#SampleSite= c("Oral","Oral","Oral" ,"Fecal","Fecal","Fecal","Oral" ,"Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Oral" ,"Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Oral" ,"Oral" ,"Oral")
-#output.classification_rate = "n29_k2_standard_20221209-Kraken2-Bacterial_Classifications-DOWNSAMPLE.txt"
-#output.percent_quantified = "n29_k2_standard_20221209-FILTERED_Kraken2_genera-heatmap_quantified-DOWNSAMPLE.txt"
-#output.counts = "n29_k2_standard_20221209-FILTERED_Kraken2_genera-counts-DOWNSAMPLE.txt"
-#heatmap.output_quantified = "n29_k2_standard_20221209-FILTERED_Kraken2_genera-heatmap_quantified-DOWNSAMPLE.png"
-#heatmap.output_quantified20 = "n29_k2_standard_20221209-FILTERED_Kraken2_genera-heatmap_quantified-TOP20-DOWNSAMPLE.png"
-#min.percent = 0.5
-
 input_folder = "Kraken-OUT-minikraken_8GB_20200312-10_hit_groups"
 Species   = c("Cat" ,"Cat" ,"Human","Human","Human","Human","Human","Human","Human","Cat"  ,"Cat"  ,"Cat"  ,"Cat"  ,"Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human","Human")
 SampleSite= c("Oral","Oral","Oral" ,"Fecal","Fecal","Fecal","Oral" ,"Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Oral" ,"Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Fecal","Oral" ,"Oral" ,"Oral")
-output.classification_rate = "n29_Kraken2-Bacterial_Classifications-10_HIT_GROUPS.txt"
-output.percent_quantified = "n29_FILTERED_Kraken2_genera-heatmap_quantified-10_HIT_GROUPS.txt"
-output.counts = "n29_FILTERED_Kraken2_genera-counts-10_HIT_GROUPS.txt"
-heatmap.output_quantified = "n29_FILTERED_Kraken2_genera-heatmap_quantified-10_HIT_GROUPS.png"
-heatmap.output_quantified20 = "n29_FILTERED_Kraken2_genera-heatmap_quantified-TOP20-10_HIT_GROUPS.png"
+output.classification_rate = "n29-Bracken-Bacterial_Classifications-10_HIT_GROUPS.txt"
+output.percent_quantified = "n29-FILTERED_Bracken_genera-heatmap_quantified-10_HIT_GROUPS.txt"
+output.counts = "n29-FILTERED_Bracken_genera-counts-10_HIT_GROUPS.txt"
+heatmap.output_quantified = "n29-FILTERED_Bracken_genera-heatmap_quantified-10_HIT_GROUPS.png"
+heatmap.output_quantified20 = "n29-FILTERED_Bracken_genera-heatmap_quantified-TOP20-10_HIT_GROUPS.png"
 min.percent = 0.5
-
 
 classification.rate = c()
 Kraken2_files = list.files(input_folder,"_Kraken2.kreport")
@@ -39,51 +18,52 @@ for (i in 1:length(Kraken2_files)){
 classification.table = data.frame(Sample=gsub("_Kraken2.kreport","",Kraken2_files),Classification_Rate=classification.rate)
 write.table(classification.table, output.classification_rate, quote=F, sep="\t", row.names=F)
 
-for (i in 1:length(Kraken2_files)){
-	sampleID = gsub("_Kraken2.kreport","",Kraken2_files[i])
+Bracken_files = list.files(input_folder,"_Kraken2_bracken_species.kreport")
+for (i in 1:length(Bracken_files)){
+	sampleID = gsub("_Kraken2_bracken_species.kreport","",Bracken_files[i])
 	print(sampleID)
-	Kraken2_table = read.table(paste(input_folder,Kraken2_files[i],sep="/"), head=F, sep="\t")
-	Kraken2_table$V6 = gsub("\\s+","",as.character(Kraken2_table$V6))
-	print(dim(Kraken2_table))##MODIIFED CODE
-	Eukaryota_index = grep("^Eukaryota$",Kraken2_table$V6)#MODIFIED CODE
-	Bacteria_index = grep("^Bacteria$",Kraken2_table$V6)#MODIFIED CODE
+	Bracken_table = read.table(paste(input_folder,Bracken_files[i],sep="/"), head=F, sep="\t")
+	Bracken_table$V6 = gsub("\\s+","",as.character(Bracken_table$V6))
+	print(dim(Bracken_table))##MODIIFED CODE
+	Eukaryota_index = grep("^Eukaryota$",Bracken_table$V6)#MODIFIED CODE
+	Bacteria_index = grep("^Bacteria$",Bracken_table$V6)#MODIFIED CODE
 	if(length(Eukaryota_index) == 1){
 		if(length(Bacteria_index) == 1){
 			if(Bacteria_index > Eukaryota_index){
-				keep_rows = Bacteria_index:nrow(Kraken2_table)#MODIFIED CODE
+				keep_rows = Bacteria_index:nrow(Bracken_table)#MODIFIED CODE
 				
-				Kraken2_table=Kraken2_table[keep_rows,]#MODIFIED CODE
+				Bracken_table=Bracken_table[keep_rows,]#MODIFIED CODE
 			}else{
 				keep_rows = 1:(Eukaryota_index-1)#MODIFIED CODE
-				Viral_index = grep("^Viruses$",Kraken2_table$V6)#MODIFIED CODE
+				Viral_index = grep("^Viruses$",Bracken_table$V6)#MODIFIED CODE
 				if(length(Viral_index) == 1){
 					if(Viral_index > Eukaryota_index){
-						keep_rows = c(keep_rows,Viral_index:nrow(Kraken2_table))#MODIFIED CODE
+						keep_rows = c(keep_rows,Viral_index:nrow(Bracken_table))#MODIFIED CODE
 					}#end if(Viral_index > Eukaryota_index) ..MODIFIED CODE	
 				}else if(length(Viral_index) > 1){
 					print("Troubleshoot code with more than one Viral row")#MODIFIED CODE
 					print(Viral_index)#MODIFIED CODE
-					print(Kraken2_table$V6[Viral_index])#MODIFIED CODE
+					print(Bracken_table$V6[Viral_index])#MODIFIED CODE
 					stop()#MODIFIED CODE
 				}#end 	
-				Kraken2_table=Kraken2_table[keep_rows,]#MODIFIED CODE
+				Bracken_table=Bracken_table[keep_rows,]#MODIFIED CODE
 			}#end else...MODIFIED CODE	
 		}else{
 			print("Troubleshoot code with more than one Bacteria row")#MODIFIED CODE
 			print(Bacteria_index)#MODIFIED CODE
-			print(Kraken2_table$V6[Bacteria_index])#MODIFIED CODE
+			print(Bracken_table$V6[Bacteria_index])#MODIFIED CODE
 			stop()#MODIFIED CODE
 		}#end else...MODIFIED CODE
 	}else if(length(Eukaryota_index) > 1){
 		print("Troubleshoot code with more than one Eukaryota row")#MODIFIED CODE
 		print(Eukaryota_index)#MODIFIED CODE
-		print(Kraken2_table$V6[Eukaryota_index])#MODIFIED CODE
+		print(Bracken_table$V6[Eukaryota_index])#MODIFIED CODE
 		stop()#MODIFIED CODE
 	}#end 
 
-	print(dim(Kraken2_table))##MODIIFED CODE
+	print(dim(Bracken_table))##MODIIFED CODE
 
-	Genera_table = Kraken2_table[Kraken2_table$V4 == "G",]
+	Genera_table = Bracken_table[Bracken_table$V4 == "G",]
 	Genera_table$V6 = gsub("\\s+","",as.character(Genera_table$V6))
 	Genera_table = Genera_table[!is.na(Genera_table$V6),]
 	Genera_table = Genera_table[Genera_table$V6 != "",]
@@ -121,19 +101,21 @@ for (i in 1:length(Kraken2_files)){
 		print(dim(count_table))#MODIFIED CODE
 	}#end else
 	#print(tail(percent_quantified_table))
-}#end for (i in 1:length(Kraken2_files))
+}#end for (i in 1:length(Bracken_files))
 
-for (i in 1:length(Kraken2_files)){
+Bracken_files = list.files(input_folder,"_Kraken2_bracken_species.kreport")
+for (i in 1:length(Bracken_files)){
 	sample_percent = percent_quantified_table[,i+1]
 	sample_percent[is.na(sample_percent)]=0
 	percent_quantified_table[,i+1]=sample_percent
-}#end for (i in 1:length(Kraken2_files))
+}#end for (i in 1:length(Bracken_files))
 
-for (i in 1:length(Kraken2_files)){
+Bracken_files = list.files(input_folder,"_Kraken2_bracken_species.kreport")#MODIFIED CODE
+for (i in 1:length(Bracken_files)){
 	sample_percent = count_table[,i+1]#MODIFIED CODE
 	sample_percent[is.na(sample_percent)]=0#MODIFIED CODE
 	count_table[,i+1]=sample_percent#MODIFIED CODE
-}#end for (i in 1:length(Kraken2_files))#MODIFIED CODE
+}#end for (i in 1:length(Bracken_files))#MODIFIED CODE
 write.table(count_table, output.counts, quote=F, sep="\t", row.names=F)#MODIFIED CODE
 
 genera_counts = table(percent_quantified_table$Genus)

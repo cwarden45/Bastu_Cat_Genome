@@ -140,7 +140,7 @@ siteCol=rep("black",length(Species))
 siteCol[SampleSite == "Oral"]=rainbow(4)[3]
 siteCol[SampleSite == "Fecal"]=rainbow(4)[4]
 
-source("heatmap.3.R")
+source("../heatmap.3.R")
 
 column_annotation = as.matrix(data.frame(Species = speciesCol,SampleSite = siteCol))
 colnames(column_annotation)=c("Species","SampleSite")
@@ -152,7 +152,7 @@ cor.dist = function(mat){
 	return(as.dist(dis.mat))	
 }#end def cor.dist
 
-pdf(heatmap.output_quantified)
+png(heatmap.output_quantified, type="cairo")
 heatmap.3(genus_percent.quantified,   distfun = cor.dist, hclustfun = hclust,
 			col=colorpanel(33, low="black", mid="pink", high="red"), density.info="none", key=TRUE,
 			ColSideColors=column_annotation, ColSideColorsSize=2, cexRow=0.5,
@@ -171,7 +171,7 @@ genus_percent.quantified2=genus_percent.quantified2[order(average_percent, decre
 genus_percent.quantified2=genus_percent.quantified2[1:20,]#MODIFIED CODE
 print(dim(genus_percent.quantified2))#MODIFIED CODE
 
-pdf(heatmap.output_quantified20)
+png(heatmap.output_quantified20, type="cairo")
 heatmap.3(genus_percent.quantified2,   distfun = cor.dist, hclustfun = hclust,
 			col=colorpanel(33, low="black", mid="pink", high="red"), density.info="none", key=TRUE,
 			ColSideColors=column_annotation, ColSideColorsSize=2, cexRow=1,
