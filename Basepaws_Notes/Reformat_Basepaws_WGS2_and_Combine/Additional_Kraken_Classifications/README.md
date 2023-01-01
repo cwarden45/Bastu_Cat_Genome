@@ -65,3 +65,15 @@ This **also** requires using a **newer** version of Bracken from [GitHub](https:
 ## With newer versions of Kraken2 and Bracken, test requring `--minimum-hit-groups 10` (without `--report-minimizer-data`, and increasing that criteria from 3 to 10)
 
 **1)** Run `run_Kraken2_Bracken-FASTQ-PE--10_hit_groups.py`, using the smaller *minikraken_8GB_20200312* reference.
+
+**2)** Run `create_Kraken2_Bracken_table-INTERSPECIES_HOST-v2.R` to generate below plots (**With Bracken**):
+
+![Filtered Post Bracken-Adjustment for Kraken2Uniq Percent Quantified Clustering](n29-FILTERED_Bracken_genera-heatmap_quantified-10_HIT_GROUPS.png "Filtered Post Bracken-Adjustment for Kraken2Uniq Percent Quantified Clustering")
+
+![Top 20 Classifications](n29-FILTERED_Bracken_genera-heatmap_quantified-TOP20-10_HIT_GROUPS.png "Top 20 Classifications")
+
+**3)** Optionally, also run `create_Kraken2_ONLY_table-INTERSPECIES_HOST.R` to generate below plots (**Without Bracken - Kraken2Uniq implementation alone**):
+
+![Filtered Kraken2 Percent Quantified Clustering](n29_FILTERED_Kraken2_genera-heatmap_quantified-10_HIT_GROUPS.png "Filtered Kraken2 Percent Quantified Clustering")
+
+![Top 20 Classifications](n29_FILTERED_Kraken2_genera-heatmap_quantified-TOP20-10_HIT_GROUPS.png "Top 20 Classifications")
