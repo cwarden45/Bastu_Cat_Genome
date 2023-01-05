@@ -11,8 +11,8 @@ import re
 #suffix = "_R1.fastq.gz"
 
 finishedSamples = [""]
-inputFolder = "../Kraken-IN-DOWNSAMPLE_1M"
-outputFolder = "Kraken-OUT-k2_standard_20221209-DOWNSAMPLE_1M"
+inputFolder = "../../Kraken-IN-DOWNSAMPLE_1M"
+outputFolder = "../Kraken-OUT-k2_standard_20221209-DOWNSAMPLE_1M"
 suffix = "_R1.fastq.gz"
 
 ref="/home/cwarden/Ref/Kraken2"
