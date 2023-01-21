@@ -111,4 +111,4 @@ Similarly, I also analyzed the earlier Nebula lcWGS sample:
 
 ![Local vs pFDA Kraken2 Assignments](Nebula_lcWGS-Kraken2-Local_and_pFDA-cor.png "Local vs pFDA Kraken2 Assignments")
 
-**So, I think it is encouraging that an unfiltered file (for Nebula lcWGS) shows *better* correlations than assignments made on only reads that could be aligned to hg19 (for the Vertias WGS file).**
+**So, I think might be encouraging that an unfiltered file (for Nebula lcWGS) shows *better* correlations than assignments made on only reads that could be aligned to hg19 (for the Vertias WGS file).**
