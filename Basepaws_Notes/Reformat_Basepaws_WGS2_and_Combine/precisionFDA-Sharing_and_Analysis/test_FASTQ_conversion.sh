@@ -1,0 +1,9 @@
+#!/bin/bash
+
+SHORT=LP.858.D9.L1.R186
+IN=../AB.CN.45.31211051000777.LP.858.D9.L1.R186.WGS.fastq.gz
+R1OUT=AB.CN.45.31211051000777.LP.858.D9.L1.R186.WGS_R1.fastq.gz
+R2OUT=AB.CN.45.31211051000777.LP.858.D9.L1.R186.WGS_R2.fastq.gz
+
+
+perl create_PairedEnd_R1_and_R2-external_input.pl --id=$SHORT --in=$IN --r1=$R1OUT --r2=$R2OUT
