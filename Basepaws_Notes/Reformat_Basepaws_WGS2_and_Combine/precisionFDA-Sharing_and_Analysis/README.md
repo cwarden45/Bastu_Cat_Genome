@@ -26,9 +26,9 @@ KEY=[copy and paste temporary key for only your account]
 
 If you wanted to compare to other oral samples for either Bastu (my cat) or myself (a human), then those are available within the following locations:
 
-*Basepaws WGS1 (**cat**, described above)*: *Wait to re-try R1 and R2 upload*
+*Basepaws WGS1 (**cat**, described above)*: **Wait to re-try R1 and R2 upload**
 
-*Basepaws WGS2 (**cat**, described above)*: *Wait to re-try R1 and R2 upload*
+*Basepaws WGS2 (**cat**, described above)*: **Wait to re-try R1 and R2 upload**
 
 
 *Veritas WGS (only human-aligned from chromosome alignments, **approximate metagenomics negative control**)*: [R1](https://precision.fda.gov/home/files/file-FXyxPJQ0Vjj4FQVk354B168g-1) [R2](https://precision.fda.gov/home/files/file-FXyxPv80Vjj9b88QJz03kzKk-1) [Kraken2 Full Output](https://precision.fda.gov/home/files/file-GKvyVx002YvKV607BK9y9Y7j-1) [Kraken2 Report](https://precision.fda.gov/home/files/file-GKvyY9j02Yv0pyB33fPGgyqJ-1)
@@ -36,9 +36,9 @@ If you wanted to compare to other oral samples for either Bastu (my cat) or myse
 
 *Nebula lcWGS (**human**, starting .fastq.gz)*: [R1](https://precision.fda.gov/home/files/file-Fb13k9j0Vjj5GjQXPQp5QFQF-1) [R2](https://precision.fda.gov/home/files/file-Fb13z000VjjBYJP2JbgyPVBb-1) [Kraken2 Full Output](https://precision.fda.gov/home/files/file-GP26Gk00JgVkFBy97Z30FPXF-1) [Kraken2 Report](https://precision.fda.gov/home/files/file-GP26Gp00JgVZBQGjGqvf85y8-1)
 
-*Sequencing.com WGS (**human**, starting .fastq.gz)*: *Re-upload attempt in progress*
+*Sequencing.com WGS (**human**, starting .fastq.gz)*: **Re-upload attempt in progress**
 
-*Bristle Health (**human**, starting .fastq.gz)*: *Waiting to be able to make R1 and R2 public*
+*Bristle Health (**human**, starting .fastq.gz)*: **Waiting to be able to make R1 and R2 public**
 
 I encountered some problems with some files staying in the "closed" state for a long time (using the `pfda` command when running from Ubuntu).  Following a discussion with support from precisionFDA, I deleted all of the more recently uploaded files.
 
