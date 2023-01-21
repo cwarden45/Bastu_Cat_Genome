@@ -32,9 +32,10 @@ If you wanted to compare to other oral samples for either Bastu (my cat) or myse
 
 
 *Veritas WGS (only human-aligned from chromosome alignments, **approximate metagenomics negative control**)*: [R1](https://precision.fda.gov/home/files/file-FXyxPJQ0Vjj4FQVk354B168g-1) [R2](https://precision.fda.gov/home/files/file-FXyxPv80Vjj9b88QJz03kzKk-1) [Kraken2 Full Output](https://precision.fda.gov/home/files/file-GKvyVx002YvKV607BK9y9Y7j-1) [Kraken2 Report](https://precision.fda.gov/home/files/file-GKvyY9j02Yv0pyB33fPGgyqJ-1)
- - The precisionFDA output is also downloaded and provided in a completely public way in [report_Veritas-MiniKraken2-MIN_10_HITS.txt]().
+ - The precisionFDA output is also downloaded and provided in a completely public way in [report_Veritas-MiniKraken2-MIN_10_HITS.txt](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/precisionFDA-Sharing_and_Analysis/report_Veritas-MiniKraken2-MIN_10_HITS.txt).
 
 *Nebula lcWGS (**human**, starting .fastq.gz)*: [R1](https://precision.fda.gov/home/files/file-Fb13k9j0Vjj5GjQXPQp5QFQF-1) [R2](https://precision.fda.gov/home/files/file-Fb13z000VjjBYJP2JbgyPVBb-1) [Kraken2 Full Output](https://precision.fda.gov/home/files/file-GP26Gk00JgVkFBy97Z30FPXF-1) [Kraken2 Report](https://precision.fda.gov/home/files/file-GP26Gp00JgVZBQGjGqvf85y8-1)
+ - The precisionFDA output is also downloaded and provided in a completely public way in [report_Nebula_lcWGS-MiniKraken2-MIN_10_HITS.txt](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/precisionFDA-Sharing_and_Analysis/report_Nebula_lcWGS-MiniKraken2-MIN_10_HITS.txt).
 
 *Sequencing.com WGS (**human**, starting .fastq.gz)*: **Re-upload attempt in progress**
 
