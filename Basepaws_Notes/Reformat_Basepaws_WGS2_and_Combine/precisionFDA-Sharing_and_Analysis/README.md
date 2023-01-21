@@ -51,7 +51,7 @@ pfda upload-file --key $KEY --file $R2
 
 **3)** For new samples, any Basepaws reads in a format similar to Bastu's 2022 sample will need to be reformatted.
 
-For local reformatting, I provide options through [create_PairedEnd_R1_and_R2.pl](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/create_PairedEnd_R1_and_R2.pl) (requiring use of comments to select groups of variable names) or create_PairedEnd_R1_and_R2-external_input.pl]().  The later can be run from the command line as described below:
+For local reformatting, I provide options through [create_PairedEnd_R1_and_R2.pl](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/create_PairedEnd_R1_and_R2.pl) (requiring use of comments to select groups of variable names) or [create_PairedEnd_R1_and_R2-external_input.pl](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/precisionFDA-Sharing_and_Analysis/create_PairedEnd_R1_and_R2-external_input.pl).  The later can be run from the command line as described below:
 
 ```
 #!/bin/bash
