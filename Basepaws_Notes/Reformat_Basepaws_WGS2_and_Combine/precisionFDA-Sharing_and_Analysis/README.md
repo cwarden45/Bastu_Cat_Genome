@@ -26,9 +26,9 @@ KEY=[copy and paste temporary key for only your account]
 
 If you wanted to compare to other oral samples for either Bastu (my cat) or myself (a human), then those are available within the following locations:
 
-*Basepaws WGS1 (**cat**, described above)*: **Wait to re-try R1 and R2 upload**
+*Basepaws WGS1 (**cat**, described above)*: [R1](https://precision.fda.gov/home/files/file-GPjQ0Q008qqffP1KpJb66Jk8-1) [R2](https://precision.fda.gov/home/files/file-GPjQ2X808qqQFPxV2j86v8Z6-1)
 
-*Basepaws WGS2 (**cat**, described above)*: **Wait to re-try R1 and R2 upload**
+*Basepaws WGS2 (**cat**, described above)*: [R1](https://precision.fda.gov/home/files/file-GPjPKX008qqbXFpGK681gFfZ-1) [R2](https://precision.fda.gov/home/files/file-GPjQ8pQ08qqZqZFPFG0xJYjK-1)
 
 
 *Veritas WGS (only human-aligned from chromosome alignments, **approximate metagenomics negative control**)*: [R1](https://precision.fda.gov/home/files/file-FXyxPJQ0Vjj4FQVk354B168g-1) [R2](https://precision.fda.gov/home/files/file-FXyxPv80Vjj9b88QJz03kzKk-1) [Kraken2_Full_Output](https://precision.fda.gov/home/files/file-GKvyVx002YvKV607BK9y9Y7j-1) [Kraken2_Report](https://precision.fda.gov/home/files/file-GKvyY9j02Yv0pyB33fPGgyqJ-1)
@@ -37,11 +37,11 @@ If you wanted to compare to other oral samples for either Bastu (my cat) or myse
 *Nebula lcWGS (**human**, starting .fastq.gz)*: [R1](https://precision.fda.gov/home/files/file-Fb13k9j0Vjj5GjQXPQp5QFQF-1) [R2](https://precision.fda.gov/home/files/file-Fb13z000VjjBYJP2JbgyPVBb-1) [Kraken2_Full_Output](https://precision.fda.gov/home/files/file-GP26Gk00JgVkFBy97Z30FPXF-1) [Kraken2_Report](https://precision.fda.gov/home/files/file-GP26Gp00JgVZBQGjGqvf85y8-1)
  - The precisionFDA output is also downloaded and provided in a completely public way in [report_Nebula_lcWGS-MiniKraken2-MIN_10_HITS.txt](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/precisionFDA-Sharing_and_Analysis/report_Nebula_lcWGS-MiniKraken2-MIN_10_HITS.txt).
 
-*Sequencing.com WGS (**human**, starting .fastq.gz)*: **Re-upload attempt in progress**
+*Sequencing.com WGS (**human**, starting .fastq.gz)*: [R1](https://precision.fda.gov/home/files/file-GPjPVVj08qqV14j87GQ59BPz-1) [R2](https://precision.fda.gov/home/files/file-GPjPjKj08qqQ5GkGPVP8bFxB-1)
 
-*Bristle Health (**human**, starting .fastq.gz)*: **Waiting to be able to make R1 and R2 public**
+*Bristle Health (**human**, starting .fastq.gz)*: [R1](https://precision.fda.gov/home/files/file-GPjPJqj08qqQx5JVxzQjPKXB-1) [R2](https://precision.fda.gov/home/files/file-GPjPKG808qqXbVKx7Q3bK28j-1)
 
-I encountered some problems with some files staying in the "closed" state for a long time (using the `pfda` command when running from Ubuntu).  Following a discussion with support from precisionFDA, I deleted all of the more recently uploaded files.
+I encountered some problems with some files staying in the "closed" state for a long time (using the `pfda` command when running from Ubuntu).
 
 In **Windows**, I copied the extracted executable into a given folder, and a ran a command in the following format (but with full text, not truely exported $KEY/$R1/$R2 variables):
 
@@ -49,6 +49,8 @@ In **Windows**, I copied the extracted executable into a given folder, and a ran
 pfda upload-file --key $KEY --file $R1
 pfda upload-file --key $KEY --file $R2
 ```
+
+Those large uploads were also not successfull.  *However, with the kind assistance of precisionFDA/DNAnexus staff, a group was created to import my files and proceed with analysis for the newer samples.*  **So, that was very helpful in being able to provide the full set of files above to others through precisionFDA!**
 
 **3)** For new samples, any Basepaws reads in a format similar to Bastu's 2022 sample will need to be reformatted.
 
