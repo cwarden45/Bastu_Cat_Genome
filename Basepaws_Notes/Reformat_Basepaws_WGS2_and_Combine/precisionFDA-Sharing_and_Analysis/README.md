@@ -134,4 +134,4 @@ However, to be safe, I checked the local default settings:
                           only effective with FASTQ input).
 ```
 
-So, I set **Confidence score threshold** and **Minimum base quality**, and I re-ran Kraken2 for the earlier 2 samples as well as the 2 new Basepaws WGS samples:
+So, I set both **Confidence score threshold** and **Minimum base quality** to be **0**, and I re-ran Kraken2 for the earlier 2 samples as well as the 2 new Basepaws WGS samples:
