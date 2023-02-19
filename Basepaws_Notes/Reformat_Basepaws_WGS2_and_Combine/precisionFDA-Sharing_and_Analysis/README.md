@@ -115,3 +115,23 @@ Similarly, I also analyzed the earlier Nebula lcWGS sample:
 ![Local vs pFDA Kraken2 Assignments](Nebula_lcWGS-Kraken2-Local_and_pFDA-cor.png "Local vs pFDA Kraken2 Assignments")
 
 **So, I think might be encouraging that an unfiltered file (for Nebula lcWGS) shows *better* correlations than assignments made on only reads that could be aligned to hg19 (for the Vertias WGS file).**
+
+After recieving help in importing the newer large files, I noticed an error message when running Kraken2:
+
+```
+confidence: value is not a float
+```
+
+I did not remember specifying non-default values for **Confidence score threshold** and **Minimum base quality** before, and I thought I had previously run *revision 2* of the precisionFDA app.
+
+However, to be safe, I checked the local default settings:
+
+```
+  --confidence FLOAT      Confidence score threshold (default: 0.0); must be
+                          in [0, 1].
+  --minimum-base-quality NUM
+                          Minimum base quality used in classification (def: 0,
+                          only effective with FASTQ input).
+```
+
+So, I set **Confidence score threshold** and **Minimum base quality**, and I re-ran Kraken2 for the earlier 2 samples as well as the 2 new Basepaws WGS samples:
