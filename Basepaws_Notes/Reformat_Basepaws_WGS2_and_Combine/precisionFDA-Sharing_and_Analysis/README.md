@@ -146,7 +146,7 @@ So, I set both **Confidence score threshold** and **Minimum base quality** to be
 
 ![Local vs pFDA Kraken2 Assignments](230219-VeritasWGS-Kraken2-Local_and_pFDA-cor.png "Local vs pFDA Kraken2 Assignments")
 
-**As before, I think might be encouraging that an unfiltered file (for Nebula lcWGS) shows *better* correlations than assignments made on only reads that could be aligned to hg19 (for the Vertias WGS file).**
+As before, I think might be encouraging that an unfiltered file (for Nebula lcWGS) shows *better* correlations than assignments made on only reads that could be aligned to hg19 (for the Vertias WGS file).
 
 ***Basepaws WGS Sample 1:*** [Kraken2_Full_Output](https://precision.fda.gov/home/files/file-GPk717802gJPgyXv6236bF5k-1) [Kraken2_Report](https://precision.fda.gov/home/files/file-GPk727002gJ8Z25Z8G83JFf4-1)
 
