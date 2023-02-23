@@ -31,11 +31,9 @@ If you wanted to compare to other oral samples for either Bastu (my cat) or myse
 *Basepaws WGS2 (**cat**, described above)*: [R1](https://precision.fda.gov/home/files/file-GPjPKX008qqbXFpGK681gFfZ-1) [R2](https://precision.fda.gov/home/files/file-GPjQ8pQ08qqZqZFPFG0xJYjK-1)
 
 
-*Veritas WGS (only human-aligned from chromosome alignments, **approximate metagenomics negative control**)*: [R1](https://precision.fda.gov/home/files/file-FXyxPJQ0Vjj4FQVk354B168g-1) [R2](https://precision.fda.gov/home/files/file-FXyxPv80Vjj9b88QJz03kzKk-1) [Kraken2_Full_Output](https://precision.fda.gov/home/files/file-GKvyVx002YvKV607BK9y9Y7j-1) [Kraken2_Report](https://precision.fda.gov/home/files/file-GKvyY9j02Yv0pyB33fPGgyqJ-1)
- - The precisionFDA output is also downloaded and provided in a completely public way in [report_Veritas-MiniKraken2-MIN_10_HITS.txt](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/precisionFDA-Sharing_and_Analysis/report_Veritas-MiniKraken2-MIN_10_HITS.txt).
+*Veritas WGS (only human-aligned from chromosome alignments, **approximate metagenomics negative control**)*: [R1](https://precision.fda.gov/home/files/file-FXyxPJQ0Vjj4FQVk354B168g-1) [R2](https://precision.fda.gov/home/files/file-FXyxPv80Vjj9b88QJz03kzKk-1)
 
-*Nebula lcWGS (**human**, starting .fastq.gz)*: [R1](https://precision.fda.gov/home/files/file-Fb13k9j0Vjj5GjQXPQp5QFQF-1) [R2](https://precision.fda.gov/home/files/file-Fb13z000VjjBYJP2JbgyPVBb-1) [Kraken2_Full_Output](https://precision.fda.gov/home/files/file-GP26Gk00JgVkFBy97Z30FPXF-1) [Kraken2_Report](https://precision.fda.gov/home/files/file-GP26Gp00JgVZBQGjGqvf85y8-1)
- - The precisionFDA output is also downloaded and provided in a completely public way in [report_Nebula_lcWGS-MiniKraken2-MIN_10_HITS.txt](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/precisionFDA-Sharing_and_Analysis/report_Nebula_lcWGS-MiniKraken2-MIN_10_HITS.txt).
+*Nebula lcWGS (**human**, starting .fastq.gz)*: [R1](https://precision.fda.gov/home/files/file-Fb13k9j0Vjj5GjQXPQp5QFQF-1) [R2](https://precision.fda.gov/home/files/file-Fb13z000VjjBYJP2JbgyPVBb-1)
 
 *Sequencing.com WGS (**human**, starting .fastq.gz)*: [R1](https://precision.fda.gov/home/files/file-GPjPVVj08qqV14j87GQ59BPz-1) [R2](https://precision.fda.gov/home/files/file-GPjPjKj08qqQ5GkGPVP8bFxB-1)
 
@@ -134,4 +132,24 @@ However, to be safe, I checked the local default settings:
                           only effective with FASTQ input).
 ```
 
-So, I set both **Confidence score threshold** and **Minimum base quality** to be **0**, and I re-ran Kraken2 for the earlier 2 samples as well as the 2 new Basepaws WGS samples:
+So, I set both **Confidence score threshold** and **Minimum base quality** to be **0**, and I re-ran Kraken2 for the earlier 2 samples as well as the 2 new Basepaws WGS samples.  The output reports can be viewed in the folder below:
+
+[Kraken2-230219](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/precisionFDA-Sharing_and_Analysis/Kraken2-230219)
+
+**Nebula lcWGS:** [Kraken2_Full_Output](https://precision.fda.gov/home/files/file-GPk6f2802YPY8K4Q2F1Kb3Q2-1) [Kraken2_Report](https://precision.fda.gov/home/files/file-GPk6f3Q02YPbjQB7VVkYxxfQ-1)
+
+![Local vs pFDA Kraken2 Assignments](230219-Nebula_lcWGS-Kraken2-Local_and_pFDA-cor.png "Local vs pFDA Kraken2 Assignments")
+
+**Veritas hg19-aligned WGS (negative control approximation):** [Kraken2_Full_Output](https://precision.fda.gov/home/files/file-GPk7F90039P5VbG9x3zp9Q52-1) [Kraken2_Report](https://precision.fda.gov/home/files/file-GPk7Gf0039PG4BZfbVJy8Y5f-1)
+
+![Local vs pFDA Kraken2 Assignments](230219-VeritasWGS-Kraken2-Local_and_pFDA-cor.png "Local vs pFDA Kraken2 Assignments")
+
+**As before, I think might be encouraging that an unfiltered file (for Nebula lcWGS) shows *better* correlations than assignments made on only reads that could be aligned to hg19 (for the Vertias WGS file).**
+
+**Basepaws WGS Sample 1:** [Kraken2_Full_Output](https://precision.fda.gov/home/files/file-GPk717802gJPgyXv6236bF5k-1) [Kraken2_Report](https://precision.fda.gov/home/files/file-GPk727002gJ8Z25Z8G83JFf4-1)
+
+![Local vs pFDA Kraken2 Assignments](230219-Basepaws_WGS1-Kraken2-Local_and_pFDA-cor.png "Local vs pFDA Kraken2 Assignments")
+
+**Basepaws WGS Sample 2:** [Kraken2_Full_Output](https://precision.fda.gov/home/files/file-GPk7JYQ08p06Qq3KQqqV7yFY-1) [Kraken2_Report](https://precision.fda.gov/home/files/file-GPk7KX008p03GZkz6PfK622V-1)
+
+![Local vs pFDA Kraken2 Assignments](230219-Basepaws_WGS2-Kraken2-Local_and_pFDA-cor.png "Local vs pFDA Kraken2 Assignments")
