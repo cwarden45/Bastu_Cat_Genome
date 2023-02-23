@@ -162,4 +162,4 @@ Details for that plot are available [here](https://github.com/cwarden45/Bastu_Ca
 
 ![Local vs pFDA Kraken2 Assignments](230219-Basepaws_WGS2-Kraken2-Local_and_pFDA-cor.png "Local vs pFDA Kraken2 Assignments")
 
-The insert size is more similar to the human samples, and I would guess that might be helping create a correlation more similar to the Nebula lcWGS sample?
+The insert size is more similar to the human samples, and I would guess that might relates to an improved correlation relative to the first Basepaws sample?
