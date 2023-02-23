@@ -4,11 +4,35 @@
 #output.percent_quantified = "VeritasWGS-Kraken2-Local_and_pFDA-percent_quantified.txt"
 #correlation_plot = "VeritasWGS-Kraken2-Local_and_pFDA-cor.png"
 
+#sampleIDs = c("Local","pFDA")
+#Kraken2_files = c("../Additional_Kraken_Classifications/Kraken-OUT-minikraken_8GB_20200312-10_hit_groups/Nebula_lcWGS_Kraken2.kreport","report_Nebula_lcWGS-MiniKraken2-MIN_10_HITS.txt")
+#output.counts = "Nebula_lcWGS-Kraken2-Local_and_pFDA-counts.txt"
+#output.percent_quantified = "Nebula_lcWGS-Kraken2-Local_and_pFDA-percent_quantified.txt"
+#correlation_plot = "Nebula_lcWGS-Kraken2-Local_and_pFDA-cor.png"
+
+#sampleIDs = c("Local","pFDA")
+#Kraken2_files = c("../Additional_Kraken_Classifications/Kraken-OUT-minikraken_8GB_20200312-10_hit_groups/Nebula_lcWGS_Kraken2.kreport","Kraken2-230219/report_Nebula_lcWGS-MiniKraken2-MIN_10_HITS-add00.txt")
+#output.counts = "230219-Nebula_lcWGS-Kraken2-Local_and_pFDA-counts.txt"
+#output.percent_quantified = "230219-Nebula_lcWGS-Kraken2-Local_and_pFDA-percent_quantified.txt"
+#correlation_plot = "230219-Nebula_lcWGS-Kraken2-Local_and_pFDA-cor.png"
+
+#sampleIDs = c("Local","pFDA")
+#Kraken2_files = c("../Additional_Kraken_Classifications/Kraken-OUT-minikraken_8GB_20200312-10_hit_groups/Veritas_WGS_Kraken2.kreport","Kraken2-230219/report_VeritasWGS-MiniKraken2-MIN_10_HITS-add00.txt")
+#output.counts = "230219-VeritasWGS-Kraken2-Local_and_pFDA-counts.txt"
+#output.percent_quantified = "230219-VeritasWGS-Kraken2-Local_and_pFDA-percent_quantified.txt"
+#correlation_plot = "230219-VeritasWGS-Kraken2-Local_and_pFDA-cor.png"
+
+#sampleIDs = c("Local","pFDA")
+#Kraken2_files = c("../Additional_Kraken_Classifications/Kraken-OUT-minikraken_8GB_20200312-10_hit_groups/Basepaws_WGS1_Kraken2.kreport","Kraken2-230219/report_Basepaws_WGS1-MiniKraken2-MIN_10_HITS-add00.txt")
+#output.counts = "230219-Basepaws_WGS1-Kraken2-Local_and_pFDA-counts.txt"
+#output.percent_quantified = "230219-Basepaws_WGS1-Kraken2-Local_and_pFDA-percent_quantified.txt"
+#correlation_plot = "230219-Basepaws_WGS1-Kraken2-Local_and_pFDA-cor.png"
+
 sampleIDs = c("Local","pFDA")
-Kraken2_files = c("../Additional_Kraken_Classifications/Kraken-OUT-minikraken_8GB_20200312-10_hit_groups/Nebula_lcWGS_Kraken2.kreport","report_Nebula_lcWGS-MiniKraken2-MIN_10_HITS.txt")
-output.counts = "Nebula_lcWGS-Kraken2-Local_and_pFDA-counts.txt"
-output.percent_quantified = "Nebula_lcWGS-Kraken2-Local_and_pFDA-percent_quantified.txt"
-correlation_plot = "Nebula_lcWGS-Kraken2-Local_and_pFDA-cor.png"
+Kraken2_files = c("../Additional_Kraken_Classifications/Kraken-OUT-minikraken_8GB_20200312-10_hit_groups/Basepaws_WGS2_Kraken2.kreport","Kraken2-230219/report_Basepaws_WGS2-MiniKraken2-MIN_10_HITS-add00.txt")
+output.counts = "230219-Basepaws_WGS2-Kraken2-Local_and_pFDA-counts.txt"
+output.percent_quantified = "230219-Basepaws_WGS2-Kraken2-Local_and_pFDA-percent_quantified.txt"
+correlation_plot = "230219-Basepaws_WGS2-Kraken2-Local_and_pFDA-cor.png"
 
 #copied and modified from https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/Additional_Kraken_Classifications/create_Kraken2_ONLY_table-INTERSPECIES_HOST.R
 #This includese pre-existing modified code labels
