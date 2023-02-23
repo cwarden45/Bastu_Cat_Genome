@@ -152,6 +152,14 @@ As before, I think might be encouraging that an unfiltered file (for Nebula lcWG
 
 ![Local vs pFDA Kraken2 Assignments](230219-Basepaws_WGS1-Kraken2-Local_and_pFDA-cor.png "Local vs pFDA Kraken2 Assignments")
 
+I would guess the difference in the correlation above might relate to the smaller fragment shown below:
+
+![Insert Distribution Across Samples](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/Picard_Insert_Statistics/insert_size_density.png "Insert Distribution Across Samples")
+
+Details for that plot are available [here](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/Picard_Insert_Statistics).
+
 ***Basepaws WGS Sample 2:*** [Kraken2_Full_Output](https://precision.fda.gov/home/files/file-GPk7JYQ08p06Qq3KQqqV7yFY-1) [Kraken2_Report](https://precision.fda.gov/home/files/file-GPk7KX008p03GZkz6PfK622V-1)
 
 ![Local vs pFDA Kraken2 Assignments](230219-Basepaws_WGS2-Kraken2-Local_and_pFDA-cor.png "Local vs pFDA Kraken2 Assignments")
+
+The insert size is more similar to the human samples, and I would guess that might be helping create a correlation more similar to the Nebula lcWGS sample?
