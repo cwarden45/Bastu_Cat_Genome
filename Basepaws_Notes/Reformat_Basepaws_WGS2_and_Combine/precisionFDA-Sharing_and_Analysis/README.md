@@ -136,20 +136,22 @@ So, I set both **Confidence score threshold** and **Minimum base quality** to be
 
 [Kraken2-230219](https://github.com/cwarden45/Bastu_Cat_Genome/tree/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/precisionFDA-Sharing_and_Analysis/Kraken2-230219)
 
-**Nebula lcWGS:** [Kraken2_Full_Output](https://precision.fda.gov/home/files/file-GPk6f2802YPY8K4Q2F1Kb3Q2-1) [Kraken2_Report](https://precision.fda.gov/home/files/file-GPk6f3Q02YPbjQB7VVkYxxfQ-1)
+*Specific Comparisons Are Also Shown Below:*
+
+***Nebula lcWGS:*** [Kraken2_Full_Output](https://precision.fda.gov/home/files/file-GPk6f2802YPY8K4Q2F1Kb3Q2-1) [Kraken2_Report](https://precision.fda.gov/home/files/file-GPk6f3Q02YPbjQB7VVkYxxfQ-1)
 
 ![Local vs pFDA Kraken2 Assignments](230219-Nebula_lcWGS-Kraken2-Local_and_pFDA-cor.png "Local vs pFDA Kraken2 Assignments")
 
-**Veritas hg19-aligned WGS (negative control approximation):** [Kraken2_Full_Output](https://precision.fda.gov/home/files/file-GPk7F90039P5VbG9x3zp9Q52-1) [Kraken2_Report](https://precision.fda.gov/home/files/file-GPk7Gf0039PG4BZfbVJy8Y5f-1)
+***Veritas hg19-aligned WGS (negative control approximation):*** [Kraken2_Full_Output](https://precision.fda.gov/home/files/file-GPk7F90039P5VbG9x3zp9Q52-1) [Kraken2_Report](https://precision.fda.gov/home/files/file-GPk7Gf0039PG4BZfbVJy8Y5f-1)
 
 ![Local vs pFDA Kraken2 Assignments](230219-VeritasWGS-Kraken2-Local_and_pFDA-cor.png "Local vs pFDA Kraken2 Assignments")
 
 **As before, I think might be encouraging that an unfiltered file (for Nebula lcWGS) shows *better* correlations than assignments made on only reads that could be aligned to hg19 (for the Vertias WGS file).**
 
-**Basepaws WGS Sample 1:** [Kraken2_Full_Output](https://precision.fda.gov/home/files/file-GPk717802gJPgyXv6236bF5k-1) [Kraken2_Report](https://precision.fda.gov/home/files/file-GPk727002gJ8Z25Z8G83JFf4-1)
+***Basepaws WGS Sample 1:*** [Kraken2_Full_Output](https://precision.fda.gov/home/files/file-GPk717802gJPgyXv6236bF5k-1) [Kraken2_Report](https://precision.fda.gov/home/files/file-GPk727002gJ8Z25Z8G83JFf4-1)
 
 ![Local vs pFDA Kraken2 Assignments](230219-Basepaws_WGS1-Kraken2-Local_and_pFDA-cor.png "Local vs pFDA Kraken2 Assignments")
 
-**Basepaws WGS Sample 2:** [Kraken2_Full_Output](https://precision.fda.gov/home/files/file-GPk7JYQ08p06Qq3KQqqV7yFY-1) [Kraken2_Report](https://precision.fda.gov/home/files/file-GPk7KX008p03GZkz6PfK622V-1)
+***Basepaws WGS Sample 2:*** [Kraken2_Full_Output](https://precision.fda.gov/home/files/file-GPk7JYQ08p06Qq3KQqqV7yFY-1) [Kraken2_Report](https://precision.fda.gov/home/files/file-GPk7KX008p03GZkz6PfK622V-1)
 
 ![Local vs pFDA Kraken2 Assignments](230219-Basepaws_WGS2-Kraken2-Local_and_pFDA-cor.png "Local vs pFDA Kraken2 Assignments")
