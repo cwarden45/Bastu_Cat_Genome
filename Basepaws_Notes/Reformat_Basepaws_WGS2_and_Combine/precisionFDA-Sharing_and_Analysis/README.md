@@ -70,17 +70,15 @@ If using the strategies above, you may need to concatinate reads between separat
 
 In terms of working to develop an App for precisionFDA, I created a summary markdown file (also uploaded in this folder) and I used the following command to upload an "asset" to use as an App:
 
-```
-/opt/pfda upload-asset --key $KEY --name reformat_reduced_interleaved_FQ.tar --root . --readme reformat_reduced_interleaved_FQ.md
-```
-
-However, I needed to make changes in the asset and App.  For example, here is a revised command to upload the asset:
+I needed to make changes in the asset and App.  However, I think this is the right command to upload the content:
 
 ```
 /opt/pfda upload-asset --key $KEY --name reformat_reduced_interleaved_FQ.tar.gz --root ./fakeroot/ --readme reformat_reduced_interleaved_FQ.md
 ```
 
-With that command, I do not in fact create the .tar.gz file.  Intead, I created a folder called "fakeroot", and I copied `create_PairedEnd_R1_and_R2-external_input.pl` into */usr/bin*.  That was my attempt to better follow the instructions from [here](https://precision.fda.gov/docs/tutorials/apps-workflows#create-an-asset-with-code-and-data).
+With that command, I do not in fact create the .tar.gz file.  Intead, I created a folder called "***fakeroot***" (as well as subfolders */usr* and */usr/bin*), and I copied `create_PairedEnd_R1_and_R2-external_input.pl` into **/usr/bin*.  That was my attempt to better follow the instructions from [here](https://precision.fda.gov/docs/tutorials/apps-workflows#create-an-asset-with-code-and-data).
+
+Importantly, within the App, I need to specify the Perl script as `/usr/bin/create_PairedEnd_R1_and_R2-external_input.pl` **not** `create_PairedEnd_R1_and_R2-external_input.pl` (with the extra `/usr/bin/` path).
 
 If I do successfully create an App, then these two separate steps would still be needed.  For example, I do not know if other customers will tend to recieve 3 interleaved files or a different number of starting files.
 
