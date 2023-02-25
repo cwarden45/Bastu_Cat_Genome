@@ -74,7 +74,15 @@ In terms of working to develop an App for precisionFDA, I created a summary mark
 /opt/pfda upload-asset --key $KEY --name reformat_reduced_interleaved_FQ.tar --root . --readme reformat_reduced_interleaved_FQ.md
 ```
 
-However, if I do successfully create an App, then these two separate steps would still be needed.  For example, I do not know if other customers will tend to recieve 3 interleaved files or a different number of starting files.
+However, I needed to make changes in the asset and App.  For example, here is a revised command to upload the asset:
+
+```
+/opt/pfda upload-asset --key $KEY --name reformat_reduced_interleaved_FQ.tar.gz --root ./fakeroot/ --readme reformat_reduced_interleaved_FQ.md
+```
+
+With that command, I do not in fact create the .tar.gz file.  Intead, I created a folder called "fakeroot", and I copied `create_PairedEnd_R1_and_R2-external_input.pl` into */usr/bin*.  That was my attempt to better follow the instructions from [here](https://precision.fda.gov/docs/tutorials/apps-workflows#create-an-asset-with-code-and-data).
+
+If I do successfully create an App, then these two separate steps would still be needed.  For example, I do not know if other customers will tend to recieve 3 interleaved files or a different number of starting files.
 
 **4)** Unless future availability changes, you might only be able to run a certain version of Kraken2.  However, based upon [these results](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/Additional_Kraken_Classifications/README.md) perhaps using more stringent criteria (like `Minimum number of hit groups` = **10**) for a given sized reference, use of only that version of Kraken2 might be sufficient?
 
