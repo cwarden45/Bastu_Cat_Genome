@@ -80,9 +80,17 @@ With that command, I do not in fact create the .tar.gz file.  Intead, I created 
 
 Importantly, within the App, I need to specify the Perl script as `/usr/bin/create_PairedEnd_R1_and_R2-external_input.pl` **not** `create_PairedEnd_R1_and_R2-external_input.pl` (with the extra `/usr/bin/` path).
 
-I also had to be careful about the formatting for a file versus a variable with the `emit` function to create output files.
+I also had to be careful about the formatting for a file versus a variable with the `emit` function to create output files, and I also had to add `_path` to the input file.  This means that the script within the App was as follows:
 
-If I do successfully create an App, then these two separate steps would still be needed.  For example, I do not know if other customers will tend to recieve 3 interleaved files or a different number of starting files.
+```
+perl /usr/bin/create_PairedEnd_R1_and_R2-external_input.pl --id=$SHORT --in="$IN_path" --r1=$R1OUT --r2=$R2OUT
+emit "R1FILE" "$R1OUT"
+emit "R2FILE" "$R2OUT"
+```
+
+So, as a possible option, [this app](https://precision.fda.gov/home/apps/app-GQ3zJ9j08Xq7v2Ky6fxb230K-1) can perform the reformatting.
+
+However, two separate steps may still be needed.  For example, I do not know if other customers will tend to recieve 3 interleaved files or a different number of starting files.
 
 **4)** Unless future availability changes, you might only be able to run a certain version of Kraken2.  However, based upon [these results](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Basepaws_Notes/Reformat_Basepaws_WGS2_and_Combine/Additional_Kraken_Classifications/README.md) perhaps using more stringent criteria (like `Minimum number of hit groups` = **10**) for a given sized reference, use of only that version of Kraken2 might be sufficient?
 
