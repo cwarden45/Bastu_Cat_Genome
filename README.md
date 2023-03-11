@@ -251,3 +251,7 @@ You can view the FASTQ files using the links below:
 PetQCheck metagenomics Read1: https://storage.googleapis.com/bastu-cat-genome/zr8725_3V3V4_R1.fastq.gz
 
 PetQCheck metagenomics Read2: https://storage.googleapis.com/bastu-cat-genome/zr8725_3V3V4_R2.fastq.gz
+
+**Kidney-Chek ($49.99 for 3 tests, $9.15 for shipping, Order #1393)**:
+
+I placed an order for 3 tests on 3/11/2023.  This a day after Bastu's checkup where the vet said that Bastu showed good kidney function (especially for her age).
