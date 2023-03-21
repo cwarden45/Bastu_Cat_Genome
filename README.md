@@ -255,3 +255,5 @@ PetQCheck metagenomics Read2: https://storage.googleapis.com/bastu-cat-genome/zr
 **Kidney-Chek ($49.99 for 3 tests, $9.15 for shipping, Order #1393)**:
 
 I placed an order for 3 tests on 3/11/2023.  This a day after Bastu's checkup where the vet said that Bastu showed good kidney function (especially for her age).
+
+The kits arrived on 3/20/2023.
