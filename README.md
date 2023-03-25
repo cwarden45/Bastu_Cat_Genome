@@ -257,3 +257,5 @@ PetQCheck metagenomics Read2: https://storage.googleapis.com/bastu-cat-genome/zr
 I placed an order for 3 tests on 3/11/2023.  This a day after Bastu's checkup where the vet said that Bastu showed good kidney function (especially for her age).
 
 The kits arrived on 3/20/2023.
+
+I started to work on collecting samples on 3/25/2023.  Each kit contained 2 strips.  *I encountered a problem with Bastu trying to bite the strip, which caused damage to the pad used for an accessment*.  This involved throwing out both strips for the first kit.
