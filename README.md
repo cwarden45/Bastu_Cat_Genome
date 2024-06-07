@@ -266,4 +266,4 @@ I also opened the **second** kit on 3/25/2023.  I think Bastu was over-stimulate
 
 On 5/21/2024, I received an e-mail that Darwin's Ark was started for cats.  I added information for myself and for Bastu in the on-line system.
 
-On 6/7/2024, I ordered a kit.
+On 6/7/2024, I ordered a kit for Bastu.
