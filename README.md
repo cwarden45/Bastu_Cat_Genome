@@ -262,8 +262,8 @@ I started to work on collecting samples on 3/25/2023.  Each kit contained 2 stri
 
 I also opened the **second** kit on 3/25/2023.  I think Bastu was over-stimulated, and it became harder to swab along the gums.  So, instead, I tested a strip on *myself*.  Unlike when the strip was used in Bastu's mouth, the wet strip stayed a slightly darker shade of yellow when used on my mouth.  Although I could not get a complete covering without damaging the pad, the part that was moistened in Bastu's mouth was more of a shade of blue.
 
-**Darwin's Cats (beta version, $149 for kit that is normally $249, free shipping, Order #XXX)**:
+**Darwin's Cats (beta version, $149 for kit that is normally $249, free shipping, Order #128)**:
 
 On 5/21/2024, I received an e-mail that Darwin's Ark was started for cats.  I added information for myself and for Bastu in the on-line system.
 
-I will update this page when I place an order.
+On 6/7/2024, I ordered a kit.
