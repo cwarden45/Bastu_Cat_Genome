@@ -119,7 +119,7 @@ exit;
 sub usage{
   print <<EOF
 
-  Usage: perl MSigDB_to_BDfunc.pl --id=[short ID] --in=[in FQ] --r1=[out R1] --r2=[out R2]
+  Usage: perl create_PairedEnd_R1_and_R2-external_input.pl --id=[short ID] --in=[in FQ] --r1=[out R1] --r2=[out R2]
 
   [short ID]  -  Unique identifier to add to reads (for downstream concatination)
 
