@@ -19,6 +19,7 @@ my $large_flag = 1;
 
 open(OUTPUTFILE, ">$updated_ped") || die("Could not open $updated_ped!");
 
+my $line_count=0;
 open(INPUTFILE, $prev_ped) || die("Could not open $prev_ped!");
 while (<INPUTFILE>){
 	$line_count++;
