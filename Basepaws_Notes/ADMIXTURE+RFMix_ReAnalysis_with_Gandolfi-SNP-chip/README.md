@@ -122,7 +122,7 @@ Even though they both use Ubuntu, I ended up actually running [plink2](http://ww
 
 **6)** Create genetic map files and phase variants using [SHAPEIT](https://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html).
 
-There is also some genetic mapping information in the supplemental information from [Li et al. 2019](https://www.g3journal.org/content/6/6/1607.supplemental).  I used the supplemental materials from Li et al. 2016 to add cM distances.  However, I was confused about the build (the probes are described with respect to felCat2, not felCat8 or felCat9).  **Luckily, the authors provided that information to me, and it is also publicly available at [this link](https://github.com/ligang1978/Cat-SNP-array-marker-v2-6.2-and-8.0/).**
+There is also some genetic mapping information in the supplemental information from [Li et al. 2016](https://www.g3journal.org/content/6/6/1607.supplemental).  I used the supplemental materials from Li et al. 2016 to add cM distances.  However, I was confused about the build (the probes are described with respect to felCat2, not felCat8 or felCat9).  **Luckily, the authors provided that information to me, and it is also publicly available at [this link](https://github.com/ligang1978/Cat-SNP-array-marker-v2-6.2-and-8.0/).**
 
 So, for felCat8 (the positions provided for Gandolfi et al. 2018, with probes labeled based upon "2X") I could create a genetic mapping file from felCat6 using `create_genetic_map_files_from_Li_et_al_2016-felCat8.pl` followed by `run_SHAPEIT.pl`. 
 
