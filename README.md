@@ -268,4 +268,4 @@ On 5/21/2024, I received an e-mail that Darwin's Ark was started for cats.  I ad
 
 On 6/7/2024, I ordered a kit for Bastu.
 
-On 10/7/2024, the sample collection kit arrived.
+On 10/7/2024, the sample collection kit arrived.  Sample was collected with a very small comb and was dropped in a mailbox for return.
