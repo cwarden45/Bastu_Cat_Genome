@@ -139,7 +139,7 @@ I was able to download the results for this sample on **10/5/2021**.
 
 I took Bastu in for her dental cleaning on **10/21/2021**.  You can see the x-rays taken during the cleaning [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/basepaws_Dental_Health_Test/Bastu-Dental-Xray-211021.zip).  Overall, my understanding is that Bastu is in good health, especially for a cat her age.
 
-I think there was at least 1 earlier bowl movement with a strong smell, but I mostly noticed diarrhea starting on Saturday (10/23).  I forget exactly who provided the recommendation, but I had purchased wet food to give Bastu immediately after the cleaning.
+I think there was at least 1 earlier bowel movement with a strong smell, but I mostly noticed diarrhea starting on Saturday (10/23).  I forget exactly who provided the recommendation, but I had purchased wet food to give Bastu immediately after the cleaning.
 
 On Sunday (10/24), I noticed that Bastu couldn't eat the greenies that I previously had mixed in with her dry food for the automatic feeder.  I believe I also noticed some loss of appetite for the regular dry food on Monday (10/25), which is very unusual for her.
 
