@@ -28,7 +28,7 @@
       <td align="center">90%</td>
     </tr>
     <tr>
-	    <td align="center"><b>Preventive Care Gold</b><<br>(<i>Recovered</i> Costs for Preventive Care)</td>
+	    <td align="center"><b>Preventive Care Gold</b><br>(<i>Recovered</i> Costs for Preventive Care)</td>
       <td align="center">$170 out of $250</td>
       <td align="center">$89 out of $250</td>
     </tr>
