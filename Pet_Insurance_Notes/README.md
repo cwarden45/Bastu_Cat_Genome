@@ -19,17 +19,17 @@
     </tr>
     <tr>
 	    <td align="center"><b>Annual Deductible</b><br><i>(Costs Prior to Reimbursement)</i></td>
-      <td align="left">$1,000/td>
+      <td align="left">$1,000</td>
       <td align="left">$1,000</td>
     </tr>
     <tr>
 	    <td align="center"><b>Reimbursement Rate</b></td>
-      <td align="left">90%<td>
+      <td align="left">90%</td>
       <td align="left">90%</td>
     </tr>
     <tr>
 	    <td align="center"><b>Preventive Care Gold </b><<br>(<i>Recovered</i> Costs for Preventive Care)</td>
-      <td align="left">$170 out of $250<td>
+      <td align="left">$170 out of $250</td>
       <td align="left">$89 out of $250</td>
     </tr>
 </tbody>
@@ -69,7 +69,7 @@ The above insurance includes *[Preventive Care Gold](https://spotpet.com/blog/wh
     <tr>
 	    <td align="center"><i>FVRCP Vaccine/Titer</i></td>
       <td align="left">$20</td>
-      <td align="left"><$20/td>
+      <td align="left">$20</td>
     </tr>
     <tr>
 	    <td align="center"><i>Rabies Vaccine/Titer OR FIP Vaccine/Titer</i></td>
