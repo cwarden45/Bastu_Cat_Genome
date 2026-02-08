@@ -163,7 +163,7 @@
       <td align="center"></td>
     </tr>
 	<tr>
-	  <td align="center"><i>Gamma Glutamyl Transferase/i><br>(GGT)<br>(U/L or IU/L)</td>
+	  <td align="center"><i>Gamma Glutamyl Transferase</i><br>(GGT)<br>(U/L or IU/L)</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -221,6 +221,30 @@
 			<tr>
 	  <td align="center"><i>BUN/Crea</i></td>
       <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+		<tr>
+	  <td align="center"><i>Symmetric Dimethylarginine</i><br>(SDMA)<br>(ug/dL)</td>
+      <td align="center"></td>
+      <td align="center">?</td>
+      <td align="center">?</td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Amylase</i><br>(IU/L)</td>
+      <td align="center">?</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+		<tr>
+	  <td align="center"><i>CPK</i><br>(IU/L)</td>
+      <td align="center">?</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
