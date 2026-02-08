@@ -12,65 +12,65 @@
     </tr>
     <tr>
 	  <td align="center"><i>WBC</i><br>(10^9/l or 10^3/uL)</td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">5.66</td>
+      <td align="center">7.7</td>
+      <td align="center">6.2</td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
 	  <td align="center"><i>RBC</i><br>(10^12/l or 10^6/uL)</td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">9.82</td>
+      <td align="center">9.9</td>
+      <td align="center">9.2</td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
 	  <td align="center"><i>HGB</i><br>(Hemoglobin)<br>(10^12/l or 10^6/uL)</td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">15.7</td>
+      <td align="center">15.4</td>
+      <td align="center">14.8</td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
 	    <tr>
 	  <td align="center"><i>HCT</i><br>(Hematocrit)<br>(%)</td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">48.18</td>
+      <td align="center">50</td>
+      <td align="center">48</td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
 	    <tr>
 	  <td align="center"><i>MCV</i><br>(fL)</td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">49</td>
+      <td align="center">50</td>
+      <td align="center">52</td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
 	    <tr>
 	  <td align="center"><i>MCH</i><br>(pg)</td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">16</td>
+      <td align="center">15.6</td>
+      <td align="center">16.2</td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
 	    <tr>
 	  <td align="center"><i>MCHC</i><br>(g/dL)</td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">32.7</td>
+      <td align="center">31</td>
+      <td align="center">31</td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
 	    <tr>
 	  <td align="center"><i>Platelet Count</i><br>(10^9/l or 10^3/uL)</td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">255.0</td>
+      <td align="center">193</td>
+      <td align="center">244</td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
