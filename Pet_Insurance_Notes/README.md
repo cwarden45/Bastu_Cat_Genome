@@ -1,4 +1,4 @@
-## [Spot Health Insurance]([https://www.fetchpet.com/](https://spotpet.com/cat-insurance)) (6/25/2024-6/25/2026)
+## [Spot Health Insurance](https://spotpet.com/cat-insurance) (6/25/2024-6/25/2026)
 
 <table>
   <tbody>
