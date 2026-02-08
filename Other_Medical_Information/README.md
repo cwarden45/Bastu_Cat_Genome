@@ -106,7 +106,127 @@
       <td align="center"></td>
       <td align="center"></td>
     </tr>
-	  <tr>
+	<tr>
+	  <td align="center"><i>Albumin</i><br>(ALB)<br>(g/dL)</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Alkaline Phosphatase</i><br>(ALKP or 'ALK PHOS')<br>(U/L or IU/L)</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+	<tr>
+	  <td align="center"><i>ALT</i><br>(U/L or IU/L)</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Blood Urea Nitrogen</i><br>(BUN)<br>(mg/dL)</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Calcium</i><br>(mg/dL)</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Cholesterol</i><br>(mg/dL)</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Creatinine</i><br>(CREA or Crea)<br>(mg/dL)</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Gamma Glutamyl Transferase/i><br>(GGT)<br>(U/L or IU/L)</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Globulin</i><br>(GLOB or Glob)<br>(g/dL)</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Glucose</i><br>(mg/dL)</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+		<tr>
+	  <td align="center"><i>Phosphorus</i><br>(mg/dL)</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+		<tr>
+	  <td align="center"><i>Total Bilirubin</i><br>(TBIL or T. Bilirubin)<br>(mg/dL)</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+		<tr>
+	  <td align="center"><i>Total Protein</i><br>(g/dL)</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+			<tr>
+	  <td align="center"><i>ALB/Glob<br>(A/G Ratio)</i></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+			<tr>
+	  <td align="center"><i>BUN/Crea</i></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+		  <tr>
 	    <td align="center"><i>Total T4</i> or <i>T4</i><br>(ug/dL)</td>
       <td align="center">3.1</td>
       <td align="center">4.2</td>
