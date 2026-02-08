@@ -11,12 +11,12 @@
       <th align="center">2/7/2026</th>
     </tr>
     <tr>
-	    <td align="center"><i>Total T4</i> or <i>T4</i><<br>(ug/dL)/td>
+	    <td align="center"><i>Total T4</i> or <i>T4</i><br>(ug/dL)</td>
       <td align="center">3.1</td>
       <td align="center">4.2</td>
       <td align="center">4.5</td>
-      <td align="center">/td>
-      <td align="center">/td>
+      <td align="center"></td>
+      <td align="center"></td>
     </tr>
 </tbody>
 </table>
