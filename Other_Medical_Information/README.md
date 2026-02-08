@@ -35,14 +35,46 @@
       <td align="center"></td>
     </tr>
 	    <tr>
-	  <td align="center"><i>HCT/i><br>(Hematocrit)<br>(%)</td>
+	  <td align="center"><i>HCT</i><br>(Hematocrit)<br>(%)</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
-		<tr>
+	    <tr>
+	  <td align="center"><i>MCV</i><br>(fL)</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+	    <tr>
+	  <td align="center"><i>MCH</i><br>(pg)</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+	    <tr>
+	  <td align="center"><i>MCHC</i><br>(g/dL)</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+	    <tr>
+	  <td align="center"><i>Platelet Count</i><br>(10^9/l or 10^3/uL)</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+	  <tr>
 	    <td align="center"><i>Total T4</i> or <i>T4</i><br>(ug/dL)</td>
       <td align="center">3.1</td>
       <td align="center">4.2</td>
