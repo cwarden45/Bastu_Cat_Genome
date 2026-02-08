@@ -9,28 +9,28 @@
     </tr>
     <tr>
 	    <td align="center"><b>Premium</b><br><i>(Upfront Insurance Cost)</i></td>
-      <td align="left">$1,184.88</td>
-      <td align="left">$1,161.84</td>
+      <td align="center">$1,184.88</td>
+      <td align="center">$1,161.84</td>
     </tr>
     <tr>
 	    <td align="center"><b>Annual Limit</b><br><i>(Max Annual Payout)</i></td>
-      <td align="left">Unlimited</td>
-      <td align="left">$10,000</td>
+      <td align="center">Unlimited</td>
+      <td align="center">$10,000</td>
     </tr>
     <tr>
 	    <td align="center"><b>Annual Deductible</b><br><i>(Costs Prior to Reimbursement)</i></td>
-      <td align="left">$1,000</td>
-      <td align="left">$1,000</td>
+      <td align="center">$1,000</td>
+      <td align="center">$1,000</td>
     </tr>
     <tr>
 	    <td align="center"><b>Reimbursement Rate</b></td>
-      <td align="left">90%</td>
-      <td align="left">90%</td>
+      <td align="center">90%</td>
+      <td align="center">90%</td>
     </tr>
     <tr>
 	    <td align="center"><b>Preventive Care Gold </b><<br>(<i>Recovered</i> Costs for Preventive Care)</td>
-      <td align="left">$170 out of $250</td>
-      <td align="left">$89 out of $250</td>
+      <td align="center">$170 out of $250</td>
+      <td align="center">$89 out of $250</td>
     </tr>
 </tbody>
 </table>
