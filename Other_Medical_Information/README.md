@@ -11,7 +11,7 @@
       <th align="center">2/7/2026</th>
     </tr>
     <tr>
-	  <td align="center"><i>WBC/i><br>(10^9/l or 10^3/uL)</td>
+	  <td align="center"><i>WBC</i><br>(10^9/l or 10^3/uL)</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -19,7 +19,7 @@
       <td align="center"></td>
     </tr>
     <tr>
-	  <td align="center"><i>RBC/i><br>(10^12/l or 10^6/uL)</td>
+	  <td align="center"><i>RBC</i><br>(10^12/l or 10^6/uL)</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -27,7 +27,7 @@
       <td align="center"></td>
     </tr>
     <tr>
-	  <td align="center"><i>HGB/i><br>(Hemoglobin)<br>(10^12/l or 10^6/uL)</td>
+	  <td align="center"><i>HGB</i><br>(Hemoglobin)<br>(10^12/l or 10^6/uL)</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
