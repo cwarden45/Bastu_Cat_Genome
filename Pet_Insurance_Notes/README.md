@@ -12,21 +12,77 @@
       <td align="left">$1,184.88</td>
       <td align="left">$1,161.84</td>
     </tr>
+    <tr>
+	    <td align="center"><b>Annual Limit</b><br><i>(Max Annual Payout)</i></td>
+      <td align="left">Unlimited</td>
+      <td align="left">$10,000</td>
+    </tr>
+    <tr>
+	    <td align="center"><b>Annual Deductible</b><br><i>(Costs Prior to Reimbursement)</i></td>
+      <td align="left">$1,000/td>
+      <td align="left">$1,000</td>
+    </tr>
+    <tr>
+	    <td align="center"><b>Reimbursement Rate</b></td>
+      <td align="left">90%<td>
+      <td align="left">90%</td>
+    </tr>
+    <tr>
+	    <td align="center"><b>Preventive Care Gold </b><<br>(<i>Recovered</i> Costs for Preventive Care)</td>
+      <td align="left">$170 out of $250<td>
+      <td align="left">$89 out of $250</td>
+    </tr>
 </tbody>
 </table>
 
-Purchased on 9/4/2022 for yearly cost of **$1,633.07**.  I also plan to renew my [Banfield Wellness Plan](https://www.banfield.com/products/optimum-wellness-plan/Cat-plans) (*Special Care*, for preventative medicine).
+The above insurance includes *[Preventive Care Gold](https://spotpet.com/blog/why-pet-insurance/pet-insurance-with-wellness-spot-preventive-care)*.
 
-*Max Annual Payout*: $10,000
+**Maximum** preventative care benefits per year:
 
-*Deductable*: $400
-
-*Reimbursement Rate*: 80%
-
-I was originally interested in *PetPlan*, but my understanding is that [this is currently Fetch by The Dodo](https://www.insurancebusinessmag.com/ca/news/breaking-news/petplan-rebrands-to-fetch-by-the-dodo-397588.aspx).
-
-My cat has a prescription dental diet, although [this FAQ](https://www.fetchpet.com/faqs/prescription-food-pet-insurance-coverage) indicates that the prescription diet is not covered.  Preventative measures like dental cleanings are also [not covered](https://www.fetchpet.com/faqs/dental-coverage).
-
+<table>
+  <tbody>
+    <tr>
+      <th align="center"></th>
+      <th align="center">2024-2025</th>
+      <th align="center">2025-2026</th>
+    </tr>
+    <tr>
+	    <td align="center"><i>Dental Cleaning</i></td>
+      <td align="left">$100</td>
+      <td align="left">$100</td>
+    </tr>
+    <tr>
+	    <td align="center"><i>Wellness Exam</i></td>
+      <td align="left">$50</td>
+      <td align="left">50</td>
+    </tr>
+    <tr>
+	    <td align="center"><i>Fecal Test</i></td>
+      <td align="left">$20</td>
+      <td align="left">$20</td>
+    </tr>
+    <tr>
+	    <td align="center"><i>Deworming</i></td>
+      <td align="left">$20</td>
+      <td align="left">$20</td>
+    </tr>
+    <tr>
+	    <td align="center"><i>FVRCP Vaccine/Titer</i></td>
+      <td align="left">$20</td>
+      <td align="left"><$20/td>
+    </tr>
+    <tr>
+	    <td align="center"><i>Rabies Vaccine/Titer OR FIP Vaccine/Titer</i></td>
+      <td align="left">$20</td>
+      <td align="left">$20</td>
+    </tr>
+    <tr>
+	    <td align="center"><i>FELV Test</i></td>
+      <td align="left">$20</td>
+      <td align="left">$20</td>
+    </tr>
+</tbody>
+</table>
 
 ## [Fetch by The Dodo](https://www.fetchpet.com/) (9/5/2022-9/4/2023)
 
