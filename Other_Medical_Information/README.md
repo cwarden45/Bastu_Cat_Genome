@@ -108,7 +108,7 @@
     </tr>
 	<tr>
 	  <td align="center"><i>Albumin</i><br>(ALB)<br>(g/dL)</td>
-      <td align="center"></td>
+      <td align="center">3.3</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -116,7 +116,7 @@
     </tr>
 	<tr>
 	  <td align="center"><i>Alkaline Phosphatase</i><br>(ALKP or 'ALK PHOS')<br>(U/L or IU/L)</td>
-      <td align="center"></td>
+      <td align="center">27.0</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -124,7 +124,7 @@
     </tr>
 	<tr>
 	  <td align="center"><i>ALT</i><br>(U/L or IU/L)</td>
-      <td align="center"></td>
+      <td align="center">30.0</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -132,7 +132,7 @@
     </tr>
 	<tr>
 	  <td align="center"><i>Blood Urea Nitrogen</i><br>(BUN)<br>(mg/dL)</td>
-      <td align="center"></td>
+      <td align="center">22.0</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -140,7 +140,7 @@
     </tr>
 	<tr>
 	  <td align="center"><i>Calcium</i><br>(mg/dL)</td>
-      <td align="center"></td>
+      <td align="center">10.0</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -148,7 +148,15 @@
     </tr>
 	<tr>
 	  <td align="center"><i>Cholesterol</i><br>(mg/dL)</td>
+      <td align="center">121.0</td>
       <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Triglyceride</i><br>(mg/dL)</td>
+      <td align="center">?</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -156,7 +164,7 @@
     </tr>
 	<tr>
 	  <td align="center"><i>Creatinine</i><br>(CREA or Crea)<br>(mg/dL)</td>
-      <td align="center"></td>
+      <td align="center">1.8</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -164,7 +172,7 @@
     </tr>
 	<tr>
 	  <td align="center"><i>Gamma Glutamyl Transferase</i><br>(GGT)<br>(U/L or IU/L)</td>
-      <td align="center"></td>
+      <td align="center">0.0</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -172,7 +180,7 @@
     </tr>
 	<tr>
 	  <td align="center"><i>Globulin</i><br>(GLOB or Glob)<br>(g/dL)</td>
-      <td align="center"></td>
+      <td align="center">4.3</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -180,7 +188,7 @@
     </tr>
 	<tr>
 	  <td align="center"><i>Glucose</i><br>(mg/dL)</td>
-      <td align="center"></td>
+      <td align="center">86.0</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -188,7 +196,7 @@
     </tr>
 		<tr>
 	  <td align="center"><i>Phosphorus</i><br>(mg/dL)</td>
-      <td align="center"></td>
+      <td align="center">3.7</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -196,7 +204,7 @@
     </tr>
 		<tr>
 	  <td align="center"><i>Total Bilirubin</i><br>(TBIL or T. Bilirubin)<br>(mg/dL)</td>
-      <td align="center"></td>
+      <td align="center">0.3</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -204,7 +212,7 @@
     </tr>
 		<tr>
 	  <td align="center"><i>Total Protein</i><br>(g/dL)</td>
-      <td align="center"></td>
+      <td align="center">7.6</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -212,7 +220,7 @@
     </tr>
 			<tr>
 	  <td align="center"><i>ALB/Glob<br>(A/G Ratio)</i></td>
-      <td align="center"></td>
+      <td align="center">0.8</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -220,7 +228,7 @@
     </tr>
 			<tr>
 	  <td align="center"><i>BUN/Crea</i></td>
-      <td align="center"></td>
+      <td align="center">12.0</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
@@ -228,9 +236,9 @@
     </tr>
 		<tr>
 	  <td align="center"><i>Symmetric Dimethylarginine</i><br>(SDMA)<br>(ug/dL)</td>
+      <td align="center">9.0</td>
       <td align="center"></td>
-      <td align="center">?</td>
-      <td align="center">?</td>
+      <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
