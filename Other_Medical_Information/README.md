@@ -141,7 +141,7 @@
 	<tr>
 	  <td align="center"><i>Cholesterol</i><br>(mg/dL)</td>
       <td align="center">121.0</td>
-      <td align="center"><145/td>
+      <td align="center">145</td>
       <td align="center">144</td>
       <td align="center"></td>
       <td align="center"></td>
@@ -157,7 +157,7 @@
 	<tr>
 	  <td align="center"><i>Creatinine</i><br>(CREA or Crea)<br>(mg/dL)</td>
       <td align="center">1.8</td>
-      <td align="center"><1.3/td>
+      <td align="center">1.3</td>
       <td align="center">1.0</td>
       <td align="center"></td>
       <td align="center"></td>
