@@ -54,7 +54,7 @@ The above insurance includes *[Preventive Care Gold](https://spotpet.com/blog/wh
     <tr>
 	    <td align="center"><i>Wellness Exam</i></td>
       <td align="left">$50</td>
-      <td align="left">50</td>
+      <td align="left">$50</td>
     </tr>
     <tr>
 	    <td align="center"><i>Fecal Test</i></td>
