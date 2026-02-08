@@ -74,6 +74,38 @@
       <td align="center"></td>
       <td align="center"></td>
     </tr>
+	    <tr>
+	  <td align="center"><i>Sodium (Na+)</i><br>(mmmol/L or mEq/L)</td>
+      <td align="center">158.0</td>
+      <td align="center"><151/td>
+      <td align="center">151</td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+	    <tr>
+	  <td align="center"><i>Potassium (K+)</i><br>(mmmol/L or mEq/L)</td>
+      <td align="center">4.6</td>
+      <td align="center">4.6</td>
+      <td align="center">4.1</td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+	    <tr>
+	  <td align="center"><i>Chloride (Cl-)</i><br>(mmmol/L or mEq/L)</td>
+      <td align="center">117.0</td>
+      <td align="center"><117/td>
+      <td align="center">114</td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Na+/K+</i></td>
+      <td align="center">34.0</td>
+      <td align="center">33</td>
+      <td align="center">37</td>
+      <td align="center"></td>
+      <td align="center"></td>
+    </tr>
 	  <tr>
 	    <td align="center"><i>Total T4</i> or <i>T4</i><br>(ug/dL)</td>
       <td align="center">3.1</td>
