@@ -314,6 +314,8 @@ Whole Body X-Rays from 2024 are available [here](https://github.com/cwarden45/Ba
 
 [Bastu-WholeBody-Xray-260207-DCM.zip](Bastu-WholeBody-Xray-260207-DCM.zip) - Whole Body X-Rays (from 2/7/2026) in DICOM Format.
 
+...
+
 For Windows, and open-source open to view .dcm files is [MicroDicom](https://www.microdicom.com/downloads.html).
 
 For either Windows or Linux (or Mac), [Weasis](https://weasis.org/en/getting-started/download-dicom-viewer/) is another option.
