@@ -308,7 +308,7 @@ The test results from 8/16/2021 indicate the normal range for *Total T4* is 0.8 
 
 The test results from 1/10/2026 (processed on 1/11/2026, from a different provider from 2021) indicate that the *T4* reference interval is 0.8 to 4.0 (ug/dL).
 
-## Additional Files
+## X-Rays
 
 Whole Body X-Rays from 2024 are available [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Bastu-WholeBody-Xray-240415-JPG.zip).
 
@@ -320,3 +320,6 @@ For Windows, and open-source open to view .dcm files is [MicroDicom](https://www
 
 For either Windows or Linux (or Mac), [Weasis](https://weasis.org/en/getting-started/download-dicom-viewer/) is another option.  For *Ubuntu*, the downloaded file can be installed with a command such as `sudo dpkg -i weasis_4.6.6-1_amd64.deb`.
 
+## Urinalysis Images
+
+[Bastu-Urinalysis-260207-2.53.PM.zip](Bastu-Urinalysis-260207-2.53.PM.zip)
