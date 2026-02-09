@@ -221,7 +221,7 @@
 		<tr>
 	  <td align="center"><i>Total Bilirubin</i><br>(TBIL or T. Bilirubin)<br>(mg/dL)</td>
       <td align="center">0.3</td>
-      <td align="center">?</td>
+      <td align="center"></td>
       <td align="center">0.1</td>
       <td align="center"></td>
       <td align="center"></td>
