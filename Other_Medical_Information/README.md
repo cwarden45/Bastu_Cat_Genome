@@ -287,7 +287,7 @@
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
-      <td align="center"><i>Cystocentesis</i><br>Amber,Slightly Cloudy<br>Blood = 250 Ery/uL<br>Bilirubin = 17 umol/L</td>
+      <td align="center"><i>Cystocentesis</i><br>Amber, Slightly Cloudy<br>Blood = 250 Ery/uL<br>Bilirubin = 17 umol/L<br>Urobilirubin = 70 umol/L<br>WBC = 27/HPF<br>RBC = 38/HPF<br> Bacteria = [Variable Results]</td>
       <td align="center"></td>
 			   <td align="center"></td>
     </tr>
