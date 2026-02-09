@@ -281,7 +281,17 @@
       <td align="center"></td>
 			 <td align="center"></td>
     </tr>
+    </tr>
 		  <tr>
+	    <td align="center"><i>Urinalysis/i> </td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"><u>Cystocentesis</u></td>
+      <td align="center"></td>
+			   <td align="center"></td>
+    </tr>
+	  <tr>
 	    <td align="center"><i>Total T4</i> or <i>T4</i><br>(ug/dL)</td>
       <td align="center">3.1</td>
       <td align="center">4.2</td>
@@ -290,6 +300,7 @@
       <td align="center"></td>
 			   <td align="center"></td>
     </tr>
+
 </tbody>
 </table>
 
