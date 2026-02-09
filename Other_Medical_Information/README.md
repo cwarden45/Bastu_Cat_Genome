@@ -318,5 +318,5 @@ Whole Body X-Rays from 2024 are available [here](https://github.com/cwarden45/Ba
 
 For Windows, and open-source open to view .dcm files is [MicroDicom](https://www.microdicom.com/downloads.html).
 
-For either Windows or Linux (or Mac), [Weasis](https://weasis.org/en/getting-started/download-dicom-viewer/) is another option.
+For either Windows or Linux (or Mac), [Weasis](https://weasis.org/en/getting-started/download-dicom-viewer/) is another option.  For *Ubuntu*, the downloaded file can be installed with a command such as `sudo dpkg -i weasis_4.6.6-1_amd64.deb`.
 
