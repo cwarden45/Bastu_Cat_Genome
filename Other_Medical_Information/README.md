@@ -261,6 +261,10 @@
 </tbody>
 </table>
 
+## Additional Files
+
+Whole Body X-Rays from 2024 are available [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Bastu-WholeBody-Xray-240415-JPG.zip).
+
 The test results from 8/16/2021 indicate the normal range for *Total T4* is 0.8 to 4.7 (ug/dL).
 
 The test results from 1/10/2026 (processed on 1/11/2026, from a different provider from 2021) indicate that the *T4* reference interval is 0.8 to 4.0 (ug/dL).
