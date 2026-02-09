@@ -323,3 +323,5 @@ For either Windows or Linux (or Mac), [Weasis](https://weasis.org/en/getting-sta
 ## Urinalysis Images
 
 [Bastu-Urinalysis-260207-2.53.PM.zip](Bastu-Urinalysis-260207-2.53.PM.zip)
+
+[Bastu-Urinalysis-260207-3.15.PM.zip](Bastu-Urinalysis-260207-3.15.PM.zip) - based upon detailed IDEXX test results, I expect that this is "re-evaluation of proteinuria after resolution of active sediment."
