@@ -283,11 +283,11 @@
     </tr>
     </tr>
 		  <tr>
-	    <td align="center"><i>Urinalysis/i> </td>
+	    <td align="center"><i>Urinalysis</i> </td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
-      <td align="center"><u>Cystocentesis</u></td>
+      <td align="center"><i>Cystocentesis</i><br>Amber,Slightly Cloudy<br>Blood = 250 Ery/uL<br>Bilirubin = 17 umol/L</td>
       <td align="center"></td>
 			   <td align="center"></td>
     </tr>
