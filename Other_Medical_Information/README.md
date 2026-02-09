@@ -166,7 +166,7 @@
     </tr>
 	<tr>
 	  <td align="center"><i>Triglyceride</i><br>(mg/dL)</td>
-      <td align="center">?</td>
+      <td align="center"></td>
       <td align="center">67</td>
       <td align="center">82</td>
       <td align="center"></td>
@@ -265,7 +265,7 @@
     </tr>
 	<tr>
 	  <td align="center"><i>Amylase</i><br>(IU/L)</td>
-      <td align="center">?</td>
+      <td align="center"></td>
       <td align="center">800</td>
       <td align="center">770</td>
       <td align="center"></td>
@@ -274,7 +274,7 @@
     </tr>
 		<tr>
 	  <td align="center"><i>CPK</i><br>(IU/L)</td>
-      <td align="center">?</td>
+      <td align="center"></td>
       <td align="center">182</td>
       <td align="center">185</td>
       <td align="center"></td>
