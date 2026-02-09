@@ -312,7 +312,7 @@ The test results from 1/10/2026 (processed on 1/11/2026, from a different provid
 
 Whole Body X-Rays from 2024 are available [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Bastu-WholeBody-Xray-240415-JPG.zip).
 
-[Bastu-WholeBody-Xray-260208-DCM.zip](Bastu-WholeBody-Xray-260208-DCM.zip) - Whole Body X-Rays in DICOM Format.
+[Bastu-WholeBody-Xray-260208-DCM.zip](Bastu-WholeBody-Xray-260208-DCM.zip) - Whole Body X-Rays (from 2/7/2026) in DICOM Format.
 
 For Windows, and open-source open to view .dcm files is [MicroDicom](https://www.microdicom.com/downloads.html).
 
