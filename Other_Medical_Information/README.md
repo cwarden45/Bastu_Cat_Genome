@@ -338,7 +338,7 @@
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
-      <td align="center"><b>87.8</b>b></td>
+      <td align="center"><b>87.8</b></td>
       <td align="center"></td>
 	  <td align="center"></td>
 	  <td align="center"></td>
