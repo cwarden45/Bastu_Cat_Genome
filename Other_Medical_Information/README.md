@@ -334,7 +334,7 @@
     </tr>
     </tr>
 	  <tr>
-	    <td align="center"><i>Free T4</i<br>(Equilibrium Dialysis)<br>(pmol/L)</td>
+	    <td align="center"><i>Free T4</i><br>(Equilibrium Dialysis)<br>(pmol/L)</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
