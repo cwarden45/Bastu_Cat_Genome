@@ -305,8 +305,8 @@
 		<tr>
 	  <td align="center"><i>PrecisionPSL</i><br>(IU/L)</td>
       <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
+      <td align="center">19</td>
+      <td align="center">19</td>
       <td align="center"><b>40</b></td>
       <td align="center"></td>
 	  <td align="center"></td>
