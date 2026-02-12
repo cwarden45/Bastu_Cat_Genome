@@ -273,7 +273,7 @@
 				<td align="center"></td>
     </tr>
 			<tr>
-	  <td align="center"><i>BUN/Crea</i></td>
+	  <td align="center"><b>BUN/Crea</b></td>
       <td align="center">12.0</td>
       <td align="center">18</td>
       <td align="center">21</td>
