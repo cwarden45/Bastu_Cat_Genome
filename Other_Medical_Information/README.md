@@ -17,7 +17,7 @@
       <td align="center">5.66</td>
       <td align="center">7.7</td>
       <td align="center">6.2</td>
-      <td align="center"></td>
+      <td align="center">7.1</td>
       <td align="center"></td>
 	  <td align="center"></td>
 	  <td align="center"></td>
@@ -27,7 +27,7 @@
       <td align="center">9.82</td>
       <td align="center">9.9</td>
       <td align="center">9.2</td>
-      <td align="center"></td>
+      <td align="center">5.9</td>
       <td align="center"></td>
 	  <td align="center"></td>
 		<td align="center"></td>
@@ -37,7 +37,7 @@
       <td align="center">15.7</td>
       <td align="center">15.4</td>
       <td align="center">14.8</td>
-      <td align="center"></td>
+      <td align="center">9.4</td>
       <td align="center"></td>
 	  <td align="center"></td>
 		<td align="center"></td>
@@ -47,7 +47,7 @@
       <td align="center">48.18</td>
       <td align="center">50</td>
       <td align="center">48</td>
-      <td align="center"></td>
+      <td align="center">30</td>
       <td align="center"></td>
 	  <td align="center">27</td>
 			<td align="center"></td>
@@ -57,7 +57,7 @@
       <td align="center">49</td>
       <td align="center">50</td>
       <td align="center">52</td>
-      <td align="center"></td>
+      <td align="center">52</td>
       <td align="center"></td>
 	  <td align="center"></td>
 			<td align="center"></td>
@@ -67,7 +67,7 @@
       <td align="center">16</td>
       <td align="center">15.6</td>
       <td align="center">16.2</td>
-      <td align="center"></td>
+      <td align="center">16.0</td>
       <td align="center"></td>
 	  <td align="center"></td>
 			<td align="center"></td>
@@ -77,7 +77,7 @@
       <td align="center">32.7</td>
       <td align="center">31</td>
       <td align="center">31</td>
-      <td align="center"></td>
+      <td align="center">31</td>
       <td align="center"></td>
 	  <td align="center"></td>
 			<td align="center"></td>
