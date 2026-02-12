@@ -87,7 +87,7 @@
       <td align="center">255.0</td>
       <td align="center">193</td>
       <td align="center">244</td>
-      <td align="center"></td>
+      <td align="center">140</td>
       <td align="center"></td>
 	  <td align="center"></td>
 			<td align="center"></td>
@@ -97,7 +97,7 @@
       <td align="center">158.0</td>
       <td align="center">151</td>
       <td align="center">151</td>
-      <td align="center"></td>
+      <td align="center">155</td>
       <td align="center"></td>
 	  <td align="center">153</td>
 			<td align="center"></td>
@@ -107,7 +107,7 @@
       <td align="center">4.6</td>
       <td align="center">4.6</td>
       <td align="center">4.1</td>
-      <td align="center"></td>
+      <td align="center">4.1</td>
       <td align="center"></td>
 	  <td align="center">4.1</td>
 			<td align="center"></td>
@@ -117,7 +117,7 @@
       <td align="center">117.0</td>
       <td align="center">117</td>
       <td align="center">114</td>
-      <td align="center"></td>
+      <td align="center">116</td>
       <td align="center"></td>
 	  <td align="center">126</td>
 			<td align="center"></td>
@@ -127,7 +127,7 @@
       <td align="center">34.0</td>
       <td align="center">33</td>
       <td align="center">37</td>
-      <td align="center"></td>
+      <td align="center">38</td>
       <td align="center"></td>
 	  <td align="center"></td>
 		<td align="center"></td>
@@ -137,7 +137,7 @@
       <td align="center">3.3</td>
       <td align="center">3.6</td>
       <td align="center">3.7</td>
-      <td align="center"></td>
+      <td align="center">2.8</td>
       <td align="center"></td>
 	  <td align="center"></td>
 		<td align="center"></td>
@@ -147,7 +147,7 @@
       <td align="center">27.0</td>
       <td align="center">47</td>
       <td align="center">56</td>
-      <td align="center"></td>
+      <td align="center">62</td>
       <td align="center"></td>
 	  <td align="center"></td>
 		<td align="center"></td>
@@ -157,7 +157,7 @@
       <td align="center">22.0</td>
       <td align="center">24</td>
       <td align="center">21</td>
-      <td align="center"></td>
+      <td align="center"><b>72</b></td>
       <td align="center"></td>
 	  <td align="center">13</td>
 		<td align="center"></td>
@@ -167,7 +167,7 @@
       <td align="center">10.0</td>
       <td align="center">9.9</td>
       <td align="center">9.9</td>
-      <td align="center"></td>
+      <td align="center">8.6</td>
       <td align="center"></td>
 	  <td align="center"></td>
 		<td align="center"></td>
@@ -177,7 +177,7 @@
       <td align="center">121.0</td>
       <td align="center">145</td>
       <td align="center">144</td>
-      <td align="center"></td>
+      <td align="center">128</td>
       <td align="center"></td>
 	  <td align="center"></td>
 		<td align="center"></td>
@@ -187,7 +187,7 @@
       <td align="center"></td>
       <td align="center">67</td>
       <td align="center">82</td>
-      <td align="center"></td>
+      <td align="center">102</td>
       <td align="center"></td>
 	  <td align="center"></td>
 		<td align="center"></td>
@@ -197,7 +197,7 @@
       <td align="center">1.8</td>
       <td align="center">1.3</td>
       <td align="center">1.0</td>
-      <td align="center"></td>
+      <td align="center">1.4</td>
       <td align="center"></td>
 	  <td align="center">0.84</td>
 		<td align="center"></td>
@@ -207,9 +207,9 @@
       <td align="center">0.0</td>
       <td align="center">1</td>
       <td align="center">1</td>
+      <td align="center">2</td>
       <td align="center"></td>
-      <td align="center"></td>
-		 <td align="center"></td>
+	  <td align="center"></td>
 		<td align="center"></td>
     </tr>
 	<tr>
@@ -217,7 +217,7 @@
       <td align="center">4.3</td>
       <td align="center">4.5</td>
       <td align="center">4.4</td>
-      <td align="center"></td>
+      <td align="center">5.0</td>
       <td align="center"></td>
 	  <td align="center"></td>
 		<td align="center"></td>
@@ -227,7 +227,7 @@
       <td align="center">86.0</td>
       <td align="center">94</td>
       <td align="center">46</td>
-      <td align="center"></td>
+      <td align="center">134</td>
       <td align="center"></td>
 	  <td align="center">111</td>
 		<td align="center"></td>
@@ -235,9 +235,9 @@
 		<tr>
 	  <td align="center"><i>Phosphorus</i><br>(mg/dL)</td>
       <td align="center">3.7</td>
-      <td align="center">5,2</td>
+      <td align="center">5.2</td>
       <td align="center">4.8</td>
-      <td align="center"></td>
+      <td align="center">8.8</td>
       <td align="center"></td>
 	  <td align="center"></td>
 			<td align="center"></td>
@@ -247,7 +247,7 @@
       <td align="center">0.3</td>
       <td align="center"></td>
       <td align="center">0.1</td>
-      <td align="center"></td>
+      <td align="center">0.7</td>
       <td align="center"></td>
 	  <td align="center"></td>
 			<td align="center"></td>
@@ -257,7 +257,7 @@
       <td align="center">7.6</td>
       <td align="center">8.1</td>
       <td align="center">8.1</td>
-      <td align="center"></td>
+      <td align="center">7.8</td>
       <td align="center"></td>
 	  <td align="center"></td>
 			<td align="center"></td>
@@ -267,7 +267,7 @@
       <td align="center">0.8</td>
       <td align="center">0.8</td>
       <td align="center">0.8</td>
-      <td align="center"></td>
+      <td align="center">0.6</td>
       <td align="center"></td>
 	  <td align="center"></td>
 				<td align="center"></td>
@@ -277,7 +277,7 @@
       <td align="center">12.0</td>
       <td align="center">18</td>
       <td align="center">21</td>
-      <td align="center"></td>
+      <td align="center"><b>51</b></td>
       <td align="center"></td>
 	  <td align="center"></td>
 				<td align="center"></td>
@@ -287,7 +287,7 @@
       <td align="center">9.0</td>
       <td align="center">12.3</td>
       <td align="center">14.0</td>
-      <td align="center"></td>
+      <td align="center"><b>22.2</b></td>
       <td align="center"></td>
 	  <td align="center"></td>
 			<td align="center"></td>
@@ -297,17 +297,27 @@
       <td align="center"></td>
       <td align="center">800</td>
       <td align="center">770</td>
-      <td align="center"></td>
+      <td align="center">1,316</td>
       <td align="center"></td>
 	  <td align="center"></td>
 		<td align="center"></td>
     </tr>
 		<tr>
+	  <td align="center"><i>PrecisionPSL</i><br>(IU/L)</td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"><b>40</b></td>
+      <td align="center"></td>
+	  <td align="center"></td>
+			<td align="center"></td>
+    </tr>
+	  <tr>
 	  <td align="center"><i>CPK</i><br>(IU/L)</td>
       <td align="center"></td>
       <td align="center">182</td>
       <td align="center">185</td>
-      <td align="center"></td>
+      <td align="center">343</td>
       <td align="center"></td>
 	  <td align="center"></td>
 			<td align="center"></td>
@@ -326,8 +336,8 @@
 	    <td align="center"><i>Total T4</i> or <i>T4</i><br>(ug/dL)</td>
       <td align="center">3.1</td>
       <td align="center">4.2</td>
-      <td align="center">4.5</td>
-      <td align="center"></td>
+      <td align="center"><b>4.5</b></td>
+      <td align="center"><b>4.6</b></td>
       <td align="center"></td>
 	  <td align="center"></td>
 	  <td align="center"></td>
