@@ -153,7 +153,7 @@
 		<td align="center"></td>
     </tr>
 	<tr>
-	  <td align="center"><i>Blood Urea Nitrogen</i><br>(BUN)<br>(mg/dL)</td>
+	  <td align="center"><i>Blood Urea Nitrogen</i><b><br>(BUN)</b><br>(mg/dL)</td>
       <td align="center">22.0</td>
       <td align="center">24</td>
       <td align="center">21</td>
@@ -283,7 +283,7 @@
 				<td align="center"></td>
     </tr>
 		<tr>
-	  <td align="center"><i>Symmetric Dimethylarginine</i><br>(SDMA)<br>(ug/dL)</td>
+	  <td align="center"><i>Symmetric Dimethylarginine</i><br>(<b>SDMA</b>)<br>(ug/dL)</td>
       <td align="center">9.0</td>
       <td align="center">12.3</td>
       <td align="center">14.0</td>
@@ -303,7 +303,7 @@
 		<td align="center"></td>
     </tr>
 		<tr>
-	  <td align="center"><i>PrecisionPSL</i><br>(IU/L)</td>
+	  <td align="center"><b>PrecisionPSL</b><br>(IU/L)</td>
       <td align="center"></td>
       <td align="center">19</td>
       <td align="center">19</td>
@@ -333,7 +333,7 @@
 	  <td align="center"></td>
     </tr>
 	  <tr>
-	    <td align="center"><i>Total T4</i> or <i>T4</i><br>(ug/dL)</td>
+	    <td align="center"><b><i>Total T4</i></b> or <b><i>T4</i></b><br>(ug/dL)</td>
       <td align="center">3.1</td>
       <td align="center">4.2</td>
       <td align="center"><b>4.5</b></td>
@@ -344,7 +344,7 @@
     </tr>
     </tr>
 	  <tr>
-	    <td align="center"><i>Free T4</i><br>(Equilibrium Dialysis)<br>(pmol/L)</td>
+	    <td align="center"><b><i>Free T4</i></b><br>(Equilibrium Dialysis)<br>(pmol/L)</td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
