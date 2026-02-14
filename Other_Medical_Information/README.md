@@ -341,7 +341,7 @@
       <td align="center"><b>4.6</b></td>
       <td align="center"></td>
 	  <td align="center"></td>
-	  <td align="center">5.1</td>
+	  <td align="center"><b>5.1</b></td>
     </tr>
     </tr>
 	  <tr>
