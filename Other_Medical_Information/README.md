@@ -20,7 +20,7 @@
       <td align="center">7.1</td>
       <td align="center"></td>
 	  <td align="center"></td>
-	  <td align="center"></td>
+	  <td align="center">11.83</td>
     </tr>
     <tr>
 	  <td align="center"><i>RBC</i><br>(10^12/l or 10^6/uL)</td>
@@ -30,7 +30,7 @@
       <td align="center">5.9</td>
       <td align="center"></td>
 	  <td align="center"></td>
-		<td align="center"></td>
+	  <td align="center">6.50</td>
     </tr>
     <tr>
 	  <td align="center"><i>HGB</i><br>(Hemoglobin)<br>(10^12/l or 10^6/uL)</td>
@@ -40,7 +40,7 @@
       <td align="center">9.4</td>
       <td align="center"></td>
 	  <td align="center"></td>
-		<td align="center"></td>
+	  <td align="center">9.7</td>
     </tr>
 	    <tr>
 	  <td align="center"><i>HCT</i><br>(Hematocrit)<br>(%)</td>
@@ -50,7 +50,7 @@
       <td align="center">30</td>
       <td align="center"></td>
 	  <td align="center">27</td>
-			<td align="center"></td>
+	  <td align="center">30.4</td>
     </tr>
 	    <tr>
 	  <td align="center"><i>MCV</i><br>(fL)</td>
@@ -60,7 +60,7 @@
       <td align="center">52</td>
       <td align="center"></td>
 	  <td align="center"></td>
-			<td align="center"></td>
+	  <td align="center">46.8</td>
     </tr>
 	    <tr>
 	  <td align="center"><i>MCH</i><br>(pg)</td>
@@ -70,7 +70,7 @@
       <td align="center">16.0</td>
       <td align="center"></td>
 	  <td align="center"></td>
-			<td align="center"></td>
+	  <td align="center">14.9</td>
     </tr>
 	    <tr>
 	  <td align="center"><i>MCHC</i><br>(g/dL)</td>
@@ -80,7 +80,7 @@
       <td align="center">31</td>
       <td align="center"></td>
 	  <td align="center"></td>
-			<td align="center"></td>
+	  <td align="center">31.9</td>
     </tr>
 	    <tr>
 	  <td align="center"><i>Platelet Count</i><br>(10^9/l or 10^3/uL)</td>
@@ -90,7 +90,7 @@
       <td align="center">140</td>
       <td align="center"></td>
 	  <td align="center"></td>
-			<td align="center"></td>
+	  <td align="center">331</td>
     </tr>
 	    <tr>
 	  <td align="center"><i>Sodium (Na+)</i><br>(mmmol/L or mEq/L)</td>
@@ -100,7 +100,7 @@
       <td align="center">155</td>
       <td align="center"></td>
 	  <td align="center">153</td>
-			<td align="center"></td>
+	  <td align="center">163</td>
     </tr>
 	    <tr>
 	  <td align="center"><i>Potassium (K+)</i><br>(mmmol/L or mEq/L)</td>
@@ -110,7 +110,7 @@
       <td align="center">4.1</td>
       <td align="center"></td>
 	  <td align="center">4.1</td>
-			<td align="center"></td>
+	  <td align="center">3.9</td>
     </tr>
 	    <tr>
 	  <td align="center"><i>Chloride (Cl-)</i><br>(mmmol/L or mEq/L)</td>
@@ -120,7 +120,7 @@
       <td align="center">116</td>
       <td align="center"></td>
 	  <td align="center">126</td>
-			<td align="center"></td>
+	  <td align="center">123</td>
     </tr>
 	<tr>
 	  <td align="center"><i>Na+/K+</i></td>
@@ -130,7 +130,7 @@
       <td align="center">38</td>
       <td align="center"></td>
 	  <td align="center"></td>
-		<td align="center"></td>
+	  <td align="center">41</td>
     </tr>
 	<tr>
 	  <td align="center"><i>Albumin</i><br>(ALB)<br>(g/dL)</td>
@@ -140,7 +140,7 @@
       <td align="center">2.8</td>
       <td align="center"></td>
 	  <td align="center"></td>
-		<td align="center"></td>
+	  <td align="center">2.5</td>
     </tr>
 	<tr>
 	  <td align="center"><i>Alkaline Phosphatase</i><br>(ALKP or 'ALK PHOS')<br>(U/L or IU/L)</td>
@@ -160,7 +160,7 @@
       <td align="center"><b>72</b></td>
       <td align="center"></td>
 	  <td align="center">13</td>
-		<td align="center"></td>
+	  <td align="center">13</td>
     </tr>
 	<tr>
 	  <td align="center"><i>Calcium</i><br>(mg/dL)</td>
@@ -170,7 +170,7 @@
       <td align="center">8.6</td>
       <td align="center"></td>
 	  <td align="center"></td>
-		<td align="center"></td>
+	  <td align="center">9.2</td>
     </tr>
 	<tr>
 	  <td align="center"><i>Cholesterol</i><br>(mg/dL)</td>
@@ -180,7 +180,7 @@
       <td align="center">128</td>
       <td align="center"></td>
 	  <td align="center"></td>
-		<td align="center"></td>
+	  <td align="center">109</td>
     </tr>
 	<tr>
 	  <td align="center"><i>Triglyceride</i><br>(mg/dL)</td>
@@ -200,7 +200,7 @@
       <td align="center">1.4</td>
       <td align="center"></td>
 	  <td align="center">0.84</td>
-		<td align="center"></td>
+	  <td align="center">0.8</td>
     </tr>
 	<tr>
 	  <td align="center"><i>Gamma Glutamyl Transferase</i><br>(GGT)<br>(U/L or IU/L)</td>
@@ -210,7 +210,7 @@
       <td align="center">2</td>
       <td align="center"></td>
 	  <td align="center"></td>
-		<td align="center"></td>
+	  <td align="center">0</td>
     </tr>
 	<tr>
 	  <td align="center"><i>Globulin</i><br>(GLOB or Glob)<br>(g/dL)</td>
@@ -220,7 +220,7 @@
       <td align="center">5.0</td>
       <td align="center"></td>
 	  <td align="center"></td>
-		<td align="center"></td>
+	  <td align="center">4.5</td>
     </tr>
 	<tr>
 	  <td align="center"><i>Glucose</i><br>(mg/dL)</td>
@@ -230,7 +230,7 @@
       <td align="center">134</td>
       <td align="center"></td>
 	  <td align="center">111</td>
-		<td align="center"></td>
+	  <td align="center">97</td>
     </tr>
 		<tr>
 	  <td align="center"><i>Phosphorus</i><br>(mg/dL)</td>
@@ -240,7 +240,7 @@
       <td align="center">8.8</td>
       <td align="center"></td>
 	  <td align="center"></td>
-			<td align="center"></td>
+	  <td align="center">4.2</td>
     </tr>
 		<tr>
 	  <td align="center"><i>Total Bilirubin</i><br>(TBIL or T. Bilirubin)<br>(mg/dL)</td>
@@ -250,7 +250,7 @@
       <td align="center">0.7</td>
       <td align="center"></td>
 	  <td align="center"></td>
-			<td align="center"></td>
+	  <td align="center">0.4</td>
     </tr>
 		<tr>
 	  <td align="center"><i>Total Protein</i><br>(g/dL)</td>
@@ -260,7 +260,7 @@
       <td align="center">7.8</td>
       <td align="center"></td>
 	  <td align="center"></td>
-			<td align="center"></td>
+	  <td align="center">6.9</td>
     </tr>
 			<tr>
 	  <td align="center"><i>ALB/Glob<br>(A/G Ratio)</i></td>
@@ -270,7 +270,7 @@
       <td align="center">0.6</td>
       <td align="center"></td>
 	  <td align="center"></td>
-				<td align="center"></td>
+	  <td align="center">0.6</td>
     </tr>
 			<tr>
 	  <td align="center"><b>BUN/Crea</b></td>
@@ -280,7 +280,7 @@
       <td align="center"><b>51</b></td>
       <td align="center"></td>
 	  <td align="center"></td>
-				<td align="center"></td>
+	  <td align="center">16</td>
     </tr>
 		<tr>
 	  <td align="center"><i>Symmetric Dimethylarginine</i><br>(<b>SDMA</b>)<br>(ug/dL)</td>
@@ -290,7 +290,7 @@
       <td align="center"><b>22.2</b></td>
       <td align="center"></td>
 	  <td align="center"></td>
-			<td align="center"></td>
+	  <td align="center">7</td>
     </tr>
 	<tr>
 	  <td align="center"><i>Amylase</i><br>(IU/L)</td>
@@ -300,7 +300,7 @@
       <td align="center">1,316</td>
       <td align="center"></td>
 	  <td align="center"></td>
-		<td align="center"></td>
+	  <td align="center">1,059</td>
     </tr>
 		<tr>
 	  <td align="center"><b>PrecisionPSL</b><br>(IU/L)</td>
@@ -310,7 +310,7 @@
       <td align="center"><b>40</b></td>
       <td align="center"></td>
 	  <td align="center"></td>
-			<td align="center"></td>
+	  <td align="center"></td>
     </tr>
 	  <tr>
 	  <td align="center"><i>CPK</i><br>(IU/L)</td>
@@ -320,7 +320,7 @@
       <td align="center">343</td>
       <td align="center"></td>
 	  <td align="center"></td>
-			<td align="center"></td>
+	  <td align="center"></td>
     </tr>
     </tr>
 		  <tr>
@@ -331,6 +331,7 @@
       <td align="center"></td>
 	  <td align="center"><i>Cystocentesis</i><br>Amber<br>Slightly Cloudy<br>Blood = 250 Ery/uL<br>WBC = 27/HPF<br>RBC = 38/HPF<br> Bacteria = [Variable Results]</td>
 	  <td align="center"></td>
+	  <td align="center"></td>
     </tr>
 	  <tr>
 	    <td align="center"><b><i>Total T4</i></b> or <b><i>T4</i></b><br>(ug/dL)</td>
@@ -340,7 +341,7 @@
       <td align="center"><b>4.6</b></td>
       <td align="center"></td>
 	  <td align="center"></td>
-	  <td align="center"></td>
+	  <td align="center">5.1</td>
     </tr>
     </tr>
 	  <tr>
