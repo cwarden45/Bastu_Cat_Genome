@@ -2,7 +2,7 @@
 
  - Lab Tests / Data Performed as described in sections below (*"Selected Test Results"* and *"X-Rays"*).
  - **Felimazole (2.5 mg Tablets)** was prescribed on 1/17/2026.
- - After being able to get Bastu to take the medication successfully 3 days in a row, a severe adverse reaction started (where appetite decreased to the extent of stopping eating or drinking).
+ - After being able to get Bastu to take the medication successfully 3 days in a row, a severe adverse reaction started (where appetite decreased to the extent of stopping eating or drinking).  Some earlier digestive issues were also noticed (such as at least one incident of audiable sounds as well as at least one atypical incident of flatulence).
  - **Subcutaneous fluids** given on 2/4/2026.
  - Emergency Vet visit with **overnight** stay from 2/7/2026-2/8/2026, with **IV fulid**.
  - Bastu was responsive to fluids on 2/4 and 2/7-2/8, but she resumed not eating and was brought back into the Emergency Vet on 2/11 (recieving **SQ Fluids**).
