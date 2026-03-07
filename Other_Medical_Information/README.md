@@ -1,6 +1,6 @@
 ## Summary of Early 2026 Events
 
- - Lab Tests / Data Performed as described in sections below (*"Selected Test Results"* and *"X-Rays"*).
+ - Lab Tests / Data Performed as described in sections below (*"Selected Test Results"*, *"X-Rays"*, and *"Urinalysis Images"*).
  - **Felimazole (2.5 mg Tablets)** was prescribed on 1/17/2026.
  - After being able to get Bastu to take the medication successfully 3 days in a row, a severe adverse reaction started (where appetite decreased to the extent of stopping eating or drinking).  Some earlier digestive issues were also noticed (such as at least one incident of audiable sounds as well as at least one atypical incident of flatulence).
  - **Subcutaneous fluids** given on 2/4/2026.
