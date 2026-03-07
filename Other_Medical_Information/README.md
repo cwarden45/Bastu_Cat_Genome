@@ -7,7 +7,7 @@
  - Emergency Vet visit with **overnight** stay from 2/7/2026-2/8/2026, with **IV fulid**.
  - Bastu was responsive to fluids on 2/4 and 2/7-2/8, but she resumed not eating and was brought back into the Emergency Vet on 2/11 (recieving **SQ Fluids**).
  - Similarly, Bastu was brought into the Emergency Vet again on 2/14/2026, where she recieved **SQ Fluids**.
- - Bastu was able to see her regular vet on 2/16/2026, where she recieved additional **Subcutaneous fluids (100 mL)**.  She also recieved a **Cerenia injection**.
+ - Bastu was able to see her regular vet on 2/16/2026, where she recieved additional **Subcutaneous fluids (100 mL)**.  She also recieved a ***Cerenia* injection**.
  - Importantly, on **2/19/2026**, Bastu recieved a **triamcinolone injection** (steroid).
  - Bastu went in for a follow-up appointment on 3/7/2026.  Based upon her reseponse and continued improvement, my understanding is that the underlying cause for this serious (but acute) adverse reaction that affected quality of life for more than 1 month relates to successful treatment of inflammation (*after* addressing most urgent issues related to not eating, and sometimes not drinking).
 
