@@ -4,12 +4,12 @@
  - **Felimazole (2.5 mg Tablets)** was prescribed on 1/17/2026.
  - After being able to get Bastu to take the medication successfully 3 days in a row, a severe adverse reaction started (where appetite decreased to the extent of stopping eating or drinking).  Some earlier digestive issues were also noticed (such as at least one incident of audiable sounds as well as at least one atypical incident of flatulence).
  - **Subcutaneous fluids** given on 2/4/2026.
- - Emergency Vet visit with **overnight** stay from 2/7/2026-2/8/2026, with **IV fulid**.
- - Bastu was responsive to fluids on 2/4 and 2/7-2/8, but she resumed not eating and was brought back into the Emergency Vet on 2/11 (recieving **SQ Fluids**).
- - Similarly, Bastu was brought into the Emergency Vet again on 2/14/2026, where she recieved **SQ Fluids**.
- - Bastu was able to see her regular vet on 2/16/2026, where she recieved additional **Subcutaneous fluids (100 mL)**.  She also recieved a ***Cerenia* injection**.
- - Importantly, on **2/19/2026**, Bastu recieved a **triamcinolone injection** (steroid).
- - Bastu went in for a follow-up appointment on 3/7/2026.  Based upon her reseponse and continued improvement, my understanding is that the underlying cause for this serious (but acute) adverse reaction that affected quality of life for more than 1 month relates to successful treatment of inflammation (*after* addressing most urgent issues related to not eating, and sometimes not drinking).
+ - Emergency Vet visit with **overnight** stay from 2/7/2026-2/8/2026, with **IV fluid**.
+ - Bastu was responsive to fluids on 2/4 and 2/7-2/8, but she resumed not eating and was brought back into the Emergency Vet on 2/11 (receiving **SQ Fluids**).
+ - Similarly, Bastu was brought into the Emergency Vet again on 2/14/2026, where she received **SQ Fluids**.
+ - Bastu was able to see her regular vet on 2/16/2026, where she received additional **Subcutaneous fluids (100 mL)**.  She also received a ***Cerenia* injection**.
+ - Importantly, on **2/19/2026**, Bastu received a **triamcinolone injection** (steroid).
+ - Bastu went in for a follow-up appointment on 3/7/2026.  Based upon her response and continued improvement, my understanding is that the underlying cause for this serious (but acute) adverse reaction that affected quality of life for more than 1 month relates to successful treatment of inflammation (*after* addressing most urgent issues related to not eating, and sometimes not drinking).
 
 *NIH DailyMed* Information: [here](https://dailymed-beta.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2d70b747-314c-4baa-95c4-1734855a1556) and [here](https://dailymed-beta.nlm.nih.gov/dailymed/getFile.cfm?setid=2d70b747-314c-4baa-95c4-1734855a1556&type=pdf)
 
