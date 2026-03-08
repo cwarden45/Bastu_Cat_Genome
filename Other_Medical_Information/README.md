@@ -11,6 +11,8 @@
  - Importantly, on **2/19/2026**, Bastu received a **triamcinolone injection** (steroid).
  - Bastu went in for a follow-up appointment on 3/7/2026.  Based upon her response and continued improvement, my understanding is that the underlying cause for this serious (but acute) adverse reaction that affected quality of life for more than 1 month relates to successful treatment of inflammation (*after* addressing most urgent issues related to not eating, and sometimes not drinking).
 
+On 3/8/2026, I directly submitted an initial 1932a report directly to the FDA, following [these instructions](https://www.fda.gov/animal-veterinary/report-problem/how-report-animal-drug-and-device-side-effects-and-product-problems#report).
+
 ## Selected Test Results
 
 <table>
