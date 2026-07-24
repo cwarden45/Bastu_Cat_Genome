@@ -1,4 +1,4 @@
-### Summary of Early 2026 Events
+## Summary of Early 2026 Events
 
  - Lab Tests / Data Performed as described in sections below (*"Selected Test Results"*, *"X-Rays"*, and *"Urinalysis Images"*).
  - **[Felimazole](https://www.dechra-us.com/our-products/us/companion-animal/cat/prescription/felimazole-coated-tablets-methimazole-tablets#2-5mg) (2.5 mg Tablets)** was prescribed on 1/17/2026.
@@ -13,7 +13,7 @@
 
 On 3/8/2026, I directly submitted an initial 1932a report directly to the FDA, following [these instructions](https://www.fda.gov/animal-veterinary/report-problem/how-report-animal-drug-and-device-side-effects-and-product-problems#report).
 
-## Selected Test Results
+### Selected Test Results
 
 <table>
   <tbody>
@@ -379,7 +379,7 @@ The test results from 1/10/2026 (processed on 1/11/2026, from a different provid
 
 The test results from 2/4/2026 (also a different provider) indicate that the *T4* reference interval is 0.8 to 4.0 (ug/dL), but the *Free T4* reference interval is 10-50 (pmol/L).
 
-## X-Rays
+### X-Rays
 
 Whole Body X-Rays from 2024 are available [here](https://github.com/cwarden45/Bastu_Cat_Genome/blob/master/Bastu-WholeBody-Xray-240415-JPG.zip).
 
@@ -391,17 +391,17 @@ For Windows, and open-source open to view .dcm files is [MicroDicom](https://www
 
 For either Windows or Linux (or Mac), [Weasis](https://weasis.org/en/getting-started/download-dicom-viewer/) is another option.  For *Ubuntu*, the downloaded file can be installed with a command such as `sudo dpkg -i weasis_4.6.6-1_amd64.deb`.
 
-## Urinalysis Images
+### Urinalysis Images
 
 [Bastu-Urinalysis-260207-2.53.PM.zip](Bastu-Urinalysis-260207-2.53.PM.zip)
 
 [Bastu-Urinalysis-260207-3.15.PM.zip](Bastu-Urinalysis-260207-3.15.PM.zip) - based upon detailed IDEXX test results, I expect that this is "*re-evaluation of proteinuria after resolution of active sediment.*"
 
-### Summary of Early Summer Events
+## Summary of Early Summer Events
  - On 7/23/2026, I started to administer previously prescribed medication, given that Bastu was eating regularly (but had elevated T4 levels).  This is a topical inner-ear medication (intended to be 1 click for 3 days, then 1 click every 12 hours with alternating ears), described as "***Methimazole in Anh Lipoderm***".
  - Bastu as between 6 and 7 pounds on 7/22/2026.
 
-## Selected Test Results
+### Selected Test Results
 
 <table>
   <tbody>
