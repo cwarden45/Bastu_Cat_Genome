@@ -397,7 +397,7 @@ For either Windows or Linux (or Mac), [Weasis](https://weasis.org/en/getting-sta
 
 [Bastu-Urinalysis-260207-3.15.PM.zip](Bastu-Urinalysis-260207-3.15.PM.zip) - based upon detailed IDEXX test results, I expect that this is "*re-evaluation of proteinuria after resolution of active sediment.*"
 
-## Summary of Early Summer Events
+## Summary of Summer 2026 Events
  - On 7/23/2026, I started to administer previously prescribed medication, given that Bastu was eating regularly (but had elevated T4 levels).  This is a topical inner-ear medication (intended to be 1 click for 3 days, then 1 click every 12 hours with alternating ears), described as "***Methimazole in Anh Lipoderm***".
  - Bastu as between 6 and 7 pounds on 7/22/2026.
 
