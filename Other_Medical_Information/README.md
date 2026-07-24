@@ -1,4 +1,4 @@
-## Summary of Early 2026 Events
+### Summary of Early 2026 Events
 
  - Lab Tests / Data Performed as described in sections below (*"Selected Test Results"*, *"X-Rays"*, and *"Urinalysis Images"*).
  - **[Felimazole](https://www.dechra-us.com/our-products/us/companion-animal/cat/prescription/felimazole-coated-tablets-methimazole-tablets#2-5mg) (2.5 mg Tablets)** was prescribed on 1/17/2026.
@@ -396,3 +396,161 @@ For either Windows or Linux (or Mac), [Weasis](https://weasis.org/en/getting-sta
 [Bastu-Urinalysis-260207-2.53.PM.zip](Bastu-Urinalysis-260207-2.53.PM.zip)
 
 [Bastu-Urinalysis-260207-3.15.PM.zip](Bastu-Urinalysis-260207-3.15.PM.zip) - based upon detailed IDEXX test results, I expect that this is "*re-evaluation of proteinuria after resolution of active sediment.*"
+
+### Summary of Early Summer Events
+ - On 7/23/2026, I started to administer previously prescribed medication, given that Bastu was eating regularly (but had elevated T4 levels).  This is a topical inner-ear medication (intended to be 1 click for 3 days, then 1 click every 12 hours with alternating ears), described as "Methimazole in Anh Lipoderm".
+ - Bastu as between 6 and 7 pounds on 7/22/2026.
+
+## Selected Test Results
+
+<table>
+  <tbody>
+    <tr>
+      <th align="center"></th>
+      <th align="center">7/22/2026</th>
+    </tr>
+    <tr>
+	  <td align="center"><i>WBC</i><br>(10^9/l or 10^3/uL)</td>
+      <td align="center">8.60</td>
+    </tr>
+    <tr>
+	  <td align="center"><i>RBC</i><br>(10^12/l or 10^6/uL)</td>
+      <td align="center">6.39</td>
+    </tr>
+    <tr>
+	  <td align="center"><i>HGB</i><br>(Hemoglobin)<br>(10^12/l or 10^6/uL)</td>
+      <td align="center">10.3</td>
+    </tr>
+	    <tr>
+	  <td align="center"><i>HCT</i><br>(Hematocrit)<br>(%)</td>
+      <td align="center">28.6</td>
+    </tr>
+	    <tr>
+	  <td align="center"><i>MCV</i><br>(fL)</td>
+      <td align="center">44.8</td>
+    </tr>
+	    <tr>
+	  <td align="center"><i>MCH</i><br>(pg)</td>
+      <td align="center">16.1</td>
+    </tr>
+	    <tr>
+	  <td align="center"><i>MCHC</i><br>(g/dL)</td>
+      <td align="center">35.9</td>
+    </tr>
+	    <tr>
+	  <td align="center"><i>Platelet Count</i><br>(10^9/l or 10^3/uL)</td>
+      <td align="center">216 (PLT)</td>
+    </tr>
+	    <tr>
+	  <td align="center"><i>Sodium (Na+)</i><br>(mmmol/L or mEq/L)</td>
+      <td align="center">154</td>
+    </tr>
+	    <tr>
+	  <td align="center"><i>Potassium (K+)</i><br>(mmmol/L or mEq/L)</td>
+      <td align="center">4.3</td>
+    </tr>
+	    <tr>
+	  <td align="center"><i>Chloride (Cl-)</i><br>(mmmol/L or mEq/L)</td>
+      <td align="center">114</td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Na+/K+</i></td>
+      <td align="center">36</td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Albumin</i><br>(ALB)<br>(g/dL)</td>
+      <td align="center"></td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Alkaline Phosphatase</i><br>(ALKP or 'ALK PHOS')<br>(U/L or IU/L)</td>
+      <td align="center">53 (ALP)</td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Alanine Aminotransferase</i><br>("ALT (GPT)")<br>(U/L or IU/L)</td>
+      <td align="center">120</td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Blood Urea Nitrogen</i><b><br>(BUN)</b><br>(mg/dL)</td>
+      <td align="center">25.3</td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Calcium</i><br>(mg/dL)</td>
+      <td align="center"></td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Cholesterol</i><br>(mg/dL)</td>
+      <td align="center"></td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Triglyceride</i><br>(mg/dL)</td>
+      <td align="center"></td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Creatinine</i><br>(CREA or Crea)<br>(mg/dL)</td>
+      <td align="center">1.0</td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Gamma Glutamyl Transferase</i><br>(GGT)<br>(U/L or IU/L)</td>
+      <td align="center"></td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Globulin</i><br>(GLOB or Glob)<br>(g/dL)</td>
+      <td align="center"></td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Glucose</i><br>(mg/dL)</td>
+      <td align="center"></td>
+    </tr>
+		<tr>
+	  <td align="center"><i>Phosphorus</i><br>(mg/dL)</td>
+      <td align="center"></td>
+    </tr>
+		<tr>
+	  <td align="center"><i>Total Bilirubin</i><br>(TBIL or T. Bilirubin)<br>(mg/dL)</td>
+      <td align="center"></td>
+    </tr>
+		<tr>
+	  <td align="center"><i>Total Protein</i><br>(g/dL)</td>
+      <td align="center">9.6</td>
+    </tr>
+			<tr>
+	  <td align="center"><i>ALB/Glob<br>(A/G Ratio)</i></td>
+      <td align="center"></td>
+    </tr>
+			<tr>
+	  <td align="center"><b>BUN/Crea</b></td>
+      <td align="center">25.3</td>
+    </tr>
+		<tr>
+	  <td align="center"><i>Symmetric Dimethylarginine</i><br>(<b>SDMA</b>)<br>(ug/dL)</td>
+      <td align="center"></td>
+    </tr>
+	<tr>
+	  <td align="center"><i>Amylase</i><br>(IU/L)</td>
+      <td align="center"></td>
+    </tr>
+		<tr>
+	  <td align="center"><b>PrecisionPSL</b><br>(IU/L)</td>
+      <td align="center"></td>
+    </tr>
+	  <tr>
+	  <td align="center"><i>CPK</i><br>(IU/L)</td>
+      <td align="center"></td>
+    </tr>
+    </tr>
+		  <tr>
+	    <td align="center"><i>Urinalysis</i> </td>
+      <td align="center"></td>
+    </tr>
+	  <tr>
+	    <td align="center"><b><i>Total T4</i></b> or <b><i>T4</i></b><br>(ug/dL)</td>
+      <td align="center">10.1</td>
+    </tr>
+    </tr>
+	  <tr>
+	    <td align="center"><b><i>Free T4</i></b><br>(Equilibrium Dialysis)<br>(pmol/L)</td>
+      <td align="center"></td>
+    </tr>
+
+</tbody>
+</table>
