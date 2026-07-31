@@ -544,7 +544,7 @@ For either Windows or Linux (or Mac), [Weasis](https://weasis.org/en/getting-sta
     </tr>
 	  <tr>
 	    <td align="center"><b><i>Total T4</i></b> or <b><i>T4</i></b><br>(ug/dL)</td>
-      <td align="center"><b>10.1</b></td>
+      <td align="center"><b>10.1</b><br>(Element i+)</td>
     </tr>
     </tr>
 	  <tr>
