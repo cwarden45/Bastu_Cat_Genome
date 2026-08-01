@@ -554,3 +554,14 @@ For either Windows or Linux (or Mac), [Weasis](https://weasis.org/en/getting-sta
 
 </tbody>
 </table>
+
+--> **Loss of Appetite Following Treatment**
+ - I do not have the full details regarding the rate of the decline, but there was at least one day where Bastu only ate about half of what she was provided (before she started to not eat any food).
+ - Bastu went without eating any food on Wednesday (7/29), so I called the vet on Thursday and arranged to drop her off on Friday.  She continued to not eat on Thursday (7/30), and I noticed that she had loose stool the morning after she did not eat any food (which I collected and provided to the vet).
+ - On Friday (7/31), Bastu received the following treatments: *i)* Subcutaneous fluids, *ii)* Vitamin B12 injection (0.5 mL), and *iii)* Cerenia (Emeprev, 10 mg/mL for 0.25 mL).  The Cerenia/Emeprev is anti-nausea medication.
+ - On Friday evening (7/31), Bastu was offered small portions of rotisserie chicken breast as well as Delectables Squeeze Up (alternative to Churu).
+ - On Saturday morning (8/1), Bastu has still not eaten the special food offered last night.  So, Purina Pro Plan HydraCare was added to the bowl with chicken breast and Delectables, and her typical morning Purina ONE Grain Free Turkey Cat Food was offered.  Unfortunately, she was still not eating food (and her vet visit on Friday indicated that she had already lost weight).  So, I informed the vet of the update.
+
+*Note*: In the interests of full disclosure, there was a feral kitten in a trap in the bathtub from the morning of 7/28 to the early morning of 7/30.  I will *not* submit another 1932a report, and I can't rule out the possibility that this could have had some influence.  That said, the kitten seemed healthy (from my non-veterinary perspective), the kitten ate wet food when provided, and the kitten also had solid stool.  So, with the similarity to what happened earlier in the year (but, as of 8/1, with lesser severity than the *Felimazole*), I believe it is unlikely that the problem was not at least partially caused by the *Methimazole in Anh Lipoderm*.  However, I believe it is important be as complete and transparent as possible.
+
+
